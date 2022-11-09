@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+East Carolina,Pirates,28,26,,54
+Miami (FL),Hurricanes,30,25,,55
+""
+""
+=====East Carolina Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+James Green,34,10,3,4,0.75,1,2,0.5,0,0,0,9,7,0,1,0,1,0
+Willie Ford,10,6,3,3,1.0,0,0,0,0,0,0,6,4,2,1,1,0,0
+Ryan Dudley,20,7,0,0,0,0,1,0.0,2,3,0.6666666666666666,2,7,2,4,2,0,0
+Brian Bruce,25,10,1,3,0.3333333333333333,1,2,0.5,0,2,0.0,5,2,2,0,1,1,1
+Mark Wenzel,15,9,4,5,0.8,0,1,0.0,1,3,0.3333333333333333,9,3,0,1,2,0,0
+Charles Miller,32,13,2,3,0.6666666666666666,0,4,0.0,1,3,0.3333333333333333,5,5,0,3,0,0,1
+Patrick Carter,10,3,1,2,0.5,0,0,0,1,3,0.3333333333333333,3,2,1,0,0,0,0
+Oliver Steadman,13,5,0,2,0.0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Ruben Rocha,2,2,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Albert Tierney,20,5,1,2,0.5,1,2,0.5,1,2,0.5,6,3,2,0,0,0,0
+John Haug,10,6,2,3,0.6666666666666666,0,0,0,0,0,0,4,0,0,0,0,0,1
+Mark Stephens,4,2,1,1,1.0,0,1,0.0,0,0,0,2,0,0,0,0,0,0
+Freddie Brooks,5,1,0,0,0,1,1,1.0,0,0,0,3,0,0,0,0,0,0
+""
+=====Miami (FL) Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Nathan Francis,35,10,0,2,0.0,3,4,0.75,0,0,0,9,6,2,0,1,2,0
+Daniel Hach,16,5,1,2,0.5,1,1,1.0,0,0,0,5,1,1,1,1,0,0
+Craig Fisher,32,8,0,1,0.0,1,5,0.2,0,0,0,3,5,1,1,0,0,0
+Douglas Hughes,30,21,2,4,0.5,1,7,0.14285714285714285,0,0,0,7,5,1,4,1,4,0
+Benjamin Fritts,22,8,0,2,0.0,0,0,0,0,0,0,0,3,3,3,0,1,0
+Jeffrey Luedtke,33,19,1,3,0.3333333333333333,6,12,0.5,0,0,0,20,3,2,1,0,1,1
+Randy Oneill,6,1,1,1,1.0,0,0,0,0,0,0,2,1,0,0,0,0,0
+Wade Zheng,6,6,0,2,0.0,0,1,0.0,0,0,0,0,1,0,0,0,1,1
+Richard Beck,8,4,0,0,0,1,3,0.3333333333333333,0,0,0,3,1,1,1,1,1,0
+Dustin Williamson,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kevin Payton,3,2,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joseph Robinson,4,1,0,0,0,1,1,1.0,0,0,0,3,0,0,0,0,0,0
+Minh Pham,2,1,0,0,0,1,1,1.0,0,0,0,3,0,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,East Carolina,Miami (FL)
+Points,54,55
+Possessions,69,72
+FGM,18,5
+FGA,29,18
+FGPercent,0.6206896551724138,0.2777777777777778
+3PM,4,15
+3PA,14,35
+3P%,0.2857142857142857,0.42857142857142855
+FTM,6,0
+FTA,16,0
+FT%,0.375,0
+Rebounds,34,26
+OffRebounds,6,10
+DefRebounds,28,16
+Assists,9,11
+Steals,10,0
+Blocks,6,1
+Total Turnovers,23,14
+Largest Lead,5,12

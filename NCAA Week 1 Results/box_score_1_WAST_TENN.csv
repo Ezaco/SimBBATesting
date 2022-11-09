@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Washington State,Cougars,28,30,,58
+Tennessee,Volunteers,20,41,,61
+""
+""
+=====Washington State Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Randy Russell,25,11,3,5,0.6,0,2,0.0,0,2,0.0,6,2,0,2,0,0,0
+Shirley Minnick,23,9,0,4,0.0,1,1,1.0,0,0,0,3,4,1,0,0,0,0
+Jordon Thacker,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Dalton Matthew,7,4,1,2,0.5,0,0,0,0,2,0.0,2,3,1,0,0,0,1
+Alphonso Bloom,10,3,1,1,1.0,0,2,0.0,0,0,0,2,1,0,0,0,0,0
+Bradley Lloyd,12,7,2,3,0.6666666666666666,1,2,0.5,0,0,0,7,3,1,0,0,1,0
+Eric Young,29,18,3,8,0.375,1,2,0.5,2,2,1.0,11,2,3,0,0,0,1
+Joe Morgan,10,3,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0
+Ian Elmore,32,18,5,9,0.5555555555555556,1,2,0.5,2,3,0.6666666666666666,15,5,2,1,0,1,1
+Raymond Tavares,11,12,3,6,0.5,0,1,0.0,2,2,1.0,8,5,2,1,0,0,0
+Wallace Crawford,25,9,2,3,0.6666666666666666,0,2,0.0,0,0,0,4,10,1,2,0,0,0
+Randall Wagner,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Friend,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+=====Tennessee Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Terry Baker,39,14,0,2,0.0,5,8,0.625,0,0,0,15,4,4,0,1,1,1
+Benjamin Price,31,21,0,6,0.0,2,5,0.4,0,0,0,6,11,1,3,1,1,1
+Refugio Dent,40,15,1,3,0.3333333333333333,1,5,0.2,0,0,0,5,8,4,2,0,3,1
+Harris Blount,34,18,2,5,0.4,4,9,0.4444444444444444,0,1,0.0,16,2,5,1,0,0,0
+Greg Neal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fred Lewis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phillip Rodriguez,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dion Whitlock,19,11,0,3,0.0,1,2,0.5,0,2,0.0,3,1,2,0,0,3,0
+Warren Tran,32,16,2,6,0.3333333333333333,2,5,0.4,0,2,0.0,10,10,3,1,1,0,0
+Fred Corts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Robert Jeffery,5,3,0,0,0,2,3,0.6666666666666666,0,0,0,6,2,0,0,0,0,0
+Fernando Caballero,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+William Rudi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Washington State,Tennessee
+Points,58,61
+Possessions,73,78
+FGM,20,5
+FGA,42,25
+FGPercent,0.47619047619047616,0.2
+3PM,4,17
+3PA,15,37
+3P%,0.26666666666666666,0.4594594594594595
+FTM,6,0
+FTA,11,5
+FT%,0.5454545454545454,0.0
+Rebounds,36,37
+OffRebounds,11,15
+DefRebounds,25,22
+Assists,11,19
+Steals,7,0
+Blocks,0,1
+Total Turnovers,15,15
+Largest Lead,18,6
