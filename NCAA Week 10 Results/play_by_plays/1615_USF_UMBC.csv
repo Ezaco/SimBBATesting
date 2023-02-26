@@ -1,0 +1,178 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+USF,UMBC,61,58,144
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+USF,USF wins the tipoff!,Tipoff,0,0,0,144
+USF,Brian Horvath 2-point jumper...BLOCKED by UMBC Paul Martinez.       Rebounded by UMBC Jack Long.,Turnover,0,0,1,144
+UMBC,Derek Ignacio Inside shot...Missed!       Rebounded by USF Jesse Powell.,Score,0,0,2,144
+USF,USF Minh Zhu lost the ball out of bounds.,Out of Bounds,0,0,3,144
+UMBC,Derek Ignacio 2-point jumper...Score!       Assisted by: Blair Stiles,Score,0,2,4,144
+USF,John Carey 2-point jumper...Score!,Score,2,2,5,144
+UMBC,UMBC Paul Martinez lost the ball out of bounds.,Turnover,2,2,6,144
+USF,Philip Onuska 2-point jumper...Missed!       Rebounded by UMBC Chang Berger.,Missed,2,2,7,144
+USF,Jesse Powell steals the ball for USF!,Turnover,2,2,8,144
+USF,USF Minh Zhu lost the ball out of bounds.,Out of Bounds,2,2,9,144
+UMBC,Paul Martinez Inside shot...Score!       Assisted by: Blair Stiles,Score,2,4,10,144
+USF,John Lacaze 2-point jumper...Score! Foul on the play and one!,Score,4,4,11,144
+USF,Free throw coming up... good!,FreeThrow,5,4,11,144
+UMBC,Paul Martinez Inside shot...Score!,Score,5,6,12,144
+USF,James Taber Inside shot... Missed with a foul on the play.,Fouled,5,6,13,144
+USF,Free throw coming up... good!,FreeThrow,6,6,13,144
+USF,Free throw coming up... good!,FreeThrow,7,6,13,144
+UMBC,Leonardo Fredrickson Inside shot...Score!       Assisted by: Robert Lampe,Score,7,8,14,144
+UMBC,Humberto Martinez steals the ball for UMBC!,Turnover,7,8,15,144
+UMBC,Chang Berger 2-point jumper...Score!,Score,7,10,16,144
+USF,Charles Eisner 2-point jumper...Score!,Score,9,10,17,144
+UMBC,Derek Ignacio 2-point jumper...Score! Foul on the play and we go to a free throw!,Score,9,12,18,144
+UMBC,Free throw coming up... good!,FreeThrow,9,13,18,144
+USF,John Lacaze Inside shot...Score!,Score,11,13,19,144
+UMBC,Caleb Burton 2-point jumper...Score!,Score,11,15,20,144
+USF,Charles Eisner Inside shot...BLOCKED by UMBC Humberto Martinez.       Rebounded by UMBC Jack Long.,Turnover,11,15,21,144
+UMBC,UMBC Caleb Burton lost the ball out of bounds.,Turnover,11,15,22,144
+USF,Alexander Stefanich Inside shot...Score!,Score,13,15,23,144
+UMBC,Jack Long 2-point jumper...Missed!       Rebounded by USF Jesse Powell.,Score,13,15,24,144
+USF,Charles Eisner 3-point attempt...Score!       Assisted by: Philip Onuska,Score,16,15,25,144
+UMBC,Jack Long 2-point jumper...Score!       Assisted by: Paul Martinez,Score,16,17,26,144
+USF,Charles Eisner 2-point jumper...Missed!       Rebounded by UMBC Robert Lampe.,Missed,16,17,27,144
+UMBC,Derek Ignacio 3-point attempt...Missed!Rebounded by USF John Lacaze.,Score,16,17,28,144
+USF,Jesse Powell Inside shot...Score!,Score,18,17,29,144
+UMBC,Robert Lampe 3-point attempt...Score!,Score,18,20,30,144
+USF,Wai Sun 3-point attempt...Score!       Assisted by: Brian Horvath,Score,21,20,31,144
+UMBC,Jack Long Inside shot...Score!,Score,21,22,32,144
+USF,USF Philip Onuska lost the ball out of bounds.,Out of Bounds,21,22,33,144
+UMBC,Humberto Martinez Inside shot...Score! Fouled and we have a free throw folks!,Score,21,24,34,144
+UMBC,Free throw coming up... good!,FreeThrow,21,25,34,144
+USF,USF Minh Zhu lost the ball out of bounds.,Out of Bounds,21,25,35,144
+UMBC,Blair Stiles 2-point jumper...BLOCKED by John Lacaze.       Rebounded by USF John Lacaze.,Turnover,21,25,36,144
+USF,Charles Eisner Inside shot...Score!,Score,23,25,37,144
+UMBC,Humberto Martinez 2-point jumper...BLOCKED by Jesse Powell.       Rebounded by UMBC Jack Long.,Turnover,23,25,38,144
+USF,Charles Eisner steals the ball for USF!,Turnover,23,25,39,144
+USF,USF: Shot clock violation on USF Ellis Taylor.,Shot Clock Violation,23,25,40,144
+UMBC,Robert Lampe 2-point jumper... Missed but there is a foul on the play.,Foul,23,25,41,144
+UMBC,Free throw coming up... good!,FreeThrow,23,26,41,144
+USF,Minh Zhu 3-point attempt...Missed!       Rebounded by UMBC Jack Long.,Miss,23,26,42,144
+UMBC,Robert Lampe 2-point jumper...Missed!       Rebounded by USF Wai Sun.,Score,23,26,43,144
+USF,Kevin Colbert 3-point attempt...Missed!       Rebounded by USF Minh Zhu.,Missed,23,26,44,144
+USF,Wai Sun 2-point jumper...Score!       Assisted by: Brian Horvath,Score,25,26,45,144
+UMBC,Humberto Martinez Inside shot...Missed!       Rebounded by USF Jesse Powell.,Score,25,26,46,144
+USF,Wai Sun Inside shot...BLOCKED by UMBC Robert Lampe.       Rebounded by UMBC Jack Long.,Turnover,25,26,47,144
+UMBC,Humberto Martinez Inside shot...Missed!       Rebounded by USF Brian Horvath.,Score,25,26,48,144
+USF,John Lacaze Inside shot...Score!,Score,27,26,49,144
+UMBC,Chang Berger Inside shot...Score!,Score,27,28,50,144
+USF,USF John Lacaze lost the ball out of bounds.,Out of Bounds,27,28,51,144
+UMBC,Robert Lampe 2-point jumper...Missed!       Rebounded by UMBC Jack Long.,Score,27,28,52,144
+UMBC,Jack Long 3-point attempt...Missed!       Rebounded by UMBC Paul Martinez.,Score,27,28,53,144
+UMBC,Paul Martinez Inside shot... Missed but with a foul on the play.,Fouled,27,28,54,144
+UMBC,Free throw coming up... good!,FreeThrow,27,29,54,144
+UMBC,Free throw coming up... good!,FreeThrow,27,30,54,144
+USF,Jesse Powell 2-point jumper...Missed!       Rebounded by UMBC Derek Ignacio.,Missed,27,30,55,144
+UMBC,UMBC Derek Ignacio lost the ball out of bounds.,Turnover,27,30,56,144
+USF,USF: Offensive foul on USF James Taber.,Foul,27,30,57,144
+UMBC,Humberto Martinez Inside shot... Missed but with a foul on the play.,Fouled,27,30,58,144
+UMBC,Free throw coming up... good!,FreeThrow,27,31,58,144
+UMBC,Free throw coming up... good!,FreeThrow,27,32,58,144
+USF,James Taber Inside shot...Missed!       Rebounded by UMBC Paul Martinez.,Score,27,32,59,144
+UMBC,Derek Ignacio 2-point jumper...Missed!       Rebounded by USF Brian Horvath.,Score,27,32,60,144
+USF,Minh Zhu Inside shot...Score!,Score,29,32,61,144
+UMBC,Derek Ignacio 2-point jumper...Missed!       Rebounded by UMBC Derek Ignacio.,Score,29,32,62,144
+UMBC,Carl Jenkins 3-point attempt...Missed!       Rebounded by UMBC Carl Jenkins.,Score,29,32,63,144
+UMBC,Jack Long Inside shot...Score!,Score,29,34,64,144
+USF,Wai Sun Inside shot...Score!,Score,31,34,65,144
+UMBC,Jack Long 2-point jumper...Missed!       Rebounded by USF Charles Eisner.,Score,31,34,66,144
+USF,USF: Offensive foul on USF John Lacaze.,Foul,31,34,67,144
+UMBC,Carl Jenkins Inside shot...Score!,Score,31,36,68,144
+USF,Brian Horvath Inside shot...Score!,Score,33,36,69,144
+UMBC,Leonardo Fredrickson 3-point attempt...Score!       Assisted by: Blair Stiles,Score,33,39,70,144
+USF,Minh Zhu 3-point attempt...Missed!       Rebounded by USF Wai Sun.,Missed,33,39,71,144
+USF,Kevin Colbert 2-point jumper...Missed!       Rebounded by USF Charles Eisner.,Missed,33,39,72,144
+,,HALFTIME,33,39,72,144
+UMBC,Robert Lampe steals the ball for UMBC!,Turnover,33,39,73,144
+UMBC,Derek Ignacio 2-point jumper...Missed!       Rebounded by USF John Lacaze.,Score,33,39,74,144
+USF,Jesse Powell 3-point attempt...Missed!       Rebounded by UMBC Paul Martinez.,Miss,33,39,75,144
+UMBC,Derek Ignacio Inside shot...Score!,Score,33,41,76,144
+USF,John Lacaze 2-point jumper...Score!,Score,35,41,77,144
+UMBC,UMBC: Offensive foul on UMBC Derek Ignacio.,Turnover,35,41,78,144
+USF,John Carey 2-point jumper...Missed!       Rebounded by USF Charles Eisner.,Missed,35,41,79,144
+USF,John Lacaze Inside shot...Score! Foul on the play and one!       Assisted by: Wai Sun,Score,37,41,80,144
+USF,Free throw coming up... good!,FreeThrow,38,41,80,144
+UMBC,Robert Lampe 2-point jumper...Missed!       Rebounded by UMBC Derek Ignacio.,Score,38,41,81,144
+UMBC,Humberto Martinez 3-point attempt...Missed!Rebounded by USF Wai Sun.,Score,38,41,82,144
+USF,USF: Offensive foul on USF Jesse Powell.,Foul,38,41,83,144
+UMBC,Humberto Martinez Inside shot...Score!       Assisted by: Carl Jenkins,Score,38,43,84,144
+USF,Philip Onuska Inside shot...Score!,Score,40,43,85,144
+UMBC,Paul Martinez Inside shot...Score!       Assisted by: Blair Stiles,Score,40,45,86,144
+UMBC,Leonardo Fredrickson steals the ball for UMBC!,Turnover,40,45,87,144
+UMBC,Caleb Burton 2-point jumper...Missed!       Rebounded by USF John Lacaze.,Score,40,45,88,144
+USF,Brian Horvath 3-point attempt...Score!       Assisted by: Philip Onuska,Score,43,45,89,144
+USF,Minh Zhu steals the ball for USF!,Turnover,43,45,90,144
+USF,Charles Eisner 2-point jumper...Score!,Score,45,45,91,144
+UMBC,Robert Lampe 2-point jumper...Missed!       Rebounded by USF Brian Horvath.,Score,45,45,92,144
+UMBC,Chang Berger steals the ball for UMBC!,Turnover,45,45,93,144
+UMBC,Blair Stiles 2-point jumper...Missed!       Rebounded by USF Charles Eisner.,Score,45,45,94,144
+USF,Minh Zhu Inside shot... Missed with a foul on the play.,Fouled,45,45,95,144
+USF,Free throw coming up... good!,FreeThrow,46,45,95,144
+USF,Free throw coming up... rattled out.       Rebounded by UMBC Chang Berger.,FreeThrow,46,45,95,144
+UMBC,Robert Lampe 2-point jumper...Missed!       Rebounded by USF John Lacaze.,Score,46,45,96,144
+USF,USF Minh Zhu lost the ball out of bounds.,Out of Bounds,46,45,97,144
+UMBC,Jack Long Inside shot...Score!,Score,46,47,98,144
+USF,USF Minh Zhu lost the ball out of bounds.,Out of Bounds,46,47,99,144
+USF,Jesse Powell steals the ball for USF!,Turnover,46,47,100,144
+UMBC,Blair Stiles steals the ball for UMBC!,Turnover,46,47,102,144
+UMBC,UMBC Jack Long lost the ball out of bounds.,Turnover,46,47,103,144
+USF,Minh Zhu Inside shot... Missed with a foul on the play.,Fouled,46,47,104,144
+USF,Free throw coming up... good!,FreeThrow,47,47,104,144
+UMBC,Robert Lampe Inside shot... Missed but with a foul on the play.,Fouled,47,47,105,144
+UMBC,Free throw coming up... good!,FreeThrow,47,48,105,144
+UMBC,Free throw coming up... good!,FreeThrow,47,49,105,144
+USF,Minh Zhu 3-point attempt...Score!,Score,50,49,106,144
+UMBC,Paul Martinez 2-point jumper...Missed!       Rebounded by UMBC Derek Ignacio.,Score,50,49,107,144
+UMBC,Derek Ignacio 2-point jumper...Score!,Score,50,51,108,144
+USF,Free throw coming up... good!,FreeThrow,51,51,109,144
+USF,Free throw coming up... rattled out.,FreeThrow,51,51,109,144
+USF,Free throw coming up... good!,FreeThrow,52,51,109,144
+UMBC,UMBC Robert Lampe lost the ball out of bounds.,Turnover,52,51,110,144
+USF,USF James Taber lost the ball out of bounds.,Out of Bounds,52,51,111,144
+UMBC,Humberto Martinez 2-point jumper...BLOCKED by John Lacaze.       Rebounded by USF Minh Zhu.,Turnover,52,51,112,144
+USF,Charles Eisner 2-point jumper...Missed!       Rebounded by UMBC Caleb Burton.,Missed,52,51,113,144
+UMBC,Leonardo Fredrickson Inside shot...Missed!       Rebounded by USF John Lacaze.,Score,52,51,114,144
+USF,Philip Onuska Inside shot... Missed with a foul on the play.,Fouled,52,51,115,144
+USF,Free throw coming up... good!,FreeThrow,53,51,115,144
+USF,Free throw coming up... good!,FreeThrow,54,51,115,144
+UMBC,UMBC Derek Ignacio lost the ball out of bounds.,Turnover,54,51,116,144
+USF,Charles Eisner 2-point jumper... Missed with a foul on the play.,Turnover,54,51,117,144
+USF,Charles Eisner 2-point jumper... Missed with a foul on the play.,FreeThrow,55,51,117,144
+USF,Charles Eisner 2-point jumper... Missed with a foul on the play.,FreeThrow,56,51,117,144
+UMBC,Carl Jenkins Inside shot...Score!       Assisted by: Robert Lampe,Score,56,53,118,144
+USF,James Taber 2-point jumper...Missed!       Rebounded by UMBC Blair Stiles.,Missed,56,53,119,144
+UMBC,Paul Martinez Inside shot...Score!,Score,56,55,120,144
+UMBC,Paul Martinez steals the ball for UMBC!,Turnover,56,55,121,144
+UMBC,Derek Ignacio 3-point attempt...Missed!Rebounded by USF James Taber.,Score,56,55,122,144
+USF,Minh Zhu Inside shot... Missed with a foul on the play.,Fouled,56,55,123,144
+USF,Free throw coming up... good!,FreeThrow,57,55,123,144
+USF,Free throw coming up... good!,FreeThrow,58,55,123,144
+UMBC,Carl Jenkins 2-point jumper...Missed!       Rebounded by USF Brian Horvath.,Score,58,55,124,144
+USF,Rodney Smith 3-point attempt...Missed!       Rebounded by USF John Lacaze.,Missed,58,55,125,144
+USF,USF Minh Zhu lost the ball out of bounds.,Out of Bounds,58,55,126,144
+UMBC,Jack Long 2-point jumper...Score!,Score,58,57,127,144
+USF,USF: Shot clock violation on USF John Lacaze.,Shot Clock Violation,58,57,128,144
+USF,Brian Horvath steals the ball for USF!,Turnover,58,57,129,144
+USF,Wai Sun 2-point jumper...BLOCKED by UMBC Derek Ignacio.       Rebounded by UMBC Robert Lampe.,Turnover,58,57,130,144
+USF,Jesse Powell steals the ball for USF!,Turnover,58,57,131,144
+USF,Charles Eisner 3-point attempt...Missed!       Rebounded by UMBC Robert Lampe.,Miss,58,57,132,144
+USF,Brian Horvath steals the ball for USF!,Turnover,58,57,133,144
+USF,Brian Horvath 3-point attempt...Missed!       Rebounded by UMBC Jack Long.,Miss,58,57,134,144
+UMBC,UMBC Paul Martinez lost the ball out of bounds.,Turnover,58,57,135,144
+USF,Ellis Taylor 2-point jumper...Missed!       Rebounded by UMBC Carl Jenkins.,Missed,58,57,136,144
+USF,Brian Horvath steals the ball for USF!,Turnover,58,57,137,144
+USF,Charles Eisner 3-point attempt...Missed!       Rebounded by UMBC Derek Ignacio.,Miss,58,57,138,144
+UMBC,Paul Martinez 2-point jumper...Missed!       Rebounded by UMBC Robert Lampe.,Score,58,57,139,144
+UMBC,Paul Martinez Inside shot... Missed but with a foul on the play.,Fouled,58,57,140,144
+UMBC,Free throw coming up... rattled out.,FreeThrow,58,57,140,144
+UMBC,Free throw coming up... good!,FreeThrow,58,58,140,144
+USF,Jesse Powell Inside shot... Missed with a foul on the play.,Fouled,58,58,141,144
+USF,Free throw coming up... good!,FreeThrow,59,58,141,144
+UMBC,Jack Long 2-point jumper...Missed!       Rebounded by USF Wai Sun.,Score,59,58,142,144
+USF,Jesse Powell Inside shot...Score!       Assisted by: Philip Onuska,Score,61,58,143,144
+UMBC,Derek Ignacio Inside shot...Missed!       Rebounded by USF Minh Zhu.,Score,61,58,144,144
+USF,Kevin Colbert 3-point attempt...Missed!       Rebounded by USF Philip Onuska.,Missed,61,58,145,144
+,Match Complete,FinalScore,61,58,145,144

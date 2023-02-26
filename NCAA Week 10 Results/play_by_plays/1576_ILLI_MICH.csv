@@ -1,0 +1,170 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+ILLI,MICH,66,75,141
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+ILLI,ILLI wins the tipoff!,Tipoff,0,0,0,141
+ILLI,Eric Noble 2-point jumper...BLOCKED by MICH Richard Wiggins.       Rebounded by MICH David Larson.,Turnover,0,0,1,141
+MICH,Murat Brooks 2-point jumper...Missed!       Rebounded by MICH Barry Clark.,Score,0,0,2,141
+MICH,Emil Krause Inside shot... Missed but with a foul on the play.,Fouled,0,0,3,141
+MICH,Free throw coming up... rattled out.,FreeThrow,0,0,3,141
+MICH,Free throw coming up... rattled out.       Rebounded by MICH Barry Clark.,FreeThrow,0,0,3,141
+MICH,MICH William Betsey lost the ball out of bounds.,Turnover,0,0,4,141
+ILLI,Nicholas Frericks 3-point attempt...Missed!       Rebounded by ILLI Michael Cummings.,Missed,0,0,5,141
+ILLI,Nicholas Frericks Inside shot...Missed!       Rebounded by MICH Emil Krause.,Score,0,0,6,141
+MICH,William Betsey 2-point jumper...BLOCKED by Nicholas Frericks.       Rebounded by MICH David Larson.,Turnover,0,0,7,141
+MICH,Richard Romero 3-point attempt...Missed!Rebounded by ILLI Christopher Toscano.,Score,0,0,8,141
+ILLI,Jian Lin 3-point attempt...Score!,Score,3,0,9,141
+MICH,MICH Murat Brooks lost the ball out of bounds.,Turnover,3,0,10,141
+ILLI,Arthur Steavens 3-point attempt...Missed!       Rebounded by MICH Vance Bradley.,Miss,3,0,11,141
+MICH,Barry Clark Inside shot... Missed but with a foul on the play.,Fouled,3,0,12,141
+MICH,Free throw coming up... good!,FreeThrow,3,1,12,141
+MICH,Free throw coming up... good!,FreeThrow,3,2,12,141
+ILLI,Arthur Steavens 2-point jumper...Score!,Score,5,2,13,141
+MICH,Fred Mcguire 2-point jumper...Score!,Score,5,4,14,141
+ILLI,Nicholas Frericks Inside shot...Score!,Score,7,4,15,141
+MICH,MICH Vance Bradley lost the ball out of bounds.,Turnover,7,4,16,141
+ILLI,Xiang Bigler Inside shot...Score!,Score,9,4,17,141
+MICH,Richard Romero 3-point attempt...Missed!       Rebounded by MICH Rupert Xu.,Score,9,4,18,141
+MICH,Fred Mcguire 2-point jumper...Missed!       Rebounded by ILLI Xiang Bigler.,Score,9,4,19,141
+ILLI,Wade Noji Inside shot... Missed with a foul on the play.,Fouled,9,4,20,141
+ILLI,Free throw coming up... good!,FreeThrow,10,4,20,141
+ILLI,Free throw coming up... good!,FreeThrow,11,4,20,141
+ILLI,Ernest Foster steals the ball for ILLI!,Turnover,11,4,21,141
+ILLI,ILLI: Shot clock violation on ILLI Michael Cummings.,Shot Clock Violation,11,4,22,141
+MICH,Barry Clark 3-point attempt...Score!       Assisted by: Emil Krause,Score,11,7,23,141
+ILLI,Michael Cummings 2-point jumper...Score!,Score,13,7,24,141
+MICH,Jonathan Spears 3-point attempt...Score!       Assisted by: Barry Clark,Score,13,10,25,141
+ILLI,Eric Noble Inside shot...Score!,Score,15,10,26,141
+MICH,MICH: Offensive foul on MICH Barry Clark.,Turnover,15,10,27,141
+MICH,Murat Brooks steals the ball for MICH!,Turnover,15,10,28,141
+MICH,Emil Krause 2-point jumper...Missed!       Rebounded by ILLI Jian Lin.,Score,15,10,29,141
+ILLI,Nicholas Frericks Inside shot...Score!,Score,17,10,30,141
+MICH,Fred Mcguire 2-point jumper...Score!,Score,17,12,31,141
+ILLI,Jian Lin Inside shot... Missed with a foul on the play.,Fouled,17,12,32,141
+ILLI,Free throw coming up... good!,FreeThrow,18,12,32,141
+ILLI,Free throw coming up... good!,FreeThrow,19,12,32,141
+MICH,Fred Mcguire 2-point jumper...Missed!       Rebounded by ILLI Arthur Steavens.,Score,19,12,33,141
+ILLI,Max Lee 2-point jumper...BLOCKED by MICH David Larson.       Rebounded by MICH Fred Mcguire.,Turnover,19,12,34,141
+MICH,Emil Krause 3-point attempt...Missed!       Rebounded by MICH David Larson.,Score,19,12,35,141
+MICH,Richard Wiggins 2-point jumper...Missed!       Rebounded by MICH Rupert Xu.,Score,19,12,36,141
+MICH,Richard Romero Inside shot...Score!,Score,19,14,37,141
+ILLI,Scott Vanisko Inside shot...Score!       Assisted by: Nicholas Frericks,Score,21,14,38,141
+MICH,Barry Clark 2-point jumper...Missed!       Rebounded by ILLI Arthur Steavens.,Score,21,14,39,141
+ILLI,Arthur Steavens 2-point jumper...Missed!       Rebounded by MICH Rupert Xu.,Missed,21,14,40,141
+MICH,Murat Brooks 2-point jumper...Score!,Score,21,16,41,141
+ILLI,ILLI: Offensive foul on ILLI Christopher Toscano.,Foul,21,16,42,141
+MICH,Fred Mcguire 3-point attempt...Score!       Assisted by: Richard Wiggins,Score,21,19,43,141
+ILLI,Christopher Toscano 3-point attempt...Score!       Assisted by: Michael Cummings,Score,24,19,44,141
+ILLI,Scott Vanisko steals the ball for ILLI!,Turnover,24,19,45,141
+ILLI,Max Lee Inside shot...Score!       Assisted by: Jian Lin,Score,26,19,46,141
+MICH,Richard Romero Inside shot...Score!       Assisted by: Vance Bradley,Score,26,21,47,141
+ILLI,ILLI Christopher Toscano lost the ball out of bounds.,Out of Bounds,26,21,48,141
+MICH,Fred Mcguire 2-point jumper...Missed!       Rebounded by MICH Richard Romero.,Score,26,21,49,141
+MICH,Emil Krause 3-point attempt...Missed!       Rebounded by MICH Richard Romero.,Score,26,21,50,141
+MICH,Barry Clark 3-point attempt...Missed!Rebounded by ILLI Michael Cummings.,Score,26,21,51,141
+ILLI,Scott Vanisko 3-point attempt...Missed!       Rebounded by MICH Fred Mcguire.,Miss,26,21,52,141
+MICH,Richard Wiggins Inside shot...Score!,Score,26,23,53,141
+ILLI,Christopher Toscano Inside shot...Score!,Score,28,23,54,141
+MICH,Fred Mcguire Inside shot...Score!       Assisted by: Vance Bradley,Score,28,25,55,141
+MICH,Richard Romero steals the ball for MICH!,Turnover,28,25,56,141
+MICH,MICH: Offensive foul on MICH Emil Krause.,Turnover,28,25,57,141
+ILLI,Jian Lin 3-point attempt...BLOCKED by MICH Vance Bradley.       Rebounded by MICH Richard Wiggins.,Score,28,25,58,141
+MICH,William Betsey 2-point jumper...Missed!       Rebounded by ILLI Jian Lin.,Score,28,25,59,141
+ILLI,Christopher Toscano 2-point jumper...Missed!       Rebounded by MICH Richard Romero.,Missed,28,25,60,141
+MICH,Paul Vincent 3-point attempt...Missed!Rebounded by ILLI Christopher Toscano.,Score,28,25,61,141
+ILLI,Christopher Toscano 2-point jumper...Missed!       Rebounded by MICH Richard Romero.,Missed,28,25,62,141
+MICH,Murat Brooks 3-point attempt...Score!       Assisted by: Richard Romero,Score,28,28,63,141
+ILLI,Arthur Steavens Inside shot...Score!,Score,30,28,64,141
+MICH,David Larson 2-point jumper...Missed!       Rebounded by ILLI Eric Noble.,Score,30,28,65,141
+ILLI,Nicholas Frericks Inside shot...Score!       Assisted by: Xiang Bigler,Score,32,28,66,141
+MICH,Emil Krause Inside shot...Score!,Score,32,30,67,141
+MICH,David Larson steals the ball for MICH!,Turnover,32,30,68,141
+ILLI,Christopher Toscano steals the ball for ILLI!,Turnover,32,30,69,141
+ILLI,Jian Lin 3-point attempt...Missed!       Rebounded by MICH Barry Clark.,Miss,32,30,70,141
+,,HALFTIME,32,30,70,141
+MICH,Richard Wiggins 2-point jumper...Missed!       Rebounded by ILLI Michael Cummings.,Score,32,30,71,141
+ILLI,Arthur Steavens 2-point jumper...Missed!       Rebounded by MICH David Larson.,Missed,32,30,72,141
+MICH,Vance Bradley Inside shot... Missed but with a foul on the play.,Fouled,32,30,73,141
+MICH,Free throw coming up... good!,FreeThrow,32,31,73,141
+MICH,Free throw coming up... good!,FreeThrow,32,32,73,141
+ILLI,Christopher Toscano 3-point attempt...Missed!       Rebounded by MICH David Larson.,Miss,32,32,74,141
+MICH,Vance Bradley 2-point jumper...Score!       Assisted by: Murat Brooks,Score,32,34,75,141
+ILLI,Nicholas Frericks 2-point jumper...Missed!       Rebounded by ILLI Christopher Toscano.,Missed,32,34,76,141
+ILLI,Nicholas Frericks 3-point attempt...Missed!       Rebounded by MICH David Larson.,Miss,32,34,77,141
+MICH,Emil Krause 3-point attempt...Missed!Rebounded by ILLI Max Lee.,Score,32,34,78,141
+ILLI,Arthur Steavens Inside shot...Score!       Assisted by: Michael Cummings,Score,34,34,79,141
+MICH,MICH: Offensive foul on MICH Richard Romero.,Turnover,34,34,80,141
+ILLI,Eric Noble 2-point jumper...Score!       Assisted by: Nicholas Frericks,Score,36,34,81,141
+MICH,Fred Mcguire Inside shot...Score! Fouled and we have a free throw folks!,Score,36,36,82,141
+MICH,Free throw coming up... good!,FreeThrow,36,37,82,141
+ILLI,Ernest Foster 3-point attempt...Missed!       Rebounded by MICH Barry Clark.,Miss,36,37,83,141
+MICH,Jonathan Spears Inside shot...Score!,Score,36,39,84,141
+ILLI,Jian Lin Inside shot...Score!,Score,38,39,85,141
+MICH,Rupert Xu Inside shot... Missed but with a foul on the play.,Fouled,38,39,86,141
+MICH,Free throw coming up... good!,FreeThrow,38,40,86,141
+MICH,Free throw coming up... good!,FreeThrow,38,41,86,141
+ILLI,Scott Vanisko Inside shot...Score!       Assisted by: Eric Noble,Score,40,41,87,141
+MICH,Richard Wiggins Inside shot...Score!,Score,40,43,88,141
+MICH,Barry Clark steals the ball for MICH!,Turnover,40,43,89,141
+MICH,David Larson Inside shot...Score!,Score,40,45,90,141
+ILLI,Xiang Bigler 2-point jumper...Missed!       Rebounded by MICH William Betsey.,Missed,40,45,91,141
+MICH,Murat Brooks 3-point attempt... Missed with a foul on the play.,Fouled,40,45,92,141
+MICH,       Free throw coming up... good!,FreeThrow,40,46,92,141
+MICH,       Free throw coming up... good!,FreeThrow,40,47,92,141
+MICH,       Free throw coming up... good!,FreeThrow,40,48,92,141
+ILLI,Michael Cummings 3-point attempt...Score!       Assisted by: Jian Lin,Score,43,48,93,141
+MICH,Barry Clark Inside shot... Missed but with a foul on the play.,Fouled,43,48,94,141
+MICH,Free throw coming up... good!,FreeThrow,43,49,94,141
+MICH,Free throw coming up... rattled out.       Rebounded by ILLI Jian Lin.,FreeThrow,43,49,94,141
+ILLI,Michael Cummings 2-point jumper...Missed!       Rebounded by MICH David Larson.,Missed,43,49,95,141
+MICH,William Betsey 3-point attempt...Score!       Assisted by: Paul Vincent,Score,43,52,96,141
+ILLI,Xiang Bigler Inside shot...Score!       Assisted by: Eric Noble,Score,45,52,97,141
+MICH,Emil Krause 3-point attempt...Missed!Rebounded by ILLI Michael Cummings.,Score,45,52,98,141
+ILLI,Jian Lin 2-point jumper...Score!,Score,47,52,99,141
+MICH,MICH: Offensive foul on MICH Murat Brooks.,Turnover,47,52,100,141
+ILLI,Christopher Toscano 2-point jumper...Score!       Assisted by: Max Lee,Score,49,52,101,141
+MICH,Richard Wiggins Inside shot...Score! Fouled and we have a free throw folks!,Score,49,54,102,141
+MICH,       Free throw coming up... rattled out.       Rebounded by ILLI Christopher Toscano.,FreeThrow,49,54,102,141
+ILLI,Arthur Steavens Inside shot...Score!,Score,51,54,103,141
+MICH,Jonathan Spears 2-point jumper...Missed!       Rebounded by ILLI Jian Lin.,Score,51,54,104,141
+ILLI,Christopher Toscano Inside shot...Score!       Assisted by: Arthur Steavens,Score,53,54,105,141
+MICH,Murat Brooks Inside shot...Missed!       Rebounded by ILLI Xiang Bigler.,Score,53,54,106,141
+ILLI,Arthur Steavens 2-point jumper...Missed!       Rebounded by MICH David Larson.,Missed,53,54,107,141
+MICH,Murat Brooks 2-point jumper...Missed!       Rebounded by ILLI Max Lee.,Score,53,54,108,141
+ILLI,Christopher Toscano 3-point attempt...Missed!       Rebounded by MICH Fred Mcguire.,Miss,53,54,109,141
+MICH,Emil Krause 3-point attempt...Missed!Rebounded by ILLI Jian Lin.,Score,53,54,110,141
+ILLI,Nicholas Frericks 3-point attempt...Score!       Assisted by: Jian Lin,Score,56,54,111,141
+MICH,MICH Richard Wiggins lost the ball out of bounds.,Turnover,56,54,112,141
+ILLI,Christopher Toscano 3-point attempt...Score!       Assisted by: Arthur Steavens,Score,59,54,113,141
+MICH,Emil Krause 3-point attempt...Score!       Assisted by: Richard Romero,Score,59,57,114,141
+ILLI,Nicholas Frericks Inside shot...Score!       Assisted by: Jian Lin,Score,61,57,115,141
+MICH,Emil Krause 3-point attempt...Score!       Assisted by: Fred Mcguire,Score,61,60,116,141
+MICH,David Larson steals the ball for MICH!,Turnover,61,60,117,141
+MICH,Emil Krause Inside shot...Score!,Score,61,62,118,141
+ILLI,ILLI: Shot clock violation on ILLI Arthur Steavens.,Shot Clock Violation,61,62,119,141
+MICH,David Larson 3-point attempt...Missed!       Rebounded by MICH Vance Bradley.,Score,61,62,120,141
+MICH,Jonathan Spears 3-point attempt...Score!       Assisted by: Richard Romero,Score,61,65,121,141
+ILLI,ILLI Michael Cummings lost the ball out of bounds.,Out of Bounds,61,65,122,141
+MICH,Barry Clark 2-point jumper...Score!       Assisted by: Vance Bradley,Score,61,67,123,141
+ILLI,Jian Lin 2-point jumper...Missed!       Rebounded by ILLI Max Lee.,Missed,61,67,124,141
+ILLI,Nicholas Frericks Inside shot... Missed with a foul on the play.,Fouled,61,67,125,141
+ILLI,Free throw coming up... good!,FreeThrow,62,67,125,141
+ILLI,Free throw coming up... rattled out.       Rebounded by MICH Richard Romero.,FreeThrow,62,67,125,141
+MICH,MICH: Offensive foul on MICH Emil Krause.,Turnover,62,67,126,141
+MICH,Richard Wiggins steals the ball for MICH!,Turnover,62,67,127,141
+MICH,Barry Clark Inside shot...BLOCKED by Nicholas Frericks.       Rebounded by ILLI Arthur Steavens.,Turnover,62,67,128,141
+ILLI,Eric Noble Inside shot...Score!       Assisted by: Arthur Steavens,Score,64,67,129,141
+MICH,Rupert Xu 2-point jumper...Missed!       Rebounded by ILLI Wade Noji.,Score,64,67,130,141
+ILLI,Nicholas Frericks Inside shot...Missed!       Rebounded by MICH Emil Krause.,Score,64,67,131,141
+MICH,Vance Bradley 2-point jumper...Score!       Assisted by: Fred Mcguire,Score,64,69,132,141
+ILLI,Nicholas Frericks 3-point attempt...Missed!       Rebounded by MICH Richard Wiggins.,Miss,64,69,133,141
+MICH,Dmitriy Grounds Inside shot...Score!,Score,64,71,134,141
+ILLI,ILLI Michael Cummings lost the ball out of bounds.,Out of Bounds,64,71,135,141
+MICH,Vance Bradley 2-point jumper...Missed!       Rebounded by MICH Vance Bradley.,Score,64,71,136,141
+MICH,MICH: Offensive foul on MICH Paul Vincent.,Turnover,64,71,137,141
+ILLI,Jian Lin Inside shot...Score!       Assisted by: Christopher Toscano,Score,66,71,138,141
+MICH,William Betsey 2-point jumper...Missed!       Rebounded by MICH Emil Krause.,Score,66,71,139,141
+MICH,Richard Romero 2-point jumper...Score!       Assisted by: David Larson,Score,66,73,140,141
+ILLI,ILLI: Offensive foul on ILLI Jian Lin.,Foul,66,73,141,141
+MICH,Richard Wiggins Inside shot...Score!       Assisted by: David Larson,Score,66,75,142,141
+,Match Complete,FinalScore,66,75,142,141

@@ -1,0 +1,173 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+TULS,ECU,74,68,145
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+TULS,TULS wins the tipoff!,Tipoff,0,0,0,145
+TULS,Joseph Horn Inside shot... Missed with a foul on the play.,Fouled,0,0,1,145
+TULS,Free throw coming up... good!,FreeThrow,1,0,1,145
+TULS,Free throw coming up... good!,FreeThrow,2,0,1,145
+ECU,James Green Inside shot... Missed but with a foul on the play.,Fouled,2,0,2,145
+ECU,Free throw coming up... good!,FreeThrow,2,1,2,145
+ECU,Free throw coming up... good!,FreeThrow,2,2,2,145
+ECU,Brian Bruce steals the ball for ECU!,Turnover,2,2,3,145
+ECU,Brian Bruce Inside shot...Score!       Assisted by: Albert Tierney,Score,2,4,4,145
+TULS,TULS: Offensive foul on TULS Harvey Bridgewater.,Foul,2,4,5,145
+ECU,Albert Tierney Inside shot...Missed!       Rebounded by ECU Albert Tierney.,Score,2,4,6,145
+ECU,ECU Oliver Steadman lost the ball out of bounds.,Turnover,2,4,7,145
+TULS,William Saunders 2-point jumper...Score!,Score,4,4,9,145
+ECU,Albert Tierney 2-point jumper...Missed!       Rebounded by TULS Bipin Kang.,Score,4,4,10,145
+TULS,Li Thach 2-point jumper...Missed!       Rebounded by ECU James Green.,Missed,4,4,11,145
+ECU,Oliver Steadman Inside shot...Score!,Score,4,6,12,145
+TULS,Harvey Bridgewater 2-point jumper...Score!,Score,6,6,13,145
+ECU,Ryan Dudley Inside shot...Score!,Score,6,8,14,145
+TULS,David Martinez Inside shot...Score! Foul on the play and one!,Score,8,8,15,145
+TULS,Free throw coming up... good!,FreeThrow,9,8,15,145
+TULS,Bipin Kang steals the ball for TULS!,Turnover,9,8,16,145
+TULS,Bipin Kang Inside shot...BLOCKED by ECU Ryan Dudley.       Rebounded by TULS Peter Cannady.,Turnover,9,8,17,145
+TULS,Jon Wood Inside shot...Score!       Assisted by: Li Thach,Score,11,8,18,145
+ECU,Oliver Steadman 3-point attempt...Score!       Assisted by: Ryan Dudley,Score,11,11,19,145
+TULS,Harvey Bridgewater Inside shot...BLOCKED by ECU John Haug.       Rebounded by TULS Joseph Horn.,Turnover,11,11,20,145
+ECU,Mark Wenzel steals the ball for ECU!,Turnover,11,11,21,145
+ECU,James Green 3-point attempt...Score!       Assisted by: Albert Tierney,Score,11,14,22,145
+ECU,Mark Wenzel steals the ball for ECU!,Turnover,11,14,23,145
+ECU,ECU Charles Miller lost the ball out of bounds.,Turnover,11,14,24,145
+TULS,Joseph Horn Inside shot...Score!,Score,13,14,25,145
+ECU,ECU: Offensive foul on ECU Ryan Dudley.,Turnover,13,14,26,145
+TULS,Peter Cannady 2-point jumper...Missed!       Rebounded by ECU Ryan Dudley.,Missed,13,14,27,145
+ECU,Ryan Dudley Inside shot...Score!       Assisted by: James Green,Score,13,16,28,145
+TULS,Peter Cannady 2-point jumper...Missed!       Rebounded by TULS Harvey Bridgewater.,Missed,13,16,29,145
+TULS,Jon Wood 3-point attempt...Score!       Assisted by: Peter Cannady,Score,16,16,30,145
+ECU,Ryan Dudley 2-point jumper...Missed!       Rebounded by TULS Harvey Bridgewater.,Score,16,16,31,145
+TULS,Jon Wood 2-point jumper...Score!       Assisted by: David Martinez,Score,18,16,32,145
+ECU,James Green 3-point attempt...Missed!       Rebounded by ECU Brian Bruce.,Score,18,16,33,145
+ECU,Ryan Dudley Inside shot...Score!,Score,18,18,34,145
+TULS,Li Thach 3-point attempt...Score!       Assisted by: Michael Lamb,Score,21,18,35,145
+TULS,Peter Cannady steals the ball for TULS!,Turnover,21,18,36,145
+TULS,Jon Wood 2-point jumper...Missed!       Rebounded by ECU Ryan Dudley.,Missed,21,18,37,145
+ECU,James Green 3-point attempt...Score! There is a foul on the play and one!       Assisted by: Albert Tierney,Score,21,21,38,145
+ECU,Free throw coming up... good!,Score,21,22,38,145
+TULS,Bipin Kang Inside shot...Score!,Score,23,22,39,145
+ECU,ECU: Offensive foul on ECU James Green.,Turnover,23,22,40,145
+ECU,Mark Wenzel steals the ball for ECU!,Turnover,23,22,41,145
+ECU,ECU: Offensive foul on ECU Oliver Steadman.,Turnover,23,22,42,145
+TULS,Joseph Horn Inside shot...Score!,Score,25,22,43,145
+ECU,James Green 2-point jumper...Missed!       Rebounded by TULS Bipin Kang.,Score,25,22,44,145
+TULS,Peter Cannady 2-point jumper...Missed!       Rebounded by ECU John Haug.,Missed,25,22,45,145
+ECU,Charles Miller 3-point attempt...Score!       Assisted by: Albert Tierney,Score,25,25,46,145
+TULS,Bipin Kang 2-point jumper...Score!,Score,27,25,47,145
+ECU,Albert Tierney 3-point attempt...Missed!Rebounded by TULS Jon Wood.,Score,27,25,48,145
+TULS,Michael Lamb Inside shot...Score! Foul on the play and one!,Score,29,25,49,145
+TULS,Free throw coming up... rattled out.       Rebounded by TULS Peter Cannady.,FreeThrow,29,25,49,145
+TULS,Joseph Horn Inside shot...Score!,Score,31,25,50,145
+ECU,Charles Miller 3-point attempt...Missed!Rebounded by TULS Jon Wood.,Score,31,25,51,145
+TULS,Jay Handley Inside shot...Score! Foul on the play and one!       Assisted by: Bipin Kang,Score,33,25,52,145
+TULS,Free throw coming up... good!,FreeThrow,34,25,52,145
+ECU,James Green Inside shot...Score!,Score,34,27,53,145
+TULS,Peter Cannady Inside shot...Score!       Assisted by: Jon Wood,Score,36,27,54,145
+ECU,Albert Tierney 3-point attempt...Missed!       Rebounded by ECU Brian Bruce.,Score,36,27,55,145
+ECU,James Green Inside shot...Score!       Assisted by: Willie Ford,Score,36,29,56,145
+TULS,Joseph Horn 3-point attempt...Missed!       Rebounded by ECU Oliver Steadman.,Miss,36,29,57,145
+ECU,ECU Willie Ford lost the ball out of bounds.,Turnover,36,29,58,145
+TULS,Henry Pickett 2-point jumper...Missed!       Rebounded by ECU Charles Miller.,Missed,36,29,59,145
+ECU,Willie Ford 3-point attempt...Missed!Rebounded by TULS Michael Lamb.,Score,36,29,60,145
+TULS,Joseph Horn Inside shot...Missed!       Rebounded by ECU Charles Miller.,Score,36,29,61,145
+ECU,Brian Bruce Inside shot...Score!,Score,36,31,62,145
+TULS,Peter Cannady Inside shot...Score!,Score,38,31,63,145
+ECU,Oliver Steadman Inside shot...BLOCKED by Peter Cannady.       Rebounded by ECU Albert Tierney.,Turnover,38,31,64,145
+ECU,Oliver Steadman 2-point jumper...Missed!       Rebounded by TULS Michael Lamb.,Score,38,31,65,145
+TULS,David Martinez 2-point jumper...Missed!       Rebounded by TULS Jon Wood.,Missed,38,31,66,145
+TULS,David Martinez 2-point jumper...Missed!       Rebounded by TULS Bipin Kang.,Missed,38,31,67,145
+TULS,Harvey Bridgewater Inside shot...Score!       Assisted by: Joseph Horn,Score,40,31,68,145
+ECU,Charles Miller Inside shot...Score! Fouled and we have a free throw folks!,Score,40,33,69,145
+ECU,       Free throw coming up... rattled out.       Rebounded by ECU Oliver Steadman.,FreeThrow,40,33,69,145
+ECU,John Haug Inside shot...Score!,Score,40,35,70,145
+TULS,Bipin Kang 2-point jumper...Missed!       Rebounded by ECU Willie Ford.,Missed,40,35,71,145
+ECU,Charles Miller 2-point jumper...Score!       Assisted by: James Green,Score,40,37,72,145
+,,HALFTIME,40,37,72,145
+TULS,Bipin Kang Inside shot...Score!,Score,42,37,73,145
+ECU,Willie Ford 2-point jumper...Missed!       Rebounded by ECU Oliver Steadman.,Score,42,37,74,145
+TULS,Bipin Kang steals the ball for TULS!,Turnover,42,37,75,145
+ECU,Brian Bruce steals the ball for ECU!,Turnover,42,37,76,145
+ECU,Ryan Dudley 2-point jumper...BLOCKED by Harvey Bridgewater.       Rebounded by TULS Harvey Bridgewater.,Turnover,42,37,77,145
+TULS,TULS Joseph Horn lost the ball out of bounds.,Out of Bounds,42,37,78,145
+TULS,Jon Wood steals the ball for TULS!,Turnover,42,37,79,145
+TULS,Harvey Bridgewater 2-point jumper...Missed!       Rebounded by ECU Ryan Dudley.,Missed,42,37,80,145
+ECU,James Green Inside shot...Score!       Assisted by: Albert Tierney,Score,42,39,81,145
+TULS,Peter Cannady 3-point attempt...Missed!       Rebounded by ECU Willie Ford.,Miss,42,39,82,145
+ECU,John Haug Inside shot...Score!,Score,42,41,83,145
+TULS,David Martinez Inside shot...Score!       Assisted by: Bipin Kang,Score,44,41,84,145
+ECU,Ryan Dudley 3-point attempt...Missed!Rebounded by TULS Harvey Bridgewater.,Score,44,41,85,145
+TULS,William Saunders 2-point jumper... Missed with a foul on the play.,Turnover,44,41,86,145
+TULS,William Saunders 2-point jumper... Missed with a foul on the play.,FreeThrow,45,41,86,145
+ECU,Albert Tierney Inside shot...Score!,Score,45,43,87,145
+TULS,TULS David Martinez lost the ball out of bounds.,Out of Bounds,45,43,88,145
+ECU,Ryan Dudley 3-point attempt...Missed!       Rebounded by ECU James Green.,Score,45,43,89,145
+ECU,Mark Wenzel 2-point jumper...Missed!       Rebounded by TULS David Martinez.,Score,45,43,90,145
+TULS,Bipin Kang Inside shot...BLOCKED by ECU Brian Bruce.       Rebounded by ECU Patrick Carter.,Turnover,45,43,91,145
+ECU,Oliver Steadman 3-point attempt...Missed!Rebounded by TULS Harvey Bridgewater.,Score,45,43,92,145
+TULS,Michael Lamb Inside shot... Missed with a foul on the play.,Fouled,45,43,93,145
+TULS,Free throw coming up... good!,FreeThrow,46,43,93,145
+TULS,Free throw coming up... good!,FreeThrow,47,43,93,145
+ECU,James Green 2-point jumper...Missed!       Rebounded by ECU James Green.,Score,47,43,94,145
+ECU,Oliver Steadman 2-point jumper...Score!       Assisted by: Albert Tierney,Score,47,45,95,145
+TULS,Joseph Horn 2-point jumper...Missed!       Rebounded by TULS Jon Wood.,Missed,47,45,96,145
+TULS,TULS Daniel Thompson lost the ball out of bounds.,Out of Bounds,47,45,97,145
+ECU,James Green 3-point attempt...Missed!Rebounded by TULS Joseph Horn.,Score,47,45,98,145
+TULS,Joseph Horn 3-point attempt...Missed!       Rebounded by TULS William Saunders.,Missed,47,45,99,145
+TULS,Li Thach 2-point jumper...Missed!       Rebounded by ECU Willie Ford.,Missed,47,45,100,145
+ECU,Albert Tierney Inside shot...Missed!       Rebounded by TULS Harvey Bridgewater.,Score,47,45,101,145
+TULS,Harvey Bridgewater Inside shot...Score!,Score,49,45,102,145
+ECU,Willie Ford Inside shot... Missed but with a foul on the play.,Fouled,49,45,103,145
+ECU,Free throw coming up... good!,FreeThrow,49,46,103,145
+ECU,Free throw coming up... good!,FreeThrow,49,47,103,145
+TULS,TULS Harvey Bridgewater lost the ball out of bounds.,Out of Bounds,49,47,104,145
+TULS,Zachary John steals the ball for TULS!,Turnover,49,47,105,145
+TULS,TULS Jon Wood lost the ball out of bounds.,Out of Bounds,49,47,106,145
+TULS,Li Thach steals the ball for TULS!,Turnover,49,47,107,145
+TULS,Henry Pickett 2-point jumper...Score!,Score,51,47,108,145
+ECU,Brian Bruce Inside shot...BLOCKED by Joseph Horn.       Rebounded by ECU James Green.,Turnover,51,47,109,145
+ECU,Ryan Dudley Inside shot...Score!       Assisted by: Brian Bruce,Score,51,49,110,145
+TULS,Michael Lamb 2-point jumper...Score!,Score,53,49,111,145
+TULS,Michael Lamb steals the ball for TULS!,Turnover,53,49,112,145
+TULS,Jon Wood 3-point attempt...Missed!       Rebounded by TULS Harvey Bridgewater.,Missed,53,49,113,145
+TULS,TULS: Offensive foul on TULS Jon Wood.,Foul,53,49,114,145
+ECU,James Green 3-point attempt...Score!       Assisted by: Brian Bruce,Score,53,52,115,145
+TULS,Peter Cannady Inside shot...Score!,Score,55,52,116,145
+ECU,James Green Inside shot...Score!       Assisted by: Oliver Steadman,Score,55,54,117,145
+TULS,Joseph Horn Inside shot... Missed with a foul on the play.,Fouled,55,54,118,145
+TULS,Free throw coming up... good!,FreeThrow,56,54,118,145
+TULS,Free throw coming up... good!,FreeThrow,57,54,118,145
+ECU,James Green Inside shot...Score!,Score,57,56,119,145
+TULS,TULS: Offensive foul on TULS Jon Wood.,Foul,57,56,120,145
+ECU,ECU: Offensive foul on ECU James Green.,Turnover,57,56,121,145
+TULS,Joseph Horn Inside shot...Score!       Assisted by: Bipin Kang,Score,59,56,122,145
+ECU,John Haug Inside shot...BLOCKED by Bipin Kang.       Rebounded by ECU James Green.,Turnover,59,56,123,145
+TULS,Bipin Kang steals the ball for TULS!,Turnover,59,56,124,145
+TULS,Peter Cannady Inside shot... Missed with a foul on the play.,Fouled,59,56,125,145
+TULS,Free throw coming up... good!,FreeThrow,60,56,125,145
+TULS,Free throw coming up... good!,FreeThrow,61,56,125,145
+ECU,John Haug Inside shot...Score!       Assisted by: James Green,Score,61,58,127,145
+ECU,Charles Miller steals the ball for ECU!,Turnover,61,58,128,145
+ECU,Patrick Carter 2-point jumper...Missed!       Rebounded by ECU James Green.,Score,61,58,129,145
+TULS,Jay Handley steals the ball for TULS!,Turnover,61,58,130,145
+TULS,Peter Cannady 3-point attempt...Score!       Assisted by: Michael Lamb,Score,64,58,131,145
+ECU,ECU Albert Tierney lost the ball out of bounds.,Turnover,64,58,132,145
+TULS,Peter Cannady Inside shot... Missed with a foul on the play.,Fouled,64,58,134,145
+TULS,Free throw coming up... good!,FreeThrow,65,58,134,145
+TULS,Free throw coming up... good!,FreeThrow,66,58,134,145
+ECU,Brian Bruce Inside shot...Score!,Score,66,60,135,145
+TULS,Jon Wood Inside shot...Score!       Assisted by: Li Thach,Score,68,60,136,145
+ECU,James Green 2-point jumper...BLOCKED by Peter Cannady.       Rebounded by TULS Jon Wood.,Turnover,68,60,137,145
+TULS,Harvey Bridgewater Inside shot...Score! Foul on the play and one!,Score,70,60,138,145
+TULS,Free throw coming up... good!,FreeThrow,71,60,138,145
+ECU,Albert Tierney 2-point jumper...Missed!       Rebounded by TULS Michael Lamb.,Score,71,60,139,145
+TULS,Jon Wood 3-point attempt...Score!,Score,74,60,140,145
+ECU,John Haug Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: Brian Bruce,Score,74,62,141,145
+ECU,Free throw coming up... good!,FreeThrow,74,63,141,145
+TULS,TULS: Offensive foul on TULS Jon Wood.,Foul,74,63,142,145
+ECU,Ryan Dudley Inside shot...Score!,Score,74,65,143,145
+TULS,TULS Henry Pickett lost the ball out of bounds.,Out of Bounds,74,65,144,145
+ECU,John Haug Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: Brian Bruce,Score,74,67,145,145
+ECU,Free throw coming up... good!,FreeThrow,74,68,145,145
+TULS,Jay Handley 2-point jumper...Missed!       Rebounded by ECU Mark Wenzel.,Missed,74,68,146,145
+,Match Complete,FinalScore,74,68,146,145

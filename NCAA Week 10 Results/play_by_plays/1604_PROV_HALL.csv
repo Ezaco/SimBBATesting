@@ -1,0 +1,162 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+PROV,HALL,75,58,142
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+HALL,HALL wins the tipoff!,Tipoff,0,0,0,142
+HALL,Peter Hoxit 2-point jumper...Score!,Score,0,2,1,142
+PROV,Imad Kim 2-point jumper...Score!,Score,2,2,2,142
+HALL,German Ferguson 3-point attempt...Score!       Assisted by: Jie Vong,Score,2,5,3,142
+PROV,Tommy Bryant 2-point jumper...Missed!       Rebounded by HALL Craig Francis.,Missed,2,5,4,142
+HALL,German Ferguson 2-point jumper...Missed!       Rebounded by PROV Arnold Oeltjen.,Score,2,5,5,142
+PROV,Imad Kim 3-point attempt...Score!       Assisted by: Kenneth Morgan,Score,5,5,6,142
+HALL,Jie Vong Inside shot...BLOCKED by Imad Kim.       Rebounded by HALL Stephen Alexander.,Turnover,5,5,7,142
+HALL,HALL Stephen Alexander lost the ball out of bounds.,Turnover,5,5,8,142
+PROV,Kenneth Morgan 2-point jumper...Missed!       Rebounded by HALL Daniel Coronado.,Missed,5,5,9,142
+PROV,Imad Kim steals the ball for PROV!,Turnover,5,5,10,142
+PROV,Arnold Oeltjen 2-point jumper...Score!,Score,7,5,11,142
+HALL,Peter Hoxit 3-point attempt...Score!       Assisted by: Justin Brunner,Score,7,8,12,142
+PROV,Arnold Oeltjen Inside shot...Score!,Score,9,8,13,142
+HALL,HALL Peter Senior lost the ball out of bounds.,Turnover,9,8,14,142
+PROV,Timothy Kovalcik 2-point jumper...Score!,Score,11,8,15,142
+HALL,HALL: Offensive foul on HALL Daniel Coronado.,Turnover,11,8,16,142
+PROV,Sai Sunga 2-point jumper...Missed!       Rebounded by PROV Imad Kim.,Missed,11,8,17,142
+HALL,Peter Senior steals the ball for HALL!,Turnover,11,8,18,142
+HALL,German Ferguson 2-point jumper...Missed!       Rebounded by PROV Timothy Kovalcik.,Score,11,8,19,142
+PROV,Frank Stabler 2-point jumper...Missed!       Rebounded by PROV Tommy Bryant.,Missed,11,8,20,142
+PROV,Timothy Kovalcik 3-point attempt...Missed!       Rebounded by PROV Tommy Bryant.,Missed,11,8,21,142
+PROV,Sai Sunga 2-point jumper...Score!       Assisted by: Imad Kim,Score,13,8,22,142
+HALL,Justin Brunner Inside shot...Score!       Assisted by: William Abel,Score,13,10,23,142
+HALL,German Ferguson steals the ball for HALL!,Turnover,13,10,24,142
+HALL,Peter Senior Inside shot...Score!,Score,13,12,25,142
+PROV,Stephen Raudebaugh Inside shot...Score!       Assisted by: Arnold Oeltjen,Score,15,12,26,142
+PROV,Tommy Bryant steals the ball for PROV!,Turnover,15,12,27,142
+PROV,Stephen Raudebaugh Inside shot...Missed!       Rebounded by PROV Arnold Oeltjen.,Score,15,12,28,142
+PROV,Arnold Oeltjen 3-point attempt...Missed!       Rebounded by HALL Peter Hoxit.,Miss,15,12,29,142
+HALL,Frank Dinapoli Inside shot...Score!       Assisted by: William Abel,Score,15,14,30,142
+PROV,PROV: Offensive foul on PROV Jaime Kim.,Foul,15,14,31,142
+HALL,German Ferguson 2-point jumper...Missed!       Rebounded by PROV Tommy Bryant.,Score,15,14,32,142
+PROV,PROV: Offensive foul on PROV Sai Sunga.,Foul,15,14,33,142
+HALL,Justin Brunner Inside shot...Score!,Score,15,16,34,142
+PROV,Kenneth Morgan 2-point jumper...Missed!       Rebounded by HALL Ronald Mohamed.,Missed,15,16,35,142
+HALL,Peter Senior 2-point jumper...Missed!       Rebounded by PROV Imad Kim.,Score,15,16,36,142
+PROV,Frank Stabler Inside shot...Score!,Score,17,16,37,142
+HALL,Craig Francis Inside shot...Missed!       Rebounded by HALL Peter Hoxit.,Score,17,16,38,142
+HALL,Peter Hoxit Inside shot... Missed but with a foul on the play.,Fouled,17,16,39,142
+HALL,Free throw coming up... good!,FreeThrow,17,17,39,142
+HALL,Free throw coming up... rattled out.       Rebounded by PROV Arnold Oeltjen.,FreeThrow,17,17,39,142
+PROV,Richard Olson 3-point attempt...Score!       Assisted by: Imad Kim,Score,20,17,40,142
+HALL,Daniel Coronado Inside shot...Missed!       Rebounded by PROV Stephen Raudebaugh.,Score,20,17,41,142
+PROV,Imad Kim Inside shot...BLOCKED by HALL Jie Vong.       Rebounded by PROV Timothy Kovalcik.,Turnover,20,17,42,142
+PROV,Tommy Bryant Inside shot...Score!       Assisted by: Imad Kim,Score,22,17,43,142
+HALL,Jie Vong 2-point jumper...Score!       Assisted by: Christopher Bynum,Score,22,19,44,142
+PROV,Imad Kim Inside shot...Score! Foul on the play and one!,Score,24,19,45,142
+PROV,Free throw coming up... good!,FreeThrow,25,19,45,142
+HALL,German Ferguson 2-point jumper...BLOCKED by Sai Sunga.       Rebounded by PROV Jaime Kim.,Turnover,25,19,46,142
+HALL,Peter Senior steals the ball for HALL!,Turnover,25,19,47,142
+HALL,Stephen Alexander 3-point attempt...Missed!Rebounded by PROV Tommy Bryant.,Score,25,19,48,142
+PROV,Kenneth Morgan 2-point jumper...Missed!       Rebounded by HALL German Ferguson.,Missed,25,19,49,142
+HALL,Daniel Coronado 3-point attempt...Score!       Assisted by: Stephen Alexander,Score,25,22,50,142
+PROV,Frank Stabler Inside shot...Score!,Score,27,22,51,142
+HALL,HALL Peter Hoxit lost the ball out of bounds.,Turnover,27,22,52,142
+PROV,Richard Olson 3-point attempt...Missed!       Rebounded by HALL Stephen Alexander.,Miss,27,22,53,142
+HALL,Jie Vong 3-point attempt...Missed!Rebounded by PROV Arnold Oeltjen.,Score,27,22,54,142
+PROV,John Burch Inside shot...Missed!       Rebounded by HALL Jie Vong.,Score,27,22,55,142
+HALL,Craig Francis 2-point jumper...Missed!       Rebounded by PROV Stephen Raudebaugh.,Score,27,22,56,142
+PROV,Richard Olson 3-point attempt...Missed!       Rebounded by HALL Craig Francis.,Miss,27,22,57,142
+HALL,Justin Brunner 2-point jumper...Score!,Score,27,24,58,142
+PROV,PROV: Offensive foul on PROV Imad Kim.,Foul,27,24,59,142
+HALL,Peter Hoxit 3-point attempt...Score!       Assisted by: William Abel,Score,27,27,60,142
+PROV,Kenneth Morgan 3-point attempt...Missed!       Rebounded by HALL Stephen Alexander.,Miss,27,27,61,142
+HALL,Jie Vong Inside shot...Score!       Assisted by: Justin Brunner,Score,27,29,62,142
+PROV,Tommy Bryant 3-point attempt...Missed!       Rebounded by PROV Stephen Raudebaugh.,Missed,27,29,63,142
+PROV,Tommy Bryant Inside shot...Score!,Score,29,29,64,142
+HALL,Christopher Bynum 2-point jumper...BLOCKED by Stephen Raudebaugh.       Rebounded by PROV Sai Sunga.,Turnover,29,29,65,142
+PROV,Jaime Kim 2-point jumper...Missed!       Rebounded by HALL Jie Vong.,Missed,29,29,66,142
+HALL,Jie Vong Inside shot...Score! Fouled and we have a free throw folks!,Score,29,31,67,142
+HALL,       Free throw coming up... rattled out.       Rebounded by PROV Tommy Bryant.,FreeThrow,29,31,67,142
+PROV,PROV: Offensive foul on PROV Timothy Kovalcik.,Foul,29,31,68,142
+HALL,Craig Francis 3-point attempt...Missed!Rebounded by PROV Tommy Bryant.,Score,29,31,69,142
+PROV,Imad Kim Inside shot... Missed with a foul on the play.,Fouled,29,31,70,142
+PROV,Free throw coming up... good!,FreeThrow,30,31,70,142
+HALL,Stephen Alexander Inside shot...BLOCKED by Tommy Bryant.       Rebounded by PROV Imad Kim.,Turnover,30,31,71,142
+,,HALFTIME,30,31,71,142
+PROV,Tommy Bryant 2-point jumper...Missed!       Rebounded by PROV Jaime Kim.,Missed,30,31,72,142
+PROV,Sai Sunga 2-point jumper...Score!       Assisted by: Stephen Raudebaugh,Score,32,31,73,142
+HALL,Jie Vong Inside shot...BLOCKED by Kenneth Morgan.       Rebounded by PROV Tommy Bryant.,Turnover,32,31,74,142
+PROV,Tommy Bryant Inside shot...BLOCKED by HALL Justin Brunner.       Rebounded by HALL Peter Hoxit.,Turnover,32,31,75,142
+HALL,Jie Vong 3-point attempt...Missed!Rebounded by PROV Tommy Bryant.,Score,32,31,76,142
+PROV,Timothy Kovalcik 2-point jumper...BLOCKED by HALL Peter Senior.       Rebounded by PROV Kenneth Morgan.,Turnover,32,31,77,142
+PROV,Kenneth Morgan 2-point jumper...Missed!       Rebounded by PROV Tommy Bryant.,Missed,32,31,78,142
+PROV,Timothy Kovalcik Inside shot...Score!,Score,34,31,79,142
+HALL,German Ferguson 2-point jumper...Missed!       Rebounded by PROV Kenneth Morgan.,Score,34,31,80,142
+PROV,Arnold Oeltjen 2-point jumper...Missed!       Rebounded by HALL Jie Vong.,Missed,34,31,81,142
+PROV,Arnold Oeltjen steals the ball for PROV!,Turnover,34,31,82,142
+PROV,Sai Sunga Inside shot...Score!,Score,36,31,83,142
+HALL,Stephen Alexander 3-point attempt...Score!       Assisted by: Frank Dinapoli,Score,36,34,85,142
+PROV,Arnold Oeltjen Inside shot...Score!,Score,38,34,86,142
+HALL,Peter Senior 2-point jumper...Missed!       Rebounded by PROV Arnold Oeltjen.,Score,38,34,87,142
+PROV,PROV Frank Stabler lost the ball out of bounds.,Out of Bounds,38,34,88,142
+HALL,HALL German Ferguson lost the ball out of bounds.,Turnover,38,34,89,142
+PROV,Kenneth Morgan 2-point jumper...BLOCKED by HALL German Ferguson.       Rebounded by HALL Jie Vong.,Turnover,38,34,90,142
+HALL,Justin Brunner 2-point jumper...Score!       Assisted by: Stephen Alexander,Score,38,36,91,142
+PROV,Tommy Bryant Inside shot...Score! Foul on the play and one!,Score,40,36,92,142
+PROV,Free throw coming up... good!,FreeThrow,41,36,92,142
+HALL,Peter Senior Inside shot... Missed but with a foul on the play.,Fouled,41,36,93,142
+HALL,Free throw coming up... good!,FreeThrow,41,37,93,142
+HALL,Free throw coming up... good!,FreeThrow,41,38,93,142
+PROV,Frank Stabler Inside shot...Score!       Assisted by: Tommy Bryant,Score,43,38,94,142
+HALL,Peter Senior 2-point jumper...Score!,Score,43,40,95,142
+PROV,Stephen Raudebaugh 3-point attempt...Score!       Assisted by: Kenneth Morgan,Score,46,40,96,142
+HALL,Raymond Stutzman Inside shot... Missed but with a foul on the play.,Fouled,46,40,97,142
+HALL,Free throw coming up... good!,FreeThrow,46,41,97,142
+HALL,Free throw coming up... good!,FreeThrow,46,42,97,142
+PROV,Imad Kim Inside shot...Score!,Score,48,42,98,142
+HALL,Craig Francis 3-point attempt...Score!       Assisted by: Stephen Alexander,Score,48,45,99,142
+PROV,Imad Kim 2-point jumper...Score!,Score,50,45,100,142
+HALL,Daniel Coronado 2-point jumper...Missed!       Rebounded by HALL Peter Senior.,Score,50,45,101,142
+HALL,Stephen Alexander 3-point attempt...Missed!Rebounded by PROV Imad Kim.,Score,50,45,102,142
+HALL,Peter Hoxit steals the ball for HALL!,Turnover,50,45,103,142
+HALL,Stephen Alexander Inside shot...Score!       Assisted by: Peter Hoxit,Score,50,47,104,142
+PROV,John Burch Inside shot...Score!,Score,52,47,105,142
+HALL,Peter Hoxit 3-point attempt...Missed!Rebounded by PROV Timothy Kovalcik.,Score,52,47,106,142
+PROV,Stephen Raudebaugh Inside shot... Missed with a foul on the play.,Fouled,52,47,107,142
+PROV,Free throw coming up... good!,FreeThrow,53,47,107,142
+PROV,Free throw coming up... good!,FreeThrow,54,47,107,142
+HALL,German Ferguson 2-point jumper...Missed!       Rebounded by PROV Arnold Oeltjen.,Score,54,47,108,142
+PROV,Tommy Bryant 2-point jumper...Score!       Assisted by: Kenneth Morgan,Score,56,47,109,142
+HALL,Stephen Alexander 2-point jumper...Missed!       Rebounded by PROV Arnold Oeltjen.,Score,56,47,110,142
+PROV,Sai Sunga Inside shot...BLOCKED by HALL Justin Brunner.       Rebounded by HALL Peter Senior.,Turnover,56,47,111,142
+HALL,HALL: Offensive foul on HALL Jie Vong.,Turnover,56,47,112,142
+PROV,Stephen Raudebaugh Inside shot...Score!,Score,58,47,113,142
+HALL,Justin Brunner 3-point attempt...Missed!Rebounded by PROV Imad Kim.,Score,58,47,114,142
+PROV,Sai Sunga Inside shot...Score!,Score,60,47,115,142
+HALL,Stephen Alexander 3-point attempt...Score!       Assisted by: Justin Brunner,Score,60,50,116,142
+PROV,Richard Olson Inside shot...BLOCKED by HALL Justin Brunner.       Rebounded by PROV Tommy Bryant.,Turnover,60,50,117,142
+PROV,Frank Stabler 2-point jumper...Missed!       Rebounded by PROV Imad Kim.,Missed,60,50,118,142
+PROV,Kenneth Morgan 3-point attempt...Score!       Assisted by: Arnold Oeltjen,Score,63,50,119,142
+HALL,Stephen Alexander 2-point jumper...Missed!       Rebounded by HALL Peter Senior.,Score,63,50,120,142
+HALL,HALL Justin Brunner lost the ball out of bounds.,Turnover,63,50,121,142
+PROV,Kenneth Morgan Inside shot... Missed with a foul on the play.,Fouled,63,50,122,142
+PROV,Free throw coming up... good!,FreeThrow,64,50,122,142
+HALL,HALL Jie Vong lost the ball out of bounds.,Turnover,64,50,123,142
+PROV,Kenneth Morgan 2-point jumper...BLOCKED by HALL Peter Senior.       Rebounded by PROV Jaime Kim.,Turnover,64,50,124,142
+PROV,Kenneth Morgan Inside shot...Score!,Score,66,50,126,142
+HALL,Peter Senior 2-point jumper...Missed!       Rebounded by PROV Stephen Raudebaugh.,Score,66,50,127,142
+PROV,Timothy Kovalcik 2-point jumper...Missed!       Rebounded by HALL Peter Hoxit.,Missed,66,50,128,142
+HALL,Justin Brunner 2-point jumper...Missed!       Rebounded by HALL Peter Senior.,Score,66,50,129,142
+HALL,Peter Senior Inside shot...Score!,Score,66,52,130,142
+PROV,Tommy Bryant Inside shot...Score!,Score,68,52,131,142
+HALL,Stephen Alexander 2-point jumper...Score!,Score,68,54,132,142
+PROV,Imad Kim 2-point jumper...Score!,Score,70,54,133,142
+HALL,Peter Hoxit Inside shot...Score!,Score,70,56,134,142
+PROV,John Burch Inside shot... Missed with a foul on the play.,Fouled,70,56,135,142
+PROV,Free throw coming up... good!,FreeThrow,71,56,135,142
+HALL,Stephen Alexander 3-point attempt...Missed!Rebounded by PROV Tommy Bryant.,Score,71,56,136,142
+PROV,PROV Stephen Raudebaugh lost the ball out of bounds.,Out of Bounds,71,56,137,142
+HALL,Frank Dinapoli Inside shot...Score!       Assisted by: Stephen Alexander,Score,71,58,138,142
+PROV,Jaime Kim 2-point jumper...Score!,Score,73,58,139,142
+HALL,Peter Hoxit Inside shot...Missed!       Rebounded by PROV Tommy Bryant.,Score,73,58,140,142
+PROV,Kenneth Morgan 2-point jumper...Missed!       Rebounded by PROV Arnold Oeltjen.,Missed,73,58,141,142
+PROV,Sai Sunga 2-point jumper...Score!,Score,75,58,142,142
+HALL,Peter Hoxit 2-point jumper...Missed!       Rebounded by PROV Jaime Kim.,Score,75,58,143,142
+,Match Complete,FinalScore,75,58,143,142

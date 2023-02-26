@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Fresno State,Bulldogs,31,31,6,68
+Boise State,Broncos,36,26,7,69
+""
+""
+=====Fresno State Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Lawrence Jones,25,21,4,10,0.4,0,1,0.0,1,1,1.0,9,5,2,1,0,0,0
+Robert Noonan,25,21,6,9,0.6666666666666666,0,2,0.0,0,0,0,12,4,1,2,0,0,0
+Wende Hoover,7,3,0,1,0.0,0,0,0,2,2,1.0,2,0,1,0,1,1,0
+Jason Witucki,25,18,5,9,0.5555555555555556,1,2,0.5,0,0,0,11,6,2,0,1,0,0
+Adam Turner,20,7,1,2,0.5,0,0,0,1,2,0.5,3,1,0,1,2,0,2
+Dennis Ferdinand,20,8,3,3,1.0,1,1,1.0,0,0,0,7,2,2,0,3,0,0
+Enrique Diaz,25,13,3,6,0.5,1,1,1.0,2,2,1.0,9,2,1,0,0,1,0
+Kenneth Jenkins,5,6,1,2,0.5,0,0,0,2,2,1.0,4,2,1,0,0,0,1
+David Glavan,8,8,1,4,0.25,0,0,0,2,2,1.0,4,0,0,0,0,0,0
+Patrick Shugart,5,2,0,1,0.0,0,1,0.0,0,0,0,0,3,0,0,0,0,0
+Andrew Kramer,25,23,3,9,0.3333333333333333,0,1,0.0,1,2,0.5,7,3,3,3,0,0,0
+David Hackett,5,4,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0
+Robert Maguire,5,4,0,2,0.0,0,0,0,0,0,0,0,2,0,0,0,0,0
+""
+=====Boise State Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Richard Gibbs,25,20,2,9,0.2222222222222222,0,2,0.0,0,0,0,4,7,1,1,2,1,0
+Adrian Jackson,25,18,5,8,0.625,1,2,0.5,2,2,1.0,13,11,1,1,1,1,1
+Sean Carr,25,14,2,6,0.3333333333333333,0,0,0,2,2,1.0,6,5,0,0,0,2,0
+Timothy Lamanna,8,4,2,2,1.0,0,0,0,0,0,0,4,1,0,0,0,0,0
+William Varner,20,21,5,10,0.5,1,2,0.5,1,1,1.0,12,5,0,0,1,1,0
+William Montoya,25,20,4,8,0.5,0,1,0.0,0,0,0,8,1,1,1,0,3,1
+William Wheat,20,10,2,3,0.6666666666666666,0,1,0.0,0,0,0,4,3,2,2,0,2,0
+Douglas Susa,5,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,1,0,0
+Kevin Carey,25,18,1,7,0.14285714285714285,0,1,0.0,2,2,1.0,4,6,1,1,0,3,0
+Jimmy Jacob,5,4,1,2,0.5,0,0,0,0,0,0,2,1,0,0,0,0,0
+Harvey Lewis,7,11,2,5,0.4,0,0,0,0,2,0.0,4,1,0,0,0,1,0
+Michael Horton,5,4,2,2,1.0,0,0,0,2,2,1.0,6,1,0,0,0,0,0
+Hoang Huq,5,4,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Fresno State,Boise State
+Points,68,69
+Possessions,77,86
+FGM,24,27
+FGA,50,55
+FGPercent,0.48,0.4909090909090909
+3PM,3,2
+3PA,10,10
+3P%,0.3,0.2
+FTM,11,9
+FTA,13,11
+FT%,0.8461538461538461,0.8181818181818182
+Rebounds,30,42
+OffRebounds,9,18
+DefRebounds,21,24
+Assists,13,6
+Steals,7,0
+Blocks,7,2
+Total Turnovers,15,14
+Largest Lead,7,9

@@ -1,0 +1,173 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+CSU,HAWI,70,81,149
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+HAWI,HAWI wins the tipoff!,Tipoff,0,0,0,149
+HAWI,Martin Young Inside shot... Missed but with a foul on the play.,Fouled,0,0,1,149
+HAWI,Free throw coming up... good!,FreeThrow,0,1,1,149
+HAWI,Free throw coming up... good!,FreeThrow,0,2,1,149
+CSU,Steven Howard 3-point attempt...Score!       Assisted by: Dino Moye,Score,3,2,2,149
+HAWI,Alberto Berganza Inside shot...BLOCKED by Charley Timm.       Rebounded by HAWI Jesus Rodriguez.,Turnover,3,2,3,149
+HAWI,Eugene Courtney 3-point attempt...Score!       Assisted by: Michael Phillips,Score,3,5,4,149
+CSU,Timothy Marquis 3-point attempt...Missed!       Rebounded by CSU Santo Eng.,Missed,3,5,5,149
+CSU,Steven Howard Inside shot...Score!       Assisted by: Santo Eng,Score,5,5,6,149
+HAWI,Richard Clark Inside shot...Score!       Assisted by: Michael Phillips,Score,5,7,7,149
+CSU,Dino Moye Inside shot... Missed with a foul on the play.,Fouled,5,7,8,149
+CSU,Free throw coming up... good!,FreeThrow,6,7,8,149
+CSU,Free throw coming up... good!,FreeThrow,7,7,8,149
+CSU,Santo Eng steals the ball for CSU!,Turnover,7,7,9,149
+CSU,Abdul Eagler Inside shot...Score!,Score,9,7,10,149
+HAWI,Daniel Wedmore 2-point jumper...Missed!       Rebounded by CSU Abdul Eagler.,Score,9,7,11,149
+CSU,Steven Howard 2-point jumper...Missed!       Rebounded by HAWI Martin Young.,Missed,9,7,12,149
+HAWI,Charles Eble Inside shot...Score!,Score,9,9,13,149
+CSU,Charley Timm 3-point attempt...Score!       Assisted by: Steven Howard,Score,12,9,14,149
+CSU,Errol Schoolfield steals the ball for CSU!,Turnover,12,9,15,149
+CSU,Andre Mann Inside shot...Score!,Score,14,9,16,149
+HAWI,Michael Phillips Inside shot...Score!,Score,14,11,17,149
+CSU,CSU Andre Mann lost the ball out of bounds.,Out of Bounds,14,11,18,149
+HAWI,Charles Eble 3-point attempt...Missed!       Rebounded by HAWI Daniel Wedmore.,Score,14,11,19,149
+HAWI,Eugene Courtney 3-point attempt...Score!       Assisted by: Charles Eble,Score,14,14,20,149
+CSU,Andre Mann 2-point jumper...Missed!       Rebounded by HAWI Daniel Wedmore.,Missed,14,14,21,149
+HAWI,Jesus Rodriguez Inside shot... Missed but with a foul on the play.,Fouled,14,14,22,149
+HAWI,Free throw coming up... good!,FreeThrow,14,15,22,149
+HAWI,Free throw coming up... good!,FreeThrow,14,16,22,149
+CSU,Charley Timm Inside shot...Missed!       Rebounded by HAWI Richard Gaughan.,Score,14,16,23,149
+HAWI,Daniel Wedmore Inside shot...Score!,Score,14,18,24,149
+CSU,Jules Stillwell 3-point attempt...Missed!       Rebounded by HAWI Charles Eble.,Miss,14,18,25,149
+HAWI,Michael Phillips 3-point attempt...BLOCKED by CSU Timothy Marquis.       Rebounded by CSU Santo Eng.,Turnover,14,18,26,149
+CSU,Dino Moye 2-point jumper...Missed!       Rebounded by HAWI Jesus Rodriguez.,Missed,14,18,27,149
+HAWI,Alberto Berganza 2-point jumper...Missed!       Rebounded by CSU Santo Eng.,Score,14,18,28,149
+CSU,Timothy Marquis Inside shot...BLOCKED by HAWI Daniel Wedmore.       Rebounded by HAWI Alberto Berganza.,Turnover,14,18,29,149
+HAWI,Charles Eble 2-point jumper...Missed!       Rebounded by CSU Timothy Marquis.,Score,14,18,30,149
+CSU,Darrel Wallace Inside shot...Score! Foul on the play and one!,Score,16,18,31,149
+CSU,Free throw coming up... good!,FreeThrow,17,18,31,149
+HAWI,Charles Eble 2-point jumper...Missed!       Rebounded by HAWI Sergio Trevino.,Score,17,18,32,149
+HAWI,Martin Young 3-point attempt...Score!       Assisted by: Jesus Rodriguez,Score,17,21,33,149
+CSU,Santo Eng 2-point jumper...Score!,Score,19,21,34,149
+HAWI,Charles Eble 3-point attempt...Missed!Rebounded by CSU Darrel Wallace.,Score,19,21,35,149
+CSU,Andre Mann Inside shot...BLOCKED by HAWI Richard Clark.       Rebounded by CSU Steven Howard.,Turnover,19,21,36,149
+CSU,Santo Eng 3-point attempt...Score!       Assisted by: Dino Moye,Score,22,21,37,149
+HAWI,Alberto Berganza 3-point attempt...Missed!Rebounded by CSU Steven Howard.,Score,22,21,39,149
+CSU,CSU: Offensive foul on CSU Steven Howard.,Foul,22,21,40,149
+HAWI,Jesus Rodriguez 2-point jumper...Missed!       Rebounded by CSU Dino Moye.,Score,22,21,41,149
+CSU,Abdul Eagler Inside shot...Score!,Score,24,21,42,149
+HAWI,Charles Eble 2-point jumper...Missed!       Rebounded by CSU Santo Eng.,Score,24,21,43,149
+CSU,Timothy Marquis Inside shot...Score!,Score,26,21,44,149
+HAWI,Jesus Rodriguez Inside shot...Score!       Assisted by: Michael Phillips,Score,26,23,45,149
+CSU,Charley Timm 2-point jumper...BLOCKED by HAWI Daniel Wedmore.       Rebounded by HAWI Michael Phillips.,Turnover,26,23,46,149
+HAWI,Jesus Rodriguez 2-point jumper...Score!,Score,26,25,47,149
+CSU,Steven Howard Inside shot...BLOCKED by HAWI Michael Phillips.       Rebounded by HAWI Michael Phillips.,Turnover,26,25,48,149
+HAWI,Martin Young 2-point jumper...Score!       Assisted by: Jesus Rodriguez,Score,26,27,49,149
+CSU,David Hull Inside shot...Score!,Score,28,27,50,149
+HAWI,Richard Gaughan 2-point jumper...Score!,Score,28,29,51,149
+CSU,Darrel Wallace Inside shot...Score!,Score,30,29,52,149
+HAWI,Alberto Berganza Inside shot...Missed!       Rebounded by HAWI Brent Borell.,Score,30,29,53,149
+HAWI,Eugene Courtney 2-point jumper...BLOCKED by Santo Eng.       Rebounded by CSU Steven Howard.,Turnover,30,29,54,149
+CSU,Santo Eng Inside shot...Score!       Assisted by: Andre Mann,Score,32,29,55,149
+HAWI,Charles Eble 2-point jumper...Missed!       Rebounded by HAWI Eugene Courtney.,Score,32,29,56,149
+HAWI,Michael Phillips Inside shot...Score!,Score,32,31,57,149
+CSU,Andre Mann 2-point jumper...Missed!       Rebounded by HAWI Charles Eble.,Missed,32,31,58,149
+HAWI,Charles Eble Inside shot...Missed!       Rebounded by CSU Santo Eng.,Score,32,31,59,149
+CSU,CSU: Offensive foul on CSU Andre Mann.,Foul,32,31,60,149
+HAWI,Richard Gaughan 2-point jumper...Score!       Assisted by: Michael Phillips,Score,32,33,61,149
+CSU,Steven Howard 2-point jumper...Missed!       Rebounded by HAWI Charles Eble.,Missed,32,33,62,149
+HAWI,Martin Young Inside shot...Missed!       Rebounded by CSU Errol Schoolfield.,Score,32,33,63,149
+CSU,Jules Stillwell 2-point jumper...Score!,Score,34,33,64,149
+HAWI,Richard Gaughan Inside shot...Score!       Assisted by: Eugene Courtney,Score,34,35,65,149
+CSU,Andre Mann 2-point jumper...Missed!       Rebounded by HAWI Alberto Berganza.,Missed,34,35,66,149
+HAWI,Michael Phillips Inside shot...Score!       Assisted by: Eugene Courtney,Score,34,37,67,149
+CSU,Andre Mann Inside shot...Score!       Assisted by: Timothy Marquis,Score,36,37,68,149
+HAWI,Daniel Wedmore Inside shot...Score!,Score,36,39,69,149
+CSU,Charley Timm 3-point attempt...Missed!       Rebounded by CSU Santo Eng.,Missed,36,39,70,149
+CSU,Andre Mann Inside shot...Score!       Assisted by: Steven Howard,Score,38,39,71,149
+HAWI,Charles Eble Inside shot...Missed!       Rebounded by HAWI Kevin Brochu.,Score,38,39,72,149
+HAWI,Richard Gaughan 2-point jumper...Score!,Score,38,41,73,149
+CSU,Abdul Eagler 2-point jumper...Missed!       Rebounded by HAWI Alberto Berganza.,Missed,38,41,74,149
+,,HALFTIME,38,41,74,149
+HAWI,Daniel Wedmore 2-point jumper...Score! Foul on the play and we go to a free throw!,Score,38,43,75,149
+HAWI,Free throw coming up... good!,FreeThrow,38,44,75,149
+CSU,Randall Buchanan 2-point jumper...Score!,Score,40,44,76,149
+HAWI,HAWI Charles Eble lost the ball out of bounds.,Turnover,40,44,77,149
+HAWI,Alberto Berganza steals the ball for HAWI!,Turnover,40,44,78,149
+HAWI,Sergio Trevino Inside shot...Missed!       Rebounded by HAWI Charles Eble.,Score,40,44,79,149
+HAWI,Michael Phillips 2-point jumper...Missed!       Rebounded by CSU Dino Moye.,Score,40,44,80,149
+CSU,Abdul Eagler 2-point jumper...Missed!       Rebounded by HAWI Charles Eble.,Missed,40,44,81,149
+HAWI,Martin Young 3-point attempt...Missed!Rebounded by CSU Andre Mann.,Score,40,44,82,149
+CSU,Jules Stillwell 2-point jumper...Missed!       Rebounded by CSU Jules Stillwell.,Missed,40,44,83,149
+CSU,CSU Dino Moye lost the ball out of bounds.,Out of Bounds,40,44,84,149
+HAWI,Daniel Wedmore Inside shot...Score!,Score,40,46,85,149
+CSU,Randall Buchanan 2-point jumper...Score!       Assisted by: Timothy Marquis,Score,42,46,86,149
+CSU,Andre Mann steals the ball for CSU!,Turnover,42,46,87,149
+CSU,CSU Timothy Marquis lost the ball out of bounds.,Out of Bounds,42,46,88,149
+HAWI,Daniel Wedmore 2-point jumper...Missed!       Rebounded by CSU Timothy Marquis.,Score,42,46,89,149
+CSU,Timothy Marquis 2-point jumper...Score!,Score,44,46,90,149
+HAWI,Alberto Berganza 2-point jumper...Score!,Score,44,48,91,149
+CSU,Randall Buchanan 3-point attempt...Missed!       Rebounded by HAWI Alberto Berganza.,Miss,44,48,92,149
+HAWI,Richard Gaughan Inside shot...Score!       Assisted by: Charles Eble,Score,44,50,93,149
+CSU,Jules Stillwell Inside shot... Missed with a foul on the play.,Fouled,44,50,94,149
+CSU,Free throw coming up... good!,FreeThrow,45,50,94,149
+CSU,Free throw coming up... good!,FreeThrow,46,50,94,149
+HAWI,Daniel Wedmore 3-point attempt...Score!       Assisted by: Jesus Rodriguez,Score,46,53,95,149
+CSU,Timothy Marquis 2-point jumper...Score!,Score,48,53,96,149
+HAWI,HAWI Daniel Wedmore lost the ball out of bounds.,Turnover,48,53,97,149
+CSU,Andre Mann 2-point jumper...Missed!       Rebounded by HAWI Alberto Berganza.,Missed,48,53,98,149
+HAWI,Daniel Wedmore Inside shot...Score!       Assisted by: Michael Phillips,Score,48,55,99,149
+CSU,CSU: Offensive foul on CSU Dino Moye.,Foul,48,55,100,149
+HAWI,Richard Clark 2-point jumper...Missed!       Rebounded by HAWI Charles Eble.,Score,48,55,101,149
+HAWI,Daniel Wedmore 2-point jumper...Missed!       Rebounded by CSU Andre Mann.,Score,48,55,102,149
+CSU,Charley Timm Inside shot...Missed!       Rebounded by CSU Steven Howard.,Score,48,55,103,149
+CSU,Darrel Wallace 3-point attempt...Missed!       Rebounded by HAWI Martin Young.,Miss,48,55,104,149
+HAWI,Martin Young 2-point jumper...Missed!       Rebounded by CSU Errol Schoolfield.,Score,48,55,105,149
+CSU,Andre Mann 2-point jumper...Missed!       Rebounded by HAWI Alberto Berganza.,Missed,48,55,106,149
+HAWI,Eugene Courtney 2-point jumper...Score!       Assisted by: Michael Phillips,Score,48,57,107,149
+CSU,Max Garner 2-point jumper...BLOCKED by HAWI Charles Eble.       Rebounded by CSU Steven Howard.,Turnover,48,57,108,149
+CSU,Randall Buchanan Inside shot...Score!,Score,50,57,109,149
+HAWI,HAWI Daniel Wedmore lost the ball out of bounds.,Turnover,50,57,110,149
+CSU,Jules Stillwell Inside shot...Score!,Score,52,57,111,149
+CSU,Dino Moye steals the ball for CSU!,Turnover,52,57,112,149
+CSU,Jules Stillwell Inside shot...Score!       Assisted by: Errol Schoolfield,Score,54,57,113,149
+HAWI,Charles Eble 2-point jumper...BLOCKED by Randall Buchanan.       Rebounded by HAWI Charles Eble.,Turnover,54,57,114,149
+HAWI,Charles Eble Inside shot...Score!,Score,54,59,115,149
+CSU,Santo Eng 2-point jumper...Missed!       Rebounded by HAWI Alberto Berganza.,Missed,54,59,116,149
+HAWI,Daniel Wedmore Inside shot...Score!,Score,54,61,117,149
+CSU,CSU: Offensive foul on CSU Abdul Eagler.,Foul,54,61,118,149
+CSU,Andre Mann steals the ball for CSU!,Turnover,54,61,119,149
+CSU,Steven Howard 3-point attempt...Score!       Assisted by: Dino Moye,Score,57,61,120,149
+HAWI,Kevin Brochu 2-point jumper...Score!       Assisted by: Richard Gaughan,Score,57,63,121,149
+CSU,Dino Moye 3-point attempt...Missed!       Rebounded by HAWI Michael Phillips.,Miss,57,63,122,149
+HAWI,Martin Young 2-point jumper...BLOCKED by Abdul Eagler.       Rebounded by CSU Steven Howard.,Turnover,57,63,123,149
+CSU,CSU Timothy Marquis lost the ball out of bounds.,Out of Bounds,57,63,124,149
+HAWI,Michael Phillips Inside shot...Score! Fouled and we have a free throw folks!,Score,57,65,125,149
+HAWI,Free throw coming up... good!,FreeThrow,57,66,125,149
+HAWI,Alberto Berganza steals the ball for HAWI!,Turnover,57,66,126,149
+HAWI,Eugene Courtney 3-point attempt...Missed!Rebounded by CSU Andre Mann.,Score,57,66,127,149
+CSU,Errol Schoolfield Inside shot... Missed with a foul on the play.,Fouled,57,66,128,149
+CSU,Free throw coming up... good!,FreeThrow,58,66,128,149
+HAWI,Martin Young 3-point attempt...Missed!Rebounded by CSU Santo Eng.,Score,58,66,129,149
+CSU,Santo Eng 2-point jumper...Score!       Assisted by: Timothy Marquis,Score,60,66,130,149
+HAWI,Alberto Berganza 2-point jumper...Score!,Score,60,68,131,149
+CSU,Jules Stillwell 2-point jumper...Missed!       Rebounded by HAWI Charles Eble.,Missed,60,68,132,149
+HAWI,Jesus Rodriguez 3-point attempt...Missed!       Rebounded by HAWI Charles Eble.,Score,60,68,133,149
+HAWI,Daniel Wedmore Inside shot...Score!       Assisted by: Richard Gaughan,Score,60,70,134,149
+CSU,Darrel Wallace 2-point jumper...Missed!       Rebounded by HAWI Alberto Berganza.,Missed,60,70,135,149
+HAWI,Alberto Berganza 2-point jumper... Missed but there is a foul on the play.,Foul,60,70,136,149
+HAWI,Free throw coming up... good!,FreeThrow,60,71,136,149
+HAWI,Free throw coming up... rattled out.       Rebounded by CSU Santo Eng.,Score,60,71,136,149
+CSU,Jules Stillwell Inside shot... Missed with a foul on the play.,Fouled,60,71,137,149
+CSU,Free throw coming up... good!,FreeThrow,61,71,137,149
+CSU,Free throw coming up... good!,FreeThrow,62,71,137,149
+HAWI,Martin Young Inside shot...Score!       Assisted by: Jesus Rodriguez,Score,62,73,138,149
+CSU,Abdul Eagler 2-point jumper...Missed!       Rebounded by HAWI Jesus Rodriguez.,Missed,62,73,139,149
+HAWI,Alberto Berganza Inside shot...Score!,Score,62,75,140,149
+CSU,Jules Stillwell 3-point attempt...Score!,Score,65,75,141,149
+HAWI,Jesus Rodriguez 2-point jumper...Score!,Score,65,77,142,149
+CSU,Andre Mann 2-point jumper...Missed!       Rebounded by HAWI Charles Eble.,Missed,65,77,143,149
+HAWI,Ki Ochiai 3-point attempt...Missed!Rebounded by CSU Dino Moye.,Score,65,77,144,149
+CSU,Errol Schoolfield 3-point attempt...Missed!       Rebounded by HAWI Daniel Wedmore.,Miss,65,77,145,149
+HAWI,Jesus Rodriguez Inside shot...Score!       Assisted by: Ki Ochiai,Score,65,79,146,149
+CSU,Charley Timm Inside shot...Score! Foul on the play and one!       Assisted by: Timothy Marquis,Score,67,79,147,149
+CSU,Free throw coming up... good!,FreeThrow,68,79,147,149
+HAWI,Charles Eble 2-point jumper...Score!,Score,68,81,148,149
+CSU,Darrel Wallace 2-point jumper...Score!,Score,70,81,149,149
+HAWI,Charles Eble 3-point attempt...Missed!Rebounded by CSU Santo Eng.,Score,70,81,150,149
+,Match Complete,FinalScore,70,81,150,149

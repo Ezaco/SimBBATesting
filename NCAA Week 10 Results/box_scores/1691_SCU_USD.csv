@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Santa Clara,Broncos,38,36,0,74
+San Diego,Toreros,27,28,0,55
+""
+""
+=====Santa Clara Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Trace Lecklider,20,5,2,2,1.0,0,0,0,0,0,0,4,0,0,0,1,0,0
+Steven Ramirez,25,18,4,8,0.5,1,1,1.0,4,4,1.0,13,7,5,1,0,0,0
+Mark Joseph,25,11,2,5,0.4,0,1,0.0,2,2,1.0,6,4,3,1,2,0,0
+Ralph Riche,20,20,3,9,0.3333333333333333,1,3,0.3333333333333333,0,0,0,7,3,0,2,1,0,0
+Eugene Price,25,31,4,14,0.2857142857142857,0,2,0.0,5,6,0.8333333333333334,13,3,0,1,1,0,1
+Jared Atkinson,25,14,3,7,0.42857142857142855,0,0,0,1,1,1.0,7,5,0,0,0,1,0
+James Mcfarland,8,8,1,4,0.25,0,0,0,2,2,1.0,4,0,1,0,0,0,0
+Juan Valencia,7,6,1,3,0.3333333333333333,0,0,0,0,0,0,2,1,2,0,0,1,0
+Giovanni Clemens,25,23,4,10,0.4,1,2,0.5,5,7,0.7142857142857143,14,7,1,1,0,0,1
+Alex Wofford,5,7,2,3,0.6666666666666666,0,0,0,0,0,0,4,1,0,0,0,1,0
+Nicholas Lein,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Stephen Smith,5,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Larry Pavloski,5,2,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+=====San Diego Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Merrill Lowery,25,23,6,10,0.6,1,1,1.0,0,0,0,13,1,0,0,0,3,0
+Keneth Pettit,20,10,3,4,0.75,0,0,0,1,2,0.5,7,4,1,0,2,2,0
+Ralph Barnes,25,11,2,4,0.5,0,0,0,0,0,0,4,5,1,0,1,3,0
+Mack Flowers,25,13,3,6,0.5,0,2,0.0,0,0,0,6,5,2,0,0,1,0
+Mario Spencer,20,5,0,2,0.0,0,0,0,0,0,0,0,3,1,0,1,1,1
+Sylvester Wagner,5,4,2,2,1.0,1,1,1.0,1,1,1.0,6,0,0,0,0,0,0
+Dennis Harris,5,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+Walter Cooper,8,2,0,1,0.0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Leopoldo Zuniga,7,5,1,2,0.5,0,0,0,0,0,0,2,0,0,0,0,1,0
+Kiet Soon,25,18,2,8,0.25,0,3,0.0,1,2,0.5,5,8,2,0,1,1,0
+John Hagerty,25,25,5,12,0.4166666666666667,0,3,0.0,2,3,0.6666666666666666,12,4,1,0,1,1,1
+George Hoff,5,2,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jeffrey Degrandchamp,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+""
+""
+=====TEAM STATS=====
+Stat,Santa Clara,San Diego
+Points,74,55
+Possessions,74,73
+FGM,23,22
+FGA,57,42
+FGPercent,0.40350877192982454,0.5238095238095238
+3PM,3,2
+3PA,9,10
+3P%,0.3333333333333333,0.2
+FTM,19,5
+FTA,22,8
+FT%,0.8636363636363636,0.625
+Rebounds,33,32
+OffRebounds,12,9
+DefRebounds,21,23
+Assists,13,9
+Steals,6,0
+Blocks,5,5
+Total Turnovers,10,15
+Largest Lead,21,2

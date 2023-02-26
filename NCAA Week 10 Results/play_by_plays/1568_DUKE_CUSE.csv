@@ -1,0 +1,163 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+DUKE,CUSE,69,68,145
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+CUSE,CUSE wins the tipoff!,Tipoff,0,0,0,145
+CUSE,Stephen Liao 2-point jumper...Missed!       Rebounded by CUSE Jose Cardona.,Score,0,0,1,145
+CUSE,Stephen Liao Inside shot...Score!,Score,0,2,2,145
+DUKE,Edward Mack Inside shot...Score!       Assisted by: Jerry Boyle,Score,2,2,3,145
+CUSE,Malgorzata Sikkink 3-point attempt...Missed!       Rebounded by CUSE Lawrence Sawyer.,Score,2,2,4,145
+CUSE,Lawrence Sawyer Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: Jess Urbanovsky,Score,2,4,5,145
+CUSE,Free throw coming up... good!,FreeThrow,2,5,5,145
+DUKE,Edward Mack Inside shot...Missed!       Rebounded by CUSE Jose Guadian.,Score,2,5,7,145
+CUSE,Ken Walker 2-point jumper...Missed!       Rebounded by DUKE John Rooks.,Score,2,5,8,145
+DUKE,Chris Griggs 3-point attempt...Score!       Assisted by: Jerry Boyle,Score,5,5,9,145
+CUSE,Stefan Etherton 2-point jumper...Score!       Assisted by: Jose Cardona,Score,5,7,10,145
+DUKE,Pablo Lopez Inside shot...Score!,Score,7,7,11,145
+CUSE,Jess Urbanovsky 2-point jumper...Score!,Score,7,9,12,145
+DUKE,Edward Mack Inside shot...Score!,Score,9,9,13,145
+DUKE,Antonio Scott steals the ball for DUKE!,Turnover,9,9,14,145
+DUKE,Erik Forth 2-point jumper...Missed!       Rebounded by DUKE Erik Forth.,Missed,9,9,15,145
+DUKE,Edward Mack Inside shot...Score!,Score,11,9,16,145
+CUSE,Oscar Button Inside shot...Score!,Score,11,11,17,145
+DUKE,Antonio Scott Inside shot...Score!,Score,13,11,18,145
+CUSE,Ken Walker 3-point attempt...Score!       Assisted by: Malgorzata Sikkink,Score,13,14,19,145
+DUKE,Erik Forth 3-point attempt...Score!       Assisted by: Edward Mack,Score,16,14,20,145
+CUSE,Stephen Liao 2-point jumper...Score!       Assisted by: Michael Williams,Score,16,16,21,145
+DUKE,Edward Mack Inside shot...Score!       Assisted by: Jerry Boyle,Score,18,16,22,145
+DUKE,Pablo Lopez steals the ball for DUKE!,Turnover,18,16,23,145
+DUKE,DUKE Jerry Boyle lost the ball out of bounds.,Out of Bounds,18,16,24,145
+CUSE,Jose Guadian 2-point jumper...Missed!       Rebounded by DUKE Jerry Boyle.,Score,18,16,26,145
+DUKE,Erik Forth 2-point jumper...BLOCKED by CUSE Ken Walker.       Rebounded by CUSE Jose Guadian.,Turnover,18,16,27,145
+CUSE,CUSE Stephen Liao lost the ball out of bounds.,Turnover,18,16,28,145
+DUKE,John Rooks Inside shot...Score!       Assisted by: Jerry Boyle,Score,20,16,29,145
+CUSE,Jess Urbanovsky 2-point jumper...BLOCKED by Erik Forth.       Rebounded by CUSE Stephen Liao.,Turnover,20,16,30,145
+CUSE,Malgorzata Sikkink Inside shot...Score!       Assisted by: Ken Walker,Score,20,18,31,145
+DUKE,Jerry Boyle 2-point jumper...Missed!       Rebounded by CUSE Jose Cardona.,Missed,20,18,32,145
+CUSE,Jose Guadian 2-point jumper...Score!,Score,20,20,33,145
+DUKE,John Rooks 3-point attempt...Score!       Assisted by: Antonio Scott,Score,23,20,34,145
+CUSE,Ken Walker 3-point attempt...Score!       Assisted by: Malgorzata Sikkink,Score,23,23,35,145
+CUSE,Stephen Liao steals the ball for CUSE!,Turnover,23,23,36,145
+DUKE,Pablo Lopez steals the ball for DUKE!,Turnover,23,23,37,145
+DUKE,Edward Mack Inside shot... Missed with a foul on the play.,Fouled,23,23,38,145
+DUKE,Free throw coming up... good!,FreeThrow,24,23,38,145
+DUKE,Free throw coming up... good!,FreeThrow,25,23,38,145
+CUSE,Jose Cardona Inside shot...Score!,Score,25,25,39,145
+DUKE,DUKE: Offensive foul on DUKE Antonio Scott.,Foul,25,25,40,145
+CUSE,Ken Walker 2-point jumper...Score!       Assisted by: Michael Gulley,Score,25,27,41,145
+CUSE,Michael Gulley steals the ball for CUSE!,Turnover,25,27,42,145
+CUSE,Ken Walker 3-point attempt...Missed!Rebounded by DUKE Pablo Lopez.,Score,25,27,43,145
+DUKE,Erik Forth 3-point attempt...Score!       Assisted by: Pablo Lopez,Score,28,27,44,145
+CUSE,CUSE Stephen Liao lost the ball out of bounds.,Turnover,28,27,45,145
+DUKE,Chris Griggs Inside shot...Score!,Score,30,27,46,145
+CUSE,Lawrence Sawyer Inside shot...Score!,Score,30,29,47,145
+DUKE,Bradley Yeargin 2-point jumper...BLOCKED by CUSE Stephen Liao.       Rebounded by CUSE Lawrence Sawyer.,Turnover,30,29,48,145
+CUSE,Jess Urbanovsky 3-point attempt...Missed!Rebounded by DUKE John Rooks.,Score,30,29,49,145
+DUKE,Pablo Lopez 2-point jumper...Missed!       Rebounded by CUSE Stephen Liao.,Missed,30,29,50,145
+CUSE,Jess Urbanovsky 2-point jumper...Missed!       Rebounded by DUKE Martin Baca.,Score,30,29,51,145
+DUKE,David Christian 2-point jumper...Missed!       Rebounded by CUSE Malgorzata Sikkink.,Missed,30,29,52,145
+CUSE,Stephen Liao 3-point attempt...Score!,Score,30,32,53,145
+DUKE,DUKE: Offensive foul on DUKE Pablo Lopez.,Foul,30,32,54,145
+CUSE,Stefan Etherton Inside shot...Missed!       Rebounded by CUSE Jose Guadian.,Score,30,32,55,145
+CUSE,Jose Cardona Inside shot...Score!       Assisted by: Ken Walker,Score,30,34,56,145
+CUSE,Jess Urbanovsky steals the ball for CUSE!,Turnover,30,34,57,145
+CUSE,Jess Urbanovsky Inside shot...Score!,Score,30,36,58,145
+DUKE,Antonio Scott Inside shot...Score!,Score,32,36,59,145
+CUSE,CUSE: Offensive foul on CUSE Oscar Button.,Turnover,32,36,60,145
+DUKE,Pablo Lopez 2-point jumper...Missed!       Rebounded by DUKE Martin Baca.,Missed,32,36,61,145
+CUSE,Ken Walker steals the ball for CUSE!,Turnover,32,36,62,145
+CUSE,Jose Guadian 3-point attempt...Missed!Rebounded by DUKE Pablo Lopez.,Score,32,36,63,145
+DUKE,Bradley Yeargin 2-point jumper...Missed!       Rebounded by CUSE Ken Walker.,Missed,32,36,64,145
+CUSE,Jose Guadian 3-point attempt...Missed!       Rebounded by CUSE Jose Guadian.,Score,32,36,65,145
+CUSE,Stephen Liao Inside shot...Score!       Assisted by: Jose Cardona,Score,32,38,66,145
+DUKE,Edward Mack Inside shot...Score!,Score,34,38,67,145
+CUSE,Malgorzata Sikkink 3-point attempt...Missed!Rebounded by DUKE John Rooks.,Score,34,38,68,145
+DUKE,DUKE: Offensive foul on DUKE Antonio Scott.,Foul,34,38,69,145
+CUSE,CUSE: Offensive foul on CUSE Stefan Etherton.,Turnover,34,38,70,145
+DUKE,Antonio Scott 2-point jumper... Missed with a foul on the play.,Turnover,34,38,71,145
+DUKE,Antonio Scott 2-point jumper... Missed with a foul on the play.,FreeThrow,35,38,71,145
+DUKE,Antonio Scott 2-point jumper... Missed with a foul on the play.,FreeThrow,36,38,71,145
+CUSE,Lawrence Sawyer 2-point jumper...Missed!       Rebounded by CUSE Jess Urbanovsky.,Score,36,38,72,145
+,,HALFTIME,36,38,72,145
+CUSE,Michael Gulley 2-point jumper...Missed!       Rebounded by DUKE John Rooks.,Score,36,38,73,145
+DUKE,David Cochran 3-point attempt...Missed!       Rebounded by DUKE Antonio Scott.,Missed,36,38,74,145
+DUKE,Antonio Scott 2-point jumper...Missed!       Rebounded by CUSE Lawrence Sawyer.,Missed,36,38,75,145
+CUSE,Stephen Liao 2-point jumper...Missed!       Rebounded by CUSE Malgorzata Sikkink.,Score,36,38,76,145
+CUSE,Lawrence Sawyer Inside shot... Missed but with a foul on the play.,Fouled,36,38,77,145
+CUSE,Free throw coming up... good!,FreeThrow,36,39,77,145
+CUSE,Free throw coming up... good!,FreeThrow,36,40,77,145
+DUKE,John Rooks 2-point jumper...Score!,Score,38,40,78,145
+CUSE,Michael Gulley 2-point jumper...BLOCKED by Son Yoo.       Rebounded by CUSE Lawrence Sawyer.,Turnover,38,40,79,145
+CUSE,Stefan Etherton Inside shot... Missed but with a foul on the play.,Fouled,38,40,80,145
+CUSE,Free throw coming up... rattled out.,FreeThrow,38,40,80,145
+CUSE,Free throw coming up... rattled out.       Rebounded by CUSE Michael Gulley.,FreeThrow,38,40,80,145
+CUSE,Jose Guadian 3-point attempt...Score!       Assisted by: Malgorzata Sikkink,Score,38,43,81,145
+DUKE,DUKE John Rooks lost the ball out of bounds.,Out of Bounds,38,43,82,145
+CUSE,Jose Guadian 2-point jumper...Missed!       Rebounded by DUKE John Rooks.,Score,38,43,83,145
+DUKE,Son Yoo Inside shot...Score!,Score,40,43,84,145
+CUSE,Stephen Liao 2-point jumper...Missed!       Rebounded by DUKE David Cochran.,Score,40,43,85,145
+DUKE,Pablo Lopez 2-point jumper...Missed!       Rebounded by CUSE Stephen Liao.,Missed,40,43,86,145
+DUKE,Erik Forth steals the ball for DUKE!,Turnover,40,43,87,145
+DUKE,Erik Forth 2-point jumper...Missed!       Rebounded by CUSE Lawrence Sawyer.,Missed,40,43,88,145
+CUSE,Jess Urbanovsky Inside shot...Missed!       Rebounded by CUSE Malgorzata Sikkink.,Score,40,43,89,145
+DUKE,Pablo Lopez steals the ball for DUKE!,Turnover,40,43,90,145
+DUKE,DUKE Jerry Boyle lost the ball out of bounds.,Out of Bounds,40,43,91,145
+CUSE,Stephen Liao 2-point jumper...Missed!       Rebounded by DUKE Pablo Lopez.,Score,40,43,92,145
+DUKE,Jerry Boyle Inside shot...Score!       Assisted by: Antonio Scott,Score,42,43,93,145
+DUKE,John Rooks steals the ball for DUKE!,Turnover,42,43,94,145
+DUKE,Antonio Scott 3-point attempt...Missed!       Rebounded by DUKE Chris Griggs.,Missed,42,43,95,145
+DUKE,Chris Griggs Inside shot...Score!,Score,44,43,96,145
+CUSE,Stephen Liao 3-point attempt...Score!,Score,44,46,97,145
+DUKE,Jerry Boyle Inside shot...Score!,Score,46,46,98,145
+CUSE,Stephen Liao 2-point jumper...Missed!       Rebounded by DUKE Erik Forth.,Score,46,46,99,145
+DUKE,Edward Mack 2-point jumper...Score!       Assisted by: Pablo Lopez,Score,48,46,100,145
+CUSE,Lawrence Sawyer Inside shot...Score!,Score,48,48,101,145
+DUKE,Pablo Lopez 3-point attempt...Missed!       Rebounded by CUSE Lawrence Sawyer.,Miss,48,48,102,145
+CUSE,Ken Walker Inside shot...BLOCKED by Erik Forth.       Rebounded by DUKE Edward Mack.,Turnover,48,48,103,145
+DUKE,Antonio Scott 3-point attempt...Missed!       Rebounded by DUKE Edward Mack.,Missed,48,48,104,145
+DUKE,Thomas Zeoli 2-point jumper...Missed!       Rebounded by DUKE Antonio Scott.,Missed,48,48,105,145
+CUSE,Stephen Liao steals the ball for CUSE!,Turnover,48,48,106,145
+CUSE,Jose Cardona Inside shot...Score!,Score,48,50,107,145
+DUKE,Bradley Yeargin Inside shot...Score! Foul on the play and one!       Assisted by: Erik Forth,Score,50,50,108,145
+DUKE,Free throw coming up... good!,FreeThrow,51,50,108,145
+CUSE,Michael Williams 2-point jumper...Score!       Assisted by: Jose Cardona,Score,51,52,109,145
+DUKE,Antonio Scott Inside shot...BLOCKED by CUSE Stephen Liao.       Rebounded by CUSE Jose Cardona.,Turnover,51,52,110,145
+CUSE,Jess Urbanovsky Inside shot...BLOCKED by Erik Forth.       Rebounded by CUSE Ken Walker.,Turnover,51,52,111,145
+CUSE,Jess Urbanovsky Inside shot...Missed!       Rebounded by DUKE Antonio Scott.,Score,51,52,112,145
+DUKE,DUKE Chris Griggs lost the ball out of bounds.,Out of Bounds,51,52,113,145
+CUSE,Jose Cardona 2-point jumper...Score!,Score,51,54,114,145
+DUKE,Edward Mack 2-point jumper...Missed!       Rebounded by CUSE Stephen Liao.,Missed,51,54,115,145
+CUSE,Jose Guadian Inside shot...Score!,Score,51,56,116,145
+DUKE,Chris Griggs 2-point jumper...Score!,Score,53,56,117,145
+CUSE,Stephen Newberry 3-point attempt...Score!       Assisted by: Jose Cardona,Score,53,59,118,145
+DUKE,John Rooks Inside shot...Score!,Score,55,59,119,145
+CUSE,Jose Cardona 2-point jumper...Score!,Score,55,61,120,145
+DUKE,Jerry Boyle Inside shot...Missed!       Rebounded by CUSE Ken Walker.,Score,55,61,121,145
+CUSE,Oscar Button Inside shot...BLOCKED by John Rooks.       Rebounded by DUKE Thomas Zeoli.,Turnover,55,61,122,145
+DUKE,Antonio Scott 3-point attempt...Missed!       Rebounded by CUSE Lawrence Sawyer.,Miss,55,61,123,145
+CUSE,Jose Cardona 2-point jumper...Missed!       Rebounded by CUSE Jess Urbanovsky.,Score,55,61,124,145
+CUSE,Jess Urbanovsky 2-point jumper...Missed!       Rebounded by DUKE John Rooks.,Score,55,61,125,145
+DUKE,Jerry Boyle 2-point jumper...Score!,Score,57,61,126,145
+CUSE,Jose Guadian 2-point jumper...Missed!       Rebounded by CUSE Jess Urbanovsky.,Score,57,61,127,145
+DUKE,Erik Forth steals the ball for DUKE!,Turnover,57,61,128,145
+DUKE,John Rooks 2-point jumper...Score!,Score,59,61,129,145
+CUSE,Jose Cardona 3-point attempt...Score!       Assisted by: Malgorzata Sikkink,Score,59,64,130,145
+DUKE,Jerry Boyle Inside shot...Score!,Score,61,64,131,145
+CUSE,Jess Urbanovsky 3-point attempt...Missed!Rebounded by DUKE Son Yoo.,Score,61,64,132,145
+DUKE,Edward Mack 2-point jumper...Score!       Assisted by: Antonio Scott,Score,63,64,133,145
+DUKE,Martin Baca steals the ball for DUKE!,Turnover,63,64,134,145
+CUSE,Jose Cardona steals the ball for CUSE!,Turnover,63,64,135,145
+CUSE,Stephen Liao 2-point jumper...Score!       Assisted by: Jess Urbanovsky,Score,63,66,136,145
+DUKE,Edward Mack Inside shot... Missed with a foul on the play.,Fouled,63,66,137,145
+DUKE,Free throw coming up... good!,FreeThrow,64,66,137,145
+DUKE,Free throw coming up... good!,FreeThrow,65,66,137,145
+DUKE,Pablo Lopez steals the ball for DUKE!,Turnover,65,66,138,145
+DUKE,Chris Griggs Inside shot...Score!       Assisted by: Pablo Lopez,Score,67,66,139,145
+CUSE,Stephen Liao Inside shot...Score!       Assisted by: Jess Urbanovsky,Score,67,68,140,145
+DUKE,Chris Griggs Inside shot...Score!,Score,69,68,141,145
+CUSE,Stephen Liao 3-point attempt...Missed!Rebounded by DUKE Thomas Zeoli.,Score,69,68,142,145
+DUKE,DUKE: Offensive foul on DUKE John Rooks.,Foul,69,68,143,145
+CUSE,Jose Cardona 2-point jumper...Missed!       Rebounded by DUKE Pablo Lopez.,Score,69,68,144,145
+DUKE,David Cochran 3-point attempt...Missed!       Rebounded by DUKE John Rooks.,Missed,69,68,145,145
+DUKE,Chris Griggs Inside shot...BLOCKED by CUSE Lawrence Sawyer.       Rebounded by CUSE Ken Walker.,Turnover,69,68,146,145
+,Match Complete,FinalScore,69,68,146,145

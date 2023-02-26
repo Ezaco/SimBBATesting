@@ -1,0 +1,184 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+UNC,WMU,78,80,153
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+UNC,UNC wins the tipoff!,Tipoff,0,0,0,136
+UNC,Chi Conn 2-point jumper...Score!       Assisted by: Michael Simpson,Score,2,0,1,136
+WMU,Sonny Snowden Inside shot... Missed but with a foul on the play.,Fouled,2,0,2,136
+WMU,Free throw coming up... rattled out.,FreeThrow,2,0,2,136
+WMU,Free throw coming up... rattled out.       Rebounded by UNC Thomas Whisenhunt.,FreeThrow,2,0,2,136
+UNC,Michael Simpson 3-point attempt...Missed!       Rebounded by WMU Sonny Snowden.,Miss,2,0,3,136
+WMU,Hanh Vang 2-point jumper...Missed!       Rebounded by UNC Christopher Stinson.,Score,2,0,4,136
+UNC,Raleigh Matthews Inside shot...Missed!       Rebounded by UNC James Moller.,Score,2,0,5,136
+UNC,Thomas Whisenhunt Inside shot...Score!       Assisted by: Timothy Zulkowski,Score,4,0,6,136
+WMU,Jeffrey Russell 2-point jumper...Missed!       Rebounded by WMU Gary Bailey.,Score,4,0,7,136
+WMU,Matthew Powell 2-point jumper...Score!,Score,4,2,8,136
+UNC,Gerard Jones Inside shot... Missed with a foul on the play.,Fouled,4,2,9,136
+UNC,Free throw coming up... rattled out.       Rebounded by UNC Michael Simpson.,FreeThrow,4,2,9,136
+WMU,Matthew Powell steals the ball for WMU!,Turnover,4,2,10,136
+WMU,Joesph Romeo Inside shot... Missed but with a foul on the play.,Fouled,4,2,11,136
+WMU,Free throw coming up... good!,FreeThrow,4,3,11,136
+WMU,Free throw coming up... good!,FreeThrow,4,4,11,136
+UNC,Chi Conn 2-point jumper...Score!,Score,6,4,12,136
+WMU,WMU: Offensive foul on WMU Sonny Snowden.,Turnover,6,4,13,136
+UNC,Chi Conn 3-point attempt...Score!       Assisted by: Michael Simpson,Score,9,4,14,136
+WMU,Joesph Romeo Inside shot...Missed!       Rebounded by UNC Michael Simpson.,Score,9,4,15,136
+UNC,Chi Conn 3-point attempt...Missed!       Rebounded by WMU Matthew Powell.,Miss,9,4,16,136
+WMU,Michael Howard Inside shot...Score!       Assisted by: Sonny Snowden,Score,9,6,17,136
+UNC,Raleigh Matthews 2-point jumper...Score!,Score,11,6,18,136
+WMU,Joesph Romeo Inside shot...Score!,Score,11,8,19,136
+UNC,Raleigh Matthews Inside shot...Score! Foul on the play and one!,Score,13,8,20,136
+UNC,Free throw coming up... good!,FreeThrow,14,8,20,136
+WMU,Jeffrey Russell 2-point jumper...Missed!       Rebounded by UNC Michael Simpson.,Score,14,8,21,136
+WMU,Joesph Romeo steals the ball for WMU!,Turnover,14,8,22,136
+WMU,WMU: Shot clock violation on WMU Hanh Vang.,Turnover,14,8,23,136
+UNC,Christopher Stinson Inside shot...Score!       Assisted by: Michael Simpson,Score,16,8,24,136
+WMU,Domingo Butler 3-point attempt...Missed!Rebounded by UNC Chi Conn.,Score,16,8,25,136
+UNC,Timothy Zulkowski Inside shot...Score! Foul on the play and one!,Score,18,8,26,136
+UNC,Free throw coming up... rattled out.       Rebounded by WMU Matthew Powell.,FreeThrow,18,8,26,136
+WMU,Domingo Butler Inside shot...Score!,Score,18,10,27,136
+UNC,Michael Simpson 2-point jumper...BLOCKED by WMU Joesph Romeo.       Rebounded by WMU Michael Howard.,Turnover,18,10,28,136
+WMU,Matthew Powell 3-point attempt...Missed!       Rebounded by WMU Joesph Romeo.,Score,18,10,29,136
+WMU,Hanh Vang Inside shot...Score! Fouled and we have a free throw folks!,Score,18,12,30,136
+WMU,Free throw coming up... good!,FreeThrow,18,13,30,136
+UNC,Norman Thao 2-point jumper...Missed!       Rebounded by WMU Gary Bailey.,Missed,18,13,31,136
+WMU,Joesph Romeo 3-point attempt...Score!       Assisted by: Philip Elias,Score,18,16,32,136
+UNC,Chi Conn Inside shot...Score!       Assisted by: Thomas Whisenhunt,Score,20,16,33,136
+WMU,Domingo Butler 2-point jumper...BLOCKED by Michael Simpson.       Rebounded by WMU Gary Bailey.,Turnover,20,16,34,136
+WMU,Michael Howard 2-point jumper...Score!,Score,20,18,35,136
+UNC,UNC William Rickson lost the ball out of bounds.,Out of Bounds,20,18,36,136
+UNC,Michael Simpson steals the ball for UNC!,Turnover,20,18,37,136
+WMU,Michael Howard steals the ball for WMU!,Turnover,20,18,38,136
+WMU,Jeffrey Russell Inside shot...Score!,Score,20,20,39,136
+UNC,Chi Conn Inside shot...Score!       Assisted by: Michael Simpson,Score,22,20,40,136
+WMU,Joesph Romeo Inside shot...Score!,Score,22,22,41,136
+UNC,Chi Conn Inside shot...Missed!       Rebounded by WMU Gary Bailey.,Score,22,22,42,136
+WMU,Gary Bailey 3-point attempt...Score!       Assisted by: Michael Howard,Score,22,25,43,136
+WMU,Sonny Snowden steals the ball for WMU!,Turnover,22,25,44,136
+WMU,Hanh Vang Inside shot...Score!       Assisted by: Michael Howard,Score,22,27,45,136
+UNC,Raleigh Matthews Inside shot...Score!,Score,24,27,46,136
+WMU,Sonny Snowden Inside shot...Score!,Score,24,29,47,136
+WMU,Sonny Snowden steals the ball for WMU!,Turnover,24,29,48,136
+WMU,Michael Howard 3-point attempt...Score!       Assisted by: Hanh Vang,Score,24,32,49,136
+UNC,UNC: Offensive foul on UNC James Moller.,Foul,24,32,50,136
+WMU,Joesph Romeo Inside shot...Score!,Score,24,34,51,136
+UNC,Raleigh Matthews 2-point jumper... Missed with a foul on the play.,Turnover,24,34,52,136
+UNC,Raleigh Matthews 2-point jumper... Missed with a foul on the play.,FreeThrow,25,34,52,136
+UNC,Raleigh Matthews 2-point jumper... Missed with a foul on the play.,FreeThrow,26,34,52,136
+WMU,Joesph Romeo 3-point attempt...Missed!Rebounded by UNC Timothy Zulkowski.,Score,26,34,53,136
+UNC,Chi Conn 2-point jumper...Score!,Score,28,34,54,136
+WMU,Sonny Snowden 3-point attempt...Missed!Rebounded by UNC Michael Simpson.,Score,28,34,55,136
+UNC,James Moller 3-point attempt...Score! Fouled on the play... and one!       Assisted by: Christopher Stinson,Score,31,34,56,136
+UNC,Free throw coming up... good!,FreeThrow,32,34,56,136
+WMU,Joesph Romeo 3-point attempt...Score!       Assisted by: Domingo Butler,Score,32,37,57,136
+UNC,Thomas Whisenhunt Inside shot...Score!,Score,34,37,58,136
+WMU,Matthew Powell Inside shot...Score!,Score,34,39,59,136
+UNC,UNC: Offensive foul on UNC Dennis Elliott.,Foul,34,39,60,136
+WMU,Matthew Powell 3-point attempt...Score!       Assisted by: Joesph Romeo,Score,34,42,61,136
+UNC,Christopher Stinson Inside shot... Missed with a foul on the play.,Fouled,34,42,62,136
+UNC,Free throw coming up... good!,FreeThrow,35,42,62,136
+UNC,Free throw coming up... good!,FreeThrow,36,42,62,136
+WMU,Joesph Romeo Inside shot...Score!       Assisted by: Domingo Butler,Score,36,44,63,136
+UNC,Donald Steele 2-point jumper...BLOCKED by WMU Matthew Powell.       Rebounded by WMU Joseph Rogers.,Turnover,36,44,64,136
+WMU,Domingo Butler Inside shot...Score!,Score,36,46,65,136
+UNC,James Moller 2-point jumper...Score!       Assisted by: Raleigh Matthews,Score,38,46,66,136
+WMU,WMU Gary Bailey lost the ball out of bounds.,Turnover,38,46,67,136
+UNC,Raleigh Matthews Inside shot...Score!,Score,40,46,68,136
+,,HALFTIME,40,46,68,136
+WMU,Hanh Vang Inside shot...Score!,Score,40,48,69,136
+UNC,Thomas Whisenhunt 2-point jumper...Missed!       Rebounded by WMU Michael Howard.,Missed,40,48,70,136
+UNC,Chi Conn steals the ball for UNC!,Turnover,40,48,71,136
+UNC,Christopher Stinson 2-point jumper...Score!,Score,42,48,72,136
+WMU,WMU: Shot clock violation on WMU Sonny Snowden.,Turnover,42,48,73,136
+UNC,Raleigh Matthews 2-point jumper...Missed!       Rebounded by WMU Michael Howard.,Missed,42,48,74,136
+WMU,Sonny Snowden Inside shot...Score!,Score,42,50,75,136
+UNC,Michael Simpson 2-point jumper...Missed!       Rebounded by WMU Michael Howard.,Missed,42,50,76,136
+WMU,Domingo Butler 2-point jumper...Missed!       Rebounded by UNC Raleigh Matthews.,Score,42,50,77,136
+UNC,UNC: Offensive foul on UNC James Moller.,Foul,42,50,78,136
+WMU,Gary Bailey Inside shot...Missed!       Rebounded by WMU Joseph Rogers.,Score,42,50,79,136
+UNC,James Moller steals the ball for UNC!,Turnover,42,50,80,136
+UNC,Michael Simpson Inside shot...Score!,Score,44,50,81,136
+WMU,Michael Howard 3-point attempt...Score!       Assisted by: Hanh Vang,Score,44,53,82,136
+WMU,Joesph Romeo steals the ball for WMU!,Turnover,44,53,83,136
+WMU,Joesph Romeo Inside shot...Score!       Assisted by: Philip Elias,Score,44,55,84,136
+UNC,UNC James Moller lost the ball out of bounds.,Out of Bounds,44,55,85,136
+WMU,Sonny Snowden 2-point jumper...Missed!       Rebounded by UNC Michael Simpson.,Score,44,55,86,136
+UNC,Michael Simpson Inside shot...Score!,Score,46,55,87,136
+UNC,Patrick Coffey steals the ball for UNC!,Turnover,46,55,88,136
+UNC,UNC James Moller lost the ball out of bounds.,Out of Bounds,46,55,89,136
+WMU,Joesph Romeo 2-point jumper...Missed!       Rebounded by UNC Timothy Zulkowski.,Score,46,55,90,136
+UNC,Raleigh Matthews 2-point jumper...Missed!       Rebounded by WMU Michael Howard.,Missed,46,55,91,136
+WMU,Matthew Powell Inside shot...Score!,Score,46,57,92,136
+UNC,Norman Thao Inside shot...Score!,Score,48,57,93,136
+WMU,Gary Bailey Inside shot... Missed but with a foul on the play.,Fouled,48,57,94,136
+WMU,Free throw coming up... good!,FreeThrow,48,58,94,136
+WMU,Free throw coming up... good!,FreeThrow,48,59,94,136
+UNC,Michael Simpson 2-point jumper...Score!,Score,50,59,95,136
+WMU,Gary Bailey 2-point jumper...Missed!       Rebounded by UNC Thomas Whisenhunt.,Score,50,59,96,136
+UNC,Dennis Elliott 2-point jumper...Missed!       Rebounded by WMU Michael Howard.,Missed,50,59,97,136
+WMU,WMU Sonny Snowden lost the ball out of bounds.,Turnover,50,59,98,136
+UNC,Timothy Zulkowski Inside shot...Score!,Score,52,59,99,136
+WMU,Michael Howard Inside shot...Missed!       Rebounded by UNC Thomas Whisenhunt.,Score,52,59,100,136
+UNC,Michael Simpson Inside shot... Missed with a foul on the play.,Fouled,52,59,101,136
+UNC,Free throw coming up... rattled out.       Rebounded by UNC Raleigh Matthews.,FreeThrow,52,59,101,136
+WMU,Sonny Snowden steals the ball for WMU!,Turnover,52,59,102,136
+WMU,Joesph Romeo Inside shot...Score!,Score,52,61,103,136
+UNC,UNC: Offensive foul on UNC William Rickson.,Foul,52,61,104,136
+UNC,Christopher Stinson steals the ball for UNC!,Turnover,52,61,105,136
+UNC,Thomas Whisenhunt 2-point jumper...Score!       Assisted by: Timothy Zulkowski,Score,54,61,106,136
+WMU,Matthew Powell Inside shot...Score!,Score,54,63,107,136
+UNC,Chi Conn 2-point jumper...Score!,Score,56,63,108,136
+WMU,Matthew Powell Inside shot...Score!,Score,56,65,109,136
+UNC,UNC: Offensive foul on UNC Michael Simpson.,Foul,56,65,110,136
+WMU,Sonny Snowden 2-point jumper...Missed!       Rebounded by WMU Matthew Powell.,Score,56,65,111,136
+UNC,Thomas Whisenhunt steals the ball for UNC!,Turnover,56,65,112,136
+UNC,Patrick Coffey 3-point attempt...Score!       Assisted by: James Moller,Score,59,65,113,136
+UNC,Gerard Jones steals the ball for UNC!,Turnover,59,65,114,136
+WMU,Joesph Romeo steals the ball for WMU!,Turnover,59,65,115,136
+WMU,Sonny Snowden 2-point jumper...Missed!       Rebounded by UNC Christopher Stinson.,Score,59,65,116,136
+UNC,Thomas Whisenhunt Inside shot...Score!,Score,61,65,117,136
+UNC,Michael Simpson steals the ball for UNC!,Turnover,61,65,118,136
+UNC,Raleigh Matthews 2-point jumper...Missed!       Rebounded by UNC Christopher Stinson.,Missed,61,65,119,136
+UNC,Thomas Whisenhunt Inside shot...Score!,Score,63,65,120,136
+WMU,Matthew Powell Inside shot...Missed!       Rebounded by UNC James Moller.,Score,63,65,121,136
+UNC,Michael Simpson 3-point attempt...Missed!       Rebounded by UNC James Moller.,Missed,63,65,122,136
+UNC,Michael Simpson Inside shot...BLOCKED by WMU Sonny Snowden.       Rebounded by WMU Sonny Snowden.,Turnover,63,65,123,136
+WMU,Michael Howard Inside shot... Missed but with a foul on the play.,Fouled,63,65,124,136
+WMU,Free throw coming up... good!,FreeThrow,63,66,124,136
+WMU,Free throw coming up... rattled out.       Rebounded by UNC Thomas Whisenhunt.,FreeThrow,63,66,124,136
+UNC,Chi Conn 2-point jumper...Score!       Assisted by: Timothy Zulkowski,Score,65,66,125,136
+WMU,Michael Howard Inside shot... Missed but with a foul on the play.,Fouled,65,66,126,136
+WMU,Free throw coming up... good!,FreeThrow,65,67,126,136
+WMU,Free throw coming up... rattled out.       Rebounded by WMU Joseph Rogers.,FreeThrow,65,67,126,136
+WMU,WMU Michael Howard lost the ball out of bounds.,Turnover,65,67,127,136
+UNC,UNC: Offensive foul on UNC Thomas Whisenhunt.,Foul,65,67,128,136
+WMU,WMU: Offensive foul on WMU Michael Howard.,Turnover,65,67,129,136
+WMU,Sonny Snowden steals the ball for WMU!,Turnover,65,67,130,136
+WMU,Sonny Snowden Inside shot... Missed but with a foul on the play.,Fouled,65,67,131,136
+WMU,Free throw coming up... good!,FreeThrow,65,68,131,136
+WMU,Free throw coming up... good!,FreeThrow,65,69,131,136
+UNC,Thomas Whisenhunt 2-point jumper...Score!       Assisted by: Donald Steele,Score,67,69,132,136
+WMU,Domingo Butler 2-point jumper...Missed!       Rebounded by WMU Domingo Butler.,Score,67,69,133,136
+WMU,WMU: Offensive foul on WMU Sonny Snowden.,Turnover,67,69,134,136
+UNC,Chi Conn Inside shot...Score!,Score,69,69,135,136
+WMU,Sonny Snowden 2-point jumper...Missed!       Rebounded by UNC Michael Simpson.,Score,69,69,136,136
+,...and we're going to Overtime!,OVERTIME,69,69,136,153
+UNC,Donald Steele 3-point attempt...Score!       Assisted by: Michael Simpson,Score,72,69,137,153
+WMU,Gary Bailey Inside shot...Score!,Score,72,71,138,153
+UNC,UNC: Offensive foul on UNC Timothy Zulkowski.,Foul,72,71,139,153
+WMU,Sonny Snowden Inside shot...Score!       Assisted by: Matthew Powell,Score,72,73,140,153
+UNC,UNC: Shot clock violation on UNC Timothy Zulkowski.,Shot Clock Violation,72,73,141,153
+WMU,Joesph Romeo 3-point attempt...Score!       Assisted by: Michael Howard,Score,72,76,142,153
+UNC,Thomas Whisenhunt 3-point attempt...Missed!       Rebounded by WMU Sonny Snowden.,Miss,72,76,143,153
+WMU,Jeffrey Russell Inside shot...Score!,Score,72,78,144,153
+UNC,Raleigh Matthews Inside shot...Score!,Score,74,78,145,153
+WMU,Michael Howard Inside shot...Missed!       Rebounded by WMU Jeffrey Russell.,Score,74,78,146,153
+WMU,Gary Bailey 3-point attempt...Missed!       Rebounded by WMU Jeffrey Russell.,Score,74,78,147,153
+WMU,Michael Howard Inside shot...Score!       Assisted by: Joesph Romeo,Score,74,80,148,153
+UNC,Christopher Stinson 3-point attempt...Missed!       Rebounded by WMU Jeffrey Russell.,Miss,74,80,149,153
+WMU,Gary Bailey Inside shot...BLOCKED by Chi Conn.       Rebounded by UNC Chi Conn.,Turnover,74,80,150,153
+UNC,Michael Simpson 2-point jumper...Missed!       Rebounded by UNC Michael Simpson.,Missed,74,80,151,153
+UNC,Patrick Coffey Inside shot...Score!       Assisted by: Chi Conn,Score,76,80,152,153
+UNC,Christopher Stinson steals the ball for UNC!,Turnover,76,80,153,153
+UNC,Timothy Zulkowski Inside shot...Score!       Assisted by: Raleigh Matthews,Score,78,80,154,153
+,Match Complete,FinalScore,78,80,154,153

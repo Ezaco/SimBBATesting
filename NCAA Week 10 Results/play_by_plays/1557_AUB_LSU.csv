@@ -1,0 +1,166 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+AUB,LSU,46,61,146
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+LSU,LSU wins the tipoff!,Tipoff,0,0,0,146
+LSU,LSU: Offensive foul on LSU Christopher Herrera.,Turnover,0,0,1,146
+AUB,John Mason 2-point jumper...Missed!       Rebounded by LSU Christopher Herrera.,Missed,0,0,2,146
+LSU,Matthew Gullett 2-point jumper...Score!       Assisted by: Christopher Herrera,Score,0,2,3,146
+AUB,David Gurry Inside shot...Score!       Assisted by: Richard Angelle,Score,2,2,4,146
+LSU,Christopher Brock Inside shot...Score!,Score,2,4,5,146
+AUB,Antoine Kasey Inside shot... Missed with a foul on the play.,Fouled,2,4,6,146
+AUB,Free throw coming up... good!,FreeThrow,3,4,6,146
+AUB,Free throw coming up... good!,FreeThrow,4,4,6,146
+LSU,Kevin Thomas Inside shot... Missed but with a foul on the play.,Fouled,4,4,7,146
+LSU,Free throw coming up... rattled out.,FreeThrow,4,4,7,146
+LSU,Free throw coming up... rattled out.       Rebounded by AUB Antoine Kasey.,FreeThrow,4,4,7,146
+AUB,Michael Jackson Inside shot...BLOCKED by LSU Jeffrey Gannon.       Rebounded by AUB Douglas Kimmes.,Turnover,4,4,8,146
+AUB,Antoine Kasey 2-point jumper...Missed!       Rebounded by AUB Nickolas Kilian.,Missed,4,4,9,146
+AUB,Jose Harrell Inside shot...BLOCKED by LSU Matthew Gullett.       Rebounded by LSU Christopher Brock.,Turnover,4,4,10,146
+AUB,Douglas Kimmes steals the ball for AUB!,Turnover,4,4,11,146
+LSU,Matthew Gullett steals the ball for LSU!,Turnover,4,4,13,146
+LSU,Jules Basham 2-point jumper...Missed!       Rebounded by AUB Douglas Kimmes.,Score,4,4,14,146
+AUB,Jose Harrell Inside shot...Score!,Score,6,4,15,146
+LSU,Jeffrey Gannon Inside shot...Missed!       Rebounded by AUB Jose Harrell.,Score,6,4,16,146
+AUB,David Gurry 2-point jumper...BLOCKED by LSU Hugo Eakins.       Rebounded by AUB Douglas Kimmes.,Turnover,6,4,17,146
+AUB,Antoine Kasey 2-point jumper...Score!,Score,8,4,18,146
+LSU,William Woodard 3-point attempt...Score!       Assisted by: Matthew Gullett,Score,8,7,19,146
+AUB,Jose Harrell Inside shot...Score! Foul on the play and one!       Assisted by: Nickolas Kilian,Score,10,7,20,146
+AUB,Free throw coming up... good!,FreeThrow,11,7,20,146
+LSU,Christopher Herrera Inside shot...Score!       Assisted by: Jeffrey Gannon,Score,11,9,21,146
+LSU,William Woodard steals the ball for LSU!,Turnover,11,9,22,146
+LSU,Matthew Gullett Inside shot... Missed but with a foul on the play.,Fouled,11,9,23,146
+LSU,Free throw coming up... good!,FreeThrow,11,10,23,146
+LSU,Free throw coming up... good!,FreeThrow,11,11,23,146
+AUB,Anthony Goldberg 3-point attempt...Missed!       Rebounded by LSU Matthew Gullett.,Miss,11,11,24,146
+LSU,Matthew Gullett Inside shot...Missed!       Rebounded by LSU Kevin Thomas.,Score,11,11,25,146
+LSU,Jeffrey Gannon 3-point attempt...Missed!Rebounded by AUB David Gurry.,Score,11,11,26,146
+AUB,AUB: Offensive foul on AUB David Gurry.,Foul,11,11,27,146
+LSU,Matthew Gullett Inside shot...Score!       Assisted by: William Woodard,Score,11,13,28,146
+AUB,Antoine Kasey 3-point attempt...Score!,Score,14,13,29,146
+LSU,Matthew Gullett 2-point jumper...Score!       Assisted by: William Woodard,Score,14,15,30,146
+AUB,Michael Jackson Inside shot...Score!       Assisted by: Antoine Kasey,Score,16,15,31,146
+LSU,Kevin Thomas Inside shot...Score!       Assisted by: Matthew Gullett,Score,16,17,32,146
+AUB,AUB: Offensive foul on AUB Douglas Kimmes.,Foul,16,17,33,146
+LSU,Kevin Thomas Inside shot...Score!,Score,16,19,34,146
+AUB,Michael Jackson 3-point attempt...Missed!       Rebounded by LSU Kevin Thomas.,Miss,16,19,35,146
+LSU,Christopher Brock Inside shot...BLOCKED by Antoine Kasey.       Rebounded by LSU Matthew Gullett.,Turnover,16,19,36,146
+AUB,Michael Jackson steals the ball for AUB!,Turnover,16,19,37,146
+AUB,Michael Jackson 2-point jumper...BLOCKED by LSU Matthew Gullett.       Rebounded by AUB Antoine Kasey.,Turnover,16,19,38,146
+LSU,Christopher Brock steals the ball for LSU!,Turnover,16,19,39,146
+LSU,Jeffrey Gannon 3-point attempt...Missed!Rebounded by AUB Cody Kinney.,Score,16,19,40,146
+AUB,Antoine Kasey 2-point jumper...Score!,Score,18,19,41,146
+LSU,Blake Pennington Inside shot...Missed!       Rebounded by AUB Michael Jackson.,Score,18,19,43,146
+AUB,Michael Jackson 2-point jumper...Score!,Score,20,19,44,146
+LSU,William Woodard 3-point attempt...Missed!Rebounded by AUB Anthony Goldberg.,Score,20,19,45,146
+AUB,Anthony Goldberg 2-point jumper...Missed!       Rebounded by LSU Bryan Brown.,Missed,20,19,46,146
+AUB,Nickolas Kilian steals the ball for AUB!,Turnover,20,19,47,146
+AUB,Blaine Miyazaki 3-point attempt...Missed!       Rebounded by AUB David Gurry.,Missed,20,19,48,146
+AUB,Blaine Miyazaki Inside shot...Score!       Assisted by: Michael Jackson,Score,22,19,49,146
+LSU,Kevin Thomas 2-point jumper...Missed!       Rebounded by AUB Nickolas Kilian.,Score,22,19,50,146
+AUB,Jose Harrell Inside shot...Score!,Score,24,19,51,146
+LSU,LSU William Woodard lost the ball out of bounds.,Turnover,24,19,52,146
+AUB,Nickolas Kilian Inside shot...BLOCKED by LSU William Woodard.       Rebounded by LSU Kevin Thomas.,Turnover,24,19,53,146
+LSU,William Woodard 2-point jumper...Missed!       Rebounded by AUB Nickolas Kilian.,Score,24,19,54,146
+AUB,Blaine Miyazaki 3-point attempt...Missed!       Rebounded by AUB Richard Angelle.,Missed,24,19,55,146
+AUB,Antoine Kasey 3-point attempt...Missed!       Rebounded by LSU Kevin Thomas.,Miss,24,19,56,146
+LSU,Matthew Gullett 3-point attempt...Score!       Assisted by: Jeffrey Gannon,Score,24,22,57,146
+AUB,AUB: Shot clock violation on AUB Blaine Miyazaki.,Shot Clock Violation,24,22,58,146
+LSU,Kevin Thomas 3-point attempt...Score!       Assisted by: William Woodard,Score,24,25,59,146
+AUB,Nickolas Kilian 2-point jumper...Missed!       Rebounded by LSU Kevin Thomas.,Missed,24,25,60,146
+LSU,Christopher Brock 2-point jumper...Missed!       Rebounded by AUB Douglas Kimmes.,Score,24,25,61,146
+AUB,Nickolas Kilian 2-point jumper...Missed!       Rebounded by LSU Kevin Thomas.,Missed,24,25,62,146
+LSU,Hugo Eakins 3-point attempt...BLOCKED by AUB John Mason.       Rebounded by AUB Jose Harrell.,Turnover,24,25,63,146
+AUB,Michael Jackson 2-point jumper...Missed!       Rebounded by LSU Jules Basham.,Missed,24,25,64,146
+LSU,LSU: Offensive foul on LSU Jeffrey Gannon.,Turnover,24,25,65,146
+AUB,Nickolas Kilian 2-point jumper...Missed!       Rebounded by LSU Kevin Thomas.,Missed,24,25,66,146
+LSU,Christopher Brock 2-point jumper...Missed!       Rebounded by AUB John Mason.,Score,24,25,67,146
+AUB,Michael Jackson 2-point jumper...Missed!       Rebounded by LSU Blake Pennington.,Missed,24,25,68,146
+LSU,William Woodard Inside shot...Missed!       Rebounded by AUB Anthony Goldberg.,Score,24,25,69,146
+LSU,Jeffrey Gannon steals the ball for LSU!,Turnover,24,25,70,146
+LSU,Christopher Herrera Inside shot...Score!,Score,24,27,71,146
+AUB,Michael Jackson Inside shot... Missed with a foul on the play.,Fouled,24,27,72,146
+AUB,Free throw coming up... good!,FreeThrow,25,27,72,146
+LSU,Jeffrey Gannon 2-point jumper...Score!       Assisted by: Christopher Herrera,Score,25,29,73,146
+,,HALFTIME,25,29,73,146
+AUB,Douglas Kimmes 3-point attempt...Missed!       Rebounded by LSU William Woodard.,Miss,25,29,74,146
+LSU,Blake Pennington Inside shot...Score!       Assisted by: Christopher Herrera,Score,25,31,75,146
+AUB,David Gurry Inside shot...Missed!       Rebounded by LSU Christopher Herrera.,Score,25,31,76,146
+LSU,Blake Pennington Inside shot...BLOCKED by Douglas Kimmes.       Rebounded by AUB Jose Harrell.,Turnover,25,31,77,146
+LSU,Hugo Eakins steals the ball for LSU!,Turnover,25,31,78,146
+LSU,Matthew Gullett Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: Andrew Carson,Score,25,33,79,146
+LSU,Free throw coming up... good!,FreeThrow,25,34,79,146
+LSU,Jules Basham steals the ball for LSU!,Turnover,25,34,80,146
+LSU,Jules Basham 2-point jumper...Score!,Score,25,36,81,146
+AUB,Jose Harrell 2-point jumper...Missed!       Rebounded by LSU Blake Pennington.,Missed,25,36,82,146
+LSU,William Woodard 2-point jumper...Missed!       Rebounded by LSU Hugo Eakins.,Score,25,36,83,146
+LSU,Jeffrey Gannon Inside shot...Missed!       Rebounded by LSU Bryan Brown.,Score,25,36,84,146
+LSU,Christopher Herrera 2-point jumper...Missed!       Rebounded by LSU Jules Basham.,Score,25,36,85,146
+LSU,Kevin Thomas Inside shot...Score!,Score,25,38,86,146
+AUB,Blaine Miyazaki Inside shot... Missed with a foul on the play.,Fouled,25,38,87,146
+AUB,Free throw coming up... good!,FreeThrow,26,38,87,146
+AUB,Free throw coming up... good!,FreeThrow,27,38,87,146
+LSU,William Woodard 2-point jumper...Score!,Score,27,40,88,146
+AUB,Antoine Kasey 2-point jumper...Missed!       Rebounded by LSU William Woodard.,Missed,27,40,89,146
+LSU,LSU: Offensive foul on LSU Kevin Thomas.,Turnover,27,40,90,146
+AUB,Douglas Kimmes Inside shot...Score!       Assisted by: Carl Barnes,Score,29,40,91,146
+LSU,Hugo Eakins 2-point jumper...Missed!       Rebounded by AUB Michael Jackson.,Score,29,40,92,146
+AUB,Michael Jackson 3-point attempt...Missed!       Rebounded by LSU Christopher Herrera.,Miss,29,40,93,146
+LSU,Matthew Gullett 3-point attempt...Missed!Rebounded by AUB Douglas Kimmes.,Score,29,40,94,146
+AUB,Antoine Kasey Inside shot...Score!       Assisted by: Jose Harrell,Score,31,40,95,146
+LSU,Kevin Thomas Inside shot...Score!,Score,31,42,96,146
+AUB,Carl Barnes 2-point jumper...Missed!       Rebounded by AUB David Gurry.,Missed,31,42,97,146
+AUB,AUB: Offensive foul on AUB Antoine Kasey.,Foul,31,42,98,146
+LSU,Matthew Gullett Inside shot...Score!,Score,31,44,99,146
+AUB,Blaine Miyazaki 2-point jumper...Missed!       Rebounded by LSU Hugo Eakins.,Missed,31,44,100,146
+LSU,Hugo Eakins Inside shot...Score!,Score,31,46,101,146
+AUB,Jose Harrell 2-point jumper...Missed!       Rebounded by AUB Antoine Kasey.,Missed,31,46,102,146
+AUB,AUB: Offensive foul on AUB Nickolas Kilian.,Foul,31,46,103,146
+LSU,Christopher Herrera Inside shot...Score!       Assisted by: Andrew Carson,Score,31,48,104,146
+LSU,William Woodard steals the ball for LSU!,Turnover,31,48,105,146
+LSU,Blake Pennington Inside shot...Score!,Score,31,50,106,146
+AUB,Nickolas Kilian 2-point jumper...Missed!       Rebounded by LSU Christopher Brock.,Missed,31,50,107,146
+LSU,LSU Jeffrey Gannon lost the ball out of bounds.,Turnover,31,50,108,146
+AUB,Antoine Kasey Inside shot...Score! Foul on the play and one!,Score,33,50,109,146
+AUB,Free throw coming up... rattled out.       Rebounded by LSU Jeffrey Gannon.,FreeThrow,33,50,109,146
+LSU,LSU: Offensive foul on LSU Blake Pennington.,Turnover,33,50,110,146
+AUB,Nickolas Kilian 3-point attempt...Missed!       Rebounded by LSU Kevin Thomas.,Miss,33,50,111,146
+LSU,Matthew Gullett 2-point jumper...BLOCKED by Anthony Goldberg.       Rebounded by LSU Matthew Gullett.,Turnover,33,50,112,146
+LSU,LSU Hugo Eakins lost the ball out of bounds.,Turnover,33,50,113,146
+AUB,Michael Jackson Inside shot...BLOCKED by LSU Kevin Thomas.       Rebounded by AUB Nickolas Kilian.,Turnover,33,50,114,146
+AUB,Jose Harrell 2-point jumper...Missed!       Rebounded by LSU Blake Pennington.,Missed,33,50,115,146
+LSU,Blake Pennington Inside shot...Score!       Assisted by: Jeffrey Gannon,Score,33,52,116,146
+AUB,Nickolas Kilian Inside shot...Score!,Score,35,52,117,146
+AUB,Nickolas Kilian steals the ball for AUB!,Turnover,35,52,118,146
+AUB,AUB Antoine Kasey lost the ball out of bounds.,Out of Bounds,35,52,119,146
+LSU,Jeffrey Gannon 2-point jumper...Missed!       Rebounded by AUB Richard Angelle.,Score,35,52,120,146
+AUB,Nickolas Kilian 2-point jumper...Missed!       Rebounded by LSU Bryan Brown.,Missed,35,52,121,146
+LSU,Blake Pennington Inside shot...Score!,Score,35,54,122,146
+AUB,Michael Jackson Inside shot...Score!,Score,37,54,124,146
+LSU,LSU: Offensive foul on LSU Kevin Thomas.,Turnover,37,54,125,146
+AUB,Michael Jackson 3-point attempt...Score!       Assisted by: David Gurry,Score,40,54,126,146
+AUB,Antoine Kasey steals the ball for AUB!,Turnover,40,54,127,146
+AUB,Jose Harrell 3-point attempt...Missed!       Rebounded by AUB Nickolas Kilian.,Missed,40,54,128,146
+AUB,Anthony Goldberg 3-point attempt...Missed!       Rebounded by LSU William Woodard.,Miss,40,54,129,146
+LSU,Christopher Herrera 2-point jumper...Score!       Assisted by: Matthew Gullett,Score,40,56,130,146
+AUB,Blaine Miyazaki 2-point jumper...Missed!       Rebounded by LSU Kevin Thomas.,Missed,40,56,131,146
+LSU,LSU Christopher Herrera lost the ball out of bounds.,Turnover,40,56,132,146
+AUB,AUB: Offensive foul on AUB Jose Harrell.,Foul,40,56,133,146
+LSU,Blake Pennington 2-point jumper...Missed!       Rebounded by AUB Douglas Kimmes.,Score,40,56,134,146
+AUB,Jose Harrell Inside shot...Score!,Score,42,56,135,146
+AUB,Jose Harrell steals the ball for AUB!,Turnover,42,56,136,146
+AUB,Anthony Goldberg 2-point jumper...Score!,Score,44,56,137,146
+LSU,Blake Pennington 2-point jumper...Score! Foul on the play and we go to a free throw!       Assisted by: William Woodard,Score,44,58,138,146
+LSU,Free throw coming up... good!,FreeThrow,44,59,138,146
+AUB,Antoine Kasey 2-point jumper...Missed!       Rebounded by LSU Christopher Herrera.,Missed,44,59,139,146
+LSU,LSU: Offensive foul on LSU William Woodard.,Turnover,44,59,140,146
+AUB,Richard Angelle 2-point jumper...Missed!       Rebounded by LSU William Woodard.,Missed,44,59,141,146
+LSU,Hugo Eakins 3-point attempt...Missed!Rebounded by AUB Michael Jackson.,Score,44,59,142,146
+AUB,Antoine Kasey 2-point jumper...BLOCKED by LSU Kevin Thomas.       Rebounded by LSU Blake Pennington.,Turnover,44,59,143,146
+LSU,William Woodard Inside shot... Missed but with a foul on the play.,Fouled,44,59,144,146
+LSU,Free throw coming up... good!,FreeThrow,44,60,144,146
+LSU,Free throw coming up... good!,FreeThrow,44,61,144,146
+AUB,Nickolas Kilian 2-point jumper...Score!,Score,46,61,145,146
+LSU,Matthew Gullett Inside shot...Missed!       Rebounded by AUB Douglas Kimmes.,Score,46,61,146,146
+AUB,AUB: Offensive foul on AUB David Gurry.,Foul,46,61,147,146
+,Match Complete,FinalScore,46,61,147,146

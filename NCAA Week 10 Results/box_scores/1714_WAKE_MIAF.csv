@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Wake Forest,Demon Deacons,26,44,0,70
+Miami (FL),Hurricanes,29,48,0,77
+""
+""
+=====Wake Forest Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Gregory Kirik,25,24,7,11,0.6363636363636364,1,3,0.3333333333333333,0,0,0,15,11,0,0,1,0,0
+Allan Dunlap,20,15,3,7,0.42857142857142855,2,3,0.6666666666666666,0,0,0,8,0,0,0,1,1,0
+Marcos Veliz,25,23,4,10,0.4,1,3,0.3333333333333333,2,2,1.0,11,6,2,1,2,0,1
+Viktor Raulerson,25,12,2,5,0.4,0,0,0,0,0,0,4,3,1,1,2,1,1
+Ricky Cottrell,25,16,4,7,0.5714285714285714,0,2,0.0,4,4,1.0,12,2,3,1,0,0,0
+David Dunham,25,16,4,8,0.5,1,2,0.5,0,0,0,9,4,0,0,0,0,0
+Marvin Perkins,8,7,0,2,0.0,0,1,0.0,0,0,0,0,1,0,1,0,0,2
+Cody Peterson,7,5,0,2,0.0,0,0,0,1,2,0.5,1,4,0,0,0,0,0
+Louis Awad,20,13,4,5,0.8,1,1,1.0,0,0,0,9,3,1,0,0,1,0
+Douglas Broussard,5,2,0,1,0.0,0,0,0,0,0,0,0,1,2,0,1,0,0
+Phu Zhang,5,2,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Timothy Brown,5,2,0,1,0.0,0,0,0,1,2,0.5,1,0,0,0,0,0,0
+Raul Uzhca,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+""
+=====Miami (FL) Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Nathan Francis,37,31,5,14,0.35714285714285715,4,10,0.4,0,0,0,14,5,4,0,0,3,0
+Daniel Hach,25,15,4,6,0.6666666666666666,4,6,0.6666666666666666,0,0,0,12,0,2,1,0,2,0
+Craig Fisher,35,31,5,11,0.45454545454545453,1,6,0.16666666666666666,2,2,1.0,13,10,1,3,2,7,1
+Douglas Hughes,10,2,1,1,1.0,0,0,0,0,0,0,2,1,1,0,0,0,0
+Benjamin Fritts,25,16,4,7,0.5714285714285714,3,5,0.6,0,1,0.0,11,2,5,0,0,3,1
+Jeffrey Luedtke,33,17,3,8,0.375,1,4,0.25,3,4,0.75,10,4,4,0,1,1,1
+Randy Oneill,6,5,1,2,0.5,1,2,0.5,0,0,0,3,0,0,1,1,0,0
+Wade Zheng,6,4,2,2,1.0,1,1,1.0,0,0,0,5,3,0,0,0,0,0
+Richard Beck,11,8,1,3,0.3333333333333333,1,3,0.3333333333333333,0,0,0,3,4,0,1,0,1,0
+Dustin Williamson,3,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Kevin Payton,3,4,1,2,0.5,0,0,0,0,0,0,2,2,0,0,0,0,0
+Joseph Robinson,4,3,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,1,0,0
+Minh Pham,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Wake Forest,Miami (FL)
+Points,70,77
+Possessions,79,78
+FGM,22,12
+FGA,45,20
+FGPercent,0.4888888888888889,0.6
+3PM,6,16
+3PA,15,38
+3P%,0.4,0.42105263157894735
+FTM,8,5
+FTA,10,7
+FT%,0.8,0.7142857142857143
+Rebounds,35,32
+OffRebounds,11,10
+DefRebounds,24,22
+Assists,10,18
+Steals,4,0
+Blocks,7,2
+Total Turnovers,17,14
+Largest Lead,5,12

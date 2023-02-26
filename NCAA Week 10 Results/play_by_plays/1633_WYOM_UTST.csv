@@ -1,0 +1,157 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+WYOM,UTST,56,57,144
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+WYOM,WYOM wins the tipoff!,Tipoff,0,0,0,144
+WYOM,John Mckenzie Inside shot...Score!       Assisted by: Michael Johnson,Score,2,0,1,144
+UTST,George Tate 2-point jumper...Missed!       Rebounded by WYOM Timothy Houston.,Score,2,0,2,144
+WYOM,Michael Johnson 2-point jumper...Missed!       Rebounded by UTST Martin Clinton.,Missed,2,0,3,144
+UTST,Ralph Jones 3-point attempt...Score!       Assisted by: Richard Guerra,Score,2,3,4,144
+WYOM,Timothy Houston Inside shot...Score!,Score,4,3,5,144
+UTST,Donald Alexander Inside shot...Score!       Assisted by: Richard Guerra,Score,4,5,6,144
+WYOM,Christopher Leffew 3-point attempt...Missed!       Rebounded by WYOM Timothy Houston.,Missed,4,5,7,144
+UTST,Neil Wetzel steals the ball for UTST!,Turnover,4,5,8,144
+UTST,UTST: Offensive foul on UTST Michael Mcfadden.,Turnover,4,5,9,144
+WYOM,Joseph Mallett Inside shot...Missed!       Rebounded by UTST Neil Wetzel.,Score,4,5,10,144
+UTST,UTST: Offensive foul on UTST George Tate.,Turnover,4,5,11,144
+WYOM,Robert Mueller 2-point jumper...BLOCKED by UTST George Tate.       Rebounded by WYOM Timothy Houston.,Turnover,4,5,12,144
+WYOM,Timothy Houston 2-point jumper...Missed!       Rebounded by UTST Donald Alexander.,Missed,4,5,13,144
+UTST,Richard Guerra 3-point attempt...Score!       Assisted by: Ralph Jones,Score,4,8,14,144
+WYOM,John Mckenzie 2-point jumper...Score!,Score,6,8,15,144
+UTST,Ralph Jones Inside shot...Score!       Assisted by: Neil Wetzel,Score,6,10,16,144
+WYOM,Steven Gentes 3-point attempt...Score!       Assisted by: Timothy Houston,Score,9,10,17,144
+UTST,Richard Guerra Inside shot...Missed!       Rebounded by UTST George Tate.,Score,9,10,18,144
+UTST,Ralph Jones 3-point attempt...Missed!Rebounded by WYOM Michael Johnson.,Score,9,10,19,144
+WYOM,WYOM: Shot clock violation on WYOM John Mckenzie.,Shot Clock Violation,9,10,20,144
+UTST,UTST Ralph Jones lost the ball out of bounds.,Turnover,9,10,21,144
+WYOM,Larry Charlton Inside shot...Score!,Score,11,10,22,144
+UTST,Michael Mcfadden 2-point jumper...Score!       Assisted by: Ralph Jones,Score,11,12,23,144
+WYOM,Michael Johnson 2-point jumper...Missed!       Rebounded by WYOM Robert Mueller.,Missed,11,12,24,144
+WYOM,Tyrone Bontemps Inside shot... Missed with a foul on the play.,Fouled,11,12,25,144
+WYOM,Free throw coming up... rattled out.       Rebounded by WYOM John Mckenzie.,FreeThrow,11,12,25,144
+WYOM,WYOM: Offensive foul on WYOM Robert Mueller.,Foul,11,12,26,144
+UTST,Michael Mcfadden 3-point attempt...Missed!Rebounded by WYOM Robert Mueller.,Score,11,12,27,144
+WYOM,Larry Charlton 2-point jumper...Missed!       Rebounded by UTST Ralph Jones.,Missed,11,12,28,144
+UTST,UTST Neil Wetzel lost the ball out of bounds.,Turnover,11,12,29,144
+WYOM,Michael Johnson 3-point attempt...Score!,Score,14,12,30,144
+UTST,Ralph Jones 3-point attempt...Missed!       Rebounded by UTST Neil Wetzel.,Score,14,12,31,144
+UTST,UTST: Offensive foul on UTST Ralph Jones.,Turnover,14,12,32,144
+WYOM,WYOM: Offensive foul on WYOM John Mckenzie.,Foul,14,12,33,144
+UTST,George Tate Inside shot...Score!       Assisted by: Ralph Jones,Score,14,14,34,144
+WYOM,Robert Mueller 3-point attempt...Score!       Assisted by: John Mckenzie,Score,17,14,35,144
+UTST,Richard Guerra 2-point jumper...BLOCKED by Timothy Houston.       Rebounded by WYOM Larry Charlton.,Turnover,17,14,36,144
+WYOM,Christopher Leffew Inside shot...BLOCKED by UTST Neil Wetzel.       Rebounded by UTST Ralph Jones.,Turnover,17,14,37,144
+UTST,George Tate 3-point attempt...Missed!Rebounded by WYOM Michael Johnson.,Score,17,14,38,144
+WYOM,Larry Charlton 2-point jumper...Score!       Assisted by: Christopher Leffew,Score,19,14,39,144
+UTST,James Pannell Inside shot...BLOCKED by Christopher Leffew.       Rebounded by WYOM Timothy Houston.,Turnover,19,14,40,144
+UTST,Perry Leslie steals the ball for UTST!,Turnover,19,14,41,144
+UTST,George Tate Inside shot... Missed but with a foul on the play.,Fouled,19,14,42,144
+UTST,Free throw coming up... good!,FreeThrow,19,15,42,144
+UTST,Free throw coming up... good!,FreeThrow,19,16,42,144
+WYOM,Larry Charlton Inside shot...Score!,Score,21,16,43,144
+UTST,Richard Guerra 3-point attempt...Missed!Rebounded by WYOM Timothy Houston.,Score,21,16,44,144
+WYOM,Brian Donovan 3-point attempt...Score!       Assisted by: Christopher Leffew,Score,24,16,45,144
+WYOM,Michael Johnson steals the ball for WYOM!,Turnover,24,16,46,144
+WYOM,Steven Gentes Inside shot...Score! Foul on the play and one!       Assisted by: Timothy Houston,Score,26,16,47,144
+WYOM,Free throw coming up... rattled out.       Rebounded by WYOM John Mckenzie.,FreeThrow,26,16,47,144
+WYOM,Robert Mueller Inside shot...Score!,Score,28,16,48,144
+WYOM,John Mckenzie steals the ball for WYOM!,Turnover,28,16,49,144
+WYOM,Tyrone Bontemps 2-point jumper...Missed!       Rebounded by UTST Ralph Jones.,Missed,28,16,50,144
+UTST,Neil Wetzel Inside shot...BLOCKED by Larry Charlton.       Rebounded by WYOM Timothy Houston.,Turnover,28,16,51,144
+WYOM,Larry Charlton 3-point attempt...Missed!       Rebounded by WYOM Michael Johnson.,Missed,28,16,52,144
+WYOM,WYOM Christopher Kaiser lost the ball out of bounds.,Out of Bounds,28,16,53,144
+UTST,Ralph Jones Inside shot...Score!       Assisted by: Richard Guerra,Score,28,18,54,144
+WYOM,Christopher Kaiser 2-point jumper...Missed!       Rebounded by UTST Donald Alexander.,Missed,28,18,55,144
+UTST,Donald Alexander 3-point attempt...Missed!Rebounded by WYOM Timothy Houston.,Score,28,18,56,144
+WYOM,Michael Johnson 3-point attempt...Missed!       Rebounded by WYOM Michael Johnson.,Missed,28,18,57,144
+WYOM,Timothy Houston 2-point jumper...Missed!       Rebounded by WYOM Timothy Houston.,Missed,28,18,58,144
+WYOM,WYOM: Offensive foul on WYOM Larry Charlton.,Foul,28,18,59,144
+UTST,Richard Guerra 3-point attempt...Score!,Score,28,21,60,144
+WYOM,Steven Gentes 3-point attempt...Missed!       Rebounded by UTST Ralph Jones.,Miss,28,21,61,144
+UTST,George Tate Inside shot...Score!,Score,28,23,62,144
+WYOM,Robert Mueller 2-point jumper...Score!,Score,30,23,63,144
+UTST,UTST: Offensive foul on UTST George Tate.,Turnover,30,23,64,144
+WYOM,WYOM Brian Donovan lost the ball out of bounds.,Out of Bounds,30,23,65,144
+UTST,James Pannell 3-point attempt...Missed!       Rebounded by UTST George Tate.,Score,30,23,66,144
+UTST,Neil Wetzel Inside shot...Score!,Score,30,25,67,144
+WYOM,Brian Donovan Inside shot...Score!,Score,32,25,68,144
+UTST,UTST Ralph Jones lost the ball out of bounds.,Turnover,32,25,69,144
+WYOM,Robert Mueller 3-point attempt...Score!       Assisted by: John Mckenzie,Score,35,25,70,144
+UTST,UTST Michael Mcfadden lost the ball out of bounds.,Turnover,35,25,71,144
+WYOM,Larry Charlton Inside shot...BLOCKED by UTST James Pannell.       Rebounded by UTST Donald Alexander.,Turnover,35,25,72,144
+,,HALFTIME,35,25,72,144
+UTST,George Tate 3-point attempt...Score!,Score,35,28,73,144
+WYOM,WYOM: Offensive foul on WYOM Michael Johnson.,Foul,35,28,74,144
+UTST,Ralph Jones 3-point attempt...Score!       Assisted by: Richard Guerra,Score,35,31,75,144
+WYOM,Christopher Leffew 2-point jumper...Missed!       Rebounded by UTST George Tate.,Missed,35,31,76,144
+UTST,George Tate Inside shot...Missed!       Rebounded by UTST Martin Clinton.,Score,35,31,77,144
+UTST,UTST George Tate lost the ball out of bounds.,Turnover,35,31,78,144
+WYOM,Brian Donovan 2-point jumper...Missed!       Rebounded by UTST James Pannell.,Missed,35,31,80,144
+UTST,Martin Clinton 3-point attempt...Missed!       Rebounded by UTST Neil Wetzel.,Score,35,31,81,144
+UTST,UTST Michael Mcfadden lost the ball out of bounds.,Turnover,35,31,82,144
+WYOM,Robert Cook 2-point jumper...Score!,Score,37,31,83,144
+UTST,Richard Guerra Inside shot...BLOCKED by Michael Johnson.       Rebounded by WYOM Larry Charlton.,Turnover,37,31,84,144
+WYOM,Christopher Leffew 3-point attempt...Score!,Score,40,31,85,144
+UTST,Neil Wetzel 3-point attempt...Missed!       Rebounded by UTST Neil Wetzel.,Score,40,31,86,144
+UTST,Michael Mcfadden Inside shot...Score!,Score,40,33,87,144
+WYOM,WYOM: Offensive foul on WYOM Robert Mueller.,Foul,40,33,88,144
+UTST,UTST Richard Guerra lost the ball out of bounds.,Turnover,40,33,89,144
+WYOM,WYOM Timothy Houston lost the ball out of bounds.,Out of Bounds,40,33,90,144
+UTST,Perry Leslie Inside shot...Score!,Score,40,35,91,144
+WYOM,Brian Donovan 2-point jumper...Score!,Score,42,35,92,144
+UTST,Neil Wetzel Inside shot... Missed but with a foul on the play.,Fouled,42,35,93,144
+UTST,Free throw coming up... good!,FreeThrow,42,36,93,144
+UTST,Free throw coming up... good!,FreeThrow,42,37,93,144
+WYOM,Robert Mueller 3-point attempt...Missed!       Rebounded by UTST James Pannell.,Miss,42,37,94,144
+UTST,Donald Alexander Inside shot...BLOCKED by Michael Johnson.       Rebounded by WYOM Robert Mueller.,Turnover,42,37,95,144
+WYOM,Perry Anderson Inside shot...Score!       Assisted by: Michael Johnson,Score,44,37,96,144
+UTST,James Pannell Inside shot... Missed but with a foul on the play.,Fouled,44,37,97,144
+UTST,Free throw coming up... good!,FreeThrow,44,38,97,144
+UTST,Free throw coming up... good!,FreeThrow,44,39,97,144
+WYOM,Timothy Houston 2-point jumper...Missed!       Rebounded by UTST Donald Alexander.,Missed,44,39,99,144
+UTST,Michael Mcfadden Inside shot...Missed!       Rebounded by UTST George Tate.,Score,44,39,100,144
+WYOM,Larry Charlton steals the ball for WYOM!,Turnover,44,39,101,144
+WYOM,John Mckenzie 2-point jumper...Score!       Assisted by: Timothy Houston,Score,46,39,102,144
+UTST,Martin Clinton Inside shot...Score!,Score,46,41,103,144
+UTST,Richard Guerra steals the ball for UTST!,Turnover,46,41,104,144
+UTST,Ralph Jones 2-point jumper...Score!,Score,46,43,105,144
+WYOM,WYOM John Mckenzie lost the ball out of bounds.,Out of Bounds,46,43,106,144
+UTST,Neil Wetzel 2-point jumper...Missed!       Rebounded by WYOM Robert Mueller.,Score,46,43,107,144
+WYOM,Christopher Kaiser Inside shot...BLOCKED by UTST Neil Wetzel.       Rebounded by UTST Neil Wetzel.,Turnover,46,43,108,144
+UTST,Perry Leslie 3-point attempt...Score!       Assisted by: Neil Wetzel,Score,46,46,109,144
+WYOM,John Mckenzie Inside shot...Score!       Assisted by: Timothy Houston,Score,48,46,111,144
+UTST,UTST Ralph Jones lost the ball out of bounds.,Turnover,48,46,112,144
+WYOM,John Mckenzie Inside shot...Score!,Score,50,46,113,144
+UTST,Michael Mcfadden Inside shot...Score!,Score,50,48,114,144
+WYOM,Michael Johnson 3-point attempt...Missed!       Rebounded by UTST George Tate.,Miss,50,48,115,144
+UTST,George Tate 3-point attempt...Score!,Score,50,51,116,144
+WYOM,WYOM Christopher Leffew lost the ball out of bounds.,Out of Bounds,50,51,117,144
+UTST,UTST Richard Guerra lost the ball out of bounds.,Turnover,50,51,118,144
+WYOM,WYOM John Mckenzie lost the ball out of bounds.,Out of Bounds,50,51,119,144
+UTST,Donald Alexander 2-point jumper...Score!,Score,50,53,120,144
+WYOM,WYOM: Offensive foul on WYOM Robert Mueller.,Foul,50,53,121,144
+UTST,Richard Guerra 2-point jumper...Missed!       Rebounded by WYOM John Mckenzie.,Score,50,53,122,144
+WYOM,WYOM Robert Mueller lost the ball out of bounds.,Out of Bounds,50,53,123,144
+WYOM,John Mckenzie steals the ball for WYOM!,Turnover,50,53,124,144
+WYOM,Christopher Leffew 2-point jumper...Missed!       Rebounded by WYOM Timothy Houston.,Missed,50,53,125,144
+WYOM,Michael Johnson 2-point jumper...Missed!       Rebounded by WYOM Larry Charlton.,Missed,50,53,126,144
+WYOM,John Mckenzie Inside shot...Score!,Score,52,53,127,144
+UTST,UTST: Offensive foul on UTST Perry Leslie.,Turnover,52,53,128,144
+WYOM,Christopher Kaiser 2-point jumper...Missed!       Rebounded by UTST Donald Alexander.,Missed,52,53,129,144
+UTST,Donald Alexander 2-point jumper...Missed!       Rebounded by UTST Donald Alexander.,Score,52,53,130,144
+UTST,Neil Wetzel 3-point attempt...Missed!       Rebounded by UTST Donald Alexander.,Score,52,53,131,144
+WYOM,Michael Johnson steals the ball for WYOM!,Turnover,52,53,132,144
+WYOM,Christopher Leffew 3-point attempt...Missed!       Rebounded by WYOM John Mckenzie.,Missed,52,53,133,144
+UTST,Neil Wetzel steals the ball for UTST!,Turnover,52,53,134,144
+UTST,UTST Ralph Jones lost the ball out of bounds.,Turnover,52,53,135,144
+WYOM,Robert Mueller 2-point jumper...Missed!       Rebounded by UTST James Pannell.,Missed,52,53,136,144
+UTST,Richard Guerra Inside shot...Score!,Score,52,55,137,144
+WYOM,Michael Johnson 3-point attempt...Missed!       Rebounded by WYOM John Mckenzie.,Missed,52,55,138,144
+WYOM,Christopher Leffew 3-point attempt...Missed!       Rebounded by UTST James Pannell.,Miss,52,55,139,144
+UTST,Neil Wetzel 2-point jumper...Missed!       Rebounded by WYOM Steven Gentes.,Score,52,55,140,144
+WYOM,Brian Donovan Inside shot...Score!,Score,54,55,141,144
+UTST,Perry Leslie 2-point jumper...Score!       Assisted by: James Pannell,Score,54,57,142,144
+WYOM,WYOM Larry Charlton lost the ball out of bounds.,Out of Bounds,54,57,143,144
+WYOM,Brian Donovan steals the ball for WYOM!,Turnover,54,57,144,144
+WYOM,Timothy Houston Inside shot...Score!       Assisted by: Larry Charlton,Score,56,57,145,144
+,Match Complete,FinalScore,56,57,145,144

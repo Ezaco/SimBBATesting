@@ -1,0 +1,164 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+USC,ORST,59,62,145
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+ORST,ORST wins the tipoff!,Tipoff,0,0,0,145
+ORST,ORST Esteban Velazquez lost the ball out of bounds.,Turnover,0,0,1,145
+USC,Kulwinder Lau 2-point jumper...Missed!       Rebounded by ORST Michael Logan.,Missed,0,0,2,145
+ORST,Andrew Logan 3-point attempt...Missed!       Rebounded by ORST Stephen Mccarthy.,Score,0,0,3,145
+ORST,James Rooney 2-point jumper...Missed!       Rebounded by ORST Stephen Mccarthy.,Score,0,0,4,145
+ORST,Marc Ruberto Inside shot...Score!,Score,0,2,5,145
+USC,Gordon Rau 2-point jumper...Missed!       Rebounded by ORST Nathan Samek.,Missed,0,2,6,145
+ORST,Michael Logan Inside shot...Score!,Score,0,4,7,145
+USC,Eric Lopez 2-point jumper...Score!,Score,2,4,8,145
+ORST,Marc Ruberto Inside shot... Missed but with a foul on the play.,Fouled,2,4,9,145
+ORST,Free throw coming up... good!,FreeThrow,2,5,9,145
+ORST,Free throw coming up... good!,FreeThrow,2,6,9,145
+USC,Jeffrey Clark 3-point attempt...Missed!       Rebounded by ORST Esteban Velazquez.,Miss,2,6,10,145
+ORST,Stephen Mccarthy Inside shot... Missed but with a foul on the play.,Fouled,2,6,11,145
+ORST,Free throw coming up... good!,FreeThrow,2,7,11,145
+ORST,Free throw coming up... rattled out.       Rebounded by ORST Michael Logan.,FreeThrow,2,7,11,145
+ORST,Jeffery Mccusker Inside shot...Score!,Score,2,9,12,145
+USC,USC Ryan Foley lost the ball out of bounds.,Out of Bounds,2,9,13,145
+ORST,ORST Nathan Samek lost the ball out of bounds.,Turnover,2,9,14,145
+USC,Gordon Rau 2-point jumper...Missed!       Rebounded by ORST Esteban Velazquez.,Missed,2,9,15,145
+ORST,Ryan Chai Inside shot...Score!,Score,2,11,16,145
+USC,Ryan Foley 2-point jumper...Score!,Score,4,11,17,145
+ORST,Gregory Harris 2-point jumper...Missed!       Rebounded by USC David Gee.,Score,4,11,18,145
+USC,Eric Lopez Inside shot...Score!,Score,6,11,19,145
+ORST,Alfred Benning Inside shot...Score!,Score,6,13,20,145
+USC,Free throw coming up... rattled out.,FreeThrow,6,13,22,145
+USC,Free throw coming up... good!,FreeThrow,7,13,22,145
+USC,Free throw coming up... good!,FreeThrow,8,13,22,145
+ORST,Richard Broyles 2-point jumper...Missed!       Rebounded by ORST Gregory Harris.,Score,8,13,23,145
+USC,David Gee steals the ball for USC!,Turnover,8,13,24,145
+USC,Jeffrey Clark Inside shot...Score!,Score,10,13,25,145
+ORST,Alfred Benning 3-point attempt...Score!       Assisted by: Gregory Harris,Score,10,16,26,145
+USC,Ryan Foley Inside shot...Score!       Assisted by: Don Burtner,Score,12,16,27,145
+ORST,Marc Ruberto 2-point jumper...Missed!       Rebounded by USC Ryan Foley.,Score,12,16,28,145
+USC,David Gee 2-point jumper...Missed!       Rebounded by ORST Vincent Hopper.,Missed,12,16,29,145
+ORST,Stephen Mccarthy 3-point attempt...Missed!Rebounded by USC Stan Roberts.,Score,12,16,30,145
+USC,Don Burtner Inside shot...Score!,Score,14,16,31,145
+ORST,Gregory Harris 2-point jumper...Missed!       Rebounded by USC Gordon Rau.,Score,14,16,32,145
+USC,Robert Vadnais 3-point attempt...Score!       Assisted by: Don Burtner,Score,17,16,33,145
+ORST,Gregory Harris Inside shot...Score!,Score,17,18,34,145
+USC,USC Gordon Rau lost the ball out of bounds.,Out of Bounds,17,18,35,145
+ORST,Vincent Hopper Inside shot...Score!,Score,17,20,36,145
+USC,Jeffrey Clark Inside shot...Missed!       Rebounded by ORST Gregory Harris.,Score,17,20,37,145
+ORST,ORST Michael Logan lost the ball out of bounds.,Turnover,17,20,38,145
+ORST,Stephen Mccarthy steals the ball for ORST!,Turnover,17,20,39,145
+USC,Ryan Foley steals the ball for USC!,Turnover,17,20,40,145
+USC,Jeffrey Clark 2-point jumper...Missed!       Rebounded by ORST Stephen Mccarthy.,Missed,17,20,41,145
+ORST,Esteban Velazquez Inside shot...BLOCKED by Don Burtner.       Rebounded by ORST James Rooney.,Turnover,17,20,42,145
+ORST,Michael Logan 2-point jumper...Missed!       Rebounded by USC Ryan Foley.,Score,17,20,43,145
+USC,Jeffrey Clark 2-point jumper...Missed!       Rebounded by ORST Nathan Samek.,Missed,17,20,44,145
+ORST,Nathan Samek Inside shot...Score!,Score,17,22,45,145
+USC,Jeffrey Clark Inside shot...Score!,Score,19,22,46,145
+ORST,Michael Logan 3-point attempt...BLOCKED by USC Stan Roberts.       Rebounded by ORST Nathan Samek.,Turnover,19,22,47,145
+ORST,Ryan Chai Inside shot...BLOCKED by Ryan Foley.       Rebounded by ORST Gregory Harris.,Turnover,19,22,48,145
+ORST,Esteban Velazquez Inside shot...Score!,Score,19,24,49,145
+USC,Stan Roberts 3-point attempt...Missed!       Rebounded by ORST Michael Logan.,Miss,19,24,50,145
+ORST,Andrew Logan 2-point jumper...Missed!       Rebounded by USC Jeffrey Clark.,Score,19,24,51,145
+USC,Gordon Rau Inside shot...BLOCKED by ORST Gregory Harris.       Rebounded by ORST Vincent Hopper.,Turnover,19,24,52,145
+USC,Don Burtner steals the ball for USC!,Turnover,19,24,53,145
+USC,Robert Bartnicki 2-point jumper...Missed!       Rebounded by ORST Nathan Samek.,Missed,19,24,54,145
+USC,Ryan Foley steals the ball for USC!,Turnover,19,24,55,145
+USC,David Gee 3-point attempt...Missed!       Rebounded by ORST Ryan Chai.,Miss,19,24,56,145
+ORST,Stephen Mccarthy 2-point jumper...Missed!       Rebounded by USC Eric Lopez.,Score,19,24,57,145
+USC,Stan Roberts Inside shot...Score!       Assisted by: David Gee,Score,21,24,58,145
+ORST,James Rooney 3-point attempt...Score!,Score,21,27,59,145
+USC,David Gee 2-point jumper...Score!,Score,23,27,60,145
+ORST,Nathan Samek 2-point jumper...BLOCKED by Jeffrey Clark.       Rebounded by USC David Gee.,Turnover,23,27,61,145
+USC,Don Burtner Inside shot...Missed!       Rebounded by USC Stan Roberts.,Score,23,27,62,145
+USC,USC: Offensive foul on USC Robert Vadnais.,Foul,23,27,63,145
+ORST,Ryan Chai 2-point jumper...BLOCKED by Don Burtner.       Rebounded by USC Jeffrey Clark.,Turnover,23,27,64,145
+USC,Don Burtner 2-point jumper...Score!,Score,25,27,65,145
+ORST,Nathan Samek 2-point jumper...Missed!       Rebounded by USC Eric Lopez.,Score,25,27,66,145
+USC,Don Burtner 2-point jumper...Missed!       Rebounded by ORST Gregory Harris.,Missed,25,27,67,145
+ORST,Michael Logan 2-point jumper...Score!,Score,25,29,68,145
+USC,Jeffrey Clark 3-point attempt...Score!,Score,28,29,69,145
+ORST,Jeffery Mccusker Inside shot...Score!,Score,28,31,70,145
+ORST,James Rooney steals the ball for ORST!,Turnover,28,31,71,145
+ORST,Richard Broyles Inside shot... Missed but with a foul on the play.,Fouled,28,31,72,145
+ORST,Free throw coming up... good!,FreeThrow,28,32,72,145
+ORST,Free throw coming up... good!,FreeThrow,28,33,72,145
+,,HALFTIME,28,33,72,145
+USC,Stan Roberts 2-point jumper...BLOCKED by ORST Michael Logan.       Rebounded by USC David Gee.,Turnover,28,33,73,145
+USC,Jeffrey Clark 2-point jumper...Missed!       Rebounded by ORST Ryan Chai.,Missed,28,33,74,145
+ORST,Stephen Mccarthy 3-point attempt...Score!       Assisted by: Michael Logan,Score,28,36,75,145
+USC,Ryan Foley 2-point jumper...Missed!       Rebounded by ORST Nathan Samek.,Missed,28,36,76,145
+ORST,Gregory Harris Inside shot...Missed!       Rebounded by USC Robert Gano.,Score,28,36,77,145
+USC,Stan Roberts 3-point attempt...Missed!       Rebounded by ORST Ryan Chai.,Miss,28,36,78,145
+ORST,Stephen Mccarthy Inside shot...Score!       Assisted by: Nathan Samek,Score,28,38,79,145
+USC,Jeffrey Clark 3-point attempt...Missed!       Rebounded by USC Ryan Foley.,Missed,28,38,80,145
+USC,USC Roger Gallia lost the ball out of bounds.,Out of Bounds,28,38,81,145
+ORST,Ryan Chai Inside shot...BLOCKED by Don Burtner.       Rebounded by ORST Jeffery Mccusker.,Turnover,28,38,82,145
+ORST,ORST Stephen Mccarthy lost the ball out of bounds.,Turnover,28,38,83,145
+USC,Stan Roberts Inside shot...Score!       Assisted by: Ryan Foley,Score,30,38,84,145
+ORST,Nathan Samek 3-point attempt...Missed!Rebounded by USC David Gee.,Score,30,38,85,145
+ORST,Richard Broyles steals the ball for ORST!,Turnover,30,38,86,145
+ORST,Nathan Samek 3-point attempt...Missed!Rebounded by USC Jeffrey Clark.,Score,30,38,87,145
+USC,USC Stan Roberts lost the ball out of bounds.,Out of Bounds,30,38,88,145
+ORST,Michael Logan 2-point jumper...Missed!       Rebounded by USC Gordon Rau.,Score,30,38,89,145
+USC,Kulwinder Lau 2-point jumper...Score!       Assisted by: Gordon Rau,Score,32,38,90,145
+ORST,Nathan Samek 3-point attempt...Score!       Assisted by: Gregory Harris,Score,32,41,91,145
+USC,Don Burtner 2-point jumper...BLOCKED by ORST Alfred Benning.       Rebounded by ORST Nathan Samek.,Turnover,32,41,92,145
+ORST,ORST Nathan Samek lost the ball out of bounds.,Turnover,32,41,93,145
+USC,USC: Offensive foul on USC Eric Lopez.,Foul,32,41,94,145
+ORST,ORST: Offensive foul on ORST Stephen Mccarthy.,Turnover,32,41,95,145
+USC,Robert Gano 2-point jumper...Missed!       Rebounded by USC Robert Bartnicki.,Missed,32,41,96,145
+ORST,Jeffery Mccusker steals the ball for ORST!,Turnover,32,41,97,145
+ORST,Gregory Harris 2-point jumper...Missed!       Rebounded by USC Jeffrey Clark.,Score,32,41,98,145
+USC,Robert Gano 3-point attempt...Score!       Assisted by: Ryan Foley,Score,35,41,99,145
+ORST,Michael Logan Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: Stephen Mccarthy,Score,35,43,100,145
+ORST,Free throw coming up... good!,FreeThrow,35,44,100,145
+USC,Don Burtner 2-point jumper...Score!,Score,37,44,101,145
+ORST,Jeffery Mccusker 2-point jumper...Score!       Assisted by: Stephen Mccarthy,Score,37,46,102,145
+USC,Don Burtner 2-point jumper...Missed!       Rebounded by ORST Michael Logan.,Missed,37,46,103,145
+USC,Don Burtner steals the ball for USC!,Turnover,37,46,104,145
+USC,Jeffrey Clark 2-point jumper...Score!,Score,39,46,105,145
+ORST,Nathan Samek Inside shot... Missed but with a foul on the play.,Fouled,39,46,106,145
+ORST,Free throw coming up... good!,FreeThrow,39,47,106,145
+ORST,Free throw coming up... good!,FreeThrow,39,48,106,145
+USC,Jeffrey Clark 3-point attempt...Missed!       Rebounded by USC Ryan Foley.,Missed,39,48,107,145
+USC,Don Burtner Inside shot...BLOCKED by ORST Alfred Benning.       Rebounded by USC Ryan Foley.,Turnover,39,48,108,145
+USC,USC Don Burtner lost the ball out of bounds.,Out of Bounds,39,48,109,145
+ORST,Gregory Harris 3-point attempt...Score!       Assisted by: Nathan Samek,Score,39,51,110,145
+USC,Stan Roberts 2-point jumper...BLOCKED by ORST Michael Logan.       Rebounded by ORST Andrew Logan.,Turnover,39,51,111,145
+ORST,Marc Ruberto Inside shot...Score!,Score,39,53,112,145
+USC,Eric Lopez Inside shot...Score!,Score,41,53,113,145
+ORST,Nathan Samek Inside shot...Score!       Assisted by: Jeffery Mccusker,Score,41,55,114,145
+USC,Eric Thomforde 3-point attempt...Score!       Assisted by: Ryan Foley,Score,44,55,115,145
+ORST,Ryan Chai Inside shot... Missed but with a foul on the play.,Fouled,44,55,116,145
+ORST,Free throw coming up... rattled out.,FreeThrow,44,55,116,145
+ORST,Free throw coming up... good!,FreeThrow,44,56,116,145
+USC,Eric Thomforde 3-point attempt...Score!       Assisted by: Eric Lopez,Score,47,56,117,145
+ORST,Esteban Velazquez 3-point attempt...Missed!Rebounded by USC Stan Roberts.,Score,47,56,118,145
+USC,Stan Roberts Inside shot...Score!       Assisted by: Gordon Rau,Score,49,56,119,145
+ORST,Vincent Hopper 2-point jumper...Missed!       Rebounded by USC Robert Vadnais.,Score,49,56,120,145
+USC,Robert Gano Inside shot...BLOCKED by ORST Michael Logan.       Rebounded by ORST Jeffery Mccusker.,Turnover,49,56,121,145
+ORST,Vincent Hopper 2-point jumper...Score!,Score,49,58,122,145
+USC,Roger Gallia 2-point jumper...Missed!       Rebounded by ORST Alfred Benning.,Missed,49,58,123,145
+ORST,Alfred Benning 3-point attempt...Missed!       Rebounded by ORST Gregory Harris.,Score,49,58,124,145
+ORST,Ryan Chai 2-point jumper...Missed!       Rebounded by USC Ryan Foley.,Score,49,58,125,145
+USC,Stan Roberts Inside shot...Score!,Score,51,58,126,145
+ORST,Vincent Hopper 3-point attempt...Missed!Rebounded by USC Robert Gano.,Score,51,58,127,145
+USC,Stan Roberts 3-point attempt...Missed!       Rebounded by ORST James Rooney.,Miss,51,58,128,145
+ORST,Vincent Hopper Inside shot...BLOCKED by David Gee.       Rebounded by USC Robert Gano.,Turnover,51,58,129,145
+USC,David Gee 3-point attempt...Missed!       Rebounded by ORST Ryan Chai.,Miss,51,58,130,145
+ORST,Ryan Chai 3-point attempt...Missed!Rebounded by USC Ryan Foley.,Score,51,58,131,145
+USC,Gordon Rau 2-point jumper...Score!,Score,53,58,132,145
+ORST,ORST Esteban Velazquez lost the ball out of bounds.,Turnover,53,58,133,145
+USC,USC Robert Vadnais lost the ball out of bounds.,Out of Bounds,53,58,134,145
+ORST,Nathan Samek 2-point jumper...Missed!       Rebounded by USC Gordon Rau.,Score,53,58,135,145
+USC,Jeffrey Clark Inside shot...Score!       Assisted by: Don Burtner,Score,55,58,136,145
+USC,Don Burtner steals the ball for USC!,Turnover,55,58,137,145
+USC,Ryan Foley 2-point jumper...Score!,Score,57,58,139,145
+ORST,Michael Logan Inside shot...Missed!       Rebounded by USC Kulwinder Lau.,Score,57,58,140,145
+USC,Eric Lopez 2-point jumper...Missed!       Rebounded by ORST Stephen Mccarthy.,Missed,57,58,141,145
+ORST,Marc Ruberto Inside shot...Score!,Score,57,60,142,145
+USC,USC Ryan Foley lost the ball out of bounds.,Out of Bounds,57,60,143,145
+ORST,Esteban Velazquez 3-point attempt...Missed!       Rebounded by ORST Michael Logan.,Score,57,60,144,145
+ORST,Stephen Mccarthy Inside shot...Score!       Assisted by: Gregory Harris,Score,57,62,145,145
+USC,Gordon Rau Inside shot...Score!       Assisted by: Jeffrey Clark,Score,59,62,146,145
+,Match Complete,FinalScore,59,62,146,145

@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Jacksonville,Dolphins,37,37,0,74
+UTEP,Miners,27,45,0,72
+""
+""
+=====Jacksonville Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Dylan Conrad,34,16,4,7,0.5714285714285714,0,0,0,0,0,0,8,8,1,0,0,0,0
+Alden Jarrett,33,18,4,7,0.5714285714285714,1,2,0.5,1,1,1.0,10,3,3,2,0,0,1
+Ferdinand Burt,40,26,5,10,0.5,1,3,0.3333333333333333,0,0,0,11,7,0,2,1,0,2
+Stanton Chadwick,31,19,5,9,0.5555555555555556,2,4,0.5,3,4,0.75,15,4,2,0,1,0,0
+Eli Gresham,34,32,8,13,0.6153846153846154,1,2,0.5,3,4,0.75,20,6,2,2,0,1,0
+Alec Place,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cordell Mcleod,26,13,3,6,0.5,0,1,0.0,2,2,1.0,8,5,2,0,1,0,1
+Sang Mattingly,2,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Mauricio Welsh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trinidad Hynes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jeffrey Pockat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+James Levin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gary Cosby,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+=====UTEP Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Reginald Speese,25,13,3,6,0.5,1,2,0.5,1,1,1.0,8,3,1,1,0,0,0
+Scott Whittington,25,24,3,10,0.3,0,3,0.0,0,0,0,6,4,1,3,0,1,0
+Bernard Dunn,20,19,7,9,0.7777777777777778,1,2,0.5,0,0,0,15,1,1,0,0,1,0
+Ralph Trimble,5,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+Felipe Raymond,25,19,6,8,0.75,2,3,0.6666666666666666,0,0,0,14,4,1,1,1,2,1
+Frank Heath,25,12,3,5,0.6,1,1,1.0,0,0,0,7,6,1,0,0,2,0
+Harvey Brown,20,7,0,3,0.0,0,2,0.0,0,0,0,0,0,5,0,0,0,0
+Christopher Davis,7,2,0,1,0.0,0,0,0,0,0,0,0,0,3,0,0,0,0
+Jason Torres,25,25,5,10,0.5,1,2,0.5,3,3,1.0,14,2,0,2,1,3,1
+Arthur Schnell,5,8,2,4,0.5,0,2,0.0,0,0,0,4,0,1,0,0,0,0
+Adam Bedrossian,5,5,1,2,0.5,0,0,0,0,0,0,2,1,1,1,0,0,0
+Joe Pace,8,7,1,3,0.3333333333333333,0,1,0.0,0,0,0,2,0,0,1,0,0,0
+Brendan Lancaster,5,3,0,1,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Jacksonville,UTEP
+Points,74,72
+Possessions,77,79
+FGM,25,25
+FGA,41,44
+FGPercent,0.6097560975609756,0.5681818181818182
+3PM,5,6
+3PA,12,18
+3P%,0.4166666666666667,0.3333333333333333
+FTM,9,4
+FTA,11,4
+FT%,0.8181818181818182,1.0
+Rebounds,33,22
+OffRebounds,7,7
+DefRebounds,26,15
+Assists,10,16
+Steals,6,0
+Blocks,3,0
+Total Turnovers,23,13
+Largest Lead,18,7

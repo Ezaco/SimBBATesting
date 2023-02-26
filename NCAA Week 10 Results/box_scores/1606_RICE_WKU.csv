@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Rice,Owls,36,34,0,70
+Western Kentucky,Hilltoppers,31,35,0,66
+""
+""
+=====Rice Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Christopher Toms,25,24,6,10,0.6,0,1,0.0,2,3,0.6666666666666666,14,6,2,3,2,0,0
+Daniel Sanders,25,15,1,7,0.14285714285714285,0,1,0.0,1,3,0.3333333333333333,3,12,1,0,0,0,0
+Ramon Yanez,25,11,2,5,0.4,1,2,0.5,1,2,0.5,6,5,1,0,1,1,0
+James Hopkins,8,7,2,3,0.6666666666666666,0,0,0,0,0,0,4,2,0,1,0,0,0
+Earl Davis,20,14,4,6,0.6666666666666666,1,1,1.0,0,0,0,9,4,0,0,0,1,0
+Jorge Hernandez,20,8,3,4,0.75,1,1,1.0,0,0,0,7,0,1,0,0,0,0
+Bill Griffith,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Frederick English,25,24,5,12,0.4166666666666667,0,0,0,2,2,1.0,12,0,0,0,0,0,0
+Dong Asuega,25,17,3,8,0.375,0,0,0,2,2,1.0,8,2,5,0,1,0,0
+Thomas Bright,5,5,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0
+Ian Harris,5,4,1,2,0.5,0,0,0,0,0,0,2,0,0,0,0,0,0
+Eugene West,5,2,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0
+Daniel Hood,7,8,2,4,0.5,1,2,0.5,0,0,0,5,1,1,0,0,0,0
+""
+=====Western Kentucky Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Dustin Summerford,25,10,2,5,0.4,0,2,0.0,0,0,0,4,6,2,0,0,0,0
+Steven Lalumiere,5,6,0,3,0.0,0,1,0.0,2,3,0.6666666666666666,2,0,0,0,0,0,0
+Samuel Krishnamoorthy,25,15,4,6,0.6666666666666666,0,0,0,0,0,0,8,4,0,2,3,1,0
+Dennis Hefner,20,24,8,11,0.7272727272727273,1,2,0.5,2,2,1.0,19,0,1,0,1,2,0
+Jim Kim,25,18,3,8,0.375,1,3,0.3333333333333333,1,2,0.5,8,7,1,1,0,1,0
+Grover Palzer,8,6,0,3,0.0,0,1,0.0,0,0,0,0,3,0,0,1,0,0
+Gregory Bender,25,7,2,3,0.6666666666666666,1,1,1.0,0,0,0,5,2,0,0,0,1,0
+Michael Walters,7,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Duane Phillips,25,17,4,6,0.6666666666666666,0,0,0,0,0,0,8,5,3,0,0,3,0
+Kevin Cozier,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Garberson,20,16,3,8,0.375,0,1,0.0,2,4,0.5,8,6,1,0,0,0,0
+Timothy Mallory,5,5,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,1,0
+Jon Cochran,5,4,0,2,0.0,0,0,0,2,2,1.0,2,0,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Rice,Western Kentucky
+Points,70,66
+Possessions,75,73
+FGM,25,24
+FGA,53,46
+FGPercent,0.4716981132075472,0.5217391304347826
+3PM,4,3
+3PA,11,12
+3P%,0.36363636363636365,0.25
+FTM,8,9
+FTA,12,13
+FT%,0.6666666666666666,0.6923076923076923
+Rebounds,33,32
+OffRebounds,13,10
+DefRebounds,20,22
+Assists,11,8
+Steals,4,0
+Blocks,4,3
+Total Turnovers,10,9
+Largest Lead,11,9

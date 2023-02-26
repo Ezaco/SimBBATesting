@@ -1,0 +1,168 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+LAS,SBON,52,60,142
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+LAS,LAS wins the tipoff!,Tipoff,0,0,0,142
+LAS,LAS: Offensive foul on LAS Mark Norris.,Foul,0,0,1,142
+SBON,SBON Anthony Grigg lost the ball out of bounds.,Turnover,0,0,2,142
+LAS,Jeremy White Inside shot...BLOCKED by SBON Emil Bueno.       Rebounded by SBON Fred Washington.,Turnover,0,0,3,142
+LAS,Donald Davies steals the ball for LAS!,Turnover,0,0,4,142
+LAS,John Laing Inside shot...Score!       Assisted by: Philip Cassara,Score,2,0,5,142
+LAS,Mark Norris steals the ball for LAS!,Turnover,2,0,6,142
+LAS,Philip Cassara Inside shot...Score!,Score,4,0,7,142
+SBON,SBON: Offensive foul on SBON Cameron Sowell.,Turnover,4,0,8,142
+LAS,Jeremy White 2-point jumper...Missed!       Rebounded by SBON Emil Bueno.,Missed,4,0,9,142
+SBON,Everett Ryan 3-point attempt...Score!       Assisted by: Rufus Walsh,Score,4,3,10,142
+LAS,John Laing Inside shot...Score!,Score,6,3,11,142
+SBON,Fred Washington Inside shot...BLOCKED by Matthew Beechy.       Rebounded by LAS Philip Cassara.,Turnover,6,3,12,142
+LAS,Fabio Martinez 3-point attempt...Score!       Assisted by: Cedric Shaw,Score,9,3,13,142
+SBON,Everett Ryan Inside shot...Score!       Assisted by: Anthony Grigg,Score,9,5,14,142
+LAS,LAS: Offensive foul on LAS Matthew Beechy.,Foul,9,5,15,142
+SBON,Fred Washington Inside shot...Missed!       Rebounded by LAS Matthew Beechy.,Score,9,5,16,142
+LAS,Matthew Beechy Inside shot...Score!,Score,11,5,17,142
+SBON,Angel Weaver Inside shot...Score!       Assisted by: Fred Washington,Score,11,7,18,142
+LAS,Jeremy White 2-point jumper...BLOCKED by SBON Fred Washington.       Rebounded by SBON Anthony Grigg.,Turnover,11,7,19,142
+SBON,Billy Morgan Inside shot... Missed but with a foul on the play.,Fouled,11,7,20,142
+SBON,Free throw coming up... rattled out.,FreeThrow,11,7,20,142
+SBON,Free throw coming up... good!,FreeThrow,11,8,20,142
+LAS,Philip Cassara 2-point jumper...Score!,Score,13,8,21,142
+SBON,Jamie Rogers Inside shot...BLOCKED by Roger Tran.       Rebounded by SBON Anthony Grigg.,Turnover,13,8,22,142
+SBON,Charles Pontius 3-point attempt...Score!       Assisted by: Thomas Hinton,Score,13,11,23,142
+LAS,LAS Fabio Martinez lost the ball out of bounds.,Out of Bounds,13,11,24,142
+SBON,Rufus Walsh 3-point attempt...Missed!Rebounded by LAS Aziz Wang.,Score,13,11,25,142
+LAS,Cedric Shaw Inside shot...Score!       Assisted by: Donald Davies,Score,15,11,26,142
+SBON,Billy Morgan 2-point jumper...Missed!       Rebounded by LAS Cedric Shaw.,Score,15,11,27,142
+LAS,Philip Cassara 2-point jumper...Missed!       Rebounded by LAS Cedric Shaw.,Missed,15,11,28,142
+LAS,Jeremy White Inside shot...Score! Foul on the play and one!,Score,17,11,29,142
+LAS,Free throw coming up... good!,FreeThrow,18,11,29,142
+SBON,Thomas Hinton Inside shot... Missed but with a foul on the play.,Fouled,18,11,30,142
+SBON,Free throw coming up... good!,FreeThrow,18,12,30,142
+SBON,Free throw coming up... good!,FreeThrow,18,13,30,142
+LAS,Roger Tran 3-point attempt...Missed!       Rebounded by SBON Fred Washington.,Miss,18,13,31,142
+SBON,Charles Pontius 3-point attempt...Missed!Rebounded by LAS James Scott.,Score,18,13,32,142
+LAS,Donald Davies 3-point attempt...Missed!       Rebounded by SBON Anthony Grigg.,Miss,18,13,33,142
+SBON,Charles Henderson Inside shot...Score!,Score,18,15,34,142
+LAS,Cedric Shaw 2-point jumper...Score!,Score,20,15,35,142
+SBON,Billy Morgan 3-point attempt...Missed!       Rebounded by SBON Fred Washington.,Score,20,15,36,142
+SBON,SBON Thomas Hinton lost the ball out of bounds.,Turnover,20,15,37,142
+LAS,Aziz Wang 3-point attempt...Missed!       Rebounded by LAS Aziz Wang.,Missed,20,15,38,142
+LAS,Aziz Wang 3-point attempt...Missed!       Rebounded by SBON Thomas Hinton.,Miss,20,15,39,142
+SBON,Everett Ryan 2-point jumper...Missed!       Rebounded by SBON Anthony Grigg.,Score,20,15,40,142
+SBON,Fred Washington 2-point jumper...Missed!       Rebounded by SBON Thomas Hinton.,Score,20,15,41,142
+SBON,Fred Washington 3-point attempt...Missed!       Rebounded by SBON Thomas Hinton.,Score,20,15,42,142
+SBON,Billy Morgan 2-point jumper...Missed!       Rebounded by SBON Billy Morgan.,Score,20,15,43,142
+SBON,Emil Bueno Inside shot...Score!       Assisted by: Ronald Ross,Score,20,17,44,142
+LAS,Fabio Martinez Inside shot...BLOCKED by SBON Thomas Hinton.       Rebounded by SBON Anthony Grigg.,Turnover,20,17,45,142
+SBON,Everett Ryan 2-point jumper...Score!,Score,20,19,46,142
+LAS,LAS: Shot clock violation on LAS Donald Davies.,Shot Clock Violation,20,19,47,142
+LAS,Aziz Wang steals the ball for LAS!,Turnover,20,19,48,142
+LAS,Jeremy White 3-point attempt...Missed!       Rebounded by SBON Jamie Rogers.,Miss,20,19,49,142
+SBON,Billy Morgan Inside shot...Score!,Score,20,21,50,142
+LAS,Cedric Shaw Inside shot...BLOCKED by SBON Billy Morgan.       Rebounded by LAS Philip Cassara.,Turnover,20,21,51,142
+LAS,Aziz Wang 3-point attempt...Missed!       Rebounded by LAS Jeremy White.,Missed,20,21,52,142
+LAS,Free throw coming up... good!,FreeThrow,21,21,53,142
+LAS,Free throw coming up... good!,FreeThrow,22,21,53,142
+LAS,Free throw coming up... good!,FreeThrow,23,21,53,142
+SBON,Everett Ryan Inside shot...Score!,Score,23,23,54,142
+SBON,Everett Ryan steals the ball for SBON!,Turnover,23,23,55,142
+SBON,Thomas Hinton 2-point jumper...Missed!       Rebounded by LAS Jeremy White.,Score,23,23,56,142
+LAS,Philip Cassara 3-point attempt...Missed!       Rebounded by SBON Thomas Hinton.,Miss,23,23,57,142
+SBON,Rufus Walsh Inside shot...BLOCKED by Roger Tran.       Rebounded by SBON Rufus Walsh.,Turnover,23,23,58,142
+SBON,Ronald Ross Inside shot...Missed!       Rebounded by LAS Roger Tran.,Score,23,23,59,142
+LAS,Matthew Beechy 2-point jumper...Missed!       Rebounded by SBON Anthony Grigg.,Missed,23,23,60,142
+SBON,Fred Washington Inside shot...Score!,Score,23,25,61,142
+SBON,Fred Washington steals the ball for SBON!,Turnover,23,25,62,142
+SBON,SBON: Offensive foul on SBON Cameron Sowell.,Turnover,23,25,63,142
+SBON,Anthony Grigg steals the ball for SBON!,Turnover,23,25,64,142
+SBON,Thomas Hinton Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: Everett Ryan,Score,23,27,66,142
+SBON,Free throw coming up... good!,FreeThrow,23,28,66,142
+LAS,Cedric Shaw Inside shot...Score!       Assisted by: Donald Davies,Score,25,28,67,142
+SBON,Emil Bueno Inside shot...Score!       Assisted by: Everett Ryan,Score,25,30,68,142
+LAS,Philip Cassara Inside shot... Missed with a foul on the play.,Fouled,25,30,69,142
+LAS,Free throw coming up... good!,FreeThrow,26,30,69,142
+LAS,Free throw coming up... good!,FreeThrow,27,30,69,142
+SBON,Rufus Walsh Inside shot...Score!,Score,27,32,70,142
+LAS,William Gaona Inside shot...Score!,Score,29,32,71,142
+,,HALFTIME,29,32,71,142
+SBON,Fred Washington Inside shot...BLOCKED by Fabio Martinez.       Rebounded by SBON Thomas Hinton.,Turnover,29,32,72,142
+SBON,Everett Ryan Inside shot...Missed!       Rebounded by SBON Anthony Grigg.,Score,29,32,73,142
+SBON,Fred Washington Inside shot...Score!,Score,29,34,74,142
+LAS,Donald Davies 2-point jumper...Missed!       Rebounded by SBON Charles Henderson.,Missed,29,34,75,142
+SBON,Ronald Ross 2-point jumper...Missed!       Rebounded by SBON Emil Bueno.,Score,29,34,76,142
+SBON,Emil Bueno Inside shot...BLOCKED by Matthew Beechy.       Rebounded by LAS William Gaona.,Turnover,29,34,77,142
+LAS,Donald Davies 3-point attempt...Missed!       Rebounded by SBON Anthony Grigg.,Miss,29,34,78,142
+SBON,Cameron Sowell Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: Anthony Grigg,Score,29,36,79,142
+SBON,Free throw coming up... good!,FreeThrow,29,37,79,142
+LAS,Donald Davies 3-point attempt...Score!       Assisted by: John Laing,Score,32,37,80,142
+SBON,Charles Henderson Inside shot...Score!       Assisted by: Billy Morgan,Score,32,39,81,142
+SBON,Billy Morgan steals the ball for SBON!,Turnover,32,39,82,142
+SBON,Cameron Sowell 2-point jumper...Missed!       Rebounded by LAS Aziz Wang.,Score,32,39,83,142
+LAS,Mark Norris 2-point jumper...Missed!       Rebounded by LAS Matthew Beechy.,Missed,32,39,84,142
+SBON,Anthony Grigg steals the ball for SBON!,Turnover,32,39,85,142
+SBON,Thomas Hinton Inside shot...BLOCKED by Fabio Martinez.       Rebounded by SBON Emil Bueno.,Turnover,32,39,86,142
+SBON,SBON Angel Weaver lost the ball out of bounds.,Turnover,32,39,87,142
+SBON,Anthony Grigg steals the ball for SBON!,Turnover,32,39,88,142
+SBON,Rufus Walsh Inside shot...BLOCKED by Jeremy White.       Rebounded by LAS Roger Tran.,Turnover,32,39,89,142
+SBON,Emil Bueno steals the ball for SBON!,Turnover,32,39,90,142
+SBON,Emil Bueno 3-point attempt...Missed!Rebounded by LAS Donald Davies.,Score,32,39,91,142
+LAS,Aziz Wang Inside shot... Missed with a foul on the play.,Fouled,32,39,92,142
+LAS,Free throw coming up... good!,FreeThrow,33,39,92,142
+LAS,Free throw coming up... rattled out.       Rebounded by SBON Thomas Hinton.,FreeThrow,33,39,92,142
+SBON,Emil Bueno Inside shot...Score!,Score,33,41,93,142
+LAS,Cedric Shaw Inside shot...BLOCKED by SBON Fred Washington.       Rebounded by SBON Emil Bueno.,Turnover,33,41,94,142
+SBON,Emil Bueno Inside shot... Missed but with a foul on the play.,Fouled,33,41,95,142
+SBON,Free throw coming up... rattled out.,FreeThrow,33,41,95,142
+SBON,Free throw coming up... good!,FreeThrow,33,42,95,142
+LAS,Michael Chew Inside shot...Score!,Score,35,42,96,142
+SBON,Everett Ryan Inside shot...Missed!       Rebounded by SBON Emil Bueno.,Score,35,42,97,142
+SBON,SBON Anthony Grigg lost the ball out of bounds.,Turnover,35,42,98,142
+LAS,Aziz Wang Inside shot...Score!       Assisted by: Jeremy White,Score,37,42,99,142
+SBON,Anthony Grigg 2-point jumper...Missed!       Rebounded by SBON Thomas Hinton.,Score,37,42,100,142
+SBON,Billy Morgan 3-point attempt...Score!       Assisted by: Anthony Grigg,Score,37,45,101,142
+LAS,LAS: Offensive foul on LAS Jeremy White.,Foul,37,45,102,142
+SBON,Emil Bueno 3-point attempt...Missed!Rebounded by LAS Philip Cassara.,Score,37,45,103,142
+LAS,Aziz Wang 2-point jumper...Score! Foul on the play and one!,Score,39,45,104,142
+LAS,Free throw coming up... good!,FreeThrow,40,45,104,142
+SBON,SBON: Offensive foul on SBON Everett Ryan.,Turnover,40,45,105,142
+LAS,Philip Cassara 2-point jumper...BLOCKED by SBON Thomas Hinton.       Rebounded by SBON Jamie Rogers.,Turnover,40,45,106,142
+SBON,Everett Ryan 3-point attempt...Missed!       Rebounded by SBON Thomas Hinton.,Score,40,45,107,142
+SBON,Anthony Grigg Inside shot...BLOCKED by Matthew Beechy.       Rebounded by LAS Aziz Wang.,Turnover,40,45,108,142
+LAS,Matthew Beechy Inside shot...Score!,Score,42,45,109,142
+SBON,Billy Morgan Inside shot...Score!,Score,42,47,110,142
+LAS,Jeremy White Inside shot...BLOCKED by SBON Charles Henderson.       Rebounded by SBON Anthony Grigg.,Turnover,42,47,111,142
+SBON,SBON: Offensive foul on SBON Thomas Hinton.,Turnover,42,47,112,142
+LAS,Donald Davies Inside shot...Score!,Score,44,47,113,142
+SBON,SBON Fred Washington lost the ball out of bounds.,Turnover,44,47,114,142
+LAS,Aziz Wang Inside shot...Score!       Assisted by: Cedric Shaw,Score,46,47,115,142
+SBON,Anthony Grigg Inside shot...Score!       Assisted by: Fred Washington,Score,46,49,116,142
+LAS,Donald Davies 2-point jumper...Missed!       Rebounded by LAS Philip Cassara.,Missed,46,49,117,142
+LAS,Matthew Beechy 2-point jumper...Missed!       Rebounded by SBON Rufus Walsh.,Missed,46,49,118,142
+SBON,Rufus Walsh Inside shot...BLOCKED by Jeremy White.       Rebounded by SBON Thomas Hinton.,Turnover,46,49,119,142
+SBON,Thomas Hinton Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: Everett Ryan,Score,46,51,120,142
+SBON,       Free throw coming up... rattled out.       Rebounded by SBON Thomas Hinton.,FreeThrow,46,51,120,142
+SBON,Rufus Walsh Inside shot...Score!,Score,46,53,121,142
+LAS,Aziz Wang Inside shot...Score!,Score,48,53,122,142
+SBON,Angel Weaver 3-point attempt...Score!       Assisted by: Rufus Walsh,Score,48,56,123,142
+LAS,Cedric Shaw 3-point attempt...Missed!       Rebounded by SBON Emil Bueno.,Miss,48,56,124,142
+SBON,SBON: Offensive foul on SBON Charles Henderson.,Turnover,48,56,125,142
+LAS,James Scott 2-point jumper...Missed!       Rebounded by SBON Jamie Rogers.,Missed,48,56,126,142
+SBON,Everett Ryan Inside shot...Missed!       Rebounded by SBON Fred Washington.,Score,48,56,127,142
+SBON,Thomas Hinton 2-point jumper...Missed!       Rebounded by LAS Jeremy White.,Score,48,56,128,142
+LAS,LAS Fabio Martinez lost the ball out of bounds.,Out of Bounds,48,56,129,142
+SBON,Anthony Grigg 3-point attempt...Missed!Rebounded by LAS Aziz Wang.,Score,48,56,130,142
+LAS,LAS James Scott lost the ball out of bounds.,Out of Bounds,48,56,131,142
+LAS,Matthew Beechy steals the ball for LAS!,Turnover,48,56,132,142
+LAS,James Scott Inside shot...BLOCKED by SBON Cameron Sowell.       Rebounded by SBON Billy Morgan.,Turnover,48,56,133,142
+SBON,SBON: Offensive foul on SBON Cameron Sowell.,Turnover,48,56,134,142
+LAS,Aziz Wang 2-point jumper...Missed!       Rebounded by LAS Aziz Wang.,Missed,48,56,135,142
+LAS,Jeremy White 3-point attempt...Missed!       Rebounded by SBON Thomas Hinton.,Miss,48,56,136,142
+SBON,Anthony Grigg Inside shot...Score!,Score,48,58,137,142
+LAS,Donald Davies Inside shot...Score!,Score,50,58,138,142
+SBON,Fred Washington 3-point attempt...Missed!       Rebounded by SBON Rufus Walsh.,Score,50,58,139,142
+SBON,Charles Henderson Inside shot...Score!,Score,50,60,140,142
+LAS,Fabio Martinez 3-point attempt...Missed!       Rebounded by SBON Thomas Hinton.,Miss,50,60,141,142
+SBON,Anthony Grigg 3-point attempt...Missed!Rebounded by LAS John Laing.,Score,50,60,142,142
+LAS,Donald Davies Inside shot... Missed with a foul on the play.,Fouled,50,60,143,142
+LAS,Free throw coming up... good!,FreeThrow,51,60,143,142
+LAS,Free throw coming up... good!,FreeThrow,52,60,143,142
+,Match Complete,FinalScore,52,60,143,142

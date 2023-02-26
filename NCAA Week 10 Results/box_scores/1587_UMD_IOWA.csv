@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Maryland,Terrapins,37,34,0,71
+Iowa,Hawkeyes,32,30,0,62
+""
+""
+=====Maryland Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+David Gosselin,25,19,2,8,0.25,0,3,0.0,0,0,0,4,6,3,2,1,0,0
+Jeffrey Valbrun,25,26,7,12,0.5833333333333334,2,2,1.0,2,2,1.0,18,7,1,1,1,0,0
+Hyun Xu,25,9,3,4,0.75,1,1,1.0,0,0,0,7,1,1,0,1,0,0
+Joel Harvell,25,17,4,7,0.5714285714285714,2,3,0.6666666666666666,0,0,0,10,3,1,1,1,0,1
+Wayne Evans,25,14,2,6,0.3333333333333333,1,4,0.25,2,2,1.0,7,0,0,1,0,0,0
+James Webb,25,14,3,5,0.6,0,0,0,2,4,0.5,8,0,4,0,1,1,2
+Edward Cook,5,6,1,3,0.3333333333333333,0,1,0.0,0,0,0,2,0,2,0,0,0,0
+Reginald Miles,25,17,4,7,0.5714285714285714,1,2,0.5,2,2,1.0,11,3,1,2,1,0,1
+Scott Wise,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+David Weiss,7,8,1,4,0.25,0,1,0.0,0,0,0,2,4,1,0,2,0,0
+Michael Johnson,5,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Keith Agarwal,8,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+Kelvin Shannon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+=====Iowa Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Carlos Barahona,25,18,3,8,0.375,0,3,0.0,1,1,1.0,7,6,0,1,0,1,0
+Anibal Ruiz,25,25,6,10,0.6,1,3,0.3333333333333333,2,3,0.6666666666666666,15,4,3,1,0,4,0
+Brian Lancaster,20,20,5,9,0.5555555555555556,2,3,0.6666666666666666,2,2,1.0,14,4,1,0,0,2,0
+Sam Lecluyse,8,3,0,1,0.0,0,1,0.0,0,0,0,0,3,1,1,1,0,0
+Brian Christofferson,25,4,1,2,0.5,0,0,0,0,0,0,2,4,1,0,0,0,0
+Dario Gonzalez,25,14,1,6,0.16666666666666666,0,1,0.0,2,2,1.0,4,2,3,0,0,2,0
+Shane Mcbroom,20,10,0,3,0.0,0,0,0,2,2,1.0,2,2,0,0,0,4,1
+Ronald Adeyemi,25,17,6,7,0.8571428571428571,0,0,0,0,0,0,12,7,0,0,1,3,0
+Jason Schoffstall,5,2,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ryan Randall,7,2,1,1,1.0,0,0,0,0,0,0,2,1,0,0,0,0,0
+Juan Hernandez,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+Christopher Kim,5,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Won Sai,5,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Maryland,Iowa
+Points,71,62
+Possessions,71,74
+FGM,21,22
+FGA,40,39
+FGPercent,0.525,0.5641025641025641
+3PM,7,3
+3PA,17,11
+3P%,0.4117647058823529,0.2727272727272727
+FTM,8,9
+FTA,10,10
+FT%,0.8,0.9
+Rebounds,25,32
+OffRebounds,8,13
+DefRebounds,17,19
+Assists,16,10
+Steals,7,0
+Blocks,8,0
+Total Turnovers,11,16
+Largest Lead,12,9

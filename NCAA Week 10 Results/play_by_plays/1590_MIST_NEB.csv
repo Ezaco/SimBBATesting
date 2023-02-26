@@ -1,0 +1,162 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+MIST,NEB,60,46,141
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+MIST,MIST wins the tipoff!,Tipoff,0,0,0,141
+MIST,Scott Credeur 3-point attempt...Score!,Score,3,0,1,141
+NEB,Christopher Merlo 3-point attempt...Score!,Score,3,3,2,141
+MIST,MIST George Hwang lost the ball out of bounds.,Out of Bounds,3,3,3,141
+NEB,Eric Galvez Inside shot...Missed!       Rebounded by MIST Wei Moore.,Score,3,3,4,141
+MIST,MIST: Offensive foul on MIST George Hwang.,Foul,3,3,5,141
+NEB,Su Tran Inside shot... Missed but with a foul on the play.,Fouled,3,3,6,141
+NEB,Free throw coming up... rattled out.,FreeThrow,3,3,6,141
+NEB,Free throw coming up... good!,FreeThrow,3,4,6,141
+MIST,George Hwang 3-point attempt...Score!       Assisted by: David Berkman,Score,6,4,7,141
+NEB,Eric Galvez 2-point jumper...Missed!       Rebounded by MIST Colin Newport.,Score,6,4,8,141
+MIST,Paul Coleman 2-point jumper...Missed!       Rebounded by NEB Alvaro Calderon.,Missed,6,4,9,141
+NEB,Alvaro Calderon Inside shot...Score!,Score,6,6,10,141
+MIST,Roberto Pastella Inside shot...Score!,Score,8,6,11,141
+NEB,NEB: Offensive foul on NEB Eric Galvez.,Turnover,8,6,12,141
+MIST,Roberto Pastella Inside shot...Score!,Score,10,6,13,141
+NEB,NEB: Offensive foul on NEB Mitchell Henderson.,Turnover,10,6,14,141
+MIST,Colin Newport 3-point attempt...Missed!       Rebounded by NEB Christopher Merlo.,Miss,10,6,15,141
+NEB,Bernard Pheanis 3-point attempt...Missed!Rebounded by MIST Paul Coleman.,Score,10,6,16,141
+MIST,Roberto Pastella 2-point jumper...BLOCKED by NEB Christopher Merlo.       Rebounded by MIST Colin Newport.,Turnover,10,6,17,141
+MIST,Scott Credeur Inside shot...Score!,Score,12,6,18,141
+NEB,Christopher Merlo 2-point jumper...Missed!       Rebounded by NEB Alvaro Calderon.,Score,12,6,19,141
+NEB,Christopher Merlo 2-point jumper...Missed!       Rebounded by NEB Christopher Merlo.,Score,12,6,20,141
+NEB,Alvaro Calderon 2-point jumper...Missed!       Rebounded by MIST Richard Mcgaugh.,Score,12,6,21,141
+NEB,Stephen Chalfant steals the ball for NEB!,Turnover,12,6,22,141
+MIST,Richard Mcgaugh steals the ball for MIST!,Turnover,12,6,23,141
+MIST,Hao Liu 2-point jumper...Score!,Score,14,6,24,141
+NEB,Robert Quinn 2-point jumper...Score!,Score,14,8,25,141
+MIST,MIST: Offensive foul on MIST George Hwang.,Foul,14,8,26,141
+NEB,NEB: Offensive foul on NEB Mitchell Henderson.,Turnover,14,8,27,141
+MIST,George Hwang 3-point attempt...Score!       Assisted by: Richard Mcgaugh,Score,17,8,28,141
+NEB,Eric Galvez Inside shot...Missed!       Rebounded by MIST Roberto Pastella.,Score,17,8,29,141
+MIST,MIST Scott Credeur lost the ball out of bounds.,Out of Bounds,17,8,30,141
+NEB,Bernard Pheanis 2-point jumper...Missed!       Rebounded by NEB Robert Quinn.,Score,17,8,31,141
+NEB,Su Tran 3-point attempt...Missed!Rebounded by MIST Colin Newport.,Score,17,8,32,141
+MIST,Colin Newport 3-point attempt...Missed!       Rebounded by NEB Bernard Pheanis.,Miss,17,8,33,141
+NEB,Bernard Pheanis Inside shot... Missed but with a foul on the play.,Fouled,17,8,34,141
+NEB,Free throw coming up... rattled out.,FreeThrow,17,8,34,141
+NEB,Free throw coming up... good!,FreeThrow,17,9,34,141
+MIST,Richard Mcgaugh Inside shot...Score!,Score,19,9,36,141
+NEB,Su Tran 3-point attempt...Score!       Assisted by: Mitchell Henderson,Score,19,12,37,141
+MIST,George Hwang 3-point attempt...Score!       Assisted by: Roberto Pastella,Score,22,12,38,141
+MIST,Matthew Haas steals the ball for MIST!,Turnover,22,12,39,141
+MIST,Scott Credeur Inside shot... Missed with a foul on the play.,Fouled,22,12,40,141
+MIST,Free throw coming up... good!,FreeThrow,23,12,40,141
+MIST,Free throw coming up... good!,FreeThrow,24,12,40,141
+NEB,Alvaro Calderon 3-point attempt...Score!       Assisted by: Eric Galvez,Score,24,15,41,141
+MIST,Mario Fernandez 2-point jumper...Missed!       Rebounded by NEB Mitchell Henderson.,Missed,24,15,42,141
+NEB,Mitchell Henderson Inside shot... Missed but with a foul on the play.,Fouled,24,15,43,141
+NEB,Free throw coming up... good!,FreeThrow,24,16,43,141
+NEB,Free throw coming up... good!,FreeThrow,24,17,43,141
+MIST,Scott Credeur Inside shot...Missed!       Rebounded by MIST George Hwang.,Score,24,17,44,141
+MIST,Roberto Pastella 2-point jumper...Missed!       Rebounded by MIST Mario Fernandez.,Missed,24,17,45,141
+MIST,Richard Mcgaugh 3-point attempt...Missed!       Rebounded by NEB Christopher Merlo.,Miss,24,17,46,141
+NEB,NEB: Offensive foul on NEB Mitchell Henderson.,Turnover,24,17,47,141
+MIST,George Hwang Inside shot...Score!       Assisted by: Colin Newport,Score,26,17,48,141
+NEB,NEB: Offensive foul on NEB Alvaro Calderon.,Turnover,26,17,49,141
+NEB,Christopher Merlo steals the ball for NEB!,Turnover,26,17,50,141
+NEB,Christopher Merlo 3-point attempt...Score!       Assisted by: Alvaro Calderon,Score,26,20,51,141
+MIST,Colin Newport Inside shot...Score!       Assisted by: Richard Mcgaugh,Score,28,20,52,141
+NEB,Christopher Merlo 2-point jumper...Missed!       Rebounded by MIST Matthew Haas.,Score,28,20,53,141
+MIST,Mario Fernandez 3-point attempt...Missed!       Rebounded by MIST Scott Credeur.,Missed,28,20,54,141
+MIST,Mario Fernandez 2-point jumper...Missed!       Rebounded by NEB Mitchell Henderson.,Missed,28,20,55,141
+NEB,Eric Galvez 2-point jumper...Missed!       Rebounded by NEB Richard Nichols.,Score,28,20,56,141
+NEB,Alvaro Calderon 2-point jumper...Missed!       Rebounded by MIST Roberto Pastella.,Score,28,20,57,141
+MIST,Colin Newport 2-point jumper...Missed!       Rebounded by NEB Richard Nichols.,Missed,28,20,58,141
+NEB,Eric Galvez Inside shot...Score!,Score,28,22,59,141
+MIST,Colin Newport 3-point attempt...Score!       Assisted by: Matthew Haas,Score,31,22,60,141
+NEB,NEB Alvaro Calderon lost the ball out of bounds.,Turnover,31,22,61,141
+MIST,MIST: Offensive foul on MIST Richard Mcgaugh.,Foul,31,22,62,141
+NEB,Robert Quinn 3-point attempt...Score!       Assisted by: Alvaro Calderon,Score,31,25,63,141
+MIST,Richard Mcgaugh Inside shot...Missed!       Rebounded by NEB Alvaro Calderon.,Score,31,25,64,141
+NEB,Bernard Pheanis Inside shot...BLOCKED by Richard Mcgaugh.       Rebounded by NEB Mitchell Henderson.,Turnover,31,25,65,141
+MIST,George Hwang steals the ball for MIST!,Turnover,31,25,66,141
+MIST,Mario Fernandez Inside shot...Score!       Assisted by: Wei Moore,Score,33,25,67,141
+NEB,NEB: Shot clock violation on NEB Mitchell Henderson.,Turnover,33,25,68,141
+MIST,Hao Liu 2-point jumper...Missed!       Rebounded by NEB Stephen Chalfant.,Missed,33,25,69,141
+NEB,Alvaro Calderon Inside shot...Missed!       Rebounded by NEB Alvaro Calderon.,Score,33,25,70,141
+,,HALFTIME,33,25,70,141
+NEB,Christopher Merlo Inside shot...Score!,Score,33,27,71,141
+MIST,David Berkman 3-point attempt...Missed!       Rebounded by NEB Richard Nichols.,Miss,33,27,72,141
+NEB,Bernard Pheanis 3-point attempt...Missed!       Rebounded by NEB Mitchell Henderson.,Score,33,27,73,141
+NEB,Eric Galvez 3-point attempt...Missed!Rebounded by MIST Scott Credeur.,Score,33,27,74,141
+MIST,John Camp Inside shot...Score!       Assisted by: Richard Mcgaugh,Score,35,27,75,141
+NEB,Christopher Merlo 3-point attempt...Missed!Rebounded by MIST George Hwang.,Score,35,27,76,141
+MIST,Free throw coming up... good!,FreeThrow,36,27,77,141
+MIST,Free throw coming up... good!,FreeThrow,37,27,77,141
+MIST,Free throw coming up... good!,FreeThrow,38,27,77,141
+NEB,NEB: Offensive foul on NEB Alvaro Calderon.,Turnover,38,27,78,141
+MIST,Matthew Haas 2-point jumper...Missed!       Rebounded by NEB Eric Galvez.,Missed,38,27,79,141
+NEB,Richard Nichols 2-point jumper...Missed!       Rebounded by MIST Roberto Pastella.,Score,38,27,80,141
+MIST,Matthew Haas 2-point jumper...Missed!       Rebounded by NEB Mitchell Henderson.,Missed,38,27,81,141
+NEB,Mitchell Henderson 3-point attempt...Missed!Rebounded by MIST George Hwang.,Score,38,27,82,141
+MIST,John Camp Inside shot...Score!,Score,40,27,83,141
+NEB,Alvaro Calderon Inside shot...BLOCKED by Scott Credeur.       Rebounded by NEB Mitchell Henderson.,Turnover,40,27,84,141
+NEB,Alvaro Calderon Inside shot...Score!       Assisted by: Richard Nichols,Score,40,29,85,141
+MIST,Richard Mcgaugh 2-point jumper...Missed!       Rebounded by MIST Matthew Haas.,Missed,40,29,86,141
+MIST,Matthew Haas 3-point attempt...Score!       Assisted by: Richard Mcgaugh,Score,43,29,87,141
+NEB,Christopher Merlo Inside shot...BLOCKED by Richard Mcgaugh.       Rebounded by NEB Eric Galvez.,Turnover,43,29,88,141
+NEB,Bernard Pheanis Inside shot...BLOCKED by John Camp.       Rebounded by MIST Richard Mcgaugh.,Turnover,43,29,89,141
+MIST,Scott Credeur 3-point attempt...Missed!       Rebounded by NEB Richard Nichols.,Miss,43,29,90,141
+NEB,NEB: Offensive foul on NEB Mitchell Henderson.,Turnover,43,29,91,141
+MIST,MIST Matthew Haas lost the ball out of bounds.,Out of Bounds,43,29,92,141
+NEB,Alvaro Calderon Inside shot...Score!,Score,43,31,93,141
+MIST,George Hwang 3-point attempt...Missed!       Rebounded by NEB Christopher Merlo.,Miss,43,31,94,141
+NEB,Richard Nichols 3-point attempt...Missed!Rebounded by MIST Roberto Pastella.,Score,43,31,95,141
+NEB,Robert Quinn steals the ball for NEB!,Turnover,43,31,96,141
+NEB,Eric Galvez 3-point attempt...Score!       Assisted by: Alvaro Calderon,Score,43,34,97,141
+MIST,Mario Fernandez 2-point jumper...Missed!       Rebounded by NEB Bernard Pheanis.,Missed,43,34,98,141
+NEB,NEB Mitchell Henderson lost the ball out of bounds.,Turnover,43,34,99,141
+MIST,Colin Newport 3-point attempt...Missed!       Rebounded by NEB Bernard Pheanis.,Miss,43,34,100,141
+NEB,Richard Nichols 3-point attempt...Missed!Rebounded by MIST George Hwang.,Score,43,34,101,141
+MIST,Mario Fernandez Inside shot...BLOCKED by NEB Mitchell Henderson.       Rebounded by MIST Hao Liu.,Turnover,43,34,102,141
+MIST,Scott Credeur Inside shot...Score!,Score,45,34,103,141
+NEB,Eric Galvez 3-point attempt...Score!       Assisted by: Mitchell Henderson,Score,45,37,104,141
+MIST,MIST Paul Coleman lost the ball out of bounds.,Out of Bounds,45,37,105,141
+NEB,Robert Quinn 2-point jumper...Missed!       Rebounded by MIST Wei Moore.,Score,45,37,106,141
+MIST,MIST Matthew Haas lost the ball out of bounds.,Out of Bounds,45,37,107,141
+NEB,Richard Nichols Inside shot...Score! Fouled and we have a free throw folks!,Score,45,39,108,141
+NEB,Free throw coming up... good!,FreeThrow,45,40,108,141
+MIST,Paul Coleman 2-point jumper...Missed!       Rebounded by NEB Eric Galvez.,Missed,45,40,109,141
+NEB,NEB Christopher Merlo lost the ball out of bounds.,Turnover,45,40,110,141
+MIST,Scott Credeur 2-point jumper...Score!,Score,47,40,111,141
+NEB,Christopher Merlo Inside shot...Score!       Assisted by: Bernard Pheanis,Score,47,42,112,141
+MIST,MIST: Offensive foul on MIST Mario Fernandez.,Foul,47,42,113,141
+NEB,Mitchell Henderson 3-point attempt...Missed!Rebounded by MIST Matthew Haas.,Score,47,42,114,141
+MIST,Scott Credeur 2-point jumper...Missed!       Rebounded by MIST Matthew Haas.,Missed,47,42,115,141
+MIST,Scott Credeur 2-point jumper...Missed!       Rebounded by MIST Matthew Haas.,Missed,47,42,116,141
+MIST,Richard Mcgaugh Inside shot...Score! Foul on the play and one!,Score,49,42,117,141
+MIST,Free throw coming up... rattled out.       Rebounded by NEB Christopher Merlo.,FreeThrow,49,42,117,141
+NEB,Richard Nichols 3-point attempt...Missed!Rebounded by MIST George Hwang.,Score,49,42,118,141
+NEB,Robert Quinn steals the ball for NEB!,Turnover,49,42,119,141
+MIST,Richard Mcgaugh steals the ball for MIST!,Turnover,49,42,120,141
+MIST,Paul Coleman 2-point jumper...Missed!       Rebounded by NEB Bernard Pheanis.,Missed,49,42,121,141
+NEB,Eric Galvez 2-point jumper...Score!,Score,49,44,122,141
+MIST,MIST Scott Credeur lost the ball out of bounds.,Out of Bounds,49,44,123,141
+MIST,Roberto Pastella steals the ball for MIST!,Turnover,49,44,124,141
+MIST,Scott Credeur Inside shot...Score!,Score,51,44,125,141
+NEB,Mitchell Henderson 3-point attempt...Missed!Rebounded by MIST Matthew Haas.,Score,51,44,126,141
+MIST,George Hwang Inside shot...BLOCKED by NEB Richard Nichols.       Rebounded by NEB Mitchell Henderson.,Turnover,51,44,127,141
+NEB,Mitchell Henderson 3-point attempt...Missed!       Rebounded by NEB Mitchell Henderson.,Score,51,44,128,141
+NEB,Christopher Merlo 2-point jumper...Score!,Score,51,46,129,141
+MIST,Matthew Haas Inside shot...BLOCKED by NEB Christopher Merlo.       Rebounded by MIST Roberto Pastella.,Turnover,51,46,130,141
+MIST,Hao Liu 2-point jumper...Score!,Score,53,46,131,141
+NEB,NEB Alvaro Calderon lost the ball out of bounds.,Turnover,53,46,132,141
+MIST,George Hwang 2-point jumper...BLOCKED by NEB Christopher Merlo.       Rebounded by MIST Roberto Pastella.,Turnover,53,46,133,141
+MIST,Colin Newport 3-point attempt...Score!       Assisted by: Roberto Pastella,Score,56,46,134,141
+NEB,NEB: Offensive foul on NEB Mitchell Henderson.,Turnover,56,46,135,141
+MIST,Mario Fernandez Inside shot...Missed!       Rebounded by MIST Matthew Haas.,Score,56,46,136,141
+MIST,George Hwang Inside shot...Score! Foul on the play and one!,Score,58,46,137,141
+MIST,Free throw coming up... good!,FreeThrow,59,46,137,141
+NEB,Alvaro Calderon 3-point attempt...Missed!Rebounded by MIST Richard Mcgaugh.,Score,59,46,138,141
+MIST,John Camp Inside shot... Missed with a foul on the play.,Fouled,59,46,140,141
+MIST,Free throw coming up... good!,FreeThrow,60,46,140,141
+MIST,Free throw coming up... rattled out.       Rebounded by NEB Bernard Pheanis.,FreeThrow,60,46,140,141
+MIST,George Hwang steals the ball for MIST!,Turnover,60,46,141,141
+MIST,George Hwang 2-point jumper...Missed!       Rebounded by NEB Alvaro Calderon.,Missed,60,46,142,141
+,Match Complete,FinalScore,60,46,142,141

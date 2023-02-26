@@ -1,0 +1,170 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+CONN,CREI,71,62,144
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+CONN,CONN wins the tipoff!,Tipoff,0,0,0,144
+CONN,Kenneth Harris Inside shot...Score!       Assisted by: Marion Jackson,Score,2,0,1,144
+CREI,CREI Thomas Winn lost the ball out of bounds.,Turnover,2,0,2,144
+CONN,Michael Gabriel 2-point jumper...Score!       Assisted by: William Bender,Score,4,0,3,144
+CREI,Rick Mcguinness 3-point attempt...Score!       Assisted by: Thomas Winn,Score,4,3,4,144
+CREI,Chris Be steals the ball for CREI!,Turnover,4,3,5,144
+CREI,CREI Brandon Dahal lost the ball out of bounds.,Turnover,4,3,6,144
+CONN,Michael Gabriel Inside shot...BLOCKED by CREI Peter Armitage.       Rebounded by CREI John Anderson.,Turnover,4,3,7,144
+CREI,Thomas Winn 3-point attempt...Score!       Assisted by: Rick Mcguinness,Score,4,6,8,144
+CONN,Alvaro Rodriguez 2-point jumper...Missed!       Rebounded by CREI Chris Be.,Missed,4,6,9,144
+CREI,CREI: Offensive foul on CREI James Pinkus.,Turnover,4,6,10,144
+CONN,Marion Jackson Inside shot... Missed with a foul on the play.,Fouled,4,6,11,144
+CONN,Free throw coming up... good!,FreeThrow,5,6,11,144
+CONN,Free throw coming up... rattled out.       Rebounded by CONN Clifford Wright.,FreeThrow,5,6,11,144
+CONN,Clifford Wright 2-point jumper...Missed!       Rebounded by CONN Reginald Trimble.,Missed,5,6,12,144
+CONN,Marion Jackson Inside shot...Score!,Score,7,6,13,144
+CREI,Ricky Edwards 2-point jumper...Missed!       Rebounded by CONN Marion Jackson.,Score,7,6,14,144
+CONN,George Marquis 2-point jumper...Missed!       Rebounded by CREI Thomas Winn.,Missed,7,6,15,144
+CREI,Peter Armitage 3-point attempt...Missed!       Rebounded by CREI James Pinkus.,Score,7,6,16,144
+CONN,Michael Gabriel steals the ball for CONN!,Turnover,7,6,17,144
+CONN,Kenneth Harris Inside shot... Missed with a foul on the play.,Fouled,7,6,18,144
+CONN,Free throw coming up... rattled out.       Rebounded by CONN Michael Foster.,FreeThrow,7,6,18,144
+CONN,Alan Phan Inside shot...Score!,Score,9,6,19,144
+CREI,Chris Be 3-point attempt...Score!       Assisted by: Brandon Dahal,Score,9,9,20,144
+CONN,George Marquis Inside shot...Score!,Score,11,9,21,144
+CREI,Brandon Dahal Inside shot...Score!,Score,11,11,22,144
+CONN,Michael Foster 3-point attempt...Missed!       Rebounded by CREI James Pinkus.,Miss,11,11,23,144
+CREI,Peter Armitage Inside shot...Score!       Assisted by: Chris Be,Score,11,13,24,144
+CONN,Michael Gabriel Inside shot... Missed with a foul on the play.,Fouled,11,13,25,144
+CONN,Free throw coming up... good!,FreeThrow,12,13,25,144
+CREI,Walter Rodger Inside shot... Missed but with a foul on the play.,Fouled,12,13,26,144
+CREI,Free throw coming up... rattled out.,FreeThrow,12,13,26,144
+CREI,Free throw coming up... rattled out.       Rebounded by CONN James Dominy.,FreeThrow,12,13,26,144
+CONN,CONN Marion Jackson lost the ball out of bounds.,Out of Bounds,12,13,27,144
+CREI,Ricky Edwards 2-point jumper...Score!,Score,12,15,28,144
+CONN,William Bender Inside shot...Score!       Assisted by: Clifford Wright,Score,14,15,29,144
+CREI,Robert Kunzelman 3-point attempt...Score!       Assisted by: Walter Rodger,Score,14,18,30,144
+CONN,Clifford Wright Inside shot... Missed with a foul on the play.,Fouled,14,18,31,144
+CONN,Free throw coming up... rattled out.       Rebounded by CREI Ricky Edwards.,FreeThrow,14,18,31,144
+CREI,James Pinkus 3-point attempt...Score!       Assisted by: Rick Mcguinness,Score,14,21,32,144
+CONN,Michael Foster 2-point jumper...Missed!       Rebounded by CREI Rick Mcguinness.,Missed,14,21,33,144
+CREI,CREI: Shot clock violation on CREI Brandon Dahal.,Turnover,14,21,34,144
+CONN,Marion Jackson Inside shot...Score!,Score,16,21,35,144
+CONN,Clifford Wright steals the ball for CONN!,Turnover,16,21,36,144
+CONN,Clifford Wright 2-point jumper...Missed!       Rebounded by CREI Ricky Edwards.,Missed,16,21,37,144
+CREI,CREI James Pinkus lost the ball out of bounds.,Turnover,16,21,38,144
+CONN,Clifford Wright 3-point attempt...Missed!       Rebounded by CREI Peter Armitage.,Miss,16,21,39,144
+CREI,Ricky Edwards 3-point attempt...Missed!Rebounded by CONN George Marquis.,Score,16,21,40,144
+CONN,Michael Foster 3-point attempt...Missed!       Rebounded by CONN Marion Jackson.,Missed,16,21,41,144
+CONN,Michael Foster 2-point jumper...Missed!       Rebounded by CONN Michael Foster.,Missed,16,21,42,144
+CONN,Gregory Blowe Inside shot...Score!,Score,18,21,43,144
+CREI,Thomas Winn Inside shot...Score!       Assisted by: Chris Be,Score,18,23,45,144
+CONN,Marion Jackson 2-point jumper...Missed!       Rebounded by CONN Marion Jackson.,Missed,18,23,46,144
+CONN,Clifford Wright 2-point jumper...Missed!       Rebounded by CONN George Marquis.,Missed,18,23,47,144
+CONN,Gregory Blowe Inside shot...Score!,Score,20,23,48,144
+CREI,John Anderson Inside shot...Missed!       Rebounded by CONN William Bender.,Score,20,23,49,144
+CREI,Brandon Dahal steals the ball for CREI!,Turnover,20,23,50,144
+CREI,Peter Armitage Inside shot...Score!       Assisted by: John Anderson,Score,20,25,51,144
+CONN,Marion Jackson 2-point jumper...Score!       Assisted by: Michael Gabriel,Score,22,25,52,144
+CREI,Brandon Dahal Inside shot... Missed but with a foul on the play.,Fouled,22,25,53,144
+CREI,Free throw coming up... rattled out.,FreeThrow,22,25,53,144
+CREI,Free throw coming up... good!,FreeThrow,22,26,53,144
+CONN,Marion Jackson 2-point jumper...Score!       Assisted by: Alvaro Rodriguez,Score,24,26,54,144
+CREI,Mark Contreras 3-point attempt...Missed!Rebounded by CONN Clifford Wright.,Score,24,26,55,144
+CONN,Reginald Trimble 2-point jumper...Score!,Score,26,26,56,144
+CREI,Rick Mcguinness 2-point jumper...Missed!       Rebounded by CONN George Marquis.,Score,26,26,57,144
+CONN,Alan Phan Inside shot...Score! Foul on the play and one!,Score,28,26,58,144
+CONN,Free throw coming up... rattled out.       Rebounded by CREI James Pinkus.,FreeThrow,28,26,58,144
+CREI,Mark Contreras 3-point attempt...Missed!Rebounded by CONN George Marquis.,Score,28,26,59,144
+CONN,Marion Jackson 2-point jumper...BLOCKED by CREI Brandon Dahal.       Rebounded by CREI Rick Mcguinness.,Turnover,28,26,60,144
+CREI,Peter Armitage 3-point attempt...Score!       Assisted by: Chris Be,Score,28,29,61,144
+CONN,James Dominy 2-point jumper...Missed!       Rebounded by CREI Brandon Dahal.,Missed,28,29,62,144
+CREI,CREI James Pinkus lost the ball out of bounds.,Turnover,28,29,63,144
+CONN,George Marquis 2-point jumper...Missed!       Rebounded by CREI Chris Be.,Missed,28,29,64,144
+CONN,Michael Foster steals the ball for CONN!,Turnover,28,29,65,144
+CONN,Reginald Trimble Inside shot...Score!,Score,30,29,66,144
+CREI,Peter Armitage 2-point jumper...Missed!       Rebounded by CONN Michael Gabriel.,Score,30,29,67,144
+CONN,Clifford Wright Inside shot...Score!       Assisted by: Kenneth Harris,Score,32,29,68,144
+CREI,Peter Armitage Inside shot...Score!,Score,32,31,69,144
+CONN,Reginald Trimble 2-point jumper...BLOCKED by CREI Chris Be.       Rebounded by CONN Marion Jackson.,Turnover,32,31,70,144
+CONN,Gregory Blowe Inside shot... Missed with a foul on the play.,Fouled,32,31,71,144
+CONN,Free throw coming up... good!,FreeThrow,33,31,71,144
+CREI,Ricky Edwards 3-point attempt...Missed!Rebounded by CONN George Marquis.,Score,33,31,72,144
+,,HALFTIME,33,31,72,144
+CONN,Michael Gabriel 2-point jumper...Score!,Score,35,31,73,144
+CREI,CREI: Offensive foul on CREI Chris Be.,Turnover,35,31,74,144
+CONN,Reginald Trimble 3-point attempt...Score!,Score,38,31,75,144
+CREI,Robert Kunzelman 2-point jumper...Missed!       Rebounded by CREI Chris Be.,Score,38,31,76,144
+CREI,Ricky Edwards 2-point jumper...Score!       Assisted by: Brandon Dahal,Score,38,33,77,144
+CONN,Reginald Trimble 3-point attempt...Missed!       Rebounded by CREI Peter Armitage.,Miss,38,33,78,144
+CREI,Timothy Wright 2-point jumper...Missed!       Rebounded by CONN Michael Foster.,Score,38,33,79,144
+CONN,CONN Kenneth Harris lost the ball out of bounds.,Out of Bounds,38,33,80,144
+CREI,Robert Kunzelman 2-point jumper...Score!       Assisted by: Walter Rodger,Score,38,35,81,144
+CONN,Clifford Wright 2-point jumper...Missed!       Rebounded by CREI Thomas Winn.,Missed,38,35,82,144
+CREI,Peter Armitage Inside shot...Score!,Score,38,37,83,144
+CONN,Marion Jackson Inside shot...Score!       Assisted by: Kenneth Harris,Score,40,37,84,144
+CREI,CREI Peter Armitage lost the ball out of bounds.,Turnover,40,37,85,144
+CONN,Michael Foster Inside shot...Missed!       Rebounded by CREI Chris Be.,Score,40,37,86,144
+CREI,Rick Mcguinness Inside shot...Score!,Score,40,39,87,144
+CONN,George Marquis Inside shot...Score! Foul on the play and one!,Score,42,39,88,144
+CONN,Free throw coming up... good!,FreeThrow,43,39,88,144
+CREI,Brandon Dahal Inside shot...Score!       Assisted by: Timothy Wright,Score,43,41,89,144
+CONN,James Dominy 2-point jumper...Missed!       Rebounded by CREI Rick Mcguinness.,Missed,43,41,90,144
+CONN,Clifford Wright steals the ball for CONN!,Turnover,43,41,91,144
+CONN,Michael Gabriel Inside shot...Score!,Score,45,41,92,144
+CREI,CREI: Offensive foul on CREI Mark Contreras.,Turnover,45,41,93,144
+CONN,Michael Gabriel 2-point jumper...Score!,Score,47,41,94,144
+CREI,Peter Armitage Inside shot...BLOCKED by Michael Foster.       Rebounded by CREI Thomas Winn.,Turnover,47,41,95,144
+CREI,Thomas Winn 2-point jumper...Missed!       Rebounded by CREI Brandon Dahal.,Score,47,41,96,144
+CREI,Rick Mcguinness 2-point jumper...Missed!       Rebounded by CONN George Marquis.,Score,47,41,97,144
+CONN,James Dominy 2-point jumper...Missed!       Rebounded by CREI Peter Armitage.,Missed,47,41,98,144
+CREI,Rick Mcguinness Inside shot...BLOCKED by Gregory Blowe.       Rebounded by CONN Michael Gabriel.,Turnover,47,41,99,144
+CONN,George Marquis 2-point jumper...Score!       Assisted by: James Dominy,Score,49,41,100,144
+CREI,Ricky Edwards Inside shot...Score!,Score,49,43,101,144
+CONN,William Bender 2-point jumper...Missed!       Rebounded by CREI Chris Be.,Missed,49,43,102,144
+CREI,Larry Jones Inside shot...Score!,Score,49,45,103,144
+CONN,James Dominy Inside shot...Score!       Assisted by: Michael Foster,Score,51,45,104,144
+CREI,CREI: Offensive foul on CREI James Pinkus.,Turnover,51,45,105,144
+CONN,CONN Ai Alhambra lost the ball out of bounds.,Out of Bounds,51,45,106,144
+CREI,Ricky Edwards 3-point attempt...Score!       Assisted by: Thomas Winn,Score,51,48,107,144
+CONN,Michael Gabriel Inside shot...Score!       Assisted by: James Dominy,Score,53,48,108,144
+CREI,Thomas Winn 3-point attempt...Score!,Score,53,51,109,144
+CONN,George Marquis 2-point jumper...Score!       Assisted by: Clifford Wright,Score,55,51,110,144
+CREI,Ricky Edwards 2-point jumper...Missed!       Rebounded by CREI Chris Be.,Score,55,51,111,144
+CREI,CREI: Offensive foul on CREI Ricky Edwards.,Turnover,55,51,112,144
+CONN,James Dominy 2-point jumper...Score!,Score,57,51,113,144
+CREI,CREI John Anderson lost the ball out of bounds.,Turnover,57,51,114,144
+CREI,Peter Armitage steals the ball for CREI!,Turnover,57,51,115,144
+CREI,Rick Mcguinness 3-point attempt...Missed!Rebounded by CONN Michael Gabriel.,Score,57,51,116,144
+CREI,Thomas Winn steals the ball for CREI!,Turnover,57,51,117,144
+CREI,Peter Armitage Inside shot...Score!       Assisted by: Robert Kunzelman,Score,57,53,118,144
+CONN,James Dominy Inside shot...Score!,Score,59,53,119,144
+CREI,Thomas Winn 2-point jumper...Score!,Score,59,55,120,144
+CONN,Michael Gabriel 2-point jumper...Score!,Score,61,55,121,144
+CREI,Rick Mcguinness Inside shot...Missed!       Rebounded by CONN Michael Foster.,Score,61,55,122,144
+CONN,James Dominy 2-point jumper...Missed!       Rebounded by CREI James Pinkus.,Missed,61,55,123,144
+CREI,Chris Be 2-point jumper...Missed!       Rebounded by CONN Michael Foster.,Score,61,55,124,144
+CONN,Clifford Wright 2-point jumper...Missed!       Rebounded by CREI Chris Be.,Missed,61,55,125,144
+CREI,CREI Ricky Edwards lost the ball out of bounds.,Turnover,61,55,126,144
+CONN,Michael Foster Inside shot...Score!,Score,63,55,127,144
+CREI,Thomas Winn 2-point jumper...Missed!       Rebounded by CREI Robert Kunzelman.,Score,63,55,128,144
+CONN,George Marquis steals the ball for CONN!,Turnover,63,55,129,144
+CONN,CONN Gregory Blowe lost the ball out of bounds.,Out of Bounds,63,55,130,144
+CREI,Thomas Winn 2-point jumper...Missed!       Rebounded by CONN Michael Gabriel.,Score,63,55,131,144
+CONN,Marion Jackson Inside shot... Missed with a foul on the play.,Fouled,63,55,132,144
+CONN,Free throw coming up... good!,FreeThrow,64,55,132,144
+CONN,Free throw coming up... good!,FreeThrow,65,55,132,144
+CREI,Ricky Edwards 3-point attempt...Missed!       Rebounded by CREI Mark Contreras.,Score,65,55,133,144
+CREI,Walter Rodger Inside shot... Missed but with a foul on the play.,Fouled,65,55,134,144
+CREI,Free throw coming up... good!,FreeThrow,65,56,134,144
+CREI,Free throw coming up... rattled out.       Rebounded by CONN Clifford Wright.,FreeThrow,65,56,134,144
+CONN,James Dominy 3-point attempt...Missed!       Rebounded by CONN James Dominy.,Missed,65,56,135,144
+CONN,James Dominy Inside shot...Missed!       Rebounded by CREI Chris Be.,Score,65,56,136,144
+CREI,Peter Armitage 2-point jumper...Missed!       Rebounded by CONN Alan Phan.,Score,65,56,137,144
+CONN,Michael Foster Inside shot...Score! Foul on the play and one!       Assisted by: Kenneth Harris,Score,67,56,138,144
+CONN,Free throw coming up... rattled out.       Rebounded by CREI Ricky Edwards.,FreeThrow,67,56,138,144
+CREI,Brandon Dahal 2-point jumper...Missed!       Rebounded by CONN Michael Gabriel.,Score,67,56,139,144
+CONN,Michael Foster 2-point jumper... Missed with a foul on the play.,Turnover,67,56,140,144
+CONN,Michael Foster 2-point jumper... Missed with a foul on the play.,FreeThrow,68,56,140,144
+CONN,Michael Foster 2-point jumper... Missed with a foul on the play.,FreeThrow,69,56,140,144
+CREI,Thomas Winn 3-point attempt...Score!       Assisted by: Ricky Edwards,Score,69,59,141,144
+CONN,Michael Foster Inside shot...Score!       Assisted by: Michael Gabriel,Score,71,59,142,144
+CREI,Brandon Dahal 2-point jumper...Missed!       Rebounded by CREI Peter Armitage.,Score,71,59,143,144
+CREI,Peter Armitage 3-point attempt...Score!       Assisted by: Chris Be,Score,71,62,144,144
+CONN,Marion Jackson 2-point jumper...Missed!       Rebounded by CREI Peter Armitage.,Missed,71,62,145,144
+,Match Complete,FinalScore,71,62,145,144

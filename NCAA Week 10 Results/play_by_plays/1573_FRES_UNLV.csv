@@ -1,0 +1,159 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+FRES,UNLV,48,64,142
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+UNLV,UNLV wins the tipoff!,Tipoff,0,0,0,142
+UNLV,Richard Mejia 2-point jumper...BLOCKED by Enrique Diaz.       Rebounded by UNLV Vladimir Underhill.,Turnover,0,0,1,142
+UNLV,Clay Chally 3-point attempt...Score!       Assisted by: Christopher White,Score,0,3,2,142
+FRES,Dennis Ferdinand 2-point jumper...Missed!       Rebounded by FRES Robert Noonan.,Missed,0,3,3,142
+UNLV,Gonzalo Cervantes steals the ball for UNLV!,Turnover,0,3,4,142
+FRES,Andrew Kramer steals the ball for FRES!,Turnover,0,3,5,142
+FRES,Enrique Diaz Inside shot...Score!,Score,2,3,6,142
+UNLV,Barry Stewart Inside shot...Score!,Score,2,5,7,142
+UNLV,Barry Stewart steals the ball for UNLV!,Turnover,2,5,8,142
+UNLV,Gonzalo Cervantes 3-point attempt...Score!       Assisted by: Karl Cheers,Score,2,8,9,142
+FRES,Dennis Ferdinand Inside shot... Missed with a foul on the play.,Fouled,2,8,10,142
+FRES,Free throw coming up... good!,FreeThrow,3,8,10,142
+FRES,Free throw coming up... good!,FreeThrow,4,8,10,142
+UNLV,Barry Stewart 2-point jumper...Score!,Score,4,10,12,142
+FRES,Andrew Kramer 3-point attempt...Missed!       Rebounded by FRES Andrew Kramer.,Missed,4,10,13,142
+FRES,Adam Turner 2-point jumper...Missed!       Rebounded by UNLV Brian Ewart.,Missed,4,10,14,142
+UNLV,Karl Cheers 2-point jumper...Score!,Score,4,12,15,142
+FRES,Adam Turner 2-point jumper...Missed!       Rebounded by UNLV Christopher White.,Missed,4,12,16,142
+UNLV,Clay Chally 2-point jumper...Missed!       Rebounded by FRES Enrique Diaz.,Score,4,12,17,142
+FRES,Robert Noonan 2-point jumper...Missed!       Rebounded by UNLV Mikhail Wolff.,Missed,4,12,18,142
+UNLV,Richard Mejia 2-point jumper...Missed!       Rebounded by FRES David Hackett.,Score,4,12,19,142
+FRES,FRES Robert Noonan lost the ball out of bounds.,Out of Bounds,4,12,20,142
+UNLV,UNLV Christopher White lost the ball out of bounds.,Turnover,4,12,21,142
+FRES,Dennis Ferdinand Inside shot...Score!,Score,6,12,22,142
+UNLV,Karl Cheers 3-point attempt...Missed!Rebounded by FRES Kenneth Jenkins.,Score,6,12,23,142
+FRES,FRES: Offensive foul on FRES Lawrence Jones.,Foul,6,12,24,142
+UNLV,Brian Ewart 2-point jumper...Missed!       Rebounded by FRES Robert Noonan.,Score,6,12,25,142
+FRES,FRES Lawrence Jones lost the ball out of bounds.,Out of Bounds,6,12,26,142
+UNLV,UNLV Richard Mejia lost the ball out of bounds.,Turnover,6,12,27,142
+FRES,Dennis Ferdinand 3-point attempt...Missed!       Rebounded by UNLV Vladimir Underhill.,Miss,6,12,28,142
+UNLV,Mikhail Wolff 3-point attempt...Missed!Rebounded by FRES Andrew Kramer.,Score,6,12,29,142
+FRES,Adam Turner Inside shot...Missed!       Rebounded by UNLV Brian Ewart.,Score,6,12,30,142
+UNLV,Mikhail Wolff 2-point jumper...Missed!       Rebounded by UNLV Mikhail Wolff.,Score,6,12,31,142
+UNLV,Barry Stewart Inside shot...Score!,Score,6,14,32,142
+FRES,FRES Enrique Diaz lost the ball out of bounds.,Out of Bounds,6,14,33,142
+UNLV,Barry Stewart Inside shot...Score!,Score,6,16,34,142
+FRES,Dennis Ferdinand 3-point attempt...Missed!       Rebounded by UNLV Karl Cheers.,Miss,6,16,35,142
+UNLV,Mikhail Wolff 2-point jumper...Missed!       Rebounded by UNLV Karl Cheers.,Score,6,16,36,142
+UNLV,Mikhail Wolff 3-point attempt...Score!       Assisted by: Karl Cheers,Score,6,19,37,142
+FRES,Lawrence Jones Inside shot...Score!,Score,8,19,38,142
+UNLV,Ted Trybus Inside shot...Score!,Score,8,21,39,142
+FRES,Robert Noonan Inside shot...Score!       Assisted by: Dennis Ferdinand,Score,10,21,40,142
+UNLV,Karl Cheers 2-point jumper...Missed!       Rebounded by FRES David Glavan.,Score,10,21,41,142
+FRES,Jason Witucki Inside shot...BLOCKED by UNLV Richard Mejia.       Rebounded by UNLV Richard Mejia.,Turnover,10,21,42,142
+UNLV,Barry Stewart Inside shot...Score!,Score,10,23,43,142
+FRES,Robert Noonan 2-point jumper...Missed!       Rebounded by FRES Adam Turner.,Missed,10,23,44,142
+FRES,Lawrence Jones Inside shot...Score! Foul on the play and one!,Score,12,23,45,142
+FRES,Free throw coming up... good!,FreeThrow,13,23,45,142
+UNLV,Barry Stewart 2-point jumper...Score!,Score,13,25,46,142
+FRES,Robert Maguire 3-point attempt...Missed!       Rebounded by UNLV Richard Mejia.,Miss,13,25,47,142
+UNLV,Vladimir Underhill Inside shot...Score!,Score,13,27,48,142
+FRES,Robert Noonan 3-point attempt...Score!       Assisted by: Lawrence Jones,Score,16,27,49,142
+UNLV,Brian Ewart 3-point attempt...Missed!       Rebounded by UNLV Richard Mejia.,Score,16,27,50,142
+UNLV,Richard Mejia 2-point jumper...Missed!       Rebounded by FRES Dennis Ferdinand.,Score,16,27,51,142
+FRES,Robert Noonan Inside shot...Missed!       Rebounded by FRES Wende Hoover.,Score,16,27,52,142
+FRES,Wende Hoover 3-point attempt...Missed!       Rebounded by UNLV Karl Cheers.,Miss,16,27,53,142
+UNLV,Mikhail Wolff Inside shot...Score!,Score,16,29,54,142
+FRES,Andrew Kramer 3-point attempt...Score!       Assisted by: Robert Noonan,Score,19,29,55,142
+UNLV,Vladimir Underhill Inside shot...Score!       Assisted by: Barry Stewart,Score,19,31,56,142
+FRES,Dennis Ferdinand 3-point attempt...Missed!       Rebounded by FRES Enrique Diaz.,Missed,19,31,57,142
+FRES,FRES Lawrence Jones lost the ball out of bounds.,Out of Bounds,19,31,58,142
+UNLV,Mikhail Wolff Inside shot... Missed but with a foul on the play.,Fouled,19,31,59,142
+UNLV,Free throw coming up... good!,FreeThrow,19,32,59,142
+UNLV,Free throw coming up... rattled out.       Rebounded by FRES Robert Noonan.,FreeThrow,19,32,59,142
+FRES,Adam Turner 2-point jumper...Score!,Score,21,32,60,142
+UNLV,Christopher White 2-point jumper...Missed!       Rebounded by UNLV Karl Cheers.,Score,21,32,61,142
+UNLV,Barry Stewart Inside shot...Score!       Assisted by: Christopher White,Score,21,34,62,142
+UNLV,Barry Stewart steals the ball for UNLV!,Turnover,21,34,63,142
+FRES,Lawrence Jones steals the ball for FRES!,Turnover,21,34,64,142
+FRES,Enrique Diaz 2-point jumper...Score!       Assisted by: Lawrence Jones,Score,23,34,65,142
+UNLV,Vladimir Underhill 2-point jumper...Missed!       Rebounded by UNLV Barry Stewart.,Score,23,34,67,142
+UNLV,Richard Mejia Inside shot...Score!,Score,23,36,68,142
+FRES,FRES Lawrence Jones lost the ball out of bounds.,Out of Bounds,23,36,69,142
+UNLV,Vladimir Underhill 2-point jumper...Score!,Score,23,38,70,142
+FRES,Enrique Diaz Inside shot...Score!,Score,25,38,71,142
+,,HALFTIME,25,38,71,142
+UNLV,Barry Stewart 2-point jumper...Missed!       Rebounded by FRES Andrew Kramer.,Score,25,38,72,142
+FRES,Lawrence Jones 2-point jumper...Score!,Score,27,38,73,142
+UNLV,Christopher White Inside shot...Score!,Score,27,40,74,142
+FRES,Jason Witucki 2-point jumper...Missed!       Rebounded by FRES Robert Noonan.,Missed,27,40,75,142
+FRES,FRES: Offensive foul on FRES Dennis Ferdinand.,Foul,27,40,76,142
+UNLV,Brian Ewart Inside shot... Missed but with a foul on the play.,Fouled,27,40,77,142
+UNLV,Free throw coming up... good!,FreeThrow,27,41,77,142
+UNLV,Free throw coming up... good!,FreeThrow,27,42,77,142
+FRES,Enrique Diaz 2-point jumper...Score!       Assisted by: Jason Witucki,Score,29,42,78,142
+FRES,Adam Turner steals the ball for FRES!,Turnover,29,42,79,142
+FRES,Enrique Diaz 3-point attempt...Missed!       Rebounded by UNLV Mikhail Wolff.,Miss,29,42,80,142
+FRES,Enrique Diaz steals the ball for FRES!,Turnover,29,42,81,142
+FRES,Robert Noonan Inside shot...Score!       Assisted by: Andrew Kramer,Score,31,42,82,142
+UNLV,Barry Stewart 2-point jumper...Missed!       Rebounded by UNLV Richard Mejia.,Score,31,42,83,142
+UNLV,Richard Mejia 3-point attempt...Missed!Rebounded by FRES Robert Noonan.,Score,31,42,84,142
+FRES,FRES Robert Maguire lost the ball out of bounds.,Out of Bounds,31,42,85,142
+UNLV,UNLV: Offensive foul on UNLV Vladimir Underhill.,Turnover,31,42,86,142
+FRES,FRES: Offensive foul on FRES Lawrence Jones.,Foul,31,42,87,142
+UNLV,Barry Stewart 2-point jumper...Missed!       Rebounded by FRES Adam Turner.,Score,31,42,89,142
+FRES,Robert Noonan 2-point jumper...Missed!       Rebounded by FRES Jason Witucki.,Missed,31,42,90,142
+FRES,Enrique Diaz 2-point jumper...Missed!       Rebounded by UNLV Richard Mejia.,Missed,31,42,91,142
+UNLV,Christopher White 2-point jumper...Missed!       Rebounded by UNLV Mikhail Wolff.,Score,31,42,92,142
+UNLV,Mikhail Wolff Inside shot...Score!,Score,31,44,93,142
+FRES,David Hackett Inside shot... Missed with a foul on the play.,Fouled,31,44,94,142
+FRES,Free throw coming up... good!,FreeThrow,32,44,94,142
+FRES,Free throw coming up... good!,FreeThrow,33,44,94,142
+UNLV,Vladimir Underhill 2-point jumper...Missed!       Rebounded by FRES Dennis Ferdinand.,Score,33,44,95,142
+FRES,Dennis Ferdinand 3-point attempt...Score!       Assisted by: David Hackett,Score,36,44,96,142
+UNLV,UNLV Gonzalo Cervantes lost the ball out of bounds.,Turnover,36,44,97,142
+FRES,Adam Turner 3-point attempt...Missed!       Rebounded by UNLV Vladimir Underhill.,Miss,36,44,98,142
+FRES,Andrew Kramer steals the ball for FRES!,Turnover,36,44,100,142
+FRES,Lawrence Jones 2-point jumper...Missed!       Rebounded by UNLV Gonzalo Cervantes.,Missed,36,44,101,142
+FRES,Andrew Kramer steals the ball for FRES!,Turnover,36,44,102,142
+UNLV,Karl Cheers steals the ball for UNLV!,Turnover,36,44,103,142
+UNLV,Barry Stewart 2-point jumper...BLOCKED by Adam Turner.       Rebounded by FRES Adam Turner.,Turnover,36,44,104,142
+FRES,FRES Adam Turner lost the ball out of bounds.,Out of Bounds,36,44,105,142
+UNLV,Brian Ewart 2-point jumper...Missed!       Rebounded by FRES Andrew Kramer.,Score,36,44,106,142
+FRES,Robert Noonan 3-point attempt...Missed!       Rebounded by UNLV Christopher White.,Miss,36,44,107,142
+UNLV,Mikhail Wolff Inside shot...Score!       Assisted by: Christopher White,Score,36,46,108,142
+FRES,Adam Turner Inside shot... Missed with a foul on the play.,Fouled,36,46,109,142
+FRES,Free throw coming up... good!,FreeThrow,37,46,109,142
+UNLV,Mikhail Wolff 3-point attempt...Score!       Assisted by: Ted Trybus,Score,37,49,110,142
+FRES,David Glavan Inside shot...Score!       Assisted by: Enrique Diaz,Score,39,49,111,142
+UNLV,Brian Ewart 3-point attempt...Score!       Assisted by: Barry Stewart,Score,39,52,112,142
+FRES,Jason Witucki 2-point jumper...Missed!       Rebounded by UNLV Barry Stewart.,Missed,39,52,113,142
+UNLV,UNLV Karl Cheers lost the ball out of bounds.,Turnover,39,52,114,142
+FRES,Lawrence Jones Inside shot...Score!       Assisted by: Dennis Ferdinand,Score,41,52,115,142
+UNLV,Brian Ewart Inside shot...Score!,Score,41,54,116,142
+UNLV,Karl Cheers steals the ball for UNLV!,Turnover,41,54,117,142
+UNLV,Brian Ewart 3-point attempt...Score!       Assisted by: Vladimir Underhill,Score,41,57,118,142
+FRES,FRES Wende Hoover lost the ball out of bounds.,Out of Bounds,41,57,119,142
+UNLV,Barry Stewart Inside shot... Missed but with a foul on the play.,Fouled,41,57,120,142
+UNLV,Free throw coming up... good!,FreeThrow,41,58,120,142
+UNLV,Free throw coming up... good!,FreeThrow,41,59,120,142
+FRES,Robert Maguire 3-point attempt...Score!       Assisted by: David Glavan,Score,44,59,121,142
+UNLV,Rickey Bateman 3-point attempt...Missed!       Rebounded by UNLV Barry Stewart.,Score,44,59,122,142
+UNLV,Vladimir Underhill 2-point jumper...Missed!       Rebounded by UNLV Karl Cheers.,Score,44,59,123,142
+UNLV,UNLV: Offensive foul on UNLV Barry Stewart.,Turnover,44,59,124,142
+FRES,Enrique Diaz 3-point attempt...Missed!       Rebounded by UNLV Vladimir Underhill.,Miss,44,59,125,142
+UNLV,Brian Ewart 2-point jumper...Missed!       Rebounded by FRES David Hackett.,Score,44,59,126,142
+FRES,Lawrence Jones Inside shot...Score!       Assisted by: Patrick Shugart,Score,46,59,127,142
+UNLV,UNLV Mikhail Wolff lost the ball out of bounds.,Turnover,46,59,128,142
+FRES,FRES: Offensive foul on FRES Andrew Kramer.,Foul,46,59,129,142
+UNLV,Richard Mejia 2-point jumper...BLOCKED by Enrique Diaz.       Rebounded by UNLV Barry Stewart.,Turnover,46,59,130,142
+UNLV,Richard Mejia 2-point jumper...Missed!       Rebounded by UNLV Karl Cheers.,Score,46,59,131,142
+UNLV,Richard Mejia 3-point attempt...Missed!Rebounded by FRES Wende Hoover.,Score,46,59,132,142
+FRES,Dennis Ferdinand 2-point jumper...Missed!       Rebounded by UNLV Mikhail Wolff.,Missed,46,59,133,142
+UNLV,Mikhail Wolff Inside shot...Score! Fouled and we have a free throw folks!,Score,46,61,134,142
+UNLV,Free throw coming up... good!,FreeThrow,46,62,134,142
+FRES,Andrew Kramer Inside shot...Missed!       Rebounded by UNLV Karl Cheers.,Score,46,62,135,142
+UNLV,Vladimir Underhill Inside shot...BLOCKED by Jason Witucki.       Rebounded by UNLV Brian Ewart.,Turnover,46,62,136,142
+UNLV,Richard Mejia 3-point attempt...Missed!Rebounded by FRES Andrew Kramer.,Score,46,62,137,142
+FRES,Jason Witucki 2-point jumper...Score!,Score,48,62,138,142
+UNLV,Gonzalo Cervantes 2-point jumper...Score!       Assisted by: Clay Chally,Score,48,64,139,142
+UNLV,Mikhail Wolff steals the ball for UNLV!,Turnover,48,64,140,142
+UNLV,UNLV Gonzalo Cervantes lost the ball out of bounds.,Turnover,48,64,141,142
+FRES,Robert Noonan Inside shot...BLOCKED by UNLV Ted Trybus.       Rebounded by UNLV Richard Mejia.,Turnover,48,64,142,142
+UNLV,UNLV Barry Stewart lost the ball out of bounds.,Turnover,48,64,143,142
+,Match Complete,FinalScore,48,64,143,142

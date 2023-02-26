@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Nevada,Wolf Pack,23,32,0,55
+San Jose State,Spartans,32,25,0,57
+""
+""
+=====Nevada Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Leon Mcdonald,25,13,4,6,0.6666666666666666,0,0,0,0,0,0,8,2,5,0,0,2,0
+Richard Brazee,25,16,1,5,0.2,0,2,0.0,0,0,0,2,5,1,3,1,0,1
+Darren George,25,12,4,6,0.6666666666666666,1,3,0.3333333333333333,0,1,0.0,9,5,2,0,1,0,0
+Edward Dionizio,25,23,4,11,0.36363636363636365,1,2,0.5,0,0,0,9,5,0,1,0,0,0
+Samuel Hill,20,4,1,2,0.5,0,1,0.0,0,0,0,2,1,1,0,0,0,0
+Michael Novacek,25,10,2,3,0.6666666666666666,0,0,0,0,0,0,4,3,0,1,0,1,1
+Kevin Davis,5,2,1,1,1.0,1,1,1.0,0,0,0,3,0,2,0,0,0,0
+Donald Worrell,8,8,2,4,0.5,0,0,0,0,0,0,4,0,0,0,0,0,0
+Justin Samuel,20,17,4,7,0.5714285714285714,0,1,0.0,0,0,0,8,0,0,0,0,0,0
+Todd Sigmund,5,2,1,1,1.0,0,0,0,0,0,0,2,1,0,0,0,0,0
+Mariusz Henke,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Sergio Ayala,7,4,2,2,1.0,0,0,0,0,0,0,4,0,0,0,0,0,0
+Jess Soto,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+""
+=====San Jose State Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Michael Fennell,25,32,6,13,0.46153846153846156,0,1,0.0,2,2,1.0,14,3,2,1,1,5,2
+Peter Oneal,25,13,2,5,0.4,1,1,1.0,3,4,0.75,8,4,2,2,0,1,0
+Christopher Winter,25,17,2,7,0.2857142857142857,0,0,0,0,2,0.0,4,9,1,1,2,2,1
+Robert Campbell,20,20,4,9,0.4444444444444444,1,1,1.0,2,2,1.0,11,4,0,1,0,1,0
+Ling Wood,25,10,2,4,0.5,0,1,0.0,0,0,0,4,3,4,1,1,1,0
+James Sanders,25,19,2,7,0.2857142857142857,0,2,0.0,2,2,1.0,6,2,1,3,0,2,1
+Jay Hovey,8,3,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,1,0
+Eugene Caver,5,6,1,2,0.5,0,1,0.0,0,0,0,2,0,0,0,0,2,2
+Jamie Heuer,20,11,1,4,0.25,0,1,0.0,0,0,0,2,2,2,2,0,0,0
+Chad Wardell,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joseph Kasparek,7,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0
+Edward Maze,5,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+William Teller,5,4,2,2,1.0,0,0,0,0,0,0,4,0,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Nevada,San Jose State
+Points,55,57
+Possessions,71,76
+FGM,23,21
+FGA,38,46
+FGPercent,0.6052631578947368,0.45652173913043476
+3PM,3,2
+3PA,10,8
+3P%,0.3,0.25
+FTM,0,9
+FTA,1,12
+FT%,0.0,0.75
+Rebounds,22,29
+OffRebounds,4,9
+DefRebounds,18,20
+Assists,13,13
+Steals,5,0
+Blocks,2,3
+Total Turnovers,25,19
+Largest Lead,0,9

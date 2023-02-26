@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Louisville,Cardinals,29,40,0,69
+Clemson,Tigers,22,24,0,46
+""
+""
+=====Louisville Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Bennie Ward,25,9,1,4,0.25,0,1,0.0,2,2,1.0,4,6,2,0,0,0,0
+Clarence Campbell,5,9,1,4,0.25,0,1,0.0,1,1,1.0,3,0,0,0,0,0,0
+Andrew Wood,20,19,5,9,0.5555555555555556,0,0,0,2,4,0.5,12,4,2,1,1,0,0
+Burl Gorham,7,9,3,4,0.75,1,1,1.0,2,2,1.0,9,1,0,0,0,1,0
+Victor Manning,25,14,3,7,0.42857142857142855,1,1,1.0,0,0,0,7,4,1,0,1,0,0
+Russell Thompson,20,10,2,4,0.5,0,1,0.0,0,0,0,4,1,2,1,0,0,0
+Ping Kim,25,7,1,2,0.5,0,0,0,0,0,0,2,5,2,1,1,0,1
+Derek Sandhu,25,13,2,5,0.4,0,0,0,0,0,0,4,4,0,2,0,1,0
+Paul Dunaway,8,9,4,4,1.0,0,0,0,1,1,1.0,9,2,0,0,0,0,1
+Antonio Rios,25,17,4,7,0.5714285714285714,1,1,1.0,2,2,1.0,11,3,2,2,2,0,0
+Gerald Miller,5,5,0,1,0.0,0,0,0,0,0,0,0,1,0,1,0,0,1
+Timothy Rozenbaum,5,3,1,1,1.0,0,0,0,0,0,0,2,2,0,1,0,0,0
+Keith Arnold,5,6,0,3,0.0,0,1,0.0,2,2,1.0,2,1,1,0,0,0,0
+""
+=====Clemson Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+William Kassahn,25,19,3,7,0.42857142857142855,0,0,0,0,0,0,6,4,0,1,1,4,2
+William Sosa,25,4,1,2,0.5,0,0,0,1,1,1.0,3,7,0,0,0,0,0
+Ted Burri,25,15,3,5,0.6,1,1,1.0,0,0,0,7,1,4,2,0,3,0
+Michael Moody,25,23,3,9,0.3333333333333333,1,3,0.3333333333333333,0,0,0,7,7,4,1,0,2,0
+Jose Olivares,20,4,1,2,0.5,0,0,0,0,0,0,2,5,2,0,1,0,0
+Kenneth Grover,25,19,3,9,0.3333333333333333,1,4,0.25,0,1,0.0,7,1,2,0,1,1,0
+Alejandro Reyes,7,4,1,1,1.0,0,0,0,0,0,0,2,0,0,1,0,1,0
+Michael Sims,20,8,0,3,0.0,0,2,0.0,0,0,0,0,0,0,0,0,2,1
+Daljit Nguyen,5,6,2,3,0.6666666666666666,1,1,1.0,0,0,0,5,0,0,0,0,0,0
+William Miles,5,6,1,3,0.3333333333333333,1,2,0.5,0,0,0,3,1,0,0,0,0,0
+Arthur Reed,5,7,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Glenn Moore,5,2,0,1,0.0,0,0,0,0,0,0,0,1,1,0,2,0,0
+Thomas Day,8,6,2,3,0.6666666666666666,0,1,0.0,0,1,0.0,4,1,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Louisville,Clemson
+Points,69,46
+Possessions,71,76
+FGM,24,15
+FGA,48,37
+FGPercent,0.5,0.40540540540540543
+3PM,3,5
+3PA,7,14
+3P%,0.42857142857142855,0.35714285714285715
+FTM,12,1
+FTA,14,3
+FT%,0.8571428571428571,0.3333333333333333
+Rebounds,34,28
+OffRebounds,9,11
+DefRebounds,25,17
+Assists,12,13
+Steals,9,0
+Blocks,5,4
+Total Turnovers,15,18
+Largest Lead,23,2

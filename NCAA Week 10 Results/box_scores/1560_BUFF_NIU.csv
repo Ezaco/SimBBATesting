@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Buffalo,Bulls,29,28,0,57
+Northern Illinois,Huskies,33,30,0,63
+""
+""
+=====Buffalo Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Paul Orr,25,15,4,7,0.5714285714285714,0,0,0,1,2,0.5,9,5,3,0,0,1,1
+William Yang,25,18,3,7,0.42857142857142855,0,1,0.0,1,1,1.0,7,1,4,1,0,0,2
+Dalton Redman,25,14,3,7,0.42857142857142855,1,1,1.0,0,0,0,7,1,1,0,3,0,0
+Mark Green,5,4,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Clifton Sligh,20,16,6,7,0.8571428571428571,1,1,1.0,0,0,0,13,1,1,1,0,0,1
+Richard Allen,20,6,1,3,0.3333333333333333,0,0,0,0,0,0,2,8,1,0,2,0,0
+Christopher Lovell,25,16,4,6,0.6666666666666666,0,0,0,0,0,0,8,1,1,2,1,0,0
+Anthony Slawson,7,8,0,3,0.0,0,0,0,0,0,0,0,1,0,1,0,1,0
+Stephen Kelley,25,11,1,3,0.3333333333333333,0,0,0,0,0,0,2,2,1,1,0,0,1
+Todd Petrillo,5,5,1,2,0.5,0,0,0,0,0,0,2,0,0,0,0,0,1
+Richard Holbrook,8,7,2,3,0.6666666666666666,0,0,0,0,0,0,4,3,1,0,0,0,0
+Harvey Hoffman,5,2,1,1,1.0,1,1,1.0,0,0,0,3,1,0,0,0,0,0
+Thomas Velazco,5,3,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,1,0
+""
+=====Northern Illinois Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Paul Comstock,25,15,4,6,0.6666666666666666,2,3,0.6666666666666666,0,0,0,10,6,2,1,1,2,0
+Alejandro Arzola,25,9,1,3,0.3333333333333333,0,0,0,1,1,1.0,3,4,0,0,1,3,1
+Stephen Jacob,25,10,3,5,0.6,0,2,0.0,0,0,0,6,5,3,0,0,0,0
+James William,25,14,2,6,0.3333333333333333,0,3,0.0,2,2,1.0,6,4,1,1,1,1,0
+Keith Ramnarine,25,17,3,7,0.42857142857142855,1,1,1.0,1,2,0.5,8,4,3,1,1,2,1
+Ronald Faircloth,20,12,3,4,0.75,2,2,1.0,0,0,0,8,1,0,1,0,3,1
+Robert Hobensack,7,9,4,4,1.0,0,0,0,0,0,0,8,0,0,0,0,1,0
+Fernando Hernandez,20,9,3,4,0.75,1,1,1.0,0,2,0.0,7,0,1,0,1,1,1
+Derrick Barge,5,6,2,3,0.6666666666666666,0,0,0,0,0,0,4,0,0,0,0,0,0
+Daniel Schauer,5,6,1,2,0.5,0,1,0.0,0,0,0,2,2,0,0,0,2,0
+William Bibee,8,6,0,3,0.0,0,1,0.0,1,2,0.5,1,1,2,0,0,0,0
+David Cowie,5,6,0,2,0.0,0,1,0.0,0,0,0,0,2,0,1,0,1,1
+Gerald Northcraft,5,3,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,1,1
+""
+""
+=====TEAM STATS=====
+Stat,Buffalo,Northern Illinois
+Points,57,63
+Possessions,72,74
+FGM,23,20
+FGA,46,35
+FGPercent,0.5,0.5714285714285714
+3PM,3,6
+3PA,5,15
+3P%,0.6,0.4
+FTM,2,5
+FTA,3,9
+FT%,0.6666666666666666,0.5555555555555556
+Rebounds,24,29
+OffRebounds,7,9
+DefRebounds,17,20
+Assists,13,12
+Steals,7,0
+Blocks,6,3
+Total Turnovers,21,18
+Largest Lead,9,10

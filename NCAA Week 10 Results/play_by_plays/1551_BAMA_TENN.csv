@@ -1,0 +1,158 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+BAMA,TENN,65,66,137
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+TENN,TENN wins the tipoff!,Tipoff,0,0,0,137
+TENN,Terry Baker 3-point attempt...Missed!Rebounded by BAMA James Champagne.,Score,0,0,1,137
+BAMA,Reginald Dawson Inside shot...BLOCKED by TENN Harris Blount.       Rebounded by TENN Harris Blount.,Turnover,0,0,2,137
+TENN,Benjamin Price Inside shot...BLOCKED by Mike Park.       Rebounded by BAMA James Champagne.,Turnover,0,0,3,137
+BAMA,James Champagne 2-point jumper...Missed!       Rebounded by TENN Benjamin Price.,Missed,0,0,4,137
+BAMA,Mike Park steals the ball for BAMA!,Turnover,0,0,5,137
+BAMA,Scott Amos 2-point jumper...Missed!       Rebounded by TENN Terry Baker.,Missed,0,0,6,137
+TENN,Terry Baker 3-point attempt...Missed!Rebounded by BAMA Stephen Tompkins.,Score,0,0,7,137
+TENN,Terry Baker steals the ball for TENN!,Turnover,0,0,8,137
+TENN,Harris Blount 3-point attempt...Score!       Assisted by: Terry Baker,Score,0,3,9,137
+BAMA,Spencer Jones 2-point jumper...Missed!       Rebounded by TENN Benjamin Price.,Missed,0,3,10,137
+TENN,Warren Tran 3-point attempt...Missed!Rebounded by BAMA Michael Gorton.,Score,0,3,11,137
+BAMA,Ronnie Warner Inside shot...Score!       Assisted by: Robert Good,Score,2,3,12,137
+TENN,Terry Baker Inside shot...Score!,Score,2,5,13,137
+BAMA,Michael Gorton Inside shot...Score!,Score,4,5,14,137
+TENN,Harris Blount 3-point attempt...Missed!Rebounded by BAMA Mike Park.,Score,4,5,15,137
+BAMA,BAMA: Offensive foul on BAMA James Champagne.,Foul,4,5,16,137
+TENN,Fred Corts 2-point jumper...Missed!       Rebounded by TENN Benjamin Price.,Score,4,5,17,137
+TENN,Terry Baker 3-point attempt...Missed!       Rebounded by TENN Robert Jeffery.,Score,4,5,18,137
+TENN,Benjamin Price 3-point attempt...Missed!Rebounded by BAMA James Champagne.,Score,4,5,19,137
+BAMA,James Champagne 2-point jumper...BLOCKED by TENN Benjamin Price.       Rebounded by BAMA Mike Park.,Turnover,4,5,20,137
+BAMA,Michael Gorton Inside shot...Score!,Score,6,5,21,137
+TENN,Refugio Dent 2-point jumper...Missed!       Rebounded by BAMA Scott Amos.,Score,6,5,22,137
+BAMA,Reginald Dawson 3-point attempt...Missed!       Rebounded by BAMA Mike Park.,Missed,6,5,23,137
+BAMA,Scott Amos 3-point attempt...Missed!       Rebounded by TENN Robert Jeffery.,Miss,6,5,24,137
+TENN,Dion Whitlock 3-point attempt...Missed!Rebounded by BAMA James Champagne.,Score,6,5,25,137
+BAMA,James Champagne Inside shot...Score!       Assisted by: Robert Good,Score,8,5,26,137
+BAMA,James Champagne steals the ball for BAMA!,Turnover,8,5,27,137
+BAMA,Michael Batiste 2-point jumper...Missed!       Rebounded by TENN Warren Tran.,Missed,8,5,28,137
+TENN,Robert Jeffery 3-point attempt...Missed!Rebounded by BAMA James Champagne.,Score,8,5,29,137
+BAMA,Jim Wang 2-point jumper...Missed!       Rebounded by BAMA Mike Park.,Missed,8,5,30,137
+BAMA,BAMA: Offensive foul on BAMA Reginald Dawson.,Foul,8,5,31,137
+TENN,Harris Blount 3-point attempt...Score!       Assisted by: Warren Tran,Score,8,8,32,137
+BAMA,Mike Park 3-point attempt...Score!       Assisted by: Reginald Dawson,Score,11,8,33,137
+TENN,Refugio Dent 2-point jumper...Missed!       Rebounded by BAMA Frederick Hartwell.,Score,11,8,34,137
+BAMA,BAMA: Shot clock violation on BAMA Ronnie Warner.,Shot Clock Violation,11,8,35,137
+BAMA,Scott Amos steals the ball for BAMA!,Turnover,11,8,36,137
+BAMA,Mike Park Inside shot...Score! Foul on the play and one!       Assisted by: Scott Amos,Score,13,8,37,137
+BAMA,Free throw coming up... good!,FreeThrow,14,8,37,137
+TENN,Warren Tran 3-point attempt...Missed!Rebounded by BAMA James Champagne.,Score,14,8,38,137
+BAMA,Jim Wang 3-point attempt...Score!       Assisted by: Scott Amos,Score,17,8,39,137
+TENN,TENN: Offensive foul on TENN Harris Blount.,Turnover,17,8,40,137
+TENN,Benjamin Price steals the ball for TENN!,Turnover,17,8,41,137
+TENN,Harris Blount 3-point attempt...Score!       Assisted by: Terry Baker,Score,17,11,42,137
+BAMA,Mike Park 3-point attempt...Score!       Assisted by: Michael Gorton,Score,20,11,43,137
+TENN,Harris Blount 2-point jumper...BLOCKED by Ronnie Warner.       Rebounded by TENN Refugio Dent.,Turnover,20,11,44,137
+TENN,Warren Tran 3-point attempt...Missed!Rebounded by BAMA Spencer Jones.,Score,20,11,45,137
+BAMA,Robert Good 2-point jumper...Score!       Assisted by: Michael Gorton,Score,22,11,46,137
+TENN,Terry Baker 3-point attempt...Missed!Rebounded by BAMA Ronnie Warner.,Score,22,11,47,137
+BAMA,Ronnie Warner 2-point jumper...Missed!       Rebounded by BAMA Mike Park.,Missed,22,11,48,137
+TENN,Terry Baker steals the ball for TENN!,Turnover,22,11,49,137
+TENN,Harris Blount Inside shot... Missed but with a foul on the play.,Fouled,22,11,50,137
+TENN,Free throw coming up... good!,FreeThrow,22,12,50,137
+TENN,Free throw coming up... good!,FreeThrow,22,13,50,137
+BAMA,Michael Batiste Inside shot...Score!,Score,24,13,51,137
+TENN,Terry Baker Inside shot...Score!,Score,24,15,52,137
+BAMA,BAMA: Offensive foul on BAMA Ronnie Warner.,Foul,24,15,53,137
+TENN,Refugio Dent 3-point attempt...Score!       Assisted by: Harris Blount,Score,24,18,54,137
+BAMA,Reginald Dawson 3-point attempt...Missed!       Rebounded by BAMA Robert Good.,Missed,24,18,55,137
+BAMA,Michael Gorton 2-point jumper...Missed!       Rebounded by BAMA Reginald Dawson.,Missed,24,18,56,137
+BAMA,Reginald Dawson 2-point jumper...Missed!       Rebounded by TENN Benjamin Price.,Missed,24,18,57,137
+TENN,Warren Tran Inside shot...Score!       Assisted by: Fred Corts,Score,24,20,58,137
+BAMA,Mike Park 2-point jumper...Score!       Assisted by: Scott Amos,Score,26,20,59,137
+TENN,Benjamin Price 2-point jumper...Score!,Score,26,22,60,137
+BAMA,Ronnie Warner 2-point jumper...Missed!       Rebounded by BAMA Scott Amos.,Missed,26,22,61,137
+BAMA,Robert Good 3-point attempt...Score!       Assisted by: Spencer Jones,Score,29,22,62,137
+TENN,TENN Warren Tran lost the ball out of bounds.,Turnover,29,22,63,137
+BAMA,Steven Hargrove 2-point jumper...Missed!       Rebounded by TENN Benjamin Price.,Missed,29,22,64,137
+TENN,Warren Tran 3-point attempt...Missed!Rebounded by BAMA James Champagne.,Score,29,22,65,137
+BAMA,Ronnie Warner 2-point jumper...BLOCKED by TENN Benjamin Price.       Rebounded by TENN Benjamin Price.,Turnover,29,22,66,137
+TENN,Terry Baker 2-point jumper...Missed!       Rebounded by TENN Terry Baker.,Score,29,22,67,137
+TENN,Harris Blount 2-point jumper...Missed!       Rebounded by BAMA James Champagne.,Score,29,22,68,137
+,,HALFTIME,29,22,68,137
+BAMA,Scott Amos Inside shot...Score!,Score,31,22,69,137
+TENN,Warren Tran 3-point attempt...Missed!       Rebounded by TENN Harris Blount.,Score,31,22,70,137
+TENN,Benjamin Price 3-point attempt...Missed!Rebounded by BAMA Jim Wang.,Score,31,22,71,137
+BAMA,Reginald Dawson 2-point jumper...Missed!       Rebounded by BAMA James Champagne.,Missed,31,22,72,137
+BAMA,Mike Park 3-point attempt...Missed!       Rebounded by TENN Benjamin Price.,Miss,31,22,73,137
+BAMA,James Champagne steals the ball for BAMA!,Turnover,31,22,74,137
+BAMA,Ronnie Warner 2-point jumper...Missed!       Rebounded by TENN Robert Jeffery.,Missed,31,22,75,137
+TENN,Warren Tran Inside shot...Score!,Score,31,24,76,137
+BAMA,BAMA: Offensive foul on BAMA Scott Amos.,Foul,31,24,77,137
+TENN,Robert Jeffery 3-point attempt...Score!       Assisted by: Terry Baker,Score,31,27,78,137
+BAMA,Ronnie Warner Inside shot...Score!       Assisted by: Scott Amos,Score,33,27,79,137
+TENN,Terry Baker 3-point attempt...Missed!Rebounded by BAMA Reginald Dawson.,Score,33,27,80,137
+BAMA,James Champagne 2-point jumper...Score!,Score,35,27,81,137
+TENN,Benjamin Price 3-point attempt...Missed!Rebounded by BAMA James Champagne.,Score,35,27,82,137
+BAMA,BAMA: Shot clock violation on BAMA Mike Park.,Shot Clock Violation,35,27,83,137
+TENN,Refugio Dent 3-point attempt...Score!,Score,35,30,84,137
+BAMA,Scott Amos Inside shot...BLOCKED by TENN Warren Tran.       Rebounded by TENN Warren Tran.,Turnover,35,30,85,137
+TENN,Terry Baker 3-point attempt...Missed!       Rebounded by TENN Harris Blount.,Score,35,30,86,137
+TENN,Terry Baker 3-point attempt...Score!       Assisted by: Harris Blount,Score,35,33,87,137
+BAMA,James Champagne Inside shot... Missed with a foul on the play.,Fouled,35,33,88,137
+BAMA,Free throw coming up... good!,FreeThrow,36,33,88,137
+BAMA,Free throw coming up... rattled out.       Rebounded by TENN Harris Blount.,FreeThrow,36,33,88,137
+TENN,Terry Baker Inside shot...Score!,Score,36,35,89,137
+BAMA,James Champagne 3-point attempt...Score!       Assisted by: Reginald Dawson,Score,39,35,90,137
+TENN,Warren Tran 3-point attempt...Score!       Assisted by: Refugio Dent,Score,39,38,91,137
+BAMA,Michael Gorton Inside shot...Score! Foul on the play and one!,Score,41,38,92,137
+BAMA,Free throw coming up... good!,FreeThrow,42,38,92,137
+TENN,Harris Blount 3-point attempt...Missed!Rebounded by BAMA James Champagne.,Score,42,38,93,137
+BAMA,James Champagne Inside shot...Score!,Score,44,38,94,137
+TENN,Benjamin Price 3-point attempt...Missed!       Rebounded by TENN Warren Tran.,Score,44,38,95,137
+TENN,Harris Blount 2-point jumper...Score!       Assisted by: Warren Tran,Score,44,40,96,137
+BAMA,Ronnie Warner Inside shot... Missed with a foul on the play.,Fouled,44,40,97,137
+BAMA,Free throw coming up... rattled out.       Rebounded by BAMA Stephen Tompkins.,FreeThrow,44,40,97,137
+BAMA,Mike Park 2-point jumper...BLOCKED by TENN Benjamin Price.       Rebounded by BAMA Mike Park.,Turnover,44,40,98,137
+BAMA,Steven Hargrove 2-point jumper...Missed!       Rebounded by TENN Harris Blount.,Missed,44,40,99,137
+TENN,Terry Baker 3-point attempt...Missed!       Rebounded by TENN Harris Blount.,Score,44,40,100,137
+TENN,Harris Blount 3-point attempt...Score!       Assisted by: Terry Baker,Score,44,43,101,137
+BAMA,BAMA: Offensive foul on BAMA Spencer Jones.,Foul,44,43,102,137
+TENN,Warren Tran 3-point attempt...Score!       Assisted by: Harris Blount,Score,44,46,103,137
+BAMA,Scott Amos 2-point jumper...Score!,Score,46,46,104,137
+TENN,Warren Tran 3-point attempt...Score!,Score,46,49,105,137
+TENN,Terry Baker steals the ball for TENN!,Turnover,46,49,106,137
+TENN,TENN Robert Jeffery lost the ball out of bounds.,Turnover,46,49,107,137
+BAMA,Ronnie Warner Inside shot...Score!,Score,48,49,108,137
+TENN,Terry Baker 2-point jumper...Missed!       Rebounded by BAMA Mike Park.,Score,48,49,109,137
+BAMA,Robert Good Inside shot...Score!,Score,50,49,110,137
+TENN,Terry Baker Inside shot...Score!,Score,50,51,111,137
+BAMA,BAMA: Offensive foul on BAMA Robert Good.,Foul,50,51,112,137
+TENN,Refugio Dent 3-point attempt...Score!       Assisted by: Harris Blount,Score,50,54,113,137
+BAMA,Ronnie Warner 2-point jumper...Score! Foul on the play and one!,Score,52,54,114,137
+BAMA,       Free throw coming up... rattled out.       Rebounded by BAMA James Champagne.,FreeThrow,52,54,114,137
+BAMA,Ronnie Warner Inside shot... Missed with a foul on the play.,Fouled,52,54,115,137
+BAMA,Free throw coming up... good!,FreeThrow,53,54,115,137
+BAMA,Free throw coming up... good!,FreeThrow,54,54,115,137
+TENN,Warren Tran 3-point attempt...Missed!Rebounded by BAMA Michael Gorton.,Score,54,54,116,137
+BAMA,Michael Gorton 2-point jumper...Missed!       Rebounded by TENN Robert Jeffery.,Missed,54,54,117,137
+TENN,Terry Baker 3-point attempt...Score!       Assisted by: Warren Tran,Score,54,57,118,137
+BAMA,Reginald Dawson Inside shot... Missed with a foul on the play.,Fouled,54,57,119,137
+BAMA,Free throw coming up... good!,FreeThrow,55,57,119,137
+BAMA,Free throw coming up... good!,FreeThrow,56,57,119,137
+TENN,Warren Tran Inside shot...BLOCKED by James Champagne.       Rebounded by TENN Benjamin Price.,Turnover,56,57,120,137
+BAMA,Mike Park steals the ball for BAMA!,Turnover,56,57,121,137
+BAMA,Reginald Dawson 3-point attempt...Missed!       Rebounded by TENN Benjamin Price.,Miss,56,57,122,137
+TENN,Harris Blount 3-point attempt...Score!       Assisted by: Terry Baker,Score,56,60,123,137
+BAMA,Jim Wang 2-point jumper...Missed!       Rebounded by BAMA Scott Amos.,Missed,56,60,124,137
+BAMA,Mike Park Inside shot...Score! Foul on the play and one!       Assisted by: Jim Wang,Score,58,60,125,137
+BAMA,Free throw coming up... rattled out.       Rebounded by TENN Warren Tran.,FreeThrow,58,60,125,137
+TENN,Refugio Dent 3-point attempt...Score!       Assisted by: Terry Baker,Score,58,63,126,137
+BAMA,Ronnie Warner Inside shot...Score!,Score,60,63,127,137
+TENN,Terry Baker 3-point attempt...Score!       Assisted by: Fred Corts,Score,60,66,128,137
+BAMA,Reginald Dawson 2-point jumper...Missed!       Rebounded by BAMA Frederick Hartwell.,Missed,60,66,129,137
+BAMA,Robert Good Inside shot...Missed!       Rebounded by TENN Robert Jeffery.,Score,60,66,130,137
+TENN,Benjamin Price 2-point jumper...Missed!       Rebounded by BAMA Frederick Hartwell.,Score,60,66,131,137
+BAMA,Mike Park 2-point jumper...Missed!       Rebounded by TENN Benjamin Price.,Missed,60,66,132,137
+TENN,Warren Tran 3-point attempt...Missed!Rebounded by BAMA James Champagne.,Score,60,66,133,137
+BAMA,Reginald Dawson Inside shot...Score!       Assisted by: Robert Good,Score,62,66,134,137
+TENN,Benjamin Price 3-point attempt...Missed!       Rebounded by TENN Benjamin Price.,Score,62,66,135,137
+TENN,Harris Blount 3-point attempt...Missed!Rebounded by BAMA James Champagne.,Score,62,66,136,137
+BAMA,Reginald Dawson 3-point attempt...Score!       Assisted by: Frederick Hartwell,Score,65,66,137,137
+TENN,Refugio Dent 2-point jumper...Missed!       Rebounded by BAMA Reginald Dawson.,Score,65,66,138,137
+,Match Complete,FinalScore,65,66,138,137

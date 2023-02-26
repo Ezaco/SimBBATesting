@@ -1,0 +1,162 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+MRSH,TROY,71,67,142
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+MRSH,MRSH wins the tipoff!,Tipoff,0,0,0,142
+MRSH,Richard Bilbay 3-point attempt...BLOCKED by TROY Robert Kellum.       Rebounded by TROY Robert Kellum.,Score,0,0,1,142
+TROY,Steve Zarrella Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: David Coleman,Score,0,2,2,142
+TROY,Free throw coming up... good!,FreeThrow,0,3,2,142
+MRSH,Yin Nguyen 3-point attempt...Score!       Assisted by: Doan Lam,Score,3,3,3,142
+TROY,Robert Kellum 3-point attempt...Score!       Assisted by: Thomas Teel,Score,3,6,4,142
+MRSH,Paul Jacquay 2-point jumper...Missed!       Rebounded by TROY Thomas Teel.,Missed,3,6,5,142
+TROY,Robert Kellum Inside shot...Score!       Assisted by: Thomas Teel,Score,3,8,6,142
+MRSH,Eric English 2-point jumper...Missed!       Rebounded by MRSH Richard Bilbay.,Missed,3,8,7,142
+TROY,Lee Dowding steals the ball for TROY!,Turnover,3,8,8,142
+TROY,TROY Howard Tanko lost the ball out of bounds.,Turnover,3,8,9,142
+MRSH,Eric English 2-point jumper...Missed!       Rebounded by TROY Robert Kellum.,Missed,3,8,10,142
+TROY,David Coleman 3-point attempt...Score!       Assisted by: Howard Tanko,Score,3,11,11,142
+MRSH,Taylor Grimm Inside shot...Score!       Assisted by: Doan Lam,Score,5,11,12,142
+TROY,Marcel Jeff 2-point jumper...Missed!       Rebounded by MRSH Richard Bilbay.,Score,5,11,13,142
+MRSH,Richard Bilbay Inside shot...Score!       Assisted by: Yin Nguyen,Score,7,11,14,142
+TROY,David Coleman Inside shot...Score!,Score,7,13,15,142
+TROY,Steve Zarrella steals the ball for TROY!,Turnover,7,13,16,142
+TROY,Shawn Grannell Inside shot...Score!       Assisted by: Lee Dowding,Score,7,15,17,142
+MRSH,Yin Nguyen 3-point attempt...Score!,Score,10,15,18,142
+TROY,Robert Kellum Inside shot...Score!,Score,10,17,19,142
+MRSH,Yin Nguyen Inside shot...Score! Foul on the play and one!       Assisted by: Eric English,Score,12,17,20,142
+MRSH,Free throw coming up... good!,FreeThrow,13,17,20,142
+TROY,Robert Kellum Inside shot...Score!,Score,13,19,21,142
+MRSH,MRSH Yin Nguyen lost the ball out of bounds.,Out of Bounds,13,19,22,142
+MRSH,Eric English steals the ball for MRSH!,Turnover,13,19,23,142
+MRSH,Pedro Silva 3-point attempt...Score!       Assisted by: Paul Jacquay,Score,16,19,24,142
+TROY,Jose Febo 3-point attempt...BLOCKED by MRSH Ismael Villasenor.       Rebounded by TROY Thomas Teel.,Turnover,16,19,25,142
+TROY,Robert Kellum Inside shot...Score!       Assisted by: Lee Dowding,Score,16,21,26,142
+MRSH,Richard Bilbay 2-point jumper...Score!,Score,18,21,27,142
+TROY,Shawn Grannell Inside shot...BLOCKED by Richard Bilbay.       Rebounded by MRSH Yin Nguyen.,Turnover,18,21,28,142
+MRSH,Ismael Villasenor 3-point attempt...Missed!       Rebounded by TROY Lee Dowding.,Miss,18,21,29,142
+TROY,David Coleman 2-point jumper...Missed!       Rebounded by TROY Howard Tanko.,Score,18,21,30,142
+TROY,Jose Febo Inside shot...Score!,Score,18,23,31,142
+MRSH,Eric English 3-point attempt...Score!       Assisted by: Pedro Silva,Score,21,23,32,142
+TROY,Robert Kellum 3-point attempt...Score!       Assisted by: Shawn Grannell,Score,21,26,33,142
+MRSH,Ismael Villasenor Inside shot...BLOCKED by TROY Howard Tanko.       Rebounded by MRSH Doan Lam.,Turnover,21,26,34,142
+MRSH,Yin Nguyen Inside shot...BLOCKED by TROY David Coleman.       Rebounded by MRSH Richard Bilbay.,Turnover,21,26,35,142
+MRSH,Richard Bilbay Inside shot...Score!,Score,23,26,36,142
+MRSH,Ismael Villasenor steals the ball for MRSH!,Turnover,23,26,37,142
+MRSH,Ismael Villasenor Inside shot...Score!,Score,25,26,38,142
+TROY,Robert Kellum 2-point jumper...Score!,Score,25,28,39,142
+MRSH,Pedro Silva Inside shot... Missed with a foul on the play.,Fouled,25,28,40,142
+MRSH,Free throw coming up... good!,FreeThrow,26,28,40,142
+MRSH,Free throw coming up... good!,FreeThrow,27,28,40,142
+TROY,TROY: Shot clock violation on TROY Howard Tanko.,Turnover,27,28,41,142
+MRSH,Pedro Silva 2-point jumper...Missed!       Rebounded by TROY Yiu Endo.,Missed,27,28,42,142
+TROY,Lee Dowding 2-point jumper...Score!       Assisted by: David Coleman,Score,27,30,43,142
+MRSH,Eric English 2-point jumper...Missed!       Rebounded by TROY Steve Zarrella.,Missed,27,30,44,142
+TROY,Lee Dowding 2-point jumper...Missed!       Rebounded by TROY Yiu Endo.,Score,27,30,45,142
+MRSH,Taylor Grimm steals the ball for MRSH!,Turnover,27,30,46,142
+MRSH,Doan Lam 3-point attempt...Missed!       Rebounded by TROY Yiu Endo.,Miss,27,30,47,142
+TROY,Yiu Endo Inside shot...Missed!       Rebounded by MRSH Eric English.,Score,27,30,48,142
+MRSH,Eric English Inside shot...Missed!       Rebounded by TROY Yiu Endo.,Score,27,30,49,142
+TROY,Yiu Endo Inside shot...Missed!       Rebounded by MRSH Richard Bilbay.,Score,27,30,50,142
+MRSH,Yin Nguyen 2-point jumper...Missed!       Rebounded by TROY Steve Zarrella.,Missed,27,30,51,142
+TROY,Yiu Endo 2-point jumper...Missed!       Rebounded by MRSH Richard Bilbay.,Score,27,30,52,142
+MRSH,Yin Nguyen 3-point attempt...Missed!       Rebounded by MRSH Doan Lam.,Missed,27,30,53,142
+MRSH,Yin Nguyen 2-point jumper...Missed!       Rebounded by TROY Lee Dowding.,Missed,27,30,54,142
+TROY,TROY Lee Dowding lost the ball out of bounds.,Turnover,27,30,55,142
+MRSH,Eric English 3-point attempt...Score!       Assisted by: Doan Lam,Score,30,30,56,142
+TROY,TROY: Offensive foul on TROY Lee Dowding.,Turnover,30,30,57,142
+MRSH,Yin Nguyen Inside shot...BLOCKED by TROY Yiu Endo.       Rebounded by TROY Thomas Teel.,Turnover,30,30,58,142
+TROY,Robert Kellum 2-point jumper...Missed!       Rebounded by MRSH Pedro Silva.,Score,30,30,59,142
+MRSH,MRSH Doan Lam lost the ball out of bounds.,Out of Bounds,30,30,60,142
+TROY,Lee Dowding Inside shot...Score! Fouled and we have a free throw folks!,Score,30,32,61,142
+TROY,Free throw coming up... good!,FreeThrow,30,33,61,142
+MRSH,Richard Bilbay Inside shot...BLOCKED by TROY Yiu Endo.       Rebounded by TROY Lee Dowding.,Turnover,30,33,62,142
+TROY,TROY Marcel Jeff lost the ball out of bounds.,Turnover,30,33,63,142
+MRSH,Yin Nguyen 3-point attempt...Score!       Assisted by: Taylor Grimm,Score,33,33,65,142
+TROY,Howard Tanko 2-point jumper...Missed!       Rebounded by MRSH Richard Bilbay.,Score,33,33,66,142
+MRSH,Doan Lam Inside shot...Score!,Score,35,33,67,142
+TROY,David Coleman Inside shot...Missed!       Rebounded by MRSH Richard Bilbay.,Score,35,33,68,142
+MRSH,MRSH: Offensive foul on MRSH Taylor Grimm.,Foul,35,33,69,142
+TROY,Lee Dowding Inside shot...Score!,Score,35,35,70,142
+TROY,Thomas Teel steals the ball for TROY!,Turnover,35,35,71,142
+,,HALFTIME,35,35,71,142
+TROY,Shawn Grannell Inside shot...Missed!       Rebounded by MRSH Yin Nguyen.,Score,35,35,72,142
+MRSH,Doan Lam 3-point attempt...Score! Fouled on the play... and one!       Assisted by: Yin Nguyen,Score,38,35,73,142
+MRSH,Free throw coming up... good!,FreeThrow,39,35,73,142
+TROY,Marcel Jeff 2-point jumper...Missed!       Rebounded by MRSH Richard Bilbay.,Score,39,35,74,142
+MRSH,Yin Nguyen Inside shot...Score!       Assisted by: Taylor Grimm,Score,41,35,75,142
+TROY,Lee Dowding Inside shot...Score!       Assisted by: Ming Mai,Score,41,37,76,142
+MRSH,MRSH Yin Nguyen lost the ball out of bounds.,Out of Bounds,41,37,77,142
+MRSH,Yin Nguyen steals the ball for MRSH!,Turnover,41,37,78,142
+MRSH,Yin Nguyen 3-point attempt...Score!,Score,44,37,79,142
+TROY,Lee Dowding Inside shot...Score!       Assisted by: Robert Kellum,Score,44,39,80,142
+TROY,Howard Tanko steals the ball for TROY!,Turnover,44,39,81,142
+TROY,Yiu Endo 3-point attempt...Score!       Assisted by: Shawn Grannell,Score,44,42,82,142
+MRSH,Yin Nguyen 3-point attempt...Missed!       Rebounded by MRSH Richard Bilbay.,Missed,44,42,83,142
+MRSH,Yin Nguyen Inside shot...Missed!       Rebounded by MRSH Ismael Villasenor.,Score,44,42,84,142
+MRSH,MRSH: Offensive foul on MRSH Doan Lam.,Foul,44,42,85,142
+TROY,TROY: Offensive foul on TROY Ming Mai.,Turnover,44,42,86,142
+MRSH,Yin Nguyen 3-point attempt...Score!,Score,47,42,87,142
+TROY,Lee Dowding 3-point attempt...Missed!Rebounded by MRSH Richard Bilbay.,Score,47,42,88,142
+MRSH,Ismael Villasenor 3-point attempt...Missed!       Rebounded by TROY Robert Kellum.,Miss,47,42,89,142
+TROY,Robert Kellum Inside shot...Score!       Assisted by: Steve Zarrella,Score,47,44,90,142
+MRSH,Ismael Villasenor 2-point jumper...Score!,Score,49,44,91,142
+TROY,Howard Tanko Inside shot...Score! Fouled and we have a free throw folks!,Score,49,46,92,142
+TROY,Free throw coming up... good!,FreeThrow,49,47,92,142
+MRSH,Eric English 2-point jumper...Missed!       Rebounded by TROY Thomas Teel.,Missed,49,47,93,142
+TROY,TROY: Offensive foul on TROY Lee Dowding.,Turnover,49,47,94,142
+MRSH,MRSH Richard Bilbay lost the ball out of bounds.,Out of Bounds,49,47,95,142
+TROY,Yiu Endo Inside shot...Score!,Score,49,49,96,142
+MRSH,Richard Bilbay 3-point attempt...Score!,Score,52,49,97,142
+TROY,Howard Tanko 2-point jumper...Score!,Score,52,51,98,142
+MRSH,Eric English Inside shot...Score! Foul on the play and one!,Score,54,51,99,142
+MRSH,Free throw coming up... good!,FreeThrow,55,51,99,142
+TROY,Michael Clark Inside shot...Score! Fouled and we have a free throw folks!,Score,55,53,100,142
+TROY,Free throw coming up... good!,FreeThrow,55,54,100,142
+MRSH,Pedro Silva Inside shot...Score!,Score,57,54,101,142
+TROY,Keith Ryan Inside shot...Missed!       Rebounded by TROY Yiu Endo.,Score,57,54,102,142
+TROY,Howard Tanko 3-point attempt...Missed!Rebounded by MRSH Eric English.,Score,57,54,103,142
+MRSH,Paul Jacquay Inside shot... Missed with a foul on the play.,Fouled,57,54,104,142
+MRSH,Free throw coming up... good!,FreeThrow,58,54,104,142
+MRSH,Free throw coming up... good!,FreeThrow,59,54,104,142
+TROY,Steve Zarrella Inside shot...Score!,Score,59,56,105,142
+MRSH,Taylor Grimm 2-point jumper...Missed!       Rebounded by TROY Thomas Teel.,Missed,59,56,106,142
+TROY,TROY Yiu Endo lost the ball out of bounds.,Turnover,59,56,107,142
+MRSH,Paul Jacquay Inside shot...Score!,Score,61,56,108,142
+TROY,David Coleman 2-point jumper...Missed!       Rebounded by TROY Yiu Endo.,Score,61,56,109,142
+TROY,Lee Dowding 3-point attempt...Missed!       Rebounded by TROY Yiu Endo.,Score,61,56,110,142
+MRSH,Ismael Villasenor steals the ball for MRSH!,Turnover,61,56,111,142
+TROY,Thomas Teel steals the ball for TROY!,Turnover,61,56,112,142
+TROY,Thomas Teel Inside shot...Score!       Assisted by: Shawn Grannell,Score,61,58,113,142
+MRSH,MRSH: Offensive foul on MRSH Doan Lam.,Foul,61,58,114,142
+TROY,Yiu Endo 2-point jumper...Missed!       Rebounded by TROY Thomas Teel.,Score,61,58,115,142
+TROY,Lee Dowding 2-point jumper...BLOCKED by Ismael Villasenor.       Rebounded by MRSH Pedro Silva.,Turnover,61,58,116,142
+TROY,Howard Tanko steals the ball for TROY!,Turnover,61,58,117,142
+TROY,Howard Tanko 3-point attempt...Score!       Assisted by: Robert Kellum,Score,61,61,118,142
+MRSH,Ismael Villasenor 2-point jumper...Missed!       Rebounded by TROY Yiu Endo.,Missed,61,61,119,142
+TROY,Lee Dowding Inside shot...BLOCKED by Ismael Villasenor.       Rebounded by MRSH Ismael Villasenor.,Turnover,61,61,120,142
+MRSH,Eric English 3-point attempt...Missed!       Rebounded by TROY Yiu Endo.,Miss,61,61,121,142
+TROY,Lee Dowding Inside shot...BLOCKED by Ismael Villasenor.       Rebounded by MRSH Eric English.,Turnover,61,61,122,142
+MRSH,Taylor Grimm Inside shot... Missed with a foul on the play.,Fouled,61,61,123,142
+MRSH,Free throw coming up... good!,FreeThrow,62,61,123,142
+MRSH,Free throw coming up... good!,FreeThrow,63,61,123,142
+MRSH,Taylor Grimm steals the ball for MRSH!,Turnover,63,61,124,142
+MRSH,Doan Lam 3-point attempt...Missed!       Rebounded by TROY Robert Kellum.,Miss,63,61,125,142
+TROY,Thomas Teel 2-point jumper...Missed!       Rebounded by MRSH Ismael Villasenor.,Score,63,61,126,142
+MRSH,Ismael Villasenor 2-point jumper...Missed!       Rebounded by TROY Yiu Endo.,Missed,63,61,127,142
+MRSH,Taylor Grimm steals the ball for MRSH!,Turnover,63,61,128,142
+MRSH,Pedro Silva Inside shot...Score!,Score,65,61,129,142
+MRSH,Doan Lam steals the ball for MRSH!,Turnover,65,61,130,142
+MRSH,MRSH: Offensive foul on MRSH Ismael Villasenor.,Foul,65,61,131,142
+TROY,Jose Febo 2-point jumper...Score!,Score,65,63,132,142
+MRSH,Ismael Villasenor 2-point jumper...BLOCKED by TROY Yiu Endo.       Rebounded by MRSH Ismael Villasenor.,Turnover,65,63,133,142
+MRSH,Eric English 3-point attempt...Score!       Assisted by: Richard Bilbay,Score,68,63,134,142
+TROY,Ming Mai 3-point attempt...Missed!Rebounded by MRSH Eric English.,Score,68,63,135,142
+MRSH,MRSH Taylor Grimm lost the ball out of bounds.,Out of Bounds,68,63,136,142
+TROY,TROY Marcel Jeff lost the ball out of bounds.,Turnover,68,63,137,142
+MRSH,Pedro Silva 3-point attempt...Missed!       Rebounded by MRSH Richard Bilbay.,Missed,68,63,138,142
+MRSH,MRSH: Offensive foul on MRSH Taylor Grimm.,Foul,68,63,139,142
+TROY,Robert Kellum Inside shot...Score!,Score,68,65,140,142
+MRSH,Richard Bilbay 3-point attempt...Score!       Assisted by: Eric English,Score,71,65,141,142
+TROY,Yiu Endo 2-point jumper...Score!,Score,71,67,142,142
+MRSH,MRSH: Offensive foul on MRSH Doan Lam.,Foul,71,67,143,142
+,Match Complete,FinalScore,71,67,143,142

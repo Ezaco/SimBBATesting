@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+St. John's,Red Storm,45,49,0,94
+Providence,Friars,40,29,0,69
+""
+""
+=====St. John's Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Joseph Conrad,32,21,2,10,0.2,0,3,0.0,0,0,0,4,9,2,0,2,0,0
+Dennis Mitchell,35,23,9,10,0.9,3,3,1.0,0,0,0,21,3,2,1,1,1,0
+Christopher Whitehead,36,20,5,8,0.625,0,2,0.0,4,4,1.0,14,6,4,1,1,1,0
+Mark Glaub,17,16,5,8,0.625,0,1,0.0,0,0,0,10,2,1,0,1,0,0
+Michael Kopke,7,7,2,3,0.6666666666666666,1,1,1.0,0,0,0,5,0,1,1,0,0,0
+William Smith,37,22,6,9,0.6666666666666666,0,2,0.0,0,0,0,12,7,9,0,1,3,2
+James Miller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Danny Sevy,11,6,1,3,0.3333333333333333,1,1,1.0,2,2,1.0,5,1,2,0,1,0,0
+Danilo Chen,25,31,10,13,0.7692307692307693,1,1,1.0,2,3,0.6666666666666666,23,5,0,1,0,0,1
+Christopher Stamey,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neil Carter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Timothy Sainsbury,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mohamad Stroud,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+=====Providence Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Richard Olson,5,9,3,4,0.75,1,1,1.0,0,0,0,7,0,0,0,0,1,0
+Tommy Bryant,25,11,1,4,0.25,0,1,0.0,1,2,0.5,3,6,4,1,2,2,0
+Sai Sunga,20,14,5,7,0.7142857142857143,1,2,0.5,0,0,0,11,1,2,0,2,0,0
+Arnold Oeltjen,25,16,4,8,0.5,1,2,0.5,2,4,0.5,11,8,2,0,1,0,0
+Kenneth Morgan,25,12,3,6,0.5,0,0,0,0,0,0,6,3,2,0,1,0,0
+Imad Kim,25,20,2,9,0.2222222222222222,0,3,0.0,4,4,1.0,8,4,0,0,0,2,0
+Timothy Kovalcik,20,7,1,3,0.3333333333333333,0,0,0,0,0,0,2,3,0,1,2,0,0
+Stephen Raudebaugh,25,30,8,12,0.6666666666666666,0,1,0.0,2,2,1.0,18,1,2,0,0,6,1
+Frank Stabler,5,4,1,2,0.5,1,1,1.0,0,0,0,3,1,0,0,0,0,0
+Michael Brunson,5,2,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lance Bond,5,2,0,1,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0
+John Burch,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jaime Kim,8,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+""
+""
+=====TEAM STATS=====
+Stat,St. John's,Providence
+Points,94,69
+Possessions,80,77
+FGM,34,24
+FGA,50,46
+FGPercent,0.68,0.5217391304347826
+3PM,6,4
+3PA,14,11
+3P%,0.42857142857142855,0.36363636363636365
+FTM,8,9
+FTA,9,12
+FT%,0.8888888888888888,0.75
+Rebounds,33,27
+OffRebounds,13,11
+DefRebounds,20,16
+Assists,21,13
+Steals,4,0
+Blocks,7,2
+Total Turnovers,15,13
+Largest Lead,28,2

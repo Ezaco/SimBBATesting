@@ -1,0 +1,162 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+TLNE,WICH,54,58,140
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+TLNE,TLNE wins the tipoff!,Tipoff,0,0,0,140
+TLNE,TLNE: Offensive foul on TLNE Bobby Mitchell.,Foul,0,0,1,140
+WICH,Kristofer Schmitz 2-point jumper...Score!,Score,0,2,2,140
+TLNE,Rex Baker 3-point attempt...Missed!       Rebounded by WICH Greg Son.,Miss,0,2,3,140
+WICH,Ahmad Yu 3-point attempt...Missed!       Rebounded by WICH Ahmad Yu.,Score,0,2,4,140
+WICH,WICH Earl Green lost the ball out of bounds.,Turnover,0,2,5,140
+TLNE,Lazaro Gracia 3-point attempt...Score!       Assisted by: John Brisson,Score,3,2,6,140
+WICH,Ahmad Yu Inside shot...Score!,Score,3,4,7,140
+TLNE,Israel Gonzalez 3-point attempt...Missed!       Rebounded by WICH Milford Mckeown.,Miss,3,4,8,140
+WICH,Carlos Ramirez Inside shot...Score!       Assisted by: Woodrow Lowe,Score,3,6,9,140
+TLNE,John Brisson 3-point attempt...Missed!       Rebounded by TLNE Israel Gonzalez.,Missed,3,6,10,140
+TLNE,Christopher Faz 2-point jumper...Missed!       Rebounded by WICH Brandon Harris.,Missed,3,6,11,140
+WICH,Joshua Robbins 2-point jumper...Score!,Score,3,8,12,140
+WICH,Joshua Clark steals the ball for WICH!,Turnover,3,8,13,140
+WICH,WICH Joshua Robbins lost the ball out of bounds.,Turnover,3,8,14,140
+TLNE,Israel Gonzalez Inside shot...Score!       Assisted by: Lazaro Gracia,Score,5,8,15,140
+WICH,Kristofer Schmitz 2-point jumper...Missed!       Rebounded by TLNE Lazaro Gracia.,Score,5,8,16,140
+TLNE,Israel Gonzalez 3-point attempt...Score!       Assisted by: Christopher Faz,Score,8,8,17,140
+WICH,Kristofer Schmitz 2-point jumper...Score!,Score,8,10,18,140
+TLNE,Lazaro Gracia Inside shot...Score! Foul on the play and one!       Assisted by: Rex Baker,Score,10,10,19,140
+TLNE,Free throw coming up... rattled out.       Rebounded by WICH Joshua Robbins.,FreeThrow,10,10,19,140
+WICH,Joshua Clark Inside shot...Missed!       Rebounded by WICH Joshua Robbins.,Score,10,10,20,140
+WICH,Kristofer Schmitz 2-point jumper...BLOCKED by Bobby Mitchell.       Rebounded by WICH Greg Son.,Turnover,10,10,21,140
+WICH,Joshua Clark 2-point jumper...Missed!       Rebounded by WICH Greg Son.,Score,10,10,22,140
+WICH,Kristofer Schmitz 3-point attempt...Missed!Rebounded by TLNE Bobby Mitchell.,Score,10,10,23,140
+TLNE,John Brisson 3-point attempt...Missed!       Rebounded by WICH Damian Adams.,Miss,10,10,24,140
+WICH,Kristofer Schmitz 2-point jumper...Missed!       Rebounded by TLNE Lazaro Gracia.,Score,10,10,25,140
+TLNE,Rex Baker Inside shot...BLOCKED by WICH Blaine Oconner.       Rebounded by WICH Joshua Clark.,Turnover,10,10,26,140
+TLNE,Faustino Thatcher steals the ball for TLNE!,Turnover,10,10,27,140
+TLNE,John Brisson Inside shot... Missed with a foul on the play.,Fouled,10,10,28,140
+TLNE,Free throw coming up... good!,FreeThrow,11,10,28,140
+TLNE,Free throw coming up... good!,FreeThrow,12,10,28,140
+WICH,Kristofer Schmitz Inside shot...Score!       Assisted by: Johnson Workman,Score,12,12,29,140
+TLNE,TLNE: Offensive foul on TLNE Lazaro Gracia.,Foul,12,12,30,140
+WICH,Greg Son 2-point jumper...Missed!       Rebounded by TLNE Lazaro Gracia.,Score,12,12,31,140
+TLNE,Faustino Thatcher 2-point jumper...Missed!       Rebounded by TLNE Santos Bass.,Missed,12,12,32,140
+WICH,Woodrow Lowe steals the ball for WICH!,Turnover,12,12,33,140
+WICH,Joshua Clark 2-point jumper...Score!,Score,12,14,34,140
+WICH,Ahmad Yu steals the ball for WICH!,Turnover,12,14,35,140
+WICH,Ahmad Yu 2-point jumper...Score!,Score,12,16,36,140
+TLNE,TLNE Bobby Mitchell lost the ball out of bounds.,Out of Bounds,12,16,37,140
+TLNE,Christopher Faz steals the ball for TLNE!,Turnover,12,16,38,140
+TLNE,Christopher Faz 2-point jumper...Score!       Assisted by: John Brisson,Score,14,16,39,140
+WICH,Ahmad Yu 3-point attempt...Missed!       Rebounded by WICH Ahmad Yu.,Score,14,16,40,140
+WICH,Carlos Ramirez 2-point jumper...Missed!       Rebounded by WICH Ahmad Yu.,Score,14,16,41,140
+WICH,Joshua Robbins Inside shot...Score!       Assisted by: Johnson Workman,Score,14,18,42,140
+TLNE,TLNE Bobby Mitchell lost the ball out of bounds.,Out of Bounds,14,18,43,140
+WICH,Kristofer Schmitz Inside shot...Score!       Assisted by: Joshua Clark,Score,14,20,44,140
+TLNE,John Brisson Inside shot...Score!,Score,16,20,45,140
+WICH,Johnson Workman 2-point jumper...Score!,Score,16,22,46,140
+TLNE,TLNE Israel Gonzalez lost the ball out of bounds.,Out of Bounds,16,22,47,140
+WICH,Joshua Robbins 3-point attempt...Missed!Rebounded by TLNE John Brisson.,Score,16,22,48,140
+TLNE,Faustino Thatcher 3-point attempt...Score!,Score,19,22,49,140
+WICH,WICH: Offensive foul on WICH Joshua Clark.,Turnover,19,22,50,140
+TLNE,Christopher Faz Inside shot...Score!       Assisted by: Santos Bass,Score,21,22,51,140
+WICH,Greg Son 2-point jumper...Score!,Score,21,24,52,140
+TLNE,Lazaro Gracia 3-point attempt...Score!       Assisted by: Santos Bass,Score,24,24,53,140
+WICH,Ahmad Yu Inside shot...Score!       Assisted by: Woodrow Lowe,Score,24,26,54,140
+TLNE,John Brisson 3-point attempt...BLOCKED by WICH Johnson Workman.       Rebounded by TLNE Rex Baker.,Score,24,26,55,140
+TLNE,TLNE Christopher Faz lost the ball out of bounds.,Out of Bounds,24,26,56,140
+WICH,Ahmad Yu 2-point jumper...Missed!       Rebounded by WICH Joshua Robbins.,Score,24,26,57,140
+WICH,Johnson Workman 2-point jumper...Missed!       Rebounded by WICH Greg Son.,Score,24,26,58,140
+WICH,WICH Johnson Workman lost the ball out of bounds.,Turnover,24,26,59,140
+TLNE,Israel Gonzalez 3-point attempt...Missed!       Rebounded by TLNE Faustino Thatcher.,Missed,24,26,60,140
+TLNE,John Brisson Inside shot... Missed with a foul on the play.,Fouled,24,26,61,140
+TLNE,Free throw coming up... good!,FreeThrow,25,26,61,140
+TLNE,Free throw coming up... good!,FreeThrow,26,26,61,140
+TLNE,Bobby Mitchell steals the ball for TLNE!,Turnover,26,26,63,140
+TLNE,Bobby Mitchell 3-point attempt...Missed!       Rebounded by TLNE Bobby Mitchell.,Missed,26,26,64,140
+WICH,Greg Son steals the ball for WICH!,Turnover,26,26,65,140
+WICH,Brandon Harris Inside shot...Score!,Score,26,28,66,140
+TLNE,John Brisson 2-point jumper...Missed!       Rebounded by TLNE Lazaro Gracia.,Missed,26,28,67,140
+TLNE,Bobby Mitchell Inside shot...Missed!       Rebounded by WICH Woodrow Lowe.,Score,26,28,68,140
+WICH,Blaine Oconner 2-point jumper...Missed!       Rebounded by TLNE Israel Gonzalez.,Score,26,28,69,140
+TLNE,Rex Baker Inside shot...Score!       Assisted by: John Brisson,Score,28,28,70,140
+,,HALFTIME,28,28,70,140
+WICH,WICH Johnson Workman lost the ball out of bounds.,Turnover,28,28,71,140
+TLNE,Lazaro Gracia 3-point attempt...Score!,Score,31,28,72,140
+WICH,Joshua Clark Inside shot...Missed!       Rebounded by TLNE Lazaro Gracia.,Score,31,28,73,140
+TLNE,Lazaro Gracia Inside shot... Missed with a foul on the play.,Fouled,31,28,75,140
+TLNE,Free throw coming up... good!,FreeThrow,32,28,75,140
+TLNE,Free throw coming up... rattled out.       Rebounded by TLNE Faustino Thatcher.,FreeThrow,32,28,75,140
+TLNE,John Brisson 2-point jumper...Missed!       Rebounded by WICH Joshua Robbins.,Missed,32,28,76,140
+WICH,Johnson Workman 2-point jumper...Score!,Score,32,30,77,140
+WICH,Ahmad Yu steals the ball for WICH!,Turnover,32,30,78,140
+WICH,Kristofer Schmitz 2-point jumper...Missed!       Rebounded by TLNE Santos Bass.,Score,32,30,79,140
+TLNE,John Brisson Inside shot...BLOCKED by WICH Ahmad Yu.       Rebounded by WICH Ahmad Yu.,Turnover,32,30,81,140
+WICH,Joshua Clark 2-point jumper...Missed!       Rebounded by TLNE Israel Gonzalez.,Score,32,30,82,140
+TLNE,Christopher Faz Inside shot...Missed!       Rebounded by WICH Earl Green.,Score,32,30,83,140
+WICH,Kristofer Schmitz 2-point jumper...Missed!       Rebounded by WICH Kristofer Schmitz.,Score,32,30,84,140
+WICH,Joshua Robbins 3-point attempt...Missed!Rebounded by TLNE John Brisson.,Score,32,30,85,140
+TLNE,John Brisson 3-point attempt...Missed!       Rebounded by WICH Kristofer Schmitz.,Miss,32,30,86,140
+WICH,Joshua Robbins 3-point attempt...Score!,Score,32,33,87,140
+TLNE,Faustino Thatcher Inside shot...Score!,Score,34,33,88,140
+WICH,Ahmad Yu 2-point jumper...Missed!       Rebounded by TLNE Lazaro Gracia.,Score,34,33,89,140
+TLNE,Faustino Thatcher Inside shot... Missed with a foul on the play.,Fouled,34,33,90,140
+TLNE,Free throw coming up... good!,FreeThrow,35,33,90,140
+TLNE,Free throw coming up... good!,FreeThrow,36,33,90,140
+WICH,Woodrow Lowe Inside shot...BLOCKED by John Brisson.       Rebounded by TLNE Israel Gonzalez.,Turnover,36,33,91,140
+TLNE,Christopher Faz Inside shot... Missed with a foul on the play.,Fouled,36,33,92,140
+TLNE,Free throw coming up... good!,FreeThrow,37,33,92,140
+TLNE,Free throw coming up... rattled out.       Rebounded by WICH Woodrow Lowe.,FreeThrow,37,33,92,140
+TLNE,Santos Bass steals the ball for TLNE!,Turnover,37,33,93,140
+TLNE,Faustino Thatcher 3-point attempt...Score!       Assisted by: Christopher Faz,Score,40,33,94,140
+WICH,Johnson Workman 2-point jumper...Score!,Score,40,35,95,140
+TLNE,TLNE Christopher Faz lost the ball out of bounds.,Out of Bounds,40,35,96,140
+WICH,Johnson Workman 2-point jumper...BLOCKED by Christopher Faz.       Rebounded by TLNE Bobby Mitchell.,Turnover,40,35,97,140
+WICH,Johnson Workman steals the ball for WICH!,Turnover,40,35,98,140
+WICH,Greg Son Inside shot...BLOCKED by John Brisson.       Rebounded by WICH Ahmad Yu.,Turnover,40,35,99,140
+WICH,Joshua Robbins Inside shot...Missed!       Rebounded by WICH Kristofer Schmitz.,Score,40,35,100,140
+WICH,Woodrow Lowe Inside shot...Missed!       Rebounded by TLNE Christopher Faz.,Score,40,35,101,140
+TLNE,Christopher Faz 3-point attempt...Missed!       Rebounded by WICH Joshua Clark.,Miss,40,35,102,140
+WICH,Ahmad Yu Inside shot...Missed!       Rebounded by TLNE Israel Gonzalez.,Score,40,35,103,140
+TLNE,TLNE: Shot clock violation on TLNE Lazaro Gracia.,Shot Clock Violation,40,35,104,140
+WICH,Joshua Clark Inside shot...Score!,Score,40,37,105,140
+TLNE,Lazaro Gracia Inside shot...Missed!       Rebounded by TLNE John Brisson.,Score,40,37,106,140
+TLNE,Lazaro Gracia Inside shot... Missed with a foul on the play.,Fouled,40,37,107,140
+TLNE,Free throw coming up... rattled out.       Rebounded by WICH Woodrow Lowe.,FreeThrow,40,37,107,140
+WICH,Joshua Clark 3-point attempt...Missed!Rebounded by TLNE Rex Baker.,Score,40,37,108,140
+TLNE,Israel Gonzalez Inside shot... Missed with a foul on the play.,Fouled,40,37,109,140
+TLNE,Free throw coming up... good!,FreeThrow,41,37,109,140
+TLNE,Free throw coming up... good!,FreeThrow,42,37,109,140
+WICH,Milford Mckeown 2-point jumper...Score!       Assisted by: Woodrow Lowe,Score,42,39,110,140
+TLNE,Lazaro Gracia 3-point attempt...Missed!       Rebounded by WICH Ahmad Yu.,Miss,42,39,111,140
+WICH,Kristofer Schmitz Inside shot...Score!,Score,42,41,112,140
+TLNE,TLNE: Offensive foul on TLNE Faustino Thatcher.,Foul,42,41,113,140
+WICH,Ahmad Yu Inside shot...Score!,Score,42,43,114,140
+TLNE,Lazaro Gracia 3-point attempt...Missed!       Rebounded by WICH Greg Son.,Miss,42,43,115,140
+WICH,Johnson Workman Inside shot... Missed but with a foul on the play.,Fouled,42,43,116,140
+WICH,Free throw coming up... good!,FreeThrow,42,44,116,140
+WICH,Free throw coming up... good!,FreeThrow,42,45,116,140
+TLNE,Lazaro Gracia 3-point attempt...Missed!       Rebounded by WICH Greg Son.,Miss,42,45,117,140
+WICH,Woodrow Lowe 2-point jumper...Missed!       Rebounded by TLNE Faustino Thatcher.,Score,42,45,118,140
+TLNE,Rex Baker Inside shot...Score!,Score,44,45,119,140
+WICH,WICH Ahmad Yu lost the ball out of bounds.,Turnover,44,45,120,140
+TLNE,Israel Gonzalez 2-point jumper...Score!       Assisted by: Rex Baker,Score,46,45,121,140
+WICH,Woodrow Lowe 3-point attempt...Score!       Assisted by: Greg Son,Score,46,48,122,140
+WICH,Joshua Robbins steals the ball for WICH!,Turnover,46,48,123,140
+WICH,Ahmad Yu 2-point jumper...Missed!       Rebounded by TLNE Rex Baker.,Score,46,48,124,140
+TLNE,John Brisson Inside shot...Score!,Score,48,48,125,140
+WICH,Damian Adams Inside shot...Missed!       Rebounded by TLNE Rex Baker.,Score,48,48,126,140
+TLNE,Santos Bass 3-point attempt...Score!       Assisted by: Faustino Thatcher,Score,51,48,127,140
+WICH,Ahmad Yu 3-point attempt...Score!       Assisted by: Joshua Clark,Score,51,51,128,140
+TLNE,Faustino Thatcher 2-point jumper...Missed!       Rebounded by WICH Greg Son.,Missed,51,51,129,140
+WICH,Carlos Ramirez Inside shot...Score!,Score,51,53,130,140
+TLNE,Bobby Mitchell Inside shot...Missed!       Rebounded by WICH Greg Son.,Score,51,53,131,140
+WICH,Ahmad Yu 2-point jumper...Missed!       Rebounded by TLNE John Brisson.,Score,51,53,132,140
+TLNE,John Brisson Inside shot... Missed with a foul on the play.,Fouled,51,53,133,140
+TLNE,Free throw coming up... good!,FreeThrow,52,53,133,140
+WICH,Greg Son Inside shot...Score!,Score,52,55,134,140
+TLNE,Faustino Thatcher Inside shot...Missed!       Rebounded by TLNE Rex Baker.,Score,52,55,135,140
+TLNE,Christopher Faz 2-point jumper...Missed!       Rebounded by TLNE Israel Gonzalez.,Missed,52,55,136,140
+TLNE,Israel Gonzalez 3-point attempt...Missed!       Rebounded by TLNE Rex Baker.,Missed,52,55,137,140
+TLNE,John Brisson 2-point jumper...Score!,Score,54,55,138,140
+WICH,Earl Green 3-point attempt...Score!       Assisted by: Woodrow Lowe,Score,54,58,139,140
+WICH,Ahmad Yu steals the ball for WICH!,Turnover,54,58,140,140
+WICH,Woodrow Lowe 2-point jumper...Missed!       Rebounded by TLNE Santos Bass.,Score,54,58,141,140
+,Match Complete,FinalScore,54,58,141,140

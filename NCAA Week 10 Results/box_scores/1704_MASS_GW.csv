@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+UMass,Minutemen,31,39,0,70
+George Washington,Colonials,36,43,0,79
+""
+""
+=====UMass Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Michael Watkins,25,17,4,7,0.5714285714285714,0,0,0,0,0,0,8,4,3,0,1,0,0
+Darryl Carter,25,14,2,5,0.4,2,3,0.6666666666666666,0,0,0,6,0,2,2,0,0,1
+Derrick Dowdell,25,13,2,5,0.4,0,0,0,0,2,0.0,4,9,5,0,0,1,2
+Scott Anderson,5,2,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Richard Dowd,20,18,7,8,0.875,1,1,1.0,0,0,0,15,0,3,0,0,0,1
+Brian Price,20,11,4,5,0.8,1,1,1.0,2,2,1.0,11,0,1,1,0,0,0
+Timothy Torkelson,8,8,1,4,0.25,1,2,0.5,2,2,1.0,5,1,0,0,0,0,0
+Jeremy Strange,25,18,2,6,0.3333333333333333,1,2,0.5,1,2,0.5,6,0,0,4,1,0,1
+Randall Olmstead,25,19,3,8,0.375,0,0,0,0,0,0,6,4,1,2,0,1,1
+Bryan Sanders,5,4,1,2,0.5,1,1,1.0,0,0,0,3,2,2,0,1,0,0
+Josue Espindola,7,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0
+Jeffrey Carothers,5,8,3,4,0.75,0,0,0,0,1,0.0,6,1,0,0,0,0,0
+James Hoxie,5,2,0,1,0.0,0,0,0,0,0,0,0,2,0,0,0,0,0
+""
+=====George Washington Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Darryl Vance,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+Richard Kennedy,25,15,6,7,0.8571428571428571,1,1,1.0,0,0,0,13,3,4,0,0,1,0
+Michael Mccrea,25,17,3,6,0.5,1,3,0.3333333333333333,0,0,0,7,5,1,2,1,3,0
+Steven Oxford,25,24,4,10,0.4,1,3,0.3333333333333333,0,0,0,9,6,2,2,1,2,0
+Carl Foster,20,12,5,6,0.8333333333333334,2,3,0.6666666666666666,0,0,0,12,1,2,0,0,0,0
+Jessie Lopez,8,8,3,4,0.75,0,0,0,0,0,0,6,2,0,0,0,0,0
+James Major,25,11,3,5,0.6,1,1,1.0,0,0,0,7,2,1,0,1,1,0
+Hanh Lee,20,8,2,2,1.0,1,1,1.0,2,2,1.0,7,1,2,3,0,1,0
+Sergio Mares,25,14,1,6,0.16666666666666666,0,1,0.0,4,4,1.0,6,2,4,0,1,2,0
+Ralph Ramos,5,2,1,1,1.0,0,0,0,0,0,0,2,0,1,0,0,0,0
+Kent Kinstler,5,4,2,2,1.0,0,0,0,0,0,0,4,0,0,0,0,0,0
+Stephen Minichino,5,3,1,1,1.0,0,0,0,0,0,0,2,1,0,1,1,0,0
+Harry Kuranda,5,6,2,3,0.6666666666666666,0,1,0.0,0,0,0,4,0,1,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,UMass,George Washington
+Points,70,79
+Possessions,77,72
+FGM,22,26
+FGA,46,39
+FGPercent,0.4782608695652174,0.6666666666666666
+3PM,7,7
+3PA,10,14
+3P%,0.7,0.5
+FTM,5,6
+FTA,9,6
+FT%,0.5555555555555556,1.0
+Rebounds,25,24
+OffRebounds,12,8
+DefRebounds,13,16
+Assists,18,18
+Steals,9,0
+Blocks,3,4
+Total Turnovers,20,16
+Largest Lead,12,12

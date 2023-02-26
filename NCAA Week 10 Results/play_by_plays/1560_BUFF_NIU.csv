@@ -1,0 +1,164 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+BUFF,NIU,57,63,145
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+NIU,NIU wins the tipoff!,Tipoff,0,0,0,145
+NIU,NIU Ronald Faircloth lost the ball out of bounds.,Turnover,0,0,1,145
+BUFF,Richard Allen Inside shot...Score!,Score,2,0,2,145
+NIU,NIU: Offensive foul on NIU Gerald Northcraft.,Turnover,2,0,3,145
+BUFF,Dalton Redman 3-point attempt...Score!       Assisted by: Clifton Sligh,Score,5,0,4,145
+NIU,David Cowie 2-point jumper...Missed!       Rebounded by BUFF Paul Orr.,Score,5,0,5,145
+BUFF,Dalton Redman Inside shot...Score!       Assisted by: Paul Orr,Score,7,0,6,145
+NIU,James William Inside shot... Missed but with a foul on the play.,Fouled,7,0,7,145
+NIU,Free throw coming up... good!,FreeThrow,7,1,7,145
+NIU,Free throw coming up... good!,FreeThrow,7,2,7,145
+BUFF,Christopher Lovell Inside shot...BLOCKED by NIU Fernando Hernandez.       Rebounded by BUFF Christopher Lovell.,Turnover,7,2,8,145
+NIU,Ronald Faircloth steals the ball for NIU!,Turnover,7,2,9,145
+NIU,Paul Comstock 3-point attempt...Missed!Rebounded by BUFF Richard Allen.,Score,7,2,10,145
+BUFF,Stephen Kelley Inside shot...Score!       Assisted by: William Yang,Score,9,2,11,145
+NIU,NIU Robert Hobensack lost the ball out of bounds.,Turnover,9,2,12,145
+BUFF,Clifton Sligh 2-point jumper...Score!,Score,11,2,13,145
+NIU,Stephen Jacob Inside shot...Score!,Score,11,4,14,145
+BUFF,Stephen Kelley 2-point jumper...Missed!       Rebounded by NIU Stephen Jacob.,Missed,11,4,15,145
+NIU,Stephen Jacob 3-point attempt...Missed!       Rebounded by NIU Daniel Schauer.,Score,11,4,16,145
+NIU,Derrick Barge 2-point jumper...Missed!       Rebounded by BUFF Richard Allen.,Score,11,4,17,145
+NIU,James William steals the ball for NIU!,Turnover,11,4,18,145
+NIU,Keith Ramnarine 2-point jumper...Missed!       Rebounded by NIU Stephen Jacob.,Score,11,4,19,145
+NIU,Daniel Schauer 2-point jumper...Score!,Score,11,6,20,145
+BUFF,Dalton Redman 2-point jumper...Missed!       Rebounded by NIU James William.,Missed,11,6,21,145
+NIU,Paul Comstock 2-point jumper...BLOCKED by Richard Allen.       Rebounded by NIU David Cowie.,Turnover,11,6,22,145
+BUFF,Stephen Kelley steals the ball for BUFF!,Turnover,11,6,23,145
+BUFF,William Yang 2-point jumper...Missed!       Rebounded by NIU Keith Ramnarine.,Missed,11,6,24,145
+NIU,Gerald Northcraft 2-point jumper...Missed!       Rebounded by BUFF Richard Allen.,Score,11,6,25,145
+BUFF,Paul Orr Inside shot...Score!,Score,13,6,26,145
+NIU,James William 3-point attempt...Missed!Rebounded by BUFF William Yang.,Score,13,6,27,145
+BUFF,Richard Holbrook Inside shot...Score!,Score,15,6,28,145
+NIU,Alejandro Arzola 2-point jumper...Missed!       Rebounded by BUFF Richard Allen.,Score,15,6,29,145
+BUFF,Richard Holbrook 2-point jumper...Missed!       Rebounded by NIU Alejandro Arzola.,Missed,15,6,30,145
+NIU,Paul Comstock 2-point jumper...Score!,Score,15,8,31,145
+BUFF,Paul Orr 2-point jumper...BLOCKED by NIU Keith Ramnarine.       Rebounded by NIU Paul Comstock.,Turnover,15,8,32,145
+NIU,William Bibee Inside shot... Missed but with a foul on the play.,Fouled,15,8,33,145
+NIU,Free throw coming up... rattled out.,FreeThrow,15,8,33,145
+NIU,Free throw coming up... good!,FreeThrow,15,9,33,145
+BUFF,William Yang 3-point attempt...Missed!       Rebounded by NIU Ronald Faircloth.,Miss,15,9,34,145
+NIU,Fernando Hernandez 3-point attempt...Score!       Assisted by: William Bibee,Score,15,12,35,145
+BUFF,Clifton Sligh 2-point jumper...Missed!       Rebounded by BUFF Paul Orr.,Missed,15,12,36,145
+BUFF,BUFF Stephen Kelley lost the ball out of bounds.,Out of Bounds,15,12,37,145
+NIU,Fernando Hernandez Inside shot...Score!       Assisted by: William Bibee,Score,15,14,38,145
+BUFF,Christopher Lovell 2-point jumper...Missed!       Rebounded by NIU James William.,Missed,15,14,39,145
+NIU,James William 3-point attempt...Missed!Rebounded by BUFF Richard Allen.,Score,15,14,40,145
+BUFF,BUFF: Offensive foul on BUFF Todd Petrillo.,Foul,15,14,41,145
+BUFF,Anthony Slawson steals the ball for BUFF!,Turnover,15,14,42,145
+BUFF,Christopher Lovell 2-point jumper...Missed!       Rebounded by NIU Alejandro Arzola.,Missed,15,14,43,145
+NIU,David Cowie 3-point attempt...Missed!Rebounded by BUFF Stephen Kelley.,Score,15,14,44,145
+BUFF,William Yang 2-point jumper...Missed!       Rebounded by NIU James William.,Missed,15,14,45,145
+NIU,NIU: Offensive foul on NIU Fernando Hernandez.,Turnover,15,14,46,145
+BUFF,BUFF: Offensive foul on BUFF Clifton Sligh.,Foul,15,14,48,145
+NIU,James William 2-point jumper...Score!       Assisted by: Stephen Jacob,Score,15,16,49,145
+BUFF,Christopher Lovell 2-point jumper...Score!,Score,17,16,50,145
+NIU,Alejandro Arzola Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: James William,Score,17,18,51,145
+NIU,Free throw coming up... good!,FreeThrow,17,19,51,145
+BUFF,William Yang Inside shot...Score!       Assisted by: Paul Orr,Score,19,19,52,145
+NIU,Fernando Hernandez Inside shot... Missed but with a foul on the play.,Fouled,19,19,53,145
+NIU,Free throw coming up... rattled out.,FreeThrow,19,19,53,145
+NIU,Free throw coming up... rattled out.       Rebounded by BUFF Christopher Lovell.,FreeThrow,19,19,53,145
+BUFF,Clifton Sligh 3-point attempt...Score!       Assisted by: Dalton Redman,Score,22,19,54,145
+NIU,Keith Ramnarine Inside shot...BLOCKED by Dalton Redman.       Rebounded by BUFF Richard Allen.,Turnover,22,19,55,145
+BUFF,Richard Allen 2-point jumper...Missed!       Rebounded by BUFF Paul Orr.,Missed,22,19,56,145
+BUFF,Clifton Sligh Inside shot...Score!       Assisted by: Richard Allen,Score,24,19,57,145
+NIU,Paul Comstock 3-point attempt...Score!       Assisted by: Stephen Jacob,Score,24,22,58,145
+BUFF,Mark Green 2-point jumper...Missed!       Rebounded by NIU Paul Comstock.,Missed,24,22,59,145
+NIU,Ronald Faircloth 2-point jumper...Score!,Score,24,24,60,145
+BUFF,Paul Orr Inside shot... Missed with a foul on the play.,Fouled,24,24,61,145
+BUFF,Free throw coming up... good!,FreeThrow,25,24,61,145
+BUFF,Free throw coming up... rattled out.       Rebounded by NIU David Cowie.,FreeThrow,25,24,61,145
+NIU,Ronald Faircloth 3-point attempt...Score!       Assisted by: Paul Comstock,Score,25,27,62,145
+BUFF,Clifton Sligh Inside shot...Score!       Assisted by: William Yang,Score,27,27,63,145
+BUFF,Christopher Lovell steals the ball for BUFF!,Turnover,27,27,64,145
+NIU,Keith Ramnarine steals the ball for NIU!,Turnover,27,27,65,145
+NIU,NIU: Offensive foul on NIU Keith Ramnarine.,Turnover,27,27,66,145
+BUFF,Clifton Sligh Inside shot...Score!       Assisted by: Richard Holbrook,Score,29,27,67,145
+NIU,Keith Ramnarine 2-point jumper...Score!,Score,29,29,68,145
+BUFF,Thomas Velazco Inside shot...BLOCKED by NIU James William.       Rebounded by NIU Alejandro Arzola.,Turnover,29,29,69,145
+NIU,Robert Hobensack Inside shot...Score!       Assisted by: Paul Comstock,Score,29,31,70,145
+BUFF,BUFF: Offensive foul on BUFF William Yang.,Foul,29,31,71,145
+NIU,James William 2-point jumper...Score!,Score,29,33,72,145
+,,HALFTIME,29,33,72,145
+BUFF,BUFF Stephen Kelley lost the ball out of bounds.,Out of Bounds,29,33,73,145
+NIU,Keith Ramnarine 3-point attempt...Score!,Score,29,36,74,145
+BUFF,William Yang 2-point jumper...Missed!       Rebounded by BUFF Richard Holbrook.,Missed,29,36,75,145
+BUFF,BUFF Mark Green lost the ball out of bounds.,Out of Bounds,29,36,76,145
+NIU,NIU: Offensive foul on NIU Alejandro Arzola.,Turnover,29,36,77,145
+BUFF,Dalton Redman 2-point jumper...Missed!       Rebounded by NIU William Bibee.,Missed,29,36,78,145
+NIU,Stephen Jacob Inside shot...Score!       Assisted by: Keith Ramnarine,Score,29,38,79,145
+NIU,Paul Comstock steals the ball for NIU!,Turnover,29,38,80,145
+NIU,Daniel Schauer Inside shot...BLOCKED by Dalton Redman.       Rebounded by BUFF Richard Holbrook.,Turnover,29,38,81,145
+BUFF,Anthony Slawson 2-point jumper...Missed!       Rebounded by NIU Stephen Jacob.,Missed,29,38,82,145
+NIU,Keith Ramnarine Inside shot... Missed but with a foul on the play.,Fouled,29,38,83,145
+NIU,Free throw coming up... good!,FreeThrow,29,39,83,145
+NIU,Free throw coming up... rattled out.       Rebounded by BUFF Clifton Sligh.,FreeThrow,29,39,83,145
+BUFF,Clifton Sligh Inside shot...Score!,Score,31,39,84,145
+NIU,Paul Comstock 2-point jumper...Missed!       Rebounded by BUFF Dalton Redman.,Score,31,39,85,145
+BUFF,Todd Petrillo Inside shot...Score!,Score,33,39,86,145
+NIU,Keith Ramnarine Inside shot...Missed!       Rebounded by BUFF Richard Allen.,Score,33,39,87,145
+BUFF,Dalton Redman Inside shot...Score!       Assisted by: Stephen Kelley,Score,35,39,88,145
+NIU,Keith Ramnarine 2-point jumper...Missed!       Rebounded by NIU Paul Comstock.,Score,35,39,89,145
+NIU,Ronald Faircloth 2-point jumper...Missed!       Rebounded by BUFF Harvey Hoffman.,Score,35,39,90,145
+BUFF,BUFF Christopher Lovell lost the ball out of bounds.,Out of Bounds,35,39,91,145
+NIU,NIU: Offensive foul on NIU Ronald Faircloth.,Turnover,35,39,92,145
+BUFF,Stephen Kelley 2-point jumper...Missed!       Rebounded by NIU James William.,Missed,35,39,93,145
+NIU,Stephen Jacob 3-point attempt...Missed!Rebounded by BUFF Clifton Sligh.,Score,35,39,94,145
+BUFF,Paul Orr Inside shot...Score!       Assisted by: Christopher Lovell,Score,37,39,95,145
+NIU,Paul Comstock 3-point attempt...Score!       Assisted by: Keith Ramnarine,Score,37,42,96,145
+BUFF,Anthony Slawson 2-point jumper...BLOCKED by NIU Paul Comstock.       Rebounded by BUFF Richard Holbrook.,Turnover,37,42,97,145
+BUFF,Thomas Velazco 3-point attempt...Missed!       Rebounded by NIU Stephen Jacob.,Miss,37,42,98,145
+NIU,NIU Alejandro Arzola lost the ball out of bounds.,Turnover,37,42,99,145
+BUFF,Paul Orr Inside shot...Score!,Score,39,42,100,145
+BUFF,Mark Green steals the ball for BUFF!,Turnover,39,42,101,145
+BUFF,Richard Holbrook Inside shot...Score!       Assisted by: William Yang,Score,41,42,102,145
+NIU,NIU: Offensive foul on NIU David Cowie.,Turnover,41,42,103,145
+BUFF,William Yang Inside shot...Score! Foul on the play and one!,Score,43,42,104,145
+BUFF,Free throw coming up... good!,FreeThrow,44,42,104,145
+NIU,Ronald Faircloth 3-point attempt...Score!       Assisted by: Keith Ramnarine,Score,44,45,105,145
+BUFF,BUFF Anthony Slawson lost the ball out of bounds.,Out of Bounds,44,45,106,145
+NIU,James William 3-point attempt...Missed!       Rebounded by NIU Paul Comstock.,Score,44,45,107,145
+NIU,William Bibee Inside shot...Missed!       Rebounded by NIU Paul Comstock.,Score,44,45,108,145
+NIU,NIU James William lost the ball out of bounds.,Turnover,44,45,109,145
+BUFF,Dalton Redman 2-point jumper...Missed!       Rebounded by NIU Stephen Jacob.,Missed,44,45,110,145
+NIU,Alejandro Arzola Inside shot...BLOCKED by Dalton Redman.       Rebounded by NIU Keith Ramnarine.,Turnover,44,45,111,145
+NIU,Keith Ramnarine Inside shot...Score!,Score,44,47,112,145
+BUFF,BUFF: Shot clock violation on BUFF Richard Holbrook.,Shot Clock Violation,44,47,113,145
+NIU,Alejandro Arzola 2-point jumper...Missed!       Rebounded by BUFF Stephen Kelley.,Score,44,47,114,145
+BUFF,William Yang Inside shot...Score!       Assisted by: Paul Orr,Score,46,47,115,145
+NIU,Paul Comstock 2-point jumper...BLOCKED by Christopher Lovell.       Rebounded by NIU Keith Ramnarine.,Turnover,46,47,116,145
+NIU,NIU Daniel Schauer lost the ball out of bounds.,Turnover,46,47,117,145
+BUFF,BUFF: Offensive foul on BUFF Paul Orr.,Foul,46,47,118,145
+NIU,Derrick Barge Inside shot...Score!       Assisted by: Stephen Jacob,Score,46,49,119,145
+BUFF,Paul Orr 2-point jumper...Missed!       Rebounded by BUFF Paul Orr.,Missed,46,49,120,145
+BUFF,Todd Petrillo 2-point jumper...Missed!       Rebounded by NIU Alejandro Arzola.,Missed,46,49,121,145
+NIU,Daniel Schauer 3-point attempt...Missed!       Rebounded by NIU Daniel Schauer.,Score,46,49,122,145
+NIU,Ronald Faircloth 2-point jumper...BLOCKED by Richard Allen.       Rebounded by BUFF Anthony Slawson.,Turnover,46,49,123,145
+BUFF,Anthony Slawson 2-point jumper...BLOCKED by NIU Alejandro Arzola.       Rebounded by NIU Keith Ramnarine.,Turnover,46,49,124,145
+BUFF,William Yang steals the ball for BUFF!,Turnover,46,49,125,145
+BUFF,Richard Allen 2-point jumper...Missed!       Rebounded by BUFF Richard Allen.,Missed,46,49,126,145
+BUFF,Christopher Lovell 2-point jumper...Score!,Score,48,49,127,145
+NIU,Fernando Hernandez Inside shot...Score!,Score,48,51,128,145
+BUFF,Harvey Hoffman 3-point attempt...Score!       Assisted by: William Yang,Score,51,51,129,145
+BUFF,Clifton Sligh steals the ball for BUFF!,Turnover,51,51,130,145
+BUFF,BUFF: Offensive foul on BUFF William Yang.,Foul,51,51,131,145
+NIU,Robert Hobensack 2-point jumper...Score!,Score,51,53,132,145
+BUFF,BUFF: Offensive foul on BUFF Stephen Kelley.,Foul,51,53,133,145
+NIU,Derrick Barge Inside shot...Score!,Score,51,55,134,145
+BUFF,Paul Orr 2-point jumper...Score!,Score,53,55,135,145
+NIU,Robert Hobensack Inside shot...Score!,Score,53,57,136,145
+BUFF,Dalton Redman 2-point jumper...Missed!       Rebounded by NIU Paul Comstock.,Missed,53,57,137,145
+NIU,Paul Comstock Inside shot...Score!,Score,53,59,138,145
+NIU,David Cowie steals the ball for NIU!,Turnover,53,59,139,145
+NIU,Stephen Jacob Inside shot...Score!,Score,53,61,140,145
+BUFF,BUFF William Yang lost the ball out of bounds.,Out of Bounds,53,61,141,145
+BUFF,Christopher Lovell steals the ball for BUFF!,Turnover,53,61,142,145
+BUFF,Christopher Lovell 2-point jumper...Score!,Score,55,61,143,145
+NIU,William Bibee 3-point attempt...Missed!Rebounded by BUFF Paul Orr.,Score,55,61,144,145
+BUFF,Christopher Lovell 2-point jumper...Score!,Score,57,61,145,145
+NIU,Robert Hobensack 2-point jumper...Score!       Assisted by: Fernando Hernandez,Score,57,63,146,145
+,Match Complete,FinalScore,57,63,146,145

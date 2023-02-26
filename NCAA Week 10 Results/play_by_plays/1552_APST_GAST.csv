@@ -1,0 +1,158 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+APST,GAST,69,61,143
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+APST,APST wins the tipoff!,Tipoff,0,0,0,143
+APST,Mohamed Stacy Inside shot...Score!       Assisted by: Alberto Mendoza,Score,2,0,1,143
+GAST,GAST: Offensive foul on GAST Nguyen Kim.,Turnover,2,0,2,143
+APST,APST Federico Walker lost the ball out of bounds.,Out of Bounds,2,0,3,143
+GAST,David Peter Inside shot... Missed but with a foul on the play.,Fouled,2,0,4,143
+GAST,Free throw coming up... good!,FreeThrow,2,1,4,143
+GAST,Free throw coming up... good!,FreeThrow,2,2,4,143
+APST,Randall Howard 2-point jumper...Score!       Assisted by: David Boulay,Score,4,2,5,143
+GAST,John Bona 2-point jumper...Missed!       Rebounded by APST Federico Walker.,Score,4,2,6,143
+APST,Federico Walker 2-point jumper...Score!,Score,6,2,7,143
+GAST,John White 3-point attempt...Missed!       Rebounded by GAST David Peter.,Score,6,2,8,143
+GAST,David Peter 3-point attempt...Missed!Rebounded by APST Federico Walker.,Score,6,2,9,143
+APST,Alberto Mendoza 3-point attempt...Missed!       Rebounded by APST Mohamed Stacy.,Missed,6,2,10,143
+APST,Mark Dotson 2-point jumper...Score!,Score,8,2,11,143
+GAST,Curtis Biard 2-point jumper...Missed!       Rebounded by GAST Michael Valerio.,Score,8,2,12,143
+GAST,David Peter 3-point attempt...Score!       Assisted by: John Bona,Score,8,5,13,143
+APST,William Mclean Inside shot...BLOCKED by GAST David Peter.       Rebounded by GAST Michael Valerio.,Turnover,8,5,14,143
+APST,Mohamed Stacy steals the ball for APST!,Turnover,8,5,15,143
+APST,Mohamed Stacy Inside shot...Missed!       Rebounded by GAST Matthew Cannon.,Score,8,5,16,143
+GAST,Jose Galvan 2-point jumper...Missed!       Rebounded by GAST Jose Galvan.,Score,8,5,17,143
+GAST,William Westerberg Inside shot...Score!,Score,8,7,18,143
+APST,William Mclean Inside shot...Score!,Score,10,7,19,143
+GAST,GAST Jose Galvan lost the ball out of bounds.,Turnover,10,7,20,143
+APST,Young Ling 3-point attempt...Missed!       Rebounded by APST James Stanley.,Missed,10,7,21,143
+APST,William Mclean Inside shot...Score! Foul on the play and one!,Score,12,7,22,143
+APST,Free throw coming up... good!,FreeThrow,13,7,22,143
+GAST,Jerry Ferguson Inside shot...Score!       Assisted by: John Bona,Score,13,9,23,143
+APST,William Mclean 2-point jumper...Score!,Score,15,9,24,143
+GAST,GAST Jose Galvan lost the ball out of bounds.,Turnover,15,9,25,143
+APST,Brian Shay Inside shot...Score!,Score,17,9,26,143
+GAST,John Bona Inside shot...Missed!       Rebounded by GAST David Peter.,Score,17,9,27,143
+APST,Mohamed Stacy steals the ball for APST!,Turnover,17,9,28,143
+APST,Randall Howard Inside shot...Score!,Score,19,9,29,143
+GAST,Jerry Ferguson 3-point attempt...Score!       Assisted by: John Bona,Score,19,12,30,143
+APST,APST Young Ling lost the ball out of bounds.,Out of Bounds,19,12,31,143
+GAST,Jerry Ferguson Inside shot...Score!,Score,19,14,32,143
+GAST,Michael Valerio steals the ball for GAST!,Turnover,19,14,33,143
+GAST,Nguyen Kim 3-point attempt...Score!       Assisted by: Jose Galvan,Score,19,17,34,143
+APST,Mohamed Stacy 2-point jumper...Missed!       Rebounded by APST Mohamed Stacy.,Missed,19,17,35,143
+APST,Charles Prager 2-point jumper...Missed!       Rebounded by GAST David Peter.,Missed,19,17,36,143
+GAST,Jose Galvan Inside shot...BLOCKED by Mohamed Stacy.       Rebounded by APST Randall Howard.,Turnover,19,17,37,143
+APST,David Boulay Inside shot...Score!,Score,21,17,38,143
+GAST,William Westerberg Inside shot...Score!       Assisted by: Curtis Biard,Score,21,19,39,143
+APST,Randall Howard Inside shot...Score!       Assisted by: Alberto Mendoza,Score,23,19,40,143
+GAST,GAST: Offensive foul on GAST John White.,Turnover,23,19,41,143
+GAST,David Peter steals the ball for GAST!,Turnover,23,19,42,143
+GAST,GAST David Peter lost the ball out of bounds.,Turnover,23,19,43,143
+APST,Young Ling 2-point jumper...Score!       Assisted by: Brian Shay,Score,25,19,44,143
+GAST,John Bona Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: Curtis Biard,Score,25,21,45,143
+GAST,Free throw coming up... good!,FreeThrow,25,22,45,143
+APST,Mohamed Stacy 2-point jumper...Missed!       Rebounded by APST Charles Prager.,Missed,25,22,46,143
+GAST,David Peter steals the ball for GAST!,Turnover,25,22,47,143
+GAST,David Peter 2-point jumper...Missed!       Rebounded by APST William Mclean.,Score,25,22,48,143
+APST,Randall Howard 3-point attempt...Missed!       Rebounded by GAST Jerry Ferguson.,Miss,25,22,49,143
+GAST,David Peter Inside shot...Score!,Score,25,24,50,143
+APST,Federico Walker 2-point jumper...Missed!       Rebounded by GAST Michael Valerio.,Missed,25,24,51,143
+APST,Federico Walker steals the ball for APST!,Turnover,25,24,52,143
+APST,Alberto Mendoza 2-point jumper...Score!       Assisted by: Lee Wallace,Score,27,24,54,143
+GAST,David Peter Inside shot...BLOCKED by William Mclean.       Rebounded by GAST Nguyen Kim.,Turnover,27,24,55,143
+GAST,Jerry Ferguson Inside shot...Missed!       Rebounded by APST William Mclean.,Score,27,24,56,143
+APST,William Mclean 2-point jumper...Missed!       Rebounded by GAST John White.,Missed,27,24,57,143
+GAST,GAST Carlos Barragan lost the ball out of bounds.,Turnover,27,24,58,143
+APST,Young Ling Inside shot...Score!,Score,29,24,59,143
+GAST,John Bona 2-point jumper...Missed!       Rebounded by APST Federico Walker.,Score,29,24,60,143
+APST,Mohamed Stacy 2-point jumper...Missed!       Rebounded by GAST Matthew Cannon.,Missed,29,24,61,143
+GAST,Michael Valerio 2-point jumper...Score!,Score,29,26,62,143
+APST,Randall Howard Inside shot...Score!       Assisted by: David Boulay,Score,31,26,63,143
+GAST,David Peter 2-point jumper...Score!,Score,31,28,64,143
+APST,Alberto Mendoza Inside shot...Score! Foul on the play and one!       Assisted by: David Boulay,Score,33,28,65,143
+APST,Free throw coming up... good!,FreeThrow,34,28,65,143
+GAST,Michael Valerio Inside shot...Score!,Score,34,30,66,143
+APST,William Mclean 2-point jumper...Missed!       Rebounded by GAST David Peter.,Missed,34,30,67,143
+GAST,Michael Valerio Inside shot...Missed!       Rebounded by GAST Carlos Barragan.,Score,34,30,68,143
+GAST,Jose Galvan Inside shot...Missed!       Rebounded by APST Federico Walker.,Score,34,30,69,143
+APST,Young Ling 2-point jumper...Missed!       Rebounded by GAST Jose Galvan.,Missed,34,30,70,143
+GAST,William Westerberg Inside shot...Score!,Score,34,32,71,143
+,,HALFTIME,34,32,71,143
+APST,Alberto Mendoza Inside shot...Score!,Score,36,32,72,143
+GAST,William Westerberg 2-point jumper...BLOCKED by David Boulay.       Rebounded by APST Mohamed Stacy.,Turnover,36,32,73,143
+APST,Randall Howard 3-point attempt...Missed!       Rebounded by APST Federico Walker.,Missed,36,32,74,143
+APST,Federico Walker 3-point attempt...Missed!       Rebounded by GAST Michael Valerio.,Miss,36,32,75,143
+GAST,Michael Valerio Inside shot...Score!,Score,36,34,76,143
+APST,Lee Wallace 2-point jumper...Score!       Assisted by: William Mclean,Score,38,34,77,143
+GAST,Jerry Ferguson 3-point attempt...Score!       Assisted by: Michael Valerio,Score,38,37,78,143
+GAST,David Peter steals the ball for GAST!,Turnover,38,37,79,143
+GAST,Kevin Gardner Inside shot...BLOCKED by Mohamed Stacy.       Rebounded by GAST Jerry Ferguson.,Turnover,38,37,80,143
+GAST,Jose Galvan 2-point jumper...Missed!       Rebounded by APST David Boulay.,Score,38,37,81,143
+APST,Randall Howard Inside shot...Score!,Score,40,37,82,143
+GAST,Michael Valerio 2-point jumper...Missed!       Rebounded by GAST Carlos Barragan.,Score,40,37,83,143
+GAST,William Westerberg 3-point attempt...Missed!Rebounded by APST David Boulay.,Score,40,37,84,143
+APST,APST: Offensive foul on APST Federico Walker.,Foul,40,37,85,143
+APST,Mohamed Stacy steals the ball for APST!,Turnover,40,37,86,143
+APST,APST William Mclean lost the ball out of bounds.,Out of Bounds,40,37,87,143
+APST,Mohamed Stacy steals the ball for APST!,Turnover,40,37,88,143
+APST,Mark Dotson 2-point jumper...BLOCKED by GAST Michael Valerio.       Rebounded by APST William Mclean.,Turnover,40,37,89,143
+APST,APST Young Ling lost the ball out of bounds.,Out of Bounds,40,37,90,143
+GAST,Michael Valerio 2-point jumper...Score!,Score,40,39,91,143
+APST,Alberto Mendoza 2-point jumper...Score!,Score,42,39,92,143
+GAST,Jerry Ferguson Inside shot...Score!,Score,42,41,93,143
+APST,David Boulay Inside shot...Score!       Assisted by: Alberto Mendoza,Score,44,41,94,143
+GAST,Matthew Cannon 3-point attempt...Score!       Assisted by: Curtis Biard,Score,44,44,96,143
+APST,William Mclean 3-point attempt...Missed!       Rebounded by GAST Carlos Barragan.,Miss,44,44,97,143
+GAST,John Bona 2-point jumper...Missed!       Rebounded by GAST Jose Galvan.,Score,44,44,98,143
+GAST,GAST: Offensive foul on GAST John White.,Turnover,44,44,99,143
+APST,Mohamed Stacy 2-point jumper...Missed!       Rebounded by GAST David Peter.,Missed,44,44,100,143
+APST,Federico Walker steals the ball for APST!,Turnover,44,44,101,143
+APST,Alberto Mendoza 3-point attempt...Missed!       Rebounded by GAST William Westerberg.,Miss,44,44,102,143
+GAST,Jose Galvan 2-point jumper...Score!       Assisted by: Carlos Barragan,Score,44,46,103,143
+APST,Federico Walker Inside shot... Missed with a foul on the play.,Fouled,44,46,104,143
+APST,Free throw coming up... good!,FreeThrow,45,46,104,143
+APST,Free throw coming up... rattled out.       Rebounded by APST Mohamed Stacy.,FreeThrow,45,46,104,143
+APST,Alberto Mendoza Inside shot...Score!,Score,47,46,105,143
+GAST,Jose Galvan 2-point jumper...Score!,Score,47,48,106,143
+APST,Young Ling 2-point jumper...Missed!       Rebounded by APST Mohamed Stacy.,Missed,47,48,107,143
+APST,Young Ling Inside shot...BLOCKED by GAST Michael Valerio.       Rebounded by GAST John Bona.,Turnover,47,48,108,143
+GAST,GAST: Offensive foul on GAST William Westerberg.,Turnover,47,48,109,143
+APST,Randall Howard Inside shot...Score!       Assisted by: Young Ling,Score,49,48,110,143
+GAST,Nguyen Kim 2-point jumper...Missed!       Rebounded by GAST David Peter.,Score,49,48,111,143
+APST,Lee Wallace steals the ball for APST!,Turnover,49,48,112,143
+APST,William Mclean Inside shot...Score!       Assisted by: Daniel Eldridge,Score,51,48,113,143
+GAST,GAST: Offensive foul on GAST Jose Galvan.,Turnover,51,48,114,143
+APST,Alberto Mendoza Inside shot...Score!,Score,53,48,115,143
+GAST,Jerry Ferguson 3-point attempt...Score!       Assisted by: Michael Valerio,Score,53,51,116,143
+APST,Mohamed Stacy Inside shot...Score!       Assisted by: Randall Howard,Score,55,51,117,143
+GAST,Jose Galvan 2-point jumper...Missed!       Rebounded by APST Young Ling.,Score,55,51,118,143
+APST,Lee Wallace 2-point jumper...Score!,Score,57,51,119,143
+APST,Mohamed Stacy steals the ball for APST!,Turnover,57,51,120,143
+APST,William Mclean Inside shot...BLOCKED by GAST Jose Galvan.       Rebounded by GAST David Peter.,Turnover,57,51,121,143
+APST,Alberto Mendoza steals the ball for APST!,Turnover,57,51,122,143
+APST,William Mclean Inside shot...Score!       Assisted by: Young Ling,Score,59,51,123,143
+GAST,David Peter Inside shot...Score!       Assisted by: John White,Score,59,53,124,143
+APST,Young Ling Inside shot...Score! Foul on the play and one!,Score,61,53,125,143
+APST,Free throw coming up... good!,FreeThrow,62,53,125,143
+GAST,John Bona Inside shot...Score!,Score,62,55,126,143
+APST,APST David Boulay lost the ball out of bounds.,Out of Bounds,62,55,127,143
+APST,Mohamed Stacy steals the ball for APST!,Turnover,62,55,128,143
+APST,Mark Dotson 3-point attempt...Missed!       Rebounded by APST Mohamed Stacy.,Missed,62,55,129,143
+APST,Brian Shay 3-point attempt...Missed!       Rebounded by GAST John White.,Miss,62,55,130,143
+GAST,GAST Carlos Barragan lost the ball out of bounds.,Turnover,62,55,131,143
+APST,Lee Wallace Inside shot...Score!       Assisted by: Young Ling,Score,64,55,132,143
+GAST,Jerry Ferguson Inside shot...Score!,Score,64,57,133,143
+APST,APST Young Ling lost the ball out of bounds.,Out of Bounds,64,57,134,143
+GAST,GAST John White lost the ball out of bounds.,Turnover,64,57,135,143
+GAST,Jerry Ferguson steals the ball for GAST!,Turnover,64,57,136,143
+APST,Federico Walker steals the ball for APST!,Turnover,64,57,137,143
+APST,Randall Howard Inside shot...Score! Foul on the play and one!,Score,66,57,138,143
+APST,Free throw coming up... good!,FreeThrow,67,57,138,143
+GAST,Jerry Ferguson Inside shot...Score!       Assisted by: John Bona,Score,67,59,139,143
+APST,William Mclean 3-point attempt...Missed!       Rebounded by GAST Jose Galvan.,Miss,67,59,140,143
+GAST,Matthew Cannon 2-point jumper...Score!       Assisted by: John White,Score,67,61,141,143
+APST,David Boulay Inside shot...Score!,Score,69,61,142,143
+GAST,Kevin Gardner 2-point jumper...Missed!       Rebounded by APST Alberto Mendoza.,Score,69,61,143,143
+APST,David Boulay 2-point jumper...BLOCKED by GAST Jose Galvan.       Rebounded by GAST David Peter.,Turnover,69,61,144,143
+,Match Complete,FinalScore,69,61,144,143

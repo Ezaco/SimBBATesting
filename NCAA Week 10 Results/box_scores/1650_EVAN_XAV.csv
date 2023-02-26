@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Evansville,Purple Aces,42,33,0,75
+Xavier,Musketeers,38,36,0,74
+""
+""
+=====Evansville Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Alan Laude,25,28,5,13,0.38461538461538464,2,5,0.4,2,2,1.0,14,2,2,2,1,0,0
+John Moore,25,18,6,8,0.75,2,2,1.0,0,0,0,14,0,2,0,0,0,0
+John Mizutani,25,9,0,3,0.0,0,1,0.0,0,2,0.0,0,5,1,2,1,0,0
+Michael Cosio,8,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+Joseph Singh,25,23,3,10,0.3,1,3,0.3333333333333333,0,0,0,7,6,1,1,0,0,0
+Eric Kimura,25,19,6,9,0.6666666666666666,1,1,1.0,3,3,1.0,16,3,2,0,0,0,0
+Alan Khurshid,7,4,1,1,1.0,1,1,1.0,0,0,0,3,0,0,0,0,0,1
+Scott Gillam,20,10,4,5,0.8,0,0,0,1,1,1.0,9,1,4,0,1,0,0
+Solomon Souverain,20,6,2,3,0.6666666666666666,1,2,0.5,0,0,0,5,1,1,0,0,0,0
+Stephen Brown,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+David Mcelfresh,5,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0
+Mark Serafin,5,2,1,1,1.0,0,0,0,0,0,0,2,1,0,0,0,0,0
+Charles Dixon,5,5,2,2,1.0,1,1,1.0,0,0,0,5,1,0,0,0,0,0
+""
+=====Xavier Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Lawrence Boothe,25,10,3,4,0.75,1,1,1.0,0,0,0,7,4,4,1,0,1,0
+Michael Gonzalez,25,11,2,5,0.4,0,1,0.0,3,5,0.6,7,6,5,0,0,1,0
+David Hajovsky,20,10,0,4,0.0,0,1,0.0,2,2,1.0,2,0,2,0,1,2,1
+Deric Sears,25,28,6,12,0.5,1,1,1.0,1,3,0.3333333333333333,14,5,1,3,1,1,0
+Todd Moore,25,20,6,10,0.6,0,2,0.0,0,0,0,12,5,2,0,1,0,0
+Justin Elkins,7,5,2,2,1.0,0,0,0,0,0,0,4,1,0,1,0,0,0
+Dennis Jackson,25,16,3,7,0.42857142857142855,0,2,0.0,2,2,1.0,8,2,1,1,1,1,0
+Donald Helton,8,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+James Laroche,20,19,6,8,0.75,0,0,0,2,2,1.0,14,1,2,1,0,1,0
+Yuan He,5,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Joseph Gray,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Albert Montague,5,6,2,3,0.6666666666666666,0,1,0.0,0,0,0,4,0,0,0,0,0,0
+Richard Woody,5,3,0,1,0.0,0,1,0.0,0,0,0,0,0,1,0,0,1,0
+""
+""
+=====TEAM STATS=====
+Stat,Evansville,Xavier
+Points,75,74
+Possessions,74,72
+FGM,21,29
+FGA,39,47
+FGPercent,0.5384615384615384,0.6170212765957447
+3PM,9,2
+3PA,16,10
+3P%,0.5625,0.2
+FTM,6,10
+FTA,8,14
+FT%,0.75,0.7142857142857143
+Rebounds,25,25
+OffRebounds,12,10
+DefRebounds,13,15
+Assists,16,18
+Steals,6,0
+Blocks,3,1
+Total Turnovers,15,11
+Largest Lead,9,4

@@ -1,0 +1,162 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+MTSU,FAU,62,58,141
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+FAU,FAU wins the tipoff!,Tipoff,0,0,0,141
+FAU,FAU James Callaway lost the ball out of bounds.,Turnover,0,0,1,141
+MTSU,Peter Krueger 2-point jumper...Score!       Assisted by: Walter Vogt,Score,2,0,2,141
+FAU,Scott Munro Inside shot...Missed!       Rebounded by MTSU David Chavez.,Score,2,0,3,141
+MTSU,Rickey Smith 3-point attempt...Missed!       Rebounded by FAU Chris Sica.,Miss,2,0,4,141
+FAU,David Christensen 2-point jumper...Score!       Assisted by: John Kirkpatrick,Score,2,2,5,141
+MTSU,Walter Vogt Inside shot...Score!,Score,4,2,6,141
+FAU,FAU: Offensive foul on FAU Justin Taylor.,Turnover,4,2,7,141
+MTSU,Wilford Hyder 2-point jumper...Missed!       Rebounded by FAU Todd Buranich.,Missed,4,2,8,141
+FAU,Thomas Schatz 3-point attempt...Missed!Rebounded by MTSU Ray Swift.,Score,4,2,9,141
+MTSU,Larry Chuqui Inside shot... Missed with a foul on the play.,Fouled,4,2,10,141
+MTSU,Free throw coming up... good!,FreeThrow,5,2,10,141
+MTSU,Free throw coming up... rattled out.       Rebounded by FAU Todd Buranich.,FreeThrow,5,2,10,141
+FAU,Todd Buranich Inside shot...Score!,Score,5,4,11,141
+MTSU,Larry Chuqui 2-point jumper...Score!,Score,7,4,12,141
+FAU,Justin Taylor 2-point jumper...Score!,Score,7,6,13,141
+MTSU,Robert Gannon Inside shot...Score!,Score,9,6,14,141
+FAU,Anil Boone 3-point attempt...Missed!       Rebounded by FAU James Callaway.,Score,9,6,15,141
+FAU,John Carter 2-point jumper...BLOCKED by Wilford Hyder.       Rebounded by MTSU Robert Gannon.,Turnover,9,6,16,141
+MTSU,Darrin Hopkins Inside shot...Score!       Assisted by: Wilford Hyder,Score,11,6,17,141
+FAU,David Christensen 3-point attempt...Score!       Assisted by: Scott Munro,Score,11,9,18,141
+MTSU,Wilford Hyder 2-point jumper...Score!       Assisted by: Darrin Hopkins,Score,13,9,19,141
+FAU,Scott Munro Inside shot...Score!       Assisted by: Chris Sica,Score,13,11,20,141
+MTSU,David Chavez 2-point jumper...Missed!       Rebounded by FAU Chris Sica.,Missed,13,11,21,141
+FAU,Todd Buranich 3-point attempt...Missed!Rebounded by MTSU David Chavez.,Score,13,11,22,141
+MTSU,Rickey Smith 3-point attempt...Missed!       Rebounded by FAU Scott Munro.,Miss,13,11,23,141
+FAU,John Carter Inside shot...Score!,Score,13,13,25,141
+MTSU,Robert Gannon Inside shot...Score!,Score,15,13,26,141
+FAU,Anil Boone 3-point attempt...Missed!Rebounded by MTSU Nathan Tricarico.,Score,15,13,27,141
+MTSU,David Chavez 3-point attempt...Score!,Score,18,13,28,141
+FAU,Justin Taylor Inside shot...BLOCKED by David Chavez.       Rebounded by MTSU David Chavez.,Turnover,18,13,29,141
+FAU,Todd Buranich steals the ball for FAU!,Turnover,18,13,30,141
+FAU,Chris Sica 3-point attempt...Missed!Rebounded by MTSU Rickey Smith.,Score,18,13,31,141
+MTSU,Walter Vogt Inside shot...Score!,Score,20,13,32,141
+FAU,David Christensen 2-point jumper...Missed!       Rebounded by MTSU Walter Vogt.,Score,20,13,33,141
+FAU,Scott Munro steals the ball for FAU!,Turnover,20,13,34,141
+FAU,Anil Boone Inside shot...Score!,Score,20,15,35,141
+MTSU,Darrin Hopkins 3-point attempt...Score!       Assisted by: Wilford Hyder,Score,23,15,36,141
+FAU,FAU Justin Taylor lost the ball out of bounds.,Turnover,23,15,37,141
+MTSU,MTSU Nathan Tricarico lost the ball out of bounds.,Out of Bounds,23,15,38,141
+FAU,Justin Taylor Inside shot... Missed but with a foul on the play.,Fouled,23,15,39,141
+FAU,Free throw coming up... good!,FreeThrow,23,16,39,141
+FAU,Free throw coming up... rattled out.       Rebounded by MTSU Robert Gannon.,FreeThrow,23,16,39,141
+FAU,Todd Buranich steals the ball for FAU!,Turnover,23,16,40,141
+FAU,Chris Sica 2-point jumper...Missed!       Rebounded by MTSU Nathan Tricarico.,Score,23,16,41,141
+MTSU,Rickey Smith 2-point jumper...BLOCKED by FAU Todd Buranich.       Rebounded by MTSU David Chavez.,Turnover,23,16,42,141
+MTSU,Larry Chuqui 2-point jumper...Missed!       Rebounded by FAU Justin Taylor.,Missed,23,16,43,141
+FAU,Donald Pruitt Inside shot...Score!       Assisted by: Justin Taylor,Score,23,18,44,141
+MTSU,Walter Vogt 3-point attempt...Missed!       Rebounded by FAU Scott Munro.,Miss,23,18,45,141
+FAU,Justin Taylor Inside shot...Score!       Assisted by: Anil Boone,Score,23,20,47,141
+MTSU,Ray Swift Inside shot... Missed with a foul on the play.,Fouled,23,20,48,141
+MTSU,Free throw coming up... good!,FreeThrow,24,20,48,141
+MTSU,Free throw coming up... good!,FreeThrow,25,20,48,141
+FAU,Chris Sica 3-point attempt...Score!       Assisted by: James Callaway,Score,25,23,49,141
+MTSU,Peter Krueger 2-point jumper...Missed!       Rebounded by FAU Justin Taylor.,Missed,25,23,50,141
+FAU,Chris Sica 2-point jumper...Missed!       Rebounded by FAU John Carter.,Score,25,23,51,141
+FAU,Chris Sica 3-point attempt...Missed!Rebounded by MTSU Nathan Tricarico.,Score,25,23,52,141
+FAU,David Christensen steals the ball for FAU!,Turnover,25,23,53,141
+FAU,Justin Taylor Inside shot... Missed but with a foul on the play.,Fouled,25,23,54,141
+FAU,Free throw coming up... good!,FreeThrow,25,24,54,141
+FAU,Free throw coming up... good!,FreeThrow,25,25,54,141
+MTSU,Nathan Tricarico Inside shot...BLOCKED by FAU Todd Buranich.       Rebounded by FAU Todd Buranich.,Turnover,25,25,55,141
+MTSU,David Chavez steals the ball for MTSU!,Turnover,25,25,56,141
+MTSU,Rickey Smith 2-point jumper...Missed!       Rebounded by MTSU Rickey Smith.,Missed,25,25,57,141
+FAU,Justin Taylor steals the ball for FAU!,Turnover,25,25,58,141
+MTSU,Nathan Tricarico steals the ball for MTSU!,Turnover,25,25,59,141
+MTSU,Walter Vogt 2-point jumper...Missed!       Rebounded by MTSU Peter Krueger.,Missed,25,25,60,141
+MTSU,Nelson Garza Inside shot... Missed with a foul on the play.,Fouled,25,25,61,141
+MTSU,Free throw coming up... good!,FreeThrow,26,25,61,141
+MTSU,Free throw coming up... good!,FreeThrow,27,25,61,141
+MTSU,Rickey Smith steals the ball for MTSU!,Turnover,27,25,62,141
+MTSU,Robert Gannon Inside shot...Score!,Score,29,25,63,141
+FAU,James Callaway 3-point attempt...Missed!       Rebounded by FAU Thomas Schatz.,Score,29,25,64,141
+FAU,FAU James Callaway lost the ball out of bounds.,Turnover,29,25,65,141
+MTSU,Larry Chuqui 3-point attempt...Score!       Assisted by: Walter Vogt,Score,32,25,66,141
+MTSU,Wilford Hyder steals the ball for MTSU!,Turnover,32,25,67,141
+FAU,Scott Munro steals the ball for FAU!,Turnover,32,25,68,141
+FAU,Justin Taylor 3-point attempt...Missed!Rebounded by MTSU David Chavez.,Score,32,25,69,141
+MTSU,Larry Chuqui 2-point jumper...Missed!       Rebounded by MTSU Larry Chuqui.,Missed,32,25,70,141
+,,HALFTIME,32,25,70,141
+MTSU,Wilford Hyder 2-point jumper...BLOCKED by FAU Justin Taylor.       Rebounded by MTSU Nathan Tricarico.,Turnover,32,25,71,141
+MTSU,Robert Gannon 2-point jumper...Missed!       Rebounded by MTSU David Chavez.,Missed,32,25,72,141
+MTSU,MTSU: Offensive foul on MTSU Wilford Hyder.,Foul,32,25,73,141
+FAU,Scott Munro 3-point attempt...Missed!Rebounded by MTSU Peter Krueger.,Score,32,25,74,141
+MTSU,Wilford Hyder 3-point attempt...Missed!       Rebounded by FAU Todd Buranich.,Miss,32,25,75,141
+FAU,Todd Buranich Inside shot...Missed!       Rebounded by FAU John Carter.,Score,32,25,76,141
+FAU,David Christensen Inside shot...Score!       Assisted by: Justin Taylor,Score,32,27,77,141
+MTSU,Walter Vogt 2-point jumper...Missed!       Rebounded by FAU James Callaway.,Missed,32,27,78,141
+FAU,Chris Sica 2-point jumper...Score!,Score,32,29,79,141
+MTSU,Wilford Hyder 2-point jumper...Score!       Assisted by: Ray Swift,Score,34,29,80,141
+FAU,Justin Taylor 2-point jumper... Missed but there is a foul on the play.,Foul,34,29,81,141
+FAU,Free throw coming up... good!,FreeThrow,34,30,81,141
+FAU,Free throw coming up... good!,FreeThrow,34,31,81,141
+MTSU,Robert Gannon 2-point jumper...Score!,Score,36,31,82,141
+FAU,Chris Sica Inside shot... Missed but with a foul on the play.,Fouled,36,31,83,141
+FAU,Free throw coming up... good!,FreeThrow,36,32,83,141
+FAU,Free throw coming up... good!,FreeThrow,36,33,83,141
+MTSU,Peter Krueger 2-point jumper...Missed!       Rebounded by FAU Justin Taylor.,Missed,36,33,84,141
+FAU,Todd Buranich Inside shot... Missed but with a foul on the play.,Fouled,36,33,85,141
+FAU,Free throw coming up... good!,FreeThrow,36,34,85,141
+FAU,Free throw coming up... rattled out.       Rebounded by MTSU Larry Chuqui.,FreeThrow,36,34,85,141
+MTSU,Todd Montelaro 2-point jumper...BLOCKED by FAU Chris Sica.       Rebounded by MTSU Nathan Tricarico.,Turnover,36,34,86,141
+MTSU,David Chavez 2-point jumper...Missed!       Rebounded by FAU Rakesh Moody.,Missed,36,34,87,141
+FAU,David Christensen 3-point attempt...Score!       Assisted by: Anil Boone,Score,36,37,88,141
+MTSU,MTSU Rickey Smith lost the ball out of bounds.,Out of Bounds,36,37,89,141
+FAU,Scott Munro 2-point jumper...Missed!       Rebounded by FAU John Carter.,Score,36,37,90,141
+FAU,Anil Boone 2-point jumper...Missed!       Rebounded by MTSU Nathan Tricarico.,Score,36,37,91,141
+MTSU,Robert Gannon Inside shot...Score!       Assisted by: Larry Chuqui,Score,38,37,92,141
+MTSU,Larry Chuqui steals the ball for MTSU!,Turnover,38,37,93,141
+MTSU,Larry Chuqui 2-point jumper...Missed!       Rebounded by MTSU Wilford Hyder.,Missed,38,37,94,141
+MTSU,Robert Gannon 3-point attempt...Missed!       Rebounded by MTSU Nathan Tricarico.,Missed,38,37,95,141
+MTSU,Walter Vogt 3-point attempt...Score!       Assisted by: David Chavez,Score,41,37,96,141
+FAU,Todd Buranich 3-point attempt...Missed!       Rebounded by FAU Justin Taylor.,Score,41,37,97,141
+FAU,Scott Munro 2-point jumper...Missed!       Rebounded by MTSU Rickey Smith.,Score,41,37,98,141
+MTSU,Walter Vogt 2-point jumper...Score!       Assisted by: Darrin Hopkins,Score,43,37,99,141
+FAU,FAU: Offensive foul on FAU Chris Sica.,Turnover,43,37,100,141
+MTSU,David Chavez 3-point attempt...Missed!       Rebounded by MTSU Darrin Hopkins.,Missed,43,37,101,141
+FAU,Anil Boone steals the ball for FAU!,Turnover,43,37,102,141
+FAU,Chris Sica 3-point attempt...Missed!Rebounded by MTSU David Chavez.,Score,43,37,103,141
+MTSU,David Chavez 2-point jumper...Score!,Score,45,37,104,141
+FAU,Chris Sica 3-point attempt...Missed!       Rebounded by FAU Scott Munro.,Score,45,37,105,141
+FAU,Scott Munro Inside shot...Score!,Score,45,39,106,141
+MTSU,Wilford Hyder 2-point jumper...Score!,Score,47,39,107,141
+FAU,Justin Taylor Inside shot...Score!       Assisted by: John Carter,Score,47,41,108,141
+MTSU,David Chavez Inside shot...Score!       Assisted by: Peter Krueger,Score,49,41,109,141
+FAU,Todd Buranich 2-point jumper...Missed!       Rebounded by MTSU David Chavez.,Score,49,41,110,141
+MTSU,Rickey Smith 3-point attempt...Missed!       Rebounded by FAU Todd Buranich.,Miss,49,41,111,141
+FAU,Bernabe Ortiz 3-point attempt...Missed!Rebounded by MTSU David Chavez.,Score,49,41,113,141
+MTSU,Walter Vogt 2-point jumper...Score!       Assisted by: Robert Gannon,Score,51,41,114,141
+FAU,Todd Buranich Inside shot...Missed!       Rebounded by MTSU Larry Chuqui.,Score,51,41,115,141
+MTSU,David Chavez 2-point jumper...Missed!       Rebounded by FAU Anil Boone.,Missed,51,41,116,141
+FAU,Justin Taylor 3-point attempt...Score!       Assisted by: Chris Sica,Score,51,44,117,141
+MTSU,Walter Vogt 3-point attempt...Score!       Assisted by: Victor Le,Score,54,44,118,141
+FAU,Justin Taylor 3-point attempt...Missed!Rebounded by MTSU Larry Chuqui.,Score,54,44,119,141
+MTSU,Rickey Smith 2-point jumper...Missed!       Rebounded by FAU Anil Boone.,Missed,54,44,120,141
+FAU,Chris Sica 2-point jumper...Missed!       Rebounded by MTSU Nathan Tricarico.,Score,54,44,121,141
+MTSU,Peter Krueger Inside shot...BLOCKED by FAU John Carter.       Rebounded by FAU James Callaway.,Turnover,54,44,122,141
+MTSU,Wilford Hyder steals the ball for MTSU!,Turnover,54,44,123,141
+FAU,John Carter steals the ball for FAU!,Turnover,54,44,124,141
+FAU,FAU Todd Buranich lost the ball out of bounds.,Turnover,54,44,125,141
+MTSU,Larry Chuqui Inside shot...Score!,Score,56,44,126,141
+FAU,Justin Taylor 2-point jumper...Score!       Assisted by: Donald Pruitt,Score,56,46,127,141
+MTSU,Larry Chuqui 2-point jumper...Missed!       Rebounded by FAU Anil Boone.,Missed,56,46,128,141
+FAU,John Carter Inside shot...Score!,Score,56,48,129,141
+MTSU,Rickey Smith 2-point jumper...Missed!       Rebounded by FAU Justin Taylor.,Missed,56,48,130,141
+FAU,Todd Buranich 2-point jumper...Missed!       Rebounded by MTSU Walter Vogt.,Score,56,48,131,141
+MTSU,Nathan Tricarico 3-point attempt...Score!,Score,59,48,132,141
+FAU,James Callaway Inside shot...Score!,Score,59,50,133,141
+MTSU,Wilford Hyder 2-point jumper...BLOCKED by FAU Justin Taylor.       Rebounded by FAU Justin Taylor.,Turnover,59,50,134,141
+FAU,Anil Boone Inside shot...Score!,Score,59,52,135,141
+MTSU,Nathan Tricarico 3-point attempt...Score!       Assisted by: Darrin Hopkins,Score,62,52,136,141
+FAU,Scott Munro Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: Todd Buranich,Score,62,54,138,141
+FAU,Free throw coming up... good!,FreeThrow,62,55,138,141
+MTSU,Wilford Hyder 3-point attempt...Missed!       Rebounded by FAU Todd Buranich.,Miss,62,55,139,141
+FAU,David Christensen 2-point jumper...Missed!       Rebounded by MTSU Walter Vogt.,Score,62,55,140,141
+FAU,Todd Buranich steals the ball for FAU!,Turnover,62,55,141,141
+FAU,James Callaway 3-point attempt...Score!,Score,62,58,142,141
+,Match Complete,FinalScore,62,58,142,141

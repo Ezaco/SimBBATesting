@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Florida Atlantic,Owls,38,44,0,82
+Louisiana Tech,Bulldogs,35,30,0,65
+""
+""
+=====Florida Atlantic Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Justin Taylor,25,23,6,11,0.5454545454545454,3,3,1.0,0,0,0,15,2,6,0,1,1,0
+Thomas Schatz,5,3,0,1,0.0,0,1,0.0,0,0,0,0,1,0,1,0,0,0
+Todd Buranich,25,22,6,11,0.5454545454545454,1,2,0.5,1,1,1.0,14,2,2,0,0,0,0
+Scott Munro,25,17,3,8,0.375,1,3,0.3333333333333333,0,0,0,7,3,5,0,0,1,1
+Chris Sica,25,25,6,12,0.5,1,2,0.5,1,2,0.5,14,6,1,1,1,0,0
+James Callaway,25,16,5,7,0.7142857142857143,1,3,0.3333333333333333,1,1,1.0,12,6,6,0,0,1,1
+John Kirkpatrick,8,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+Donald Pruitt,7,5,1,2,0.5,0,0,0,0,0,0,2,3,0,1,0,0,0
+Anil Boone,20,17,3,7,0.42857142857142855,1,1,1.0,0,0,0,7,2,0,1,1,1,0
+John Carter,20,16,4,8,0.5,0,0,0,1,1,1.0,9,3,2,0,0,0,0
+Rakesh Moody,5,3,0,1,0.0,0,0,0,0,0,0,0,2,0,0,0,0,0
+David Christensen,5,2,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bernabe Ortiz,5,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,0,0
+""
+=====Louisiana Tech Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Jason Quinones,25,15,1,6,0.16666666666666666,0,1,0.0,7,7,1.0,9,0,1,1,0,2,0
+Manuel Soria,20,13,3,5,0.6,0,0,0,2,2,1.0,8,0,2,0,0,2,2
+Gerard Stulken,25,15,3,6,0.5,0,2,0.0,1,2,0.5,7,2,1,0,1,3,0
+Martin Castaneda,20,5,1,2,0.5,0,0,0,1,2,0.5,3,11,1,0,0,1,1
+Matthew Griffin,8,2,0,1,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Kevin Berglund,25,21,5,10,0.5,1,1,1.0,0,0,0,11,5,2,0,2,1,0
+Warren Jones,25,9,2,4,0.5,2,2,1.0,1,2,0.5,7,4,0,0,3,1,0
+Brian White,25,12,3,5,0.6,1,1,1.0,1,1,1.0,8,1,1,1,0,1,0
+Aaron Riddle,5,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Freddy Shivers,5,8,3,4,0.75,0,0,0,0,0,0,6,1,0,0,0,0,0
+Manuel Pearson,5,5,1,2,0.5,0,0,0,0,0,0,2,0,0,0,0,1,1
+Michael Childress,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+John Madigan,7,3,1,1,1.0,0,0,0,0,0,0,2,0,2,0,0,1,0
+""
+""
+=====TEAM STATS=====
+Stat,Florida Atlantic,Louisiana Tech
+Points,82,65
+Possessions,79,65
+FGM,27,20
+FGA,55,40
+FGPercent,0.4909090909090909,0.5
+3PM,8,4
+3PA,15,7
+3P%,0.5333333333333333,0.5714285714285714
+FTM,4,13
+FTA,5,16
+FT%,0.8,0.8125
+Rebounds,35,23
+OffRebounds,18,3
+DefRebounds,17,20
+Assists,22,11
+Steals,4,0
+Blocks,3,3
+Total Turnovers,8,14
+Largest Lead,24,4

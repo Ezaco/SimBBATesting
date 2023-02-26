@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Nebraska,Cornhuskers,32,32,0,64
+Iowa,Hawkeyes,44,36,0,80
+""
+""
+=====Nebraska Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Stephen Chalfant,7,3,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,0,1
+Bernard Pheanis,20,12,2,5,0.4,0,2,0.0,1,2,0.5,5,6,0,1,0,0,1
+Eric Galvez,26,15,0,7,0.0,0,4,0.0,2,2,1.0,2,5,7,0,0,0,0
+Robert Quinn,22,17,3,8,0.375,2,5,0.4,0,0,0,8,4,2,1,0,0,0
+Alvaro Calderon,29,36,11,16,0.6875,4,7,0.5714285714285714,1,1,1.0,27,1,0,0,0,2,0
+Richard Nichols,20,15,0,6,0.0,0,3,0.0,0,2,0.0,0,4,0,3,0,0,0
+Christopher Merlo,32,19,2,9,0.2222222222222222,0,3,0.0,2,2,1.0,6,2,1,0,0,0,0
+David Nation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mitchell Henderson,37,18,4,8,0.5,2,4,0.5,1,2,0.5,11,7,4,1,0,0,0
+Robert Taylor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Myron Bailey,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Su Tran,7,4,1,2,0.5,1,2,0.5,0,0,0,3,0,0,0,0,0,0
+Jason Infante,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+=====Iowa Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Carlos Barahona,25,14,3,6,0.5,1,3,0.3333333333333333,0,0,0,7,6,3,1,1,1,0
+Anibal Ruiz,25,17,5,8,0.625,2,2,1.0,5,5,1.0,17,2,2,1,0,0,0
+Brian Lancaster,20,9,2,4,0.5,0,0,0,0,0,0,4,1,3,1,0,0,0
+Sam Lecluyse,8,4,1,2,0.5,0,0,0,0,0,0,2,0,0,0,0,0,0
+Brian Christofferson,25,22,6,10,0.6,0,2,0.0,1,1,1.0,13,3,1,2,0,0,0
+Dario Gonzalez,25,8,2,3,0.6666666666666666,0,0,0,2,2,1.0,6,7,2,0,0,2,0
+Shane Mcbroom,20,14,4,6,0.6666666666666666,0,0,0,0,0,0,8,6,0,0,0,2,0
+Ronald Adeyemi,25,17,2,6,0.3333333333333333,1,2,0.5,2,2,1.0,7,7,2,3,5,2,0
+Jason Schoffstall,5,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,1,0,0
+Ryan Randall,7,13,2,6,0.3333333333333333,0,2,0.0,1,2,0.5,5,0,0,0,0,1,1
+Juan Hernandez,5,6,2,3,0.6666666666666666,1,1,1.0,0,0,0,5,0,1,0,0,0,0
+Christopher Kim,5,4,1,2,0.5,0,0,0,0,0,0,2,0,0,0,0,0,0
+Won Sai,5,4,1,2,0.5,0,0,0,0,0,0,2,0,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Nebraska,Iowa
+Points,64,80
+Possessions,79,73
+FGM,15,27
+FGA,32,47
+FGPercent,0.46875,0.574468085106383
+3PM,9,5
+3PA,30,12
+3P%,0.3,0.4166666666666667
+FTM,7,11
+FTA,11,12
+FT%,0.6363636363636364,0.9166666666666666
+Rebounds,29,32
+OffRebounds,14,7
+DefRebounds,15,25
+Assists,14,14
+Steals,6,0
+Blocks,0,4
+Total Turnovers,16,14
+Largest Lead,5,20

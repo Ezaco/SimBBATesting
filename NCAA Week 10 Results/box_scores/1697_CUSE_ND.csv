@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Syracuse,Orange,31,32,0,63
+Notre Dame,Fighting Irish,42,39,0,81
+""
+""
+=====Syracuse Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Jess Urbanovsky,20,15,2,6,0.3333333333333333,1,1,1.0,0,0,0,5,2,2,2,0,0,1
+Malgorzata Sikkink,25,16,2,7,0.2857142857142857,1,1,1.0,4,4,1.0,9,0,3,1,1,0,1
+Jose Cardona,25,20,5,10,0.5,1,1,1.0,2,2,1.0,13,3,2,0,0,0,0
+Ken Walker,25,17,4,7,0.5714285714285714,0,2,0.0,0,1,0.0,8,10,0,1,1,0,0
+Oscar Button,5,3,1,1,1.0,0,0,0,0,0,0,2,0,1,0,0,0,0
+Jose Guadian,25,20,5,9,0.5555555555555556,4,5,0.8,0,0,0,14,3,0,2,0,0,0
+Stephen Liao,25,13,2,5,0.4,0,1,0.0,0,0,0,4,4,1,0,1,0,0
+Lawrence Sawyer,20,24,3,8,0.375,0,0,0,0,1,0.0,6,3,0,3,1,1,1
+Michael Gulley,8,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+Michael Williams,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stefan Etherton,7,4,1,2,0.5,0,0,0,0,0,0,2,1,0,0,0,0,0
+Walter Graves,5,2,0,1,0.0,0,1,0.0,0,0,0,0,1,2,0,0,0,0
+Stephen Newberry,5,4,0,2,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0
+""
+=====Notre Dame Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Michael Graham,9,10,4,5,0.8,0,0,0,0,0,0,8,4,0,0,0,0,0
+Louis Clapp,30,22,7,9,0.7777777777777778,0,1,0.0,2,3,0.6666666666666666,16,0,1,3,0,1,0
+Robert Moynihan,30,24,6,10,0.6,2,3,0.6666666666666666,2,2,1.0,16,7,2,3,1,1,0
+Paul Campbell,30,6,1,1,1.0,0,0,0,0,0,0,2,5,4,1,0,3,0
+Robert Young,12,8,1,3,0.3333333333333333,0,0,0,2,4,0.5,4,1,1,2,0,0,0
+Jimmy Parker,20,17,5,6,0.8333333333333334,2,2,1.0,0,0,0,12,0,1,2,0,3,0
+Alex Covarrubias,13,15,2,7,0.2857142857142857,0,3,0.0,5,5,1.0,9,1,0,1,0,0,0
+Larry Erickson,23,17,1,7,0.14285714285714285,1,3,0.3333333333333333,2,2,1.0,5,3,3,2,0,1,0
+Freddie Torres,6,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Francisco Miguel,13,3,0,1,0.0,0,1,0.0,0,0,0,0,0,2,0,0,1,1
+Joseph Matt,8,5,2,2,1.0,0,0,0,1,1,1.0,5,3,1,0,0,1,1
+Robert Perona,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Todd Ropp,6,2,1,1,1.0,0,0,0,0,0,0,2,0,1,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Syracuse,Notre Dame
+Points,63,81
+Possessions,85,73
+FGM,18,26
+FGA,46,40
+FGPercent,0.391304347826087,0.65
+3PM,7,5
+3PA,12,13
+3P%,0.5833333333333334,0.38461538461538464
+FTM,6,14
+FTA,8,17
+FT%,0.75,0.8235294117647058
+Rebounds,29,24
+OffRebounds,12,3
+DefRebounds,17,21
+Assists,13,16
+Steals,9,0
+Blocks,4,0
+Total Turnovers,25,16
+Largest Lead,0,20

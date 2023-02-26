@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+UCLA,Bruins,29,22,0,51
+Colorado,Buffaloes,38,39,0,77
+""
+""
+=====UCLA Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Solomon Washington,25,14,4,5,0.8,0,0,0,0,0,0,8,2,3,2,1,1,1
+David Blake,20,9,3,4,0.75,0,0,0,2,2,1.0,8,0,0,0,0,0,0
+Bret Smith,25,15,2,5,0.4,0,1,0.0,0,0,0,4,4,2,2,0,0,2
+Jared Hansford,5,2,0,1,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Cedric Stamps,25,12,2,5,0.4,0,0,0,2,3,0.6666666666666666,6,1,0,0,0,1,1
+Jose Garcia,7,8,2,4,0.5,0,0,0,2,3,0.6666666666666666,6,1,0,0,0,0,0
+Eugene Mengel,20,14,2,5,0.4,0,1,0.0,0,0,0,4,2,1,0,1,0,1
+Carl Bolser,25,20,4,8,0.5,0,1,0.0,0,0,0,8,2,1,1,0,0,0
+Norman Johnson,25,7,0,3,0.0,0,0,0,0,0,0,0,7,0,0,0,0,0
+Paul Hensley,5,4,2,2,1.0,0,0,0,0,0,0,4,0,0,0,0,0,0
+Daniel Musselwhite,8,6,1,2,0.5,1,2,0.5,0,0,0,3,2,0,1,0,0,0
+Clinton Mason,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Charles Martinez,5,2,0,1,0.0,0,1,0.0,0,0,0,0,1,0,0,0,0,0
+""
+=====Colorado Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Randy Parker,35,19,5,8,0.625,0,0,0,0,0,0,10,4,0,0,0,3,2
+Neville Isom,34,28,6,12,0.5,3,6,0.5,0,0,0,15,4,4,2,1,1,0
+Nathan Soto,15,6,1,2,0.5,0,0,0,0,0,0,2,0,2,2,0,0,0
+Jonathan Hughes,31,15,3,5,0.6,1,2,0.5,0,0,0,7,5,3,3,1,2,1
+Olin Ring,31,17,5,8,0.625,2,3,0.6666666666666666,0,0,0,12,3,4,1,0,0,0
+John Williams,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arthur Carter,4,2,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mark Morris,15,11,4,5,0.8,0,0,0,2,3,0.6666666666666666,10,2,2,0,0,1,0
+Isaac Jones,5,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+William Clark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sangeeta Khalil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jason Ku,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ling Meza,30,30,9,14,0.6428571428571429,2,4,0.5,1,1,1.0,21,6,3,0,1,2,1
+""
+""
+=====TEAM STATS=====
+Stat,UCLA,Colorado
+Points,51,77
+Possessions,70,71
+FGM,21,25
+FGA,39,40
+FGPercent,0.5384615384615384,0.625
+3PM,1,8
+3PA,6,15
+3P%,0.16666666666666666,0.5333333333333333
+FTM,6,3
+FTA,8,4
+FT%,0.75,0.75
+Rebounds,23,25
+OffRebounds,8,8
+DefRebounds,15,17
+Assists,8,19
+Steals,6,0
+Blocks,2,0
+Total Turnovers,23,13
+Largest Lead,5,28

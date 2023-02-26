@@ -1,0 +1,169 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+MSST,VAND,66,57,143
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+VAND,VAND wins the tipoff!,Tipoff,0,0,0,143
+VAND,Tony Brooks 2-point jumper...Score!       Assisted by: Willie Cox,Score,0,2,1,143
+MSST,Gerald Brown 2-point jumper...Score!,Score,2,2,2,143
+VAND,VAND Tony Brooks lost the ball out of bounds.,Turnover,2,2,3,143
+MSST,Kevin Miller Inside shot...Missed!       Rebounded by VAND Dennis Jacobs.,Score,2,2,4,143
+MSST,Barry Avdic steals the ball for MSST!,Turnover,2,2,5,143
+MSST,Salvatore Licklider 3-point attempt...Missed!       Rebounded by MSST John Hasz.,Missed,2,2,6,143
+MSST,Mark Jones Inside shot...Score!       Assisted by: Patrick Boogerd,Score,4,2,7,143
+VAND,Kenneth Stewart Inside shot... Missed but with a foul on the play.,Fouled,4,2,8,143
+VAND,Free throw coming up... good!,FreeThrow,4,3,8,143
+VAND,Free throw coming up... good!,FreeThrow,4,4,8,143
+MSST,Richard Scott 2-point jumper...Score!,Score,6,4,9,143
+VAND,Ronnie Coleman Inside shot...Score!,Score,6,6,10,143
+MSST,John Hasz 2-point jumper...BLOCKED by VAND Isaac Curtis.       Rebounded by MSST Mark Jones.,Turnover,6,6,11,143
+MSST,Patrick Boogerd Inside shot...BLOCKED by VAND Christopher Delp.       Rebounded by MSST John Hasz.,Turnover,6,6,12,143
+MSST,Salvatore Licklider 3-point attempt...Missed!       Rebounded by VAND Tony Brooks.,Miss,6,6,13,143
+VAND,Tony Brooks Inside shot... Missed but with a foul on the play.,Fouled,6,6,14,143
+VAND,Free throw coming up... rattled out.,FreeThrow,6,6,14,143
+VAND,Free throw coming up... good!,FreeThrow,6,7,14,143
+MSST,Gregory Barrett 3-point attempt...Missed!       Rebounded by MSST Kevin Miller.,Missed,6,7,15,143
+MSST,Gregory Barrett Inside shot...BLOCKED by VAND Ronnie Coleman.       Rebounded by MSST Patrick Boogerd.,Turnover,6,7,16,143
+MSST,John Hasz Inside shot...Score!       Assisted by: Richard Scott,Score,8,7,17,143
+VAND,Christopher Delp 2-point jumper...Missed!       Rebounded by VAND Dennis Jacobs.,Score,8,7,18,143
+VAND,Dennis Jacobs 2-point jumper...Missed!       Rebounded by VAND Dennis Jacobs.,Score,8,7,19,143
+VAND,Derek Windle 2-point jumper...Missed!       Rebounded by VAND Derek Windle.,Score,8,7,20,143
+VAND,Kenneth Stewart Inside shot...Score!,Score,8,9,21,143
+VAND,Dennis Jacobs steals the ball for VAND!,Turnover,8,9,22,143
+VAND,Christopher Delp 3-point attempt...Score!,Score,8,12,23,143
+MSST,Barry Avdic 2-point jumper...Score!,Score,10,12,24,143
+VAND,Tony Brooks Inside shot...Score!       Assisted by: Luke Nichol,Score,10,14,25,143
+MSST,Salvatore Licklider 2-point jumper...BLOCKED by VAND Isaac Curtis.       Rebounded by MSST Barry Avdic.,Turnover,10,14,26,143
+MSST,MSST Gregory Barrett lost the ball out of bounds.,Out of Bounds,10,14,27,143
+VAND,Hector Reyes Inside shot...Score!,Score,10,16,28,143
+MSST,Barry Avdic 2-point jumper...Missed!       Rebounded by VAND Dennis Jacobs.,Missed,10,16,29,143
+VAND,Kenneth Stewart 3-point attempt...Missed!Rebounded by MSST Gregory Barrett.,Score,10,16,30,143
+MSST,Robert Laymon Inside shot...Score!,Score,12,16,31,143
+VAND,VAND Derek Windle lost the ball out of bounds.,Turnover,12,16,32,143
+MSST,MSST: Offensive foul on MSST Lorenzo Hogan.,Foul,12,16,33,143
+VAND,VAND: Shot clock violation on VAND Dennis Jacobs.,Turnover,12,16,34,143
+MSST,Salvatore Licklider Inside shot...Score!,Score,14,16,35,143
+MSST,Gregory Barrett steals the ball for MSST!,Turnover,14,16,36,143
+MSST,John Hasz 2-point jumper...Missed!       Rebounded by MSST Mark Jones.,Missed,14,16,37,143
+MSST,Robert Laymon 2-point jumper...Score!       Assisted by: Salvatore Licklider,Score,16,16,38,143
+VAND,Luke Nichol 2-point jumper...Missed!       Rebounded by MSST Patrick Boogerd.,Score,16,16,39,143
+MSST,Richard Scott 2-point jumper...Missed!       Rebounded by MSST Gerald Brown.,Missed,16,16,40,143
+MSST,Lorenzo Hogan 2-point jumper...Score!,Score,18,16,41,143
+VAND,VAND: Offensive foul on VAND Tony Brooks.,Turnover,18,16,42,143
+MSST,Gregory Barrett Inside shot... Missed with a foul on the play.,Fouled,18,16,43,143
+MSST,Free throw coming up... good!,FreeThrow,19,16,43,143
+MSST,Free throw coming up... rattled out.       Rebounded by VAND Dennis Jacobs.,FreeThrow,19,16,43,143
+VAND,Isaac Curtis Inside shot...Score!       Assisted by: Ronnie Coleman,Score,19,18,44,143
+MSST,John Hasz 2-point jumper...Score!,Score,21,18,45,143
+VAND,Dennis Jacobs Inside shot...Missed!       Rebounded by MSST Gregory Barrett.,Score,21,18,46,143
+MSST,MSST Patrick Boogerd lost the ball out of bounds.,Out of Bounds,21,18,47,143
+VAND,Ronnie Coleman 3-point attempt...Missed!Rebounded by MSST John Hasz.,Score,21,18,48,143
+MSST,Patrick Boogerd 3-point attempt...Score!       Assisted by: Gregory Barrett,Score,24,18,49,143
+VAND,Ronnie Coleman 3-point attempt...Missed!Rebounded by MSST Barry Avdic.,Score,24,18,50,143
+MSST,Gerald Brown Inside shot... Missed with a foul on the play.,Fouled,24,18,51,143
+MSST,Free throw coming up... good!,FreeThrow,25,18,51,143
+MSST,Free throw coming up... good!,FreeThrow,26,18,51,143
+VAND,Tony Brooks 2-point jumper...Score!,Score,26,20,52,143
+MSST,Salvatore Licklider Inside shot...Missed!       Rebounded by VAND Ronnie Coleman.,Score,26,20,53,143
+VAND,Isaac Curtis Inside shot...BLOCKED by Gregory Barrett.       Rebounded by MSST Gerald Brown.,Turnover,26,20,54,143
+MSST,Richard Scott Inside shot...Score!       Assisted by: Patrick Boogerd,Score,28,20,55,143
+VAND,Dennis Jacobs 3-point attempt...Missed!Rebounded by MSST Salvatore Licklider.,Score,28,20,56,143
+MSST,Gerald Brown Inside shot...BLOCKED by VAND Derek Windle.       Rebounded by MSST Salvatore Licklider.,Turnover,28,20,57,143
+MSST,Barry Avdic 2-point jumper...Missed!       Rebounded by MSST Patrick Boogerd.,Missed,28,20,58,143
+MSST,Barry Avdic 2-point jumper...Score!       Assisted by: Gerald Brown,Score,30,20,59,143
+MSST,Salvatore Licklider steals the ball for MSST!,Turnover,30,20,60,143
+MSST,MSST Gregory Barrett lost the ball out of bounds.,Out of Bounds,30,20,61,143
+VAND,Dennis Bigg 3-point attempt...Missed!Rebounded by MSST John Hasz.,Score,30,20,62,143
+MSST,Salvatore Licklider Inside shot...Score!,Score,32,20,63,143
+VAND,Luke Nichol 2-point jumper...Score!,Score,32,22,64,143
+MSST,John Hasz 2-point jumper...Missed!       Rebounded by MSST David Oldham.,Missed,32,22,65,143
+MSST,Mark Jones Inside shot...Score!       Assisted by: John Hasz,Score,34,22,66,143
+VAND,Derek Windle 2-point jumper...Missed!       Rebounded by MSST Gregory Barrett.,Score,34,22,67,143
+MSST,Mark Jones 2-point jumper...BLOCKED by VAND Tony Brooks.       Rebounded by VAND Tony Brooks.,Turnover,34,22,68,143
+VAND,Ronnie Coleman 3-point attempt...Score!       Assisted by: Tony Brooks,Score,34,25,69,143
+MSST,Gregory Barrett 2-point jumper...Missed!       Rebounded by VAND Ronnie Coleman.,Missed,34,25,70,143
+VAND,Dennis Jacobs Inside shot... Missed but with a foul on the play.,Fouled,34,25,71,143
+VAND,Free throw coming up... good!,FreeThrow,34,26,71,143
+VAND,Free throw coming up... rattled out.       Rebounded by VAND Luke Nichol.,FreeThrow,34,26,71,143
+,,HALFTIME,34,26,71,143
+VAND,Luke Nichol 2-point jumper...Missed!       Rebounded by MSST Mark Jones.,Score,34,26,72,143
+MSST,Kevin Miller 3-point attempt...Missed!       Rebounded by VAND Derek Windle.,Miss,34,26,73,143
+VAND,Victor Cantero Inside shot...Score!,Score,34,28,74,143
+MSST,John Hasz 2-point jumper...Score!       Assisted by: Mark Jones,Score,36,28,75,143
+VAND,Willie Cox Inside shot...Score!       Assisted by: Derek Windle,Score,36,30,76,143
+MSST,Barry Avdic Inside shot...Missed!       Rebounded by VAND Tony Brooks.,Score,36,30,77,143
+VAND,Derek Windle Inside shot...Score!,Score,36,32,78,143
+MSST,Barry Avdic 3-point attempt...Score!       Assisted by: Salvatore Licklider,Score,39,32,79,143
+VAND,Hector Reyes 2-point jumper...Missed!       Rebounded by MSST Gregory Barrett.,Score,39,32,80,143
+MSST,MSST Salvatore Licklider lost the ball out of bounds.,Out of Bounds,39,32,81,143
+VAND,Derek Windle Inside shot...Score!,Score,39,34,82,143
+MSST,Kevin Miller Inside shot... Missed with a foul on the play.,Fouled,39,34,83,143
+MSST,Free throw coming up... good!,FreeThrow,40,34,83,143
+MSST,Free throw coming up... rattled out.       Rebounded by MSST John Hasz.,FreeThrow,40,34,83,143
+MSST,Barry Avdic Inside shot...Score!,Score,42,34,84,143
+VAND,Luke Nichol 2-point jumper...Missed!       Rebounded by VAND Dennis Jacobs.,Score,42,34,85,143
+VAND,Christopher Delp 3-point attempt...Missed!Rebounded by MSST Salvatore Licklider.,Score,42,34,86,143
+MSST,Kevin Miller 2-point jumper...BLOCKED by VAND Tony Brooks.       Rebounded by MSST Gerald Brown.,Turnover,42,34,87,143
+MSST,John Hasz 3-point attempt...Missed!       Rebounded by MSST Gregory Barrett.,Missed,42,34,88,143
+MSST,John Hasz Inside shot...Score!,Score,44,34,89,143
+VAND,VAND Joshua Tucker lost the ball out of bounds.,Turnover,44,34,90,143
+MSST,Gerald Brown Inside shot...Score!,Score,46,34,91,143
+VAND,VAND: Offensive foul on VAND Ronnie Coleman.,Turnover,46,34,92,143
+MSST,John Hasz 3-point attempt...Missed!       Rebounded by VAND Ronnie Coleman.,Miss,46,34,93,143
+VAND,Ronnie Coleman 3-point attempt...BLOCKED by MSST Gregory Barrett.       Rebounded by VAND Derek Windle.,Turnover,46,34,94,143
+VAND,Hector Reyes Inside shot...Score!,Score,46,36,95,143
+MSST,Richard Scott 3-point attempt...Score!       Assisted by: Patrick Boogerd,Score,49,36,96,143
+VAND,Ronnie Coleman 2-point jumper...BLOCKED by Barry Avdic.       Rebounded by VAND Hector Reyes.,Turnover,49,36,97,143
+VAND,Dennis Jacobs 3-point attempt... Missed with a foul on the play.,Fouled,49,36,98,143
+VAND,       Free throw coming up... good!,FreeThrow,49,37,98,143
+VAND,       Free throw coming up... good!,FreeThrow,49,38,98,143
+MSST,MSST: Offensive foul on MSST Barry Avdic.,Foul,49,38,99,143
+VAND,VAND: Offensive foul on VAND Dennis Jacobs.,Turnover,49,38,100,143
+MSST,Patrick Boogerd Inside shot...Missed!       Rebounded by VAND Dennis Jacobs.,Score,49,38,101,143
+VAND,Tony Brooks Inside shot...Missed!       Rebounded by VAND Ronnie Coleman.,Score,49,38,102,143
+VAND,Ronnie Coleman 2-point jumper...Score!       Assisted by: Derek Windle,Score,49,40,103,143
+MSST,Patrick Boogerd 3-point attempt...Score!       Assisted by: Richard Scott,Score,52,40,104,143
+VAND,Kenneth Stewart 2-point jumper...Score!,Score,52,42,105,143
+MSST,Salvatore Licklider 3-point attempt...Missed!       Rebounded by MSST John Hasz.,Missed,52,42,106,143
+VAND,Willie Cox steals the ball for VAND!,Turnover,52,42,107,143
+VAND,Tony Brooks 3-point attempt...Missed!Rebounded by MSST Robert Laymon.,Score,52,42,108,143
+MSST,John Hasz 2-point jumper...Score!       Assisted by: Patrick Boogerd,Score,54,42,109,143
+VAND,Ronnie Coleman Inside shot...BLOCKED by Gerald Brown.       Rebounded by MSST Salvatore Licklider.,Turnover,54,42,110,143
+MSST,Gregory Barrett 3-point attempt...Missed!       Rebounded by MSST Patrick Boogerd.,Missed,54,42,111,143
+MSST,Barry Avdic 2-point jumper...Missed!       Rebounded by VAND Tony Brooks.,Missed,54,42,112,143
+VAND,Luke Nichol Inside shot...Score!       Assisted by: Derek Windle,Score,54,44,113,143
+MSST,John Hasz Inside shot...Score!,Score,56,44,114,143
+VAND,Kenneth Stewart Inside shot... Missed but with a foul on the play.,Fouled,56,44,115,143
+VAND,Free throw coming up... good!,FreeThrow,56,45,115,143
+VAND,Free throw coming up... good!,FreeThrow,56,46,115,143
+MSST,John Hasz Inside shot... Missed with a foul on the play.,Fouled,56,46,116,143
+MSST,Free throw coming up... good!,FreeThrow,57,46,116,143
+VAND,Ronnie Coleman Inside shot...Missed!       Rebounded by VAND Derek Windle.,Score,57,46,117,143
+VAND,Dennis Jacobs Inside shot...Score!,Score,57,48,118,143
+MSST,Gregory Barrett 2-point jumper...Missed!       Rebounded by MSST Mark Jones.,Missed,57,48,119,143
+MSST,Patrick Boogerd 2-point jumper...BLOCKED by VAND Isaac Curtis.       Rebounded by VAND Ronnie Coleman.,Turnover,57,48,120,143
+VAND,Tony Brooks Inside shot...Score!,Score,57,50,121,143
+MSST,MSST Kevin Miller lost the ball out of bounds.,Out of Bounds,57,50,122,143
+VAND,Derek Windle 2-point jumper... Missed but there is a foul on the play.,Foul,57,50,123,143
+VAND,Free throw coming up... good!,FreeThrow,57,51,123,143
+MSST,MSST Gerald Brown lost the ball out of bounds.,Out of Bounds,57,51,124,143
+VAND,Joshua Tucker Inside shot...Score!,Score,57,53,125,143
+MSST,Mark Jones 2-point jumper...Missed!       Rebounded by VAND Isaac Curtis.,Missed,57,53,126,143
+VAND,Kenneth Stewart 3-point attempt...Missed!Rebounded by MSST Mark Jones.,Score,57,53,127,143
+MSST,Gregory Barrett Inside shot...BLOCKED by VAND Luke Nichol.       Rebounded by MSST Salvatore Licklider.,Turnover,57,53,128,143
+MSST,Salvatore Licklider 2-point jumper...Score!,Score,59,53,129,143
+VAND,Isaac Curtis 2-point jumper...Missed!       Rebounded by MSST Patrick Boogerd.,Score,59,53,130,143
+MSST,John Hasz Inside shot...Score!,Score,61,53,131,143
+VAND,Dennis Jacobs 2-point jumper...Missed!       Rebounded by MSST Gerald Brown.,Score,61,53,132,143
+MSST,Salvatore Licklider 3-point attempt...Score!,Score,64,53,133,143
+VAND,Hector Reyes 2-point jumper...Missed!       Rebounded by VAND Luke Nichol.,Score,64,53,134,143
+VAND,Derek Windle 2-point jumper...Missed!       Rebounded by MSST Robert Laymon.,Score,64,53,135,143
+VAND,Hector Reyes steals the ball for VAND!,Turnover,64,53,136,143
+VAND,VAND: Offensive foul on VAND Kenneth Stewart.,Turnover,64,53,137,143
+MSST,Patrick Boogerd 2-point jumper...Missed!       Rebounded by VAND Tony Brooks.,Missed,64,53,138,143
+VAND,Tony Brooks 2-point jumper...BLOCKED by John Hasz.       Rebounded by VAND Dennis Jacobs.,Turnover,64,53,139,143
+VAND,Derek Windle Inside shot...Score!,Score,64,55,140,143
+MSST,Gerald Anderson 2-point jumper...Missed!       Rebounded by VAND Ronnie Coleman.,Missed,64,55,141,143
+VAND,Kenneth Stewart Inside shot...Score!,Score,64,57,142,143
+MSST,Patrick Boogerd Inside shot...Score!       Assisted by: David Oldham,Score,66,57,143,143
+VAND,VAND: Offensive foul on VAND Kenneth Stewart.,Turnover,66,57,144,143
+,Match Complete,FinalScore,66,57,144,143

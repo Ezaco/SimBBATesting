@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Wyoming,Cowboys,35,38,0,73
+Air Force,Falcons,47,34,0,81
+""
+""
+=====Wyoming Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Robert Mueller,25,16,3,8,0.375,1,1,1.0,1,2,0.5,8,6,0,0,0,0,0
+Timothy Houston,25,13,4,6,0.6666666666666666,1,2,0.5,0,3,0.0,9,5,4,1,0,0,0
+John Mckenzie,25,23,3,8,0.375,0,4,0.0,0,0,0,6,3,3,4,0,0,2
+Christopher Leffew,25,17,5,7,0.7142857142857143,0,0,0,1,2,0.5,11,1,2,1,0,2,0
+Brian Donovan,20,20,5,10,0.5,1,3,0.3333333333333333,0,0,0,11,0,1,0,1,0,0
+Tyrone Bontemps,8,10,1,5,0.2,0,1,0.0,3,4,0.75,5,1,1,0,1,0,0
+Michael Johnson,25,16,5,6,0.8333333333333334,0,0,0,0,0,0,10,5,1,2,3,1,1
+Robert Cook,5,2,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0
+Larry Charlton,20,13,2,6,0.3333333333333333,0,1,0.0,1,2,0.5,5,4,2,1,0,0,0
+Joseph Mallett,7,4,2,2,1.0,0,0,0,0,0,0,4,1,0,0,0,0,0
+Christopher Kaiser,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Steven Gentes,5,3,0,1,0.0,0,1,0.0,0,0,0,0,0,1,0,0,0,0
+Perry Anderson,5,5,2,2,1.0,0,0,0,0,0,0,4,1,0,0,0,0,0
+""
+=====Air Force Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Keith Williams,25,18,3,7,0.42857142857142855,1,4,0.25,0,0,0,7,5,1,2,2,2,1
+Harry Watson,20,13,1,6,0.16666666666666666,0,1,0.0,1,2,0.5,3,3,5,1,0,0,0
+Timothy Rogers,34,10,3,4,0.75,1,1,1.0,2,2,1.0,9,5,3,2,1,0,0
+Juan Phillips,33,28,8,13,0.6153846153846154,3,6,0.5,0,0,0,19,0,4,0,0,2,0
+Samuel Henderson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Douglas Peterson,10,12,3,5,0.6,2,3,0.6666666666666666,0,0,0,8,2,1,0,0,2,0
+Jesse Wilson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jeffrey Mcgee,17,10,4,4,1.0,2,2,1.0,1,1,1.0,11,2,1,0,0,2,0
+Patrick Mcdaniel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mauro Canales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Richard Rollins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tyler Carpenter,38,27,9,11,0.8181818181818182,4,4,1.0,0,0,0,22,9,4,2,0,2,1
+Francis Mcpherson,23,7,1,3,0.3333333333333333,0,1,0.0,0,0,0,2,3,1,0,2,2,0
+""
+""
+=====TEAM STATS=====
+Stat,Wyoming,Air Force
+Points,73,81
+Possessions,78,75
+FGM,29,19
+FGA,48,31
+FGPercent,0.6041666666666666,0.6129032258064516
+3PM,3,13
+3PA,14,22
+3P%,0.21428571428571427,0.5909090909090909
+FTM,6,4
+FTA,13,5
+FT%,0.46153846153846156,0.8
+Rebounds,27,29
+OffRebounds,10,6
+DefRebounds,17,23
+Assists,15,20
+Steals,10,0
+Blocks,5,2
+Total Turnovers,16,17
+Largest Lead,0,19

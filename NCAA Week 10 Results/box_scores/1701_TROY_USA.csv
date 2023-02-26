@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Troy,Trojans,40,35,0,75
+South Alabama,Jaguars,39,29,0,68
+""
+""
+=====Troy Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Steve Zarrella,8,2,0,1,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Thomas Teel,25,9,2,3,0.6666666666666666,0,0,0,0,0,0,4,2,2,2,0,0,1
+Robert Kellum,25,16,4,8,0.5,1,2,0.5,2,2,1.0,11,5,1,0,1,0,0
+Yiu Endo,25,16,4,7,0.5714285714285714,1,1,1.0,0,0,0,9,4,1,1,0,0,1
+Lee Dowding,25,16,3,8,0.375,3,6,0.5,0,0,0,9,6,3,0,0,0,0
+David Coleman,20,24,4,11,0.36363636363636365,0,1,0.0,0,0,0,8,2,3,1,0,0,0
+Jose Febo,7,3,1,1,1.0,0,0,0,0,0,0,2,4,0,0,0,0,1
+Howard Tanko,25,17,4,8,0.5,1,2,0.5,0,0,0,9,2,2,0,0,1,1
+Marcel Jeff,20,19,6,9,0.6666666666666666,0,1,0.0,0,0,0,12,2,1,1,1,0,0
+Keith Ryan,5,8,1,4,0.25,0,0,0,1,2,0.5,3,1,0,0,0,0,0
+Shawn Grannell,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Clark,5,2,1,1,1.0,0,0,0,1,1,1.0,3,0,1,0,0,0,0
+Ming Mai,5,4,2,2,1.0,1,1,1.0,0,0,0,5,0,1,0,0,0,0
+""
+=====South Alabama Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Barry Weder,31,20,6,8,0.75,0,1,0.0,0,0,0,12,5,1,0,1,4,0
+Sergio Ventura,33,29,7,13,0.5384615384615384,4,5,0.8,0,0,0,18,5,1,2,3,1,0
+Thomas Scheuring,28,20,9,10,0.9,3,3,1.0,2,2,1.0,23,3,3,0,0,0,0
+Stephen Harvey,36,16,4,7,0.5714285714285714,1,2,0.5,0,0,0,9,7,2,1,1,1,0
+Patrick Brandt,10,6,0,2,0.0,0,0,0,0,0,0,0,0,1,0,0,2,0
+Scott Wilke,20,9,1,4,0.25,0,2,0.0,0,0,0,2,2,1,0,0,1,1
+Theodore Smith,13,3,0,1,0.0,0,1,0.0,0,0,0,0,0,0,1,1,0,0
+Robert Buchanan,8,7,0,3,0.0,0,0,0,0,0,0,0,0,1,0,0,1,1
+Paul Ullom,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Bresko,9,4,0,2,0.0,0,2,0.0,0,0,0,0,1,1,0,0,0,0
+Joseph Stratton,6,6,2,3,0.6666666666666666,0,1,0.0,0,0,0,4,2,1,0,0,0,0
+Jonathan Hines,6,5,0,2,0.0,0,1,0.0,0,0,0,0,2,0,1,0,0,0
+Thomas Wiggins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Troy,South Alabama
+Points,75,68
+Possessions,73,70
+FGM,25,21
+FGA,49,37
+FGPercent,0.5102040816326531,0.5675675675675675
+3PM,7,8
+3PA,14,18
+3P%,0.5,0.4444444444444444
+FTM,4,2
+FTA,5,2
+FT%,0.8,1.0
+Rebounds,29,27
+OffRebounds,10,8
+DefRebounds,19,19
+Assists,15,12
+Steals,5,0
+Blocks,2,6
+Total Turnovers,11,13
+Largest Lead,8,7

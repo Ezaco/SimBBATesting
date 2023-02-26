@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Wisconsin,Badgers,27,36,0,63
+Rutgers,Scarlet Knights,29,26,0,55
+""
+""
+=====Wisconsin Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Roy Barnes,20,18,4,8,0.5,1,2,0.5,0,0,0,9,1,1,1,0,1,1
+Ralph Long,24,20,5,9,0.5555555555555556,0,2,0.0,0,0,0,10,1,5,0,0,1,0
+Andrew Jones,30,8,3,4,0.75,0,1,0.0,0,0,0,6,5,2,0,0,0,0
+Nicholas Mitchell,12,8,2,4,0.5,0,0,0,0,0,0,4,2,0,0,0,1,0
+Jeramy Booth,26,14,3,6,0.5,1,1,1.0,2,2,1.0,9,5,1,0,0,0,1
+Armando Pope,20,15,2,7,0.2857142857142857,0,2,0.0,2,3,0.6666666666666666,6,4,0,0,3,0,0
+Amos Quinn,24,11,3,5,0.6,1,3,0.3333333333333333,0,0,0,7,5,0,1,1,0,0
+Kevin Wells,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gerald James,4,8,1,3,0.3333333333333333,0,0,0,0,2,0.0,2,0,1,1,0,1,0
+Craig Mitchell,24,7,0,0,0,0,0,0,0,0,0,0,1,0,4,0,1,1
+Ian Mccall,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+William Sun,16,17,5,6,0.8333333333333334,0,0,0,0,0,0,10,1,1,3,1,0,1
+Grigor Vance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+=====Rutgers Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Marion Brown,25,17,4,7,0.5714285714285714,0,2,0.0,0,0,0,8,6,0,2,0,1,0
+David Groce,25,20,4,9,0.4444444444444444,1,1,1.0,2,2,1.0,11,4,0,0,2,2,0
+John Chura,25,8,0,4,0.0,0,2,0.0,0,0,0,0,3,3,0,1,0,0
+Myron Cerroni,8,5,2,2,1.0,0,0,0,0,0,0,4,1,2,0,0,1,1
+Brett Nelsen,25,17,3,8,0.375,0,2,0.0,2,2,1.0,8,5,2,0,0,1,0
+Donald Bridges,25,15,0,7,0.0,0,0,0,0,2,0.0,0,5,1,1,0,0,0
+Stephen Borg,20,16,6,8,0.75,2,2,1.0,0,0,0,14,1,0,0,1,0,0
+Gerald Brown,7,6,0,2,0.0,0,0,0,3,4,0.75,3,2,0,0,0,2,0
+Daniel West,20,14,1,5,0.2,0,1,0.0,1,2,0.5,3,4,0,1,0,3,0
+Philip Georgia,5,2,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Karl Hansen,5,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,1,0,0
+Shad Phillips,5,2,1,1,1.0,0,0,0,0,0,0,2,1,0,0,0,0,0
+Doug Clanin,5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Wisconsin,Rutgers
+Points,63,55
+Possessions,68,75
+FGM,25,19
+FGA,41,45
+FGPercent,0.6097560975609756,0.4222222222222222
+3PM,3,3
+3PA,11,10
+3P%,0.2727272727272727,0.3
+FTM,4,8
+FTA,7,12
+FT%,0.5714285714285714,0.6666666666666666
+Rebounds,26,33
+OffRebounds,7,14
+DefRebounds,19,19
+Assists,11,8
+Steals,10,0
+Blocks,5,2
+Total Turnovers,17,15
+Largest Lead,12,5

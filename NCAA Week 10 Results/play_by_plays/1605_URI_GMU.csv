@@ -1,0 +1,177 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+URI,GMU,80,68,146
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+GMU,GMU wins the tipoff!,Tipoff,0,0,0,146
+GMU,Jay Gu 2-point jumper...Score!,Score,0,2,1,146
+URI,Jason Newman Inside shot... Missed with a foul on the play.,Fouled,0,2,2,146
+URI,Free throw coming up... good!,FreeThrow,1,2,2,146
+URI,Free throw coming up... good!,FreeThrow,2,2,2,146
+GMU,Kirk Lawson 2-point jumper...Missed!       Rebounded by URI Wallace Ancrum.,Score,2,2,3,146
+URI,Sanjay Llanos Inside shot...Score!,Score,4,2,4,146
+GMU,Edward Fisher 2-point jumper...BLOCKED by Mark Youtz.       Rebounded by URI Jason Newman.,Turnover,4,2,5,146
+GMU,Michael Phillips steals the ball for GMU!,Turnover,4,2,6,146
+GMU,Jay Gu 2-point jumper...Missed!       Rebounded by URI Wallace Ancrum.,Score,4,2,7,146
+URI,Robert Madsen Inside shot...Score!,Score,6,2,8,146
+GMU,Han Xiong 3-point attempt...Score!       Assisted by: Darren Marcellin,Score,6,5,9,146
+URI,URI Sanjay Llanos lost the ball out of bounds.,Out of Bounds,6,5,10,146
+GMU,Michael Zhou Inside shot...Score!,Score,6,7,11,146
+GMU,Michael Phillips steals the ball for GMU!,Turnover,6,7,12,146
+GMU,Michael Phillips 3-point attempt...Missed!Rebounded by URI Sanjay Llanos.,Score,6,7,13,146
+URI,Richard Roso 2-point jumper...Missed!       Rebounded by GMU Seong Shen.,Missed,6,7,14,146
+URI,Donald Phelps steals the ball for URI!,Turnover,6,7,15,146
+URI,Jason Newman 2-point jumper...Score!       Assisted by: Richard Roso,Score,8,7,16,146
+GMU,Kirk Lawson Inside shot...BLOCKED by Adam Thomas.       Rebounded by URI Wallace Ancrum.,Turnover,8,7,17,146
+URI,URI Mark Youtz lost the ball out of bounds.,Out of Bounds,8,7,18,146
+GMU,David Gray 3-point attempt...Missed!Rebounded by URI Wallace Ancrum.,Score,8,7,19,146
+URI,Mark Youtz Inside shot...Score!       Assisted by: Jason Newman,Score,10,7,20,146
+GMU,GMU Kirk Lawson lost the ball out of bounds.,Turnover,10,7,21,146
+URI,URI Edward Kinnick lost the ball out of bounds.,Out of Bounds,10,7,22,146
+GMU,Randall Howard 2-point jumper...Score!,Score,10,9,23,146
+URI,Sanjay Llanos 3-point attempt...Score!,Score,13,9,24,146
+GMU,Kirk Lawson 2-point jumper...Score!,Score,13,11,25,146
+URI,Jason Newman 3-point attempt...Score!,Score,16,11,26,146
+GMU,Darren Marcellin Inside shot...Score!       Assisted by: Michael Zhou,Score,16,13,27,146
+GMU,Michael Zhou steals the ball for GMU!,Turnover,16,13,28,146
+GMU,Michael Phillips 2-point jumper...Missed!       Rebounded by URI Wallace Ancrum.,Score,16,13,29,146
+URI,Wallace Ancrum 2-point jumper...Score!       Assisted by: Mark Youtz,Score,18,13,30,146
+GMU,GMU Han Xiong lost the ball out of bounds.,Turnover,18,13,31,146
+GMU,Randall Howard steals the ball for GMU!,Turnover,18,13,32,146
+GMU,Randall Howard 2-point jumper...Missed!       Rebounded by URI Edward Kinnick.,Score,18,13,33,146
+URI,Mark Youtz 2-point jumper...Missed!       Rebounded by URI Richard Roso.,Missed,18,13,34,146
+URI,Wallace Ancrum Inside shot...BLOCKED by GMU David Gray.       Rebounded by URI Jeffrey Durante.,Turnover,18,13,35,146
+URI,Sanjay Llanos 2-point jumper...Score!,Score,20,13,36,146
+URI,Adam Thomas steals the ball for URI!,Turnover,20,13,37,146
+GMU,Michael Phillips steals the ball for GMU!,Turnover,20,13,38,146
+GMU,Randall Howard Inside shot...Score!,Score,20,15,39,146
+GMU,Seong Shen steals the ball for GMU!,Turnover,20,15,40,146
+GMU,GMU: Shot clock violation on GMU Kirk Lawson.,Turnover,20,15,41,146
+URI,Jason Newman Inside shot...Score!       Assisted by: Mario Lopezaguilar,Score,22,15,42,146
+GMU,GMU Christopher Mcgrath lost the ball out of bounds.,Turnover,22,15,43,146
+URI,Sanjay Llanos 2-point jumper...Score!,Score,24,15,44,146
+GMU,Edward Fisher 2-point jumper...Missed!       Rebounded by GMU Michael Zhou.,Score,24,15,45,146
+GMU,Christopher Mcgrath 2-point jumper... Missed but there is a foul on the play.,Foul,24,15,46,146
+GMU,Free throw coming up... rattled out.       Rebounded by URI Edward Kinnick.,Score,24,15,46,146
+URI,URI: Offensive foul on URI Donald Phelps.,Foul,24,15,47,146
+GMU,Michael Phillips 3-point attempt...Score!       Assisted by: Darren Marcellin,Score,24,18,48,146
+URI,Mark Youtz Inside shot...Score!,Score,26,18,49,146
+GMU,Michael Phillips 2-point jumper...Missed!       Rebounded by URI Wallace Ancrum.,Score,26,18,50,146
+URI,Robert Butcher Inside shot...Score!,Score,28,18,51,146
+GMU,Kirk Lawson 2-point jumper...Missed!       Rebounded by GMU Randall Howard.,Score,28,18,52,146
+GMU,Jay Gu 2-point jumper...Score!,Score,28,20,53,146
+URI,Richard Roso 2-point jumper...Score!       Assisted by: Jeffrey Durante,Score,30,20,54,146
+GMU,Kirk Lawson Inside shot...Score!,Score,30,22,55,146
+URI,Richard Roso 2-point jumper...Missed!       Rebounded by GMU Randall Howard.,Missed,30,22,56,146
+GMU,Edward Fisher 2-point jumper...Score!,Score,30,24,57,146
+URI,Mark Youtz 2-point jumper...Missed!       Rebounded by GMU Wayne Bradley.,Missed,30,24,58,146
+GMU,Randall Howard Inside shot...Score! Fouled and we have a free throw folks!,Score,30,26,59,146
+GMU,Free throw coming up... good!,FreeThrow,30,27,59,146
+URI,URI: Offensive foul on URI Jason Newman.,Foul,30,27,60,146
+GMU,Randall Howard 2-point jumper...Score!,Score,30,29,61,146
+URI,Richard Roso 2-point jumper...Score!       Assisted by: Jason Newman,Score,32,29,62,146
+GMU,David Gray 2-point jumper...Score!       Assisted by: Jay Gu,Score,32,31,63,146
+GMU,Kirk Lawson steals the ball for GMU!,Turnover,32,31,64,146
+GMU,Michael Zhou 3-point attempt...Score!       Assisted by: Randall Howard,Score,32,34,65,146
+URI,Mark Youtz 2-point jumper...Score!       Assisted by: Jason Newman,Score,34,34,66,146
+GMU,Kirk Lawson 3-point attempt...Missed!Rebounded by URI Wallace Ancrum.,Score,34,34,67,146
+URI,Richard Roso 3-point attempt...Score!       Assisted by: Mark Youtz,Score,37,34,68,146
+GMU,Michael Phillips 2-point jumper...Missed!       Rebounded by GMU Randall Howard.,Score,37,34,69,146
+GMU,GMU: Offensive foul on GMU Michael Zhou.,Turnover,37,34,70,146
+URI,Sanjay Llanos Inside shot...Score!,Score,39,34,71,146
+GMU,Han Xiong 3-point attempt...Missed!Rebounded by URI Mark Youtz.,Score,39,34,72,146
+URI,Adam Thomas Inside shot...BLOCKED by GMU Kirk Lawson.       Rebounded by GMU Seong Shen.,Turnover,39,34,73,146
+,,HALFTIME,39,34,73,146
+GMU,Michael Phillips 2-point jumper...Score!,Score,39,36,74,146
+URI,Wallace Ancrum Inside shot...Score!,Score,41,36,75,146
+GMU,Kirk Lawson 2-point jumper...Missed!       Rebounded by GMU Jay Gu.,Score,41,36,76,146
+GMU,Seong Shen 2-point jumper...Missed!       Rebounded by GMU Randall Howard.,Score,41,36,77,146
+GMU,Tony Wu Inside shot...Score!       Assisted by: Han Xiong,Score,41,38,78,146
+URI,Adam Thomas Inside shot... Missed with a foul on the play.,Fouled,41,38,79,146
+URI,Free throw coming up... good!,FreeThrow,42,38,79,146
+GMU,Kirk Lawson Inside shot... Missed but with a foul on the play.,Fouled,42,38,80,146
+GMU,Free throw coming up... good!,FreeThrow,42,39,80,146
+GMU,Free throw coming up... good!,FreeThrow,42,40,80,146
+GMU,Michael Zhou steals the ball for GMU!,Turnover,42,40,81,146
+GMU,Michael Phillips 2-point jumper...Missed!       Rebounded by GMU Darren Marcellin.,Score,42,40,82,146
+GMU,Edward Fisher 2-point jumper...Score!,Score,42,42,83,146
+URI,Edward Kinnick 3-point attempt...Score!,Score,45,42,84,146
+GMU,Michael Zhou Inside shot...Score!,Score,45,44,85,146
+URI,Adam Thomas 3-point attempt...Score!       Assisted by: Jason Newman,Score,48,44,86,146
+GMU,Edward Fisher 2-point jumper...Score!       Assisted by: Michael Phillips,Score,48,46,87,146
+URI,Sanjay Llanos 3-point attempt...Missed!       Rebounded by GMU Michael Phillips.,Miss,48,46,88,146
+GMU,Han Xiong 3-point attempt...Missed!Rebounded by URI Mark Youtz.,Score,48,46,90,146
+URI,Jason Newman Inside shot...Score!       Assisted by: Richard Roso,Score,50,46,91,146
+GMU,Michael Zhou Inside shot...Score!,Score,50,48,92,146
+URI,Wallace Ancrum 2-point jumper...Missed!       Rebounded by GMU Jay Gu.,Missed,50,48,93,146
+GMU,Han Xiong Inside shot... Missed but with a foul on the play.,Fouled,50,48,94,146
+GMU,Free throw coming up... good!,FreeThrow,50,49,94,146
+GMU,Free throw coming up... good!,FreeThrow,50,50,94,146
+URI,Richard Roso Inside shot... Missed with a foul on the play.,Fouled,50,50,95,146
+URI,Free throw coming up... good!,FreeThrow,51,50,95,146
+GMU,Wayne Bradley 2-point jumper...Missed!       Rebounded by URI Wallace Ancrum.,Score,51,50,96,146
+URI,Adam Thomas 2-point jumper...Missed!       Rebounded by GMU Edward Fisher.,Missed,51,50,97,146
+GMU,Michael Phillips 2-point jumper...Missed!       Rebounded by URI Wallace Ancrum.,Score,51,50,98,146
+URI,URI: Offensive foul on URI Donald Phelps.,Foul,51,50,99,146
+GMU,GMU Kirk Lawson lost the ball out of bounds.,Turnover,51,50,100,146
+URI,Jason Newman 2-point jumper...Score!,Score,53,50,101,146
+URI,Mark Youtz steals the ball for URI!,Turnover,53,50,102,146
+URI,Adam Thomas 2-point jumper...Missed!       Rebounded by URI Wallace Ancrum.,Missed,53,50,103,146
+URI,Richard Roso 2-point jumper...Missed!       Rebounded by GMU Edward Fisher.,Missed,53,50,104,146
+GMU,Kirk Lawson 2-point jumper...Score!,Score,53,52,105,146
+URI,Jason Newman Inside shot... Missed with a foul on the play.,Fouled,53,52,106,146
+URI,Free throw coming up... good!,FreeThrow,54,52,106,146
+URI,Free throw coming up... good!,FreeThrow,55,52,106,146
+GMU,Michael Phillips Inside shot...Score!,Score,55,54,107,146
+URI,Scott Iannone Inside shot...BLOCKED by GMU Michael Zhou.       Rebounded by GMU Jay Gu.,Turnover,55,54,108,146
+GMU,Michael Zhou Inside shot... Missed but with a foul on the play.,Fouled,55,54,109,146
+GMU,Free throw coming up... good!,FreeThrow,55,55,109,146
+GMU,Free throw coming up... good!,FreeThrow,55,56,109,146
+URI,Donald Phelps 2-point jumper...Score!       Assisted by: Mark Youtz,Score,57,56,110,146
+GMU,GMU Michael Phillips lost the ball out of bounds.,Turnover,57,56,111,146
+URI,Jeffrey Durante Inside shot...Score! Foul on the play and one!       Assisted by: Richard Roso,Score,59,56,112,146
+URI,Free throw coming up... good!,FreeThrow,60,56,112,146
+GMU,Michael Zhou Inside shot... Missed but with a foul on the play.,Fouled,60,56,113,146
+GMU,Free throw coming up... good!,FreeThrow,60,57,113,146
+GMU,Free throw coming up... rattled out.       Rebounded by GMU Kirk Lawson.,FreeThrow,60,57,113,146
+GMU,Michael Zhou 2-point jumper...Score!,Score,60,59,114,146
+URI,Richard Roso 2-point jumper...BLOCKED by GMU Randall Howard.       Rebounded by GMU Kirk Lawson.,Turnover,60,59,115,146
+GMU,Randall Howard 2-point jumper...Score!       Assisted by: Jay Gu,Score,60,61,116,146
+URI,Richard Roso 2-point jumper...Score!,Score,62,61,117,146
+GMU,Michael Phillips 3-point attempt...Missed!Rebounded by URI Wallace Ancrum.,Score,62,61,118,146
+URI,Mark Youtz 2-point jumper...Score!       Assisted by: Adam Thomas,Score,64,61,119,146
+GMU,Michael Zhou Inside shot...Missed!       Rebounded by URI Donald Phelps.,Score,64,61,120,146
+URI,Mark Youtz Inside shot...Missed!       Rebounded by GMU Michael Phillips.,Score,64,61,121,146
+GMU,Michael Zhou 2-point jumper...Missed!       Rebounded by URI Wallace Ancrum.,Score,64,61,122,146
+URI,URI Adam Thomas lost the ball out of bounds.,Out of Bounds,64,61,123,146
+GMU,Edward Fisher 2-point jumper...Missed!       Rebounded by URI Robert Butcher.,Score,64,61,124,146
+URI,Wallace Ancrum 2-point jumper... Missed with a foul on the play.,Turnover,64,61,125,146
+URI,Wallace Ancrum 2-point jumper... Missed with a foul on the play.,FreeThrow,65,61,125,146
+URI,       Free throw coming up... rattled out.       Rebounded by GMU Michael Zhou.,Turnover,65,61,125,146
+GMU,Jay Gu Inside shot... Missed but with a foul on the play.,Fouled,65,61,126,146
+GMU,Free throw coming up... good!,FreeThrow,65,62,126,146
+GMU,Free throw coming up... good!,FreeThrow,65,63,126,146
+URI,Richard Roso 3-point attempt...Score!       Assisted by: Adam Thomas,Score,68,63,127,146
+URI,Jason Newman steals the ball for URI!,Turnover,68,63,128,146
+URI,Wallace Ancrum Inside shot...Score!,Score,70,63,129,146
+GMU,Michael Zhou 2-point jumper...Score!,Score,70,65,130,146
+URI,Robert Butcher Inside shot...Score!       Assisted by: Wallace Ancrum,Score,72,65,131,146
+GMU,Kirk Lawson 3-point attempt...Score!,Score,72,68,132,146
+URI,Sanjay Llanos 2-point jumper...Missed!       Rebounded by URI Wallace Ancrum.,Missed,72,68,133,146
+URI,Richard Roso 2-point jumper...BLOCKED by GMU Edward Fisher.       Rebounded by GMU Jay Gu.,Turnover,72,68,134,146
+GMU,Darren Marcellin 3-point attempt...Missed!Rebounded by URI Edward Kinnick.,Score,72,68,135,146
+URI,Adam Thomas 2-point jumper...Score!       Assisted by: Mark Youtz,Score,74,68,136,146
+GMU,Edward Fisher 2-point jumper...BLOCKED by Adam Thomas.       Rebounded by URI Mark Youtz.,Turnover,74,68,137,146
+URI,Donald Phelps 2-point jumper...Missed!       Rebounded by GMU Michael Zhou.,Missed,74,68,138,146
+GMU,Tony Wu 3-point attempt...Missed!Rebounded by URI Edward Kinnick.,Score,74,68,139,146
+URI,Richard Roso Inside shot...Score! Foul on the play and one!,Score,76,68,140,146
+URI,Free throw coming up... good!,FreeThrow,77,68,140,146
+GMU,Edward Fisher 2-point jumper...Missed!       Rebounded by URI Edward Kinnick.,Score,77,68,141,146
+URI,Edward Kinnick 2-point jumper...Missed!       Rebounded by GMU Edward Fisher.,Missed,77,68,142,146
+URI,Wallace Ancrum steals the ball for URI!,Turnover,77,68,143,146
+URI,Jason Newman 2-point jumper... Missed with a foul on the play.,Turnover,77,68,144,146
+URI,Jason Newman 2-point jumper... Missed with a foul on the play.,FreeThrow,78,68,144,146
+URI,       Free throw coming up... rattled out.       Rebounded by GMU Randall Howard.,Turnover,78,68,144,146
+GMU,Kirk Lawson 2-point jumper...Missed!       Rebounded by URI Edward Kinnick.,Score,78,68,145,146
+URI,Sanjay Llanos Inside shot...Score!,Score,80,68,146,146
+GMU,GMU: Offensive foul on GMU Kirk Lawson.,Turnover,80,68,147,146
+,Match Complete,FinalScore,80,68,147,146

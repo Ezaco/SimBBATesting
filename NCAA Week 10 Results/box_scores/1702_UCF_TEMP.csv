@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+UCF,Knights,20,34,0,54
+Temple,Owls,40,39,0,79
+""
+""
+=====UCF Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Minh Bernas,20,11,0,4,0.0,0,0,0,2,2,1.0,2,6,0,1,2,0,1
+William Benson,8,5,2,2,1.0,0,0,0,0,0,0,4,2,0,0,0,0,0
+Jim Morgan,25,19,3,6,0.5,1,2,0.5,1,2,0.5,8,3,0,2,0,0,0
+Ramin Scott,25,16,6,7,0.8571428571428571,0,0,0,1,1,1.0,13,2,1,0,1,0,1
+Nicholas Lyons,25,20,4,9,0.4444444444444444,0,3,0.0,0,0,0,8,4,0,0,0,0,1
+Joe Haynes,25,11,1,5,0.2,0,1,0.0,0,0,0,2,2,3,0,0,0,0
+Lincoln Syed,25,13,2,5,0.4,1,2,0.5,2,2,1.0,7,7,0,1,1,0,2
+Leon Williams,7,10,3,5,0.6,0,0,0,0,0,0,6,0,0,0,0,0,0
+William Morro,20,18,1,8,0.125,0,2,0.0,0,0,0,2,3,0,0,0,0,0
+Rex Olney,5,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Juan Dwyer,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Ken Nguyen,5,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Joe Miller,5,2,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0
+""
+=====Temple Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Lee Diaz,38,24,6,11,0.5454545454545454,0,1,0.0,5,5,1.0,17,5,2,2,2,0,0
+Maxwell Stewart,27,18,3,8,0.375,1,4,0.25,0,2,0.0,7,4,1,1,0,1,0
+Jing Kahawai,18,18,3,7,0.42857142857142855,0,1,0.0,0,2,0.0,6,3,4,3,0,1,0
+Craig Johnson,28,13,2,5,0.4,1,2,0.5,2,2,1.0,7,2,5,1,0,2,1
+Gerald Buxton,24,19,7,9,0.7777777777777778,2,3,0.6666666666666666,0,0,0,16,8,4,1,0,0,0
+Srinivasan Kane,27,19,5,8,0.625,2,3,0.6666666666666666,0,0,0,12,4,3,0,0,3,0
+Gerald Cary,12,3,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,1,0
+Raymond Alloway,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Armando Smither,9,4,1,2,0.5,0,1,0.0,0,0,0,2,0,0,0,0,0,0
+Bruce Schulze,3,10,2,5,0.4,0,1,0.0,0,0,0,4,0,0,0,0,0,0
+Michael Peterson,10,10,1,4,0.25,0,0,0,2,2,1.0,4,1,0,0,0,2,1
+Jason Jefferson,2,4,1,2,0.5,0,0,0,0,0,0,2,0,0,0,0,0,0
+Jason Alcott,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,UCF,Temple
+Points,54,79
+Possessions,78,76
+FGM,21,26
+FGA,43,46
+FGPercent,0.4883720930232558,0.5652173913043478
+3PM,2,6
+3PA,10,16
+3P%,0.2,0.375
+FTM,6,9
+FTA,7,13
+FT%,0.8571428571428571,0.6923076923076923
+Rebounds,30,27
+OffRebounds,7,5
+DefRebounds,23,22
+Assists,6,19
+Steals,4,0
+Blocks,4,1
+Total Turnovers,24,10
+Largest Lead,0,25

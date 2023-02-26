@@ -43,14 +43,17 @@ class TeamStats:
         self.LargestLead = 0
         self.FirstHalfScore = 0
         self.SecondHalfScore = 0
+        self.OvertimeScore = 0
         self.Fouls = 0
 
-    def AddPoints(self, pts, poss, ht):
+    def AddPoints(self, pts, poss, ht, is_ot):
         self.Points += pts
         if poss <= ht:
             self.FirstHalfScore += pts
-        else:
+        elif is_ot == False:
             self.SecondHalfScore += pts  
+        else:
+            self.OvertimeScore += pts
     def CalculateLead(self, pts, diff):
         if self.LargestLead < diff:
             self.LargestLead += pts
@@ -165,26 +168,22 @@ class CollegePlayerStats:
     def AddPossession(self):
         self.Possessions += 1
 
-    def AddFieldGoalAttempt(self):
+    def AddFieldGoal(self, made_shot, pts = 0):
         self.Possessions += 1
         self.FGA += 1
+        if (made_shot):
+            self.FGM += 1
+            self.Points += pts
         self.FGPercent = self.FGM / self.FGA
+        if pts == 3:
+            self.AddThreePoint(made_shot)
+        
 
-    def AddFieldGoalMade(self):
-        self.FGA += 1
-        self.FGM += 1
-        self.FGPercent = self.FGM / self.FGA
-        self.Points += 2
-
-    def AddThreePointAttempt(self):
+    def AddThreePoint(self, made_shot):
         self.ThreePointAttempts += 1
+        if made_shot:
+            self.ThreePointsMade += 1
         self.ThreePointPercent = self.ThreePointsMade / self.ThreePointAttempts
-
-    def AddThreePointMade(self):
-        self.ThreePointAttempts += 1
-        self.ThreePointsMade += 1
-        self.ThreePointPercent = self.ThreePointsMade / self.ThreePointAttempts
-        self.Points += 3
 
     def AddFTAttempt(self):
         self.FTA += 1

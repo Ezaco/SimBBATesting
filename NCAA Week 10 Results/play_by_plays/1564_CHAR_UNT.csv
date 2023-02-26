@@ -1,0 +1,173 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+CHAR,UNT,68,70,142
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+UNT,UNT wins the tipoff!,Tipoff,0,0,0,142
+UNT,Michael Palmer Inside shot... Missed but with a foul on the play.,Fouled,0,0,1,142
+UNT,Free throw coming up... good!,FreeThrow,0,1,1,142
+UNT,Free throw coming up... good!,FreeThrow,0,2,1,142
+CHAR,Eric Mills Inside shot...Score! Foul on the play and one!,Score,2,2,2,142
+CHAR,Free throw coming up... good!,FreeThrow,3,2,2,142
+UNT,Pierre Harris Inside shot... Missed but with a foul on the play.,Fouled,3,2,3,142
+UNT,Free throw coming up... rattled out.,FreeThrow,3,2,3,142
+UNT,Free throw coming up... rattled out.       Rebounded by CHAR Richard White.,FreeThrow,3,2,3,142
+CHAR,James Fretz 2-point jumper...Missed!       Rebounded by CHAR Gerald Lara.,Missed,3,2,4,142
+CHAR,Stanley Mccullough 3-point attempt...Missed!       Rebounded by UNT Andrew Bennett.,Miss,3,2,5,142
+UNT,Andrew Bennett Inside shot...Score! Fouled and we have a free throw folks!,Score,3,4,6,142
+UNT,Free throw coming up... good!,FreeThrow,3,5,6,142
+CHAR,CHAR: Offensive foul on CHAR Gerald Lara.,Foul,3,5,7,142
+UNT,James Mcclone 2-point jumper...Missed!       Rebounded by CHAR Richard White.,Score,3,5,8,142
+CHAR,CHAR Jeffery Amin lost the ball out of bounds.,Out of Bounds,3,5,9,142
+UNT,Brian Baarda Inside shot...Missed!       Rebounded by CHAR William Hallmark.,Score,3,5,10,142
+CHAR,William Hallmark Inside shot...Score!       Assisted by: Gerald Lara,Score,5,5,11,142
+UNT,Jordan Gibbons 2-point jumper...BLOCKED by David Kozuch.       Rebounded by CHAR Gerald Lara.,Turnover,5,5,12,142
+CHAR,Eric Mills Inside shot...BLOCKED by UNT Steven Sessler.       Rebounded by UNT Jordan Gibbons.,Turnover,5,5,13,142
+UNT,Samir Yokoyama Inside shot... Missed but with a foul on the play.,Fouled,5,5,14,142
+UNT,Free throw coming up... good!,FreeThrow,5,6,14,142
+UNT,Free throw coming up... good!,FreeThrow,5,7,14,142
+CHAR,William Hallmark 2-point jumper...Missed!       Rebounded by UNT Peter Garber.,Missed,5,7,15,142
+UNT,Curtis Jackson 2-point jumper...Missed!       Rebounded by UNT Andrew Bennett.,Score,5,7,16,142
+UNT,Andrew Bennett 2-point jumper...BLOCKED by Gerald Lara.       Rebounded by UNT Brian Baarda.,Turnover,5,7,17,142
+UNT,Peter Garber 2-point jumper...Missed!       Rebounded by CHAR Richard White.,Score,5,7,18,142
+CHAR,Louis Bruns 2-point jumper...Missed!       Rebounded by CHAR William Hallmark.,Missed,5,7,19,142
+CHAR,Richard White 3-point attempt...Missed!       Rebounded by CHAR Richard White.,Missed,5,7,20,142
+CHAR,David Kozuch 2-point jumper...Score!,Score,7,7,21,142
+UNT,Pierre Harris Inside shot...Score!,Score,7,9,22,142
+CHAR,Gerald Lara 2-point jumper...Score!,Score,9,9,23,142
+UNT,Danny Kan 2-point jumper...Score!,Score,9,11,24,142
+CHAR,James Fretz Inside shot... Missed with a foul on the play.,Fouled,9,11,25,142
+CHAR,Free throw coming up... good!,FreeThrow,10,11,25,142
+UNT,UNT Andrew Bennett lost the ball out of bounds.,Turnover,10,11,26,142
+CHAR,Charles Innis 2-point jumper... Missed with a foul on the play.,Turnover,10,11,27,142
+CHAR,Charles Innis 2-point jumper... Missed with a foul on the play.,FreeThrow,11,11,27,142
+CHAR,Charles Innis 2-point jumper... Missed with a foul on the play.,FreeThrow,12,11,27,142
+UNT,UNT Andrew Bennett lost the ball out of bounds.,Turnover,12,11,28,142
+CHAR,James Fretz Inside shot...Score!,Score,14,11,29,142
+CHAR,William Hallmark steals the ball for CHAR!,Turnover,14,11,30,142
+CHAR,David Kozuch 2-point jumper...Score!,Score,16,11,31,142
+UNT,Jae Opena 2-point jumper...Missed!       Rebounded by UNT Brian Baarda.,Score,16,11,32,142
+UNT,Brian Baarda Inside shot...Score!,Score,16,13,33,142
+UNT,Pierre Harris steals the ball for UNT!,Turnover,16,13,34,142
+UNT,UNT Steven Sessler lost the ball out of bounds.,Turnover,16,13,35,142
+CHAR,Richard White 2-point jumper...Missed!       Rebounded by CHAR William Hallmark.,Missed,16,13,36,142
+CHAR,James Fretz 2-point jumper...Score!       Assisted by: David Kozuch,Score,18,13,37,142
+UNT,UNT: Offensive foul on UNT Peter Garber.,Turnover,18,13,38,142
+CHAR,Gerald Lara Inside shot...BLOCKED by UNT Danny Kan.       Rebounded by UNT Pierre Harris.,Turnover,18,13,39,142
+UNT,Andrew Bennett Inside shot...Score!,Score,18,15,40,142
+CHAR,Gerald Lara Inside shot...Score!,Score,20,15,41,142
+UNT,Michael Palmer 2-point jumper...Score!,Score,20,17,42,142
+CHAR,David Kozuch 3-point attempt...Score!,Score,23,17,43,142
+CHAR,William Hallmark steals the ball for CHAR!,Turnover,23,17,44,142
+CHAR,Gerald Lara 2-point jumper...Missed!       Rebounded by UNT James Mcclone.,Missed,23,17,45,142
+UNT,Steven Sessler Inside shot...Score!,Score,23,19,46,142
+CHAR,Alexander Gaither Inside shot...Missed!       Rebounded by UNT Samir Yokoyama.,Score,23,19,47,142
+UNT,Brian Baarda Inside shot...Score!       Assisted by: Samir Yokoyama,Score,23,21,48,142
+CHAR,Gerald Lara 2-point jumper...Missed!       Rebounded by UNT James Mcclone.,Missed,23,21,49,142
+UNT,Danny Kan 2-point jumper...Missed!       Rebounded by CHAR Charles Innis.,Score,23,21,50,142
+CHAR,William Hallmark 2-point jumper...Missed!       Rebounded by CHAR Gerald Lara.,Missed,23,21,51,142
+CHAR,Jeffery Amin Inside shot...Score!,Score,25,21,52,142
+UNT,Jae Opena Inside shot...Score!,Score,25,23,53,142
+CHAR,Richard White 2-point jumper...Score!,Score,27,23,54,142
+UNT,Steven Sessler 2-point jumper...Score!,Score,27,25,55,142
+CHAR,Gerald Lara 3-point attempt...BLOCKED by UNT Pierre Harris.       Rebounded by CHAR David Kozuch.,Score,27,25,56,142
+CHAR,David Kozuch Inside shot...Missed!       Rebounded by UNT Andrew Bennett.,Score,27,25,57,142
+UNT,Peter Garber 3-point attempt...Score!       Assisted by: Michael Palmer,Score,27,28,58,142
+CHAR,Gerald Lara 3-point attempt...Score!       Assisted by: Louis Bruns,Score,30,28,59,142
+UNT,Andrew Bennett Inside shot...BLOCKED by James Fretz.       Rebounded by UNT Andrew Bennett.,Turnover,30,28,60,142
+UNT,Andrew Bennett 3-point attempt...Score!       Assisted by: Brian Baarda,Score,30,31,61,142
+UNT,Pierre Harris steals the ball for UNT!,Turnover,30,31,62,142
+UNT,Peter Garber 2-point jumper...Score!,Score,30,33,63,142
+CHAR,Jeffery Amin Inside shot...Score!,Score,32,33,64,142
+UNT,UNT: Offensive foul on UNT Andrew Bennett.,Turnover,32,33,65,142
+UNT,James Mcclone steals the ball for UNT!,Turnover,32,33,66,142
+UNT,UNT Danny Kan lost the ball out of bounds.,Turnover,32,33,67,142
+CHAR,Gerald Lara 2-point jumper...Missed!       Rebounded by UNT Brian Baarda.,Missed,32,33,68,142
+UNT,Danny Kan 2-point jumper...Score!,Score,32,35,69,142
+CHAR,William Hallmark 3-point attempt...Score!,Score,35,35,70,142
+UNT,Brian Baarda Inside shot...Score!,Score,35,37,71,142
+,,HALFTIME,35,37,71,142
+CHAR,William Hallmark Inside shot...Score!       Assisted by: Louis Bruns,Score,37,37,72,142
+UNT,Samir Yokoyama 2-point jumper...Score!,Score,37,39,73,142
+CHAR,Jeffery Amin 2-point jumper...Score!,Score,39,39,74,142
+CHAR,Louis Bruns steals the ball for CHAR!,Turnover,39,39,75,142
+CHAR,William Hallmark 3-point attempt...Missed!       Rebounded by UNT James Mcclone.,Miss,39,39,76,142
+UNT,Danny Kan Inside shot...Score!,Score,39,41,77,142
+CHAR,Gerald Lara 2-point jumper...Score!,Score,41,41,78,142
+UNT,Peter Garber 2-point jumper...Score!,Score,41,43,79,142
+CHAR,CHAR James Fretz lost the ball out of bounds.,Out of Bounds,41,43,80,142
+UNT,Jae Opena 2-point jumper...Missed!       Rebounded by CHAR William Hallmark.,Score,41,43,81,142
+CHAR,David Kozuch 2-point jumper...BLOCKED by UNT Danny Kan.       Rebounded by UNT James Mcclone.,Turnover,41,43,82,142
+UNT,Steven Sessler Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: Samir Yokoyama,Score,41,45,83,142
+UNT,       Free throw coming up... rattled out.       Rebounded by CHAR Richard White.,FreeThrow,41,45,83,142
+CHAR,Gerald Lara Inside shot...BLOCKED by UNT Jae Opena.       Rebounded by UNT Peter Garber.,Turnover,41,45,84,142
+UNT,Andrew Bennett Inside shot... Missed but with a foul on the play.,Fouled,41,45,85,142
+UNT,Free throw coming up... rattled out.,FreeThrow,41,45,85,142
+UNT,Free throw coming up... good!,FreeThrow,41,46,85,142
+CHAR,Gerald Lara Inside shot... Missed with a foul on the play.,Fouled,41,46,86,142
+CHAR,Free throw coming up... good!,FreeThrow,42,46,86,142
+CHAR,Free throw coming up... good!,FreeThrow,43,46,86,142
+UNT,UNT Brian Baarda lost the ball out of bounds.,Turnover,43,46,87,142
+UNT,Samir Yokoyama steals the ball for UNT!,Turnover,43,46,88,142
+UNT,Danny Kan Inside shot...Score!       Assisted by: Samir Yokoyama,Score,43,48,89,142
+CHAR,Alexander Gaither 2-point jumper...Missed!       Rebounded by CHAR Gerald Lara.,Missed,43,48,90,142
+CHAR,Richard White 2-point jumper...Missed!       Rebounded by UNT Brian Baarda.,Missed,43,48,91,142
+UNT,Samir Yokoyama 3-point attempt...Score!       Assisted by: Brian Baarda,Score,43,51,92,142
+CHAR,David Kozuch 2-point jumper...Missed!       Rebounded by UNT Brian Baarda.,Missed,43,51,93,142
+UNT,Samir Yokoyama 2-point jumper...Score!       Assisted by: Kurt Fields,Score,43,53,94,142
+CHAR,William Hallmark Inside shot...BLOCKED by UNT James Mcclone.       Rebounded by UNT Pierre Harris.,Turnover,43,53,95,142
+UNT,Samir Yokoyama Inside shot...Score!       Assisted by: Andrew Bennett,Score,43,55,96,142
+CHAR,William Hallmark Inside shot...Missed!       Rebounded by CHAR William Hallmark.,Score,43,55,97,142
+CHAR,James Fretz 3-point attempt...Missed!       Rebounded by UNT James Mcclone.,Miss,43,55,98,142
+UNT,Andrew Bennett Inside shot...Score!       Assisted by: Brian Baarda,Score,43,57,99,142
+CHAR,Gerald Lara 2-point jumper...Score!       Assisted by: William Hallmark,Score,45,57,100,142
+UNT,UNT Peter Garber lost the ball out of bounds.,Turnover,45,57,101,142
+CHAR,James Fretz 2-point jumper...Missed!       Rebounded by UNT Peter Garber.,Missed,45,57,102,142
+UNT,Samir Yokoyama 2-point jumper...Missed!       Rebounded by UNT Brian Baarda.,Score,45,57,103,142
+UNT,UNT Danny Kan lost the ball out of bounds.,Turnover,45,57,104,142
+CHAR,David Kozuch 2-point jumper...Score!       Assisted by: William Hallmark,Score,47,57,105,142
+UNT,James Mcclone Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: Kurt Fields,Score,47,59,106,142
+UNT,       Free throw coming up... rattled out.       Rebounded by CHAR Stanley Mccullough.,FreeThrow,47,59,106,142
+CHAR,David Kozuch Inside shot... Missed with a foul on the play.,Fouled,47,59,107,142
+CHAR,Free throw coming up... good!,FreeThrow,48,59,107,142
+CHAR,Free throw coming up... rattled out.       Rebounded by UNT Andrew Bennett.,FreeThrow,48,59,107,142
+UNT,Andrew Bennett 2-point jumper...Score!       Assisted by: Peter Garber,Score,48,61,108,142
+CHAR,David Kozuch 3-point attempt...Score!,Score,51,61,109,142
+UNT,Peter Garber Inside shot...Score!       Assisted by: Jordan Gibbons,Score,51,63,110,142
+CHAR,Richard White Inside shot...Missed!       Rebounded by CHAR James Fretz.,Score,51,63,111,142
+CHAR,Jeffery Amin 3-point attempt...Missed!       Rebounded by CHAR William Hallmark.,Missed,51,63,112,142
+CHAR,Gerald Lara Inside shot...Score!,Score,53,63,113,142
+UNT,Brian Baarda 2-point jumper...Missed!       Rebounded by CHAR David Kozuch.,Score,53,63,114,142
+CHAR,William Hallmark 2-point jumper...Score!,Score,55,63,115,142
+UNT,Samir Yokoyama 2-point jumper...Missed!       Rebounded by CHAR Charles Innis.,Score,55,63,116,142
+CHAR,Eric Mills 2-point jumper...Missed!       Rebounded by UNT Peter Garber.,Missed,55,63,117,142
+UNT,UNT: Offensive foul on UNT Peter Garber.,Turnover,55,63,118,142
+CHAR,David Kozuch Inside shot...Missed!       Rebounded by CHAR Stanley Mccullough.,Score,55,63,119,142
+CHAR,William Hallmark 3-point attempt...Missed!       Rebounded by UNT Jae Opena.,Miss,55,63,120,142
+UNT,Andrew Bennett Inside shot...Score!       Assisted by: Steven Sessler,Score,55,65,121,142
+CHAR,Charles Innis 2-point jumper...Score!,Score,57,65,122,142
+UNT,James Mcclone Inside shot... Missed but with a foul on the play.,Fouled,57,65,123,142
+UNT,Free throw coming up... good!,FreeThrow,57,66,123,142
+UNT,Free throw coming up... rattled out.       Rebounded by CHAR David Kozuch.,FreeThrow,57,66,123,142
+CHAR,Jeffery Amin Inside shot...Missed!       Rebounded by CHAR Gerald Lara.,Score,57,66,124,142
+CHAR,Richard White Inside shot...Score!,Score,59,66,125,142
+UNT,Brian Baarda 2-point jumper...Score!       Assisted by: Andrew Bennett,Score,59,68,126,142
+CHAR,James Fretz 3-point attempt...Score!       Assisted by: Charles Innis,Score,62,68,127,142
+UNT,UNT Samir Yokoyama lost the ball out of bounds.,Turnover,62,68,128,142
+CHAR,William Hallmark Inside shot... Missed with a foul on the play.,Fouled,62,68,129,142
+CHAR,Free throw coming up... good!,FreeThrow,63,68,129,142
+CHAR,Free throw coming up... good!,FreeThrow,64,68,129,142
+UNT,Peter Garber 2-point jumper...Score!       Assisted by: Brian Baarda,Score,64,70,130,142
+CHAR,Richard White 3-point attempt...Missed!       Rebounded by UNT Michael Palmer.,Miss,64,70,131,142
+UNT,Michael Palmer 3-point attempt...Missed!Rebounded by CHAR James Fretz.,Score,64,70,132,142
+CHAR,James Fretz 2-point jumper...Missed!       Rebounded by UNT Brian Baarda.,Missed,64,70,133,142
+CHAR,Calvin Dobson steals the ball for CHAR!,Turnover,64,70,134,142
+CHAR,William Hallmark 2-point jumper...Missed!       Rebounded by UNT Kurt Fields.,Missed,64,70,135,142
+UNT,Danny Kan 2-point jumper...Missed!       Rebounded by UNT Danny Kan.,Score,64,70,136,142
+UNT,UNT Jordan Gibbons lost the ball out of bounds.,Turnover,64,70,137,142
+CHAR,William Hallmark 3-point attempt...Missed!       Rebounded by UNT Danny Kan.,Miss,64,70,138,142
+UNT,UNT Steven Sessler lost the ball out of bounds.,Turnover,64,70,139,142
+CHAR,David Kozuch 2-point jumper...Score!,Score,66,70,140,142
+UNT,Steven Sessler 2-point jumper...Missed!       Rebounded by UNT Danny Kan.,Score,66,70,141,142
+UNT,Samir Yokoyama 2-point jumper...Missed!       Rebounded by CHAR Charles Innis.,Score,66,70,142,142
+CHAR,Jeffery Amin Inside shot...Score!       Assisted by: Gerald Lara,Score,68,70,143,142
+,Match Complete,FinalScore,68,70,143,142

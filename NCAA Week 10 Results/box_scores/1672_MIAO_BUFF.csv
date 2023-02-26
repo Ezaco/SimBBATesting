@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Miami (OH),RedHawks,48,26,0,74
+Buffalo,Bulls,30,24,0,54
+""
+""
+=====Miami (OH) Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Brian Hilf,25,13,2,6,0.3333333333333333,0,3,0.0,2,2,1.0,6,3,3,1,0,0,0
+Steven Cox,25,20,6,9,0.6666666666666666,3,3,1.0,0,0,0,15,5,1,2,1,0,0
+Frank Villegas,25,17,3,5,0.6,1,2,0.5,0,0,0,7,8,1,2,0,2,2
+Roger Kimbro,25,20,5,9,0.5555555555555556,1,3,0.3333333333333333,0,0,0,11,4,2,1,0,2,0
+Kirk Fortenberry,20,8,0,3,0.0,0,2,0.0,0,0,0,0,2,1,1,0,1,0
+James Weir,25,19,3,8,0.375,2,5,0.4,0,0,0,8,1,1,1,1,0,1
+Thomas Bowers,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Herman Navarro,20,20,7,10,0.7,0,1,0.0,1,2,0.5,15,0,2,0,0,0,0
+James Merry,7,15,4,7,0.5714285714285714,0,0,0,0,0,0,8,0,0,0,1,0,0
+Hasmik Jones,5,4,2,2,1.0,0,0,0,0,0,0,4,1,0,0,0,0,0
+Gonzalo Bonilla,5,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Michael Rosenfeld,5,3,0,1,0.0,0,1,0.0,0,0,0,0,2,0,0,0,0,0
+David Belleau,8,6,0,3,0.0,0,1,0.0,0,0,0,0,3,2,0,0,0,0
+""
+=====Buffalo Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Paul Orr,25,13,3,6,0.5,2,4,0.5,0,0,0,8,5,0,1,2,1,0
+William Yang,25,16,3,7,0.42857142857142855,1,2,0.5,0,0,0,7,6,1,0,2,2,0
+Dalton Redman,25,11,3,5,0.6,0,1,0.0,0,0,0,6,2,3,0,0,1,0
+Mark Green,5,5,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Clifton Sligh,20,10,2,5,0.4,0,0,0,2,2,1.0,6,4,1,0,0,0,0
+Richard Allen,20,8,2,3,0.6666666666666666,0,0,0,1,1,1.0,5,3,0,0,0,1,0
+Christopher Lovell,25,17,0,6,0.0,0,4,0.0,2,2,1.0,2,4,0,1,2,4,1
+Anthony Slawson,7,3,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,1,1
+Stephen Kelley,25,19,4,9,0.4444444444444444,1,2,0.5,5,5,1.0,14,0,0,0,0,1,1
+Todd Petrillo,5,3,1,1,1.0,0,0,0,0,0,0,2,1,0,0,0,0,0
+Richard Holbrook,8,2,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0
+Harvey Hoffman,5,4,1,1,1.0,0,0,0,0,0,0,2,1,0,0,0,2,1
+Thomas Velazco,5,2,0,1,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Miami (OH),Buffalo
+Points,74,54
+Possessions,77,72
+FGM,25,16
+FGA,42,34
+FGPercent,0.5952380952380952,0.47058823529411764
+3PM,7,4
+3PA,21,13
+3P%,0.3333333333333333,0.3076923076923077
+FTM,3,10
+FTA,4,10
+FT%,0.75,1.0
+Rebounds,30,29
+OffRebounds,11,6
+DefRebounds,19,23
+Assists,14,5
+Steals,9,0
+Blocks,3,2
+Total Turnovers,13,21
+Largest Lead,27,1

@@ -1,0 +1,166 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+STAN,UTAH,75,49,146
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+UTAH,UTAH wins the tipoff!,Tipoff,0,0,0,146
+UTAH,Hipolito Lerma 2-point jumper...Score!,Score,0,2,1,146
+UTAH,Howard Wen steals the ball for UTAH!,Turnover,0,2,2,146
+UTAH,Hipolito Lerma Inside shot...Score!,Score,0,4,3,146
+STAN,Robert Akter Inside shot...Missed!       Rebounded by UTAH Martin Cintron.,Score,0,4,4,146
+UTAH,Hipolito Lerma Inside shot...Score!,Score,0,6,5,146
+STAN,Scott Larimer Inside shot...Score!,Score,2,6,6,146
+UTAH,UTAH Kevin Hurst lost the ball out of bounds.,Turnover,2,6,7,146
+UTAH,Shawn Fuller steals the ball for UTAH!,Turnover,2,6,8,146
+UTAH,Martin Cintron 2-point jumper...Missed!       Rebounded by STAN Jeffrey Lawson.,Score,2,6,9,146
+STAN,Darian Constant 2-point jumper...Missed!       Rebounded by UTAH Shawn Fuller.,Missed,2,6,10,146
+UTAH,Hipolito Lerma 3-point attempt...Missed!       Rebounded by UTAH Howard Wen.,Score,2,6,11,146
+UTAH,Timothy Plungis 2-point jumper...Score!       Assisted by: Brian Portnoy,Score,2,8,12,146
+STAN,Scott Larimer 3-point attempt...Missed!       Rebounded by UTAH Shawn Fuller.,Miss,2,8,13,146
+UTAH,Brian Portnoy 2-point jumper...Missed!       Rebounded by STAN Scott Larimer.,Score,2,8,14,146
+STAN,Darryl Herd 2-point jumper...Missed!       Rebounded by UTAH Martin Cintron.,Missed,2,8,15,146
+UTAH,UTAH Kenneth Brittain lost the ball out of bounds.,Turnover,2,8,16,146
+STAN,John Anderson 2-point jumper...Score!,Score,4,8,17,146
+UTAH,UTAH: Offensive foul on UTAH Timothy Plungis.,Turnover,4,8,18,146
+STAN,John Anderson 3-point attempt...Score!       Assisted by: Darryl Herd,Score,7,8,20,146
+UTAH,William Butman Inside shot... Missed but with a foul on the play.,Fouled,7,8,21,146
+UTAH,Free throw coming up... rattled out.,FreeThrow,7,8,21,146
+UTAH,Free throw coming up... good!,FreeThrow,7,9,21,146
+STAN,Manuel Villegas 2-point jumper...Score!,Score,9,9,22,146
+UTAH,Kenneth Brittain 3-point attempt...Missed!Rebounded by STAN Nigel Hall.,Score,9,9,23,146
+STAN,Nigel Hall 2-point jumper...Score!,Score,11,9,24,146
+UTAH,Martin Cintron 2-point jumper...Missed!       Rebounded by UTAH Martin Cintron.,Score,11,9,25,146
+UTAH,Hipolito Lerma 2-point jumper...Missed!       Rebounded by STAN Robert Akter.,Score,11,9,26,146
+STAN,Manuel Villegas Inside shot...Score!       Assisted by: Darryl Herd,Score,13,9,27,146
+UTAH,Hipolito Lerma Inside shot...Score!,Score,13,11,28,146
+STAN,Manuel Villegas 3-point attempt...Score!,Score,16,11,29,146
+UTAH,James Nyman Inside shot...Missed!       Rebounded by UTAH Kenneth Brittain.,Score,16,11,30,146
+UTAH,Damon Collins 3-point attempt...Missed!Rebounded by STAN George Gilliam.,Score,16,11,31,146
+STAN,Jeffrey Lawson Inside shot...Score!       Assisted by: Manuel Villegas,Score,18,11,32,146
+UTAH,Martin Cintron Inside shot...Score!       Assisted by: William Butman,Score,18,13,33,146
+STAN,Scott Larimer 2-point jumper...Score!,Score,20,13,34,146
+UTAH,Shawn Fuller 2-point jumper...BLOCKED by Manuel Villegas.       Rebounded by STAN Darryl Herd.,Turnover,20,13,35,146
+STAN,Robert Akter Inside shot...Score!       Assisted by: Nigel Hall,Score,22,13,36,146
+UTAH,Damon Collins 2-point jumper...Score!       Assisted by: Martin Cintron,Score,22,15,37,146
+STAN,George Gilliam Inside shot...Score!,Score,24,15,38,146
+UTAH,Damon Collins Inside shot...Score!       Assisted by: Martin Cintron,Score,24,17,39,146
+STAN,STAN Scott Larimer lost the ball out of bounds.,Out of Bounds,24,17,40,146
+UTAH,Brian Portnoy 3-point attempt...Missed!Rebounded by STAN Manuel Villegas.,Score,24,17,41,146
+STAN,Scott Larimer 2-point jumper...Missed!       Rebounded by UTAH James Nyman.,Missed,24,17,42,146
+UTAH,Martin Cintron 2-point jumper...Missed!       Rebounded by STAN Manuel Villegas.,Score,24,17,43,146
+STAN,Robert Akter 2-point jumper...Missed!       Rebounded by STAN Darryl Herd.,Missed,24,17,44,146
+STAN,Robert Akter Inside shot...Score!,Score,26,17,45,146
+UTAH,Hipolito Lerma Inside shot...Score!       Assisted by: Kevin Hurst,Score,26,19,46,146
+STAN,Robert Akter Inside shot...Score!       Assisted by: Jeffrey Lawson,Score,28,19,47,146
+UTAH,Howard Wen Inside shot...Score!       Assisted by: Hipolito Lerma,Score,28,21,48,146
+STAN,Darian Constant 2-point jumper...Score!       Assisted by: Manuel Villegas,Score,30,21,49,146
+UTAH,Timothy Plungis Inside shot...Score!       Assisted by: Hipolito Lerma,Score,30,23,50,146
+STAN,John Anderson Inside shot...Score!,Score,32,23,51,146
+UTAH,UTAH Robert Oneil lost the ball out of bounds.,Turnover,32,23,52,146
+STAN,STAN Jeffrey Lawson lost the ball out of bounds.,Out of Bounds,32,23,53,146
+UTAH,James Nyman 2-point jumper...Missed!       Rebounded by UTAH Hipolito Lerma.,Score,32,23,54,146
+STAN,Jeffrey Lawson steals the ball for STAN!,Turnover,32,23,55,146
+UTAH,Howard Wen steals the ball for UTAH!,Turnover,32,23,56,146
+UTAH,Timothy Plungis 2-point jumper...Score!       Assisted by: Martin Cintron,Score,32,25,57,146
+STAN,Darian Constant 2-point jumper...Missed!       Rebounded by STAN Manuel Villegas.,Missed,32,25,58,146
+STAN,Nigel Hall Inside shot... Missed with a foul on the play.,Fouled,32,25,59,146
+STAN,Free throw coming up... good!,FreeThrow,33,25,59,146
+STAN,Free throw coming up... good!,FreeThrow,34,25,59,146
+UTAH,Brian Portnoy Inside shot...Score!,Score,34,27,60,146
+STAN,Jeffrey Lawson 3-point attempt...Missed!       Rebounded by UTAH Hipolito Lerma.,Miss,34,27,61,146
+UTAH,Timothy Plungis Inside shot...Missed!       Rebounded by STAN Scott Larimer.,Score,34,27,62,146
+STAN,Manuel Villegas 3-point attempt...Missed!       Rebounded by STAN Scott Larimer.,Missed,34,27,63,146
+STAN,Darian Constant Inside shot...Score!,Score,36,27,64,146
+STAN,Gregory Howard steals the ball for STAN!,Turnover,36,27,65,146
+STAN,Manuel Villegas Inside shot...Score!,Score,38,27,66,146
+UTAH,James Nyman 2-point jumper...Missed!       Rebounded by STAN Manuel Villegas.,Score,38,27,67,146
+STAN,Darryl Herd Inside shot...Score! Foul on the play and one!       Assisted by: Jeffrey Lawson,Score,40,27,68,146
+STAN,Free throw coming up... good!,FreeThrow,41,27,68,146
+UTAH,UTAH: Offensive foul on UTAH Timothy Plungis.,Turnover,41,27,69,146
+STAN,STAN: Offensive foul on STAN Gregory Carter.,Foul,41,27,70,146
+UTAH,James Nyman 2-point jumper...Missed!       Rebounded by STAN Nigel Hall.,Score,41,27,71,146
+STAN,STAN Robert Akter lost the ball out of bounds.,Out of Bounds,41,27,72,146
+UTAH,Martin Cintron 3-point attempt...Missed!Rebounded by STAN Scott Larimer.,Score,41,27,73,146
+,,HALFTIME,41,27,73,146
+STAN,Scott Larimer Inside shot...Score!,Score,43,27,74,146
+STAN,Robert Akter steals the ball for STAN!,Turnover,43,27,75,146
+STAN,Scott Larimer 3-point attempt...Missed!       Rebounded by UTAH Damon Collins.,Miss,43,27,76,146
+UTAH,Timothy Plungis 2-point jumper...Missed!       Rebounded by UTAH Hipolito Lerma.,Score,43,27,77,146
+UTAH,UTAH Damon Collins lost the ball out of bounds.,Turnover,43,27,78,146
+STAN,Scott Larimer Inside shot...Score!,Score,45,27,79,146
+UTAH,Howard Wen Inside shot...Score! Fouled and we have a free throw folks!,Score,45,29,80,146
+UTAH,Free throw coming up... good!,FreeThrow,45,30,80,146
+STAN,STAN: Offensive foul on STAN George Gilliam.,Foul,45,30,81,146
+UTAH,UTAH Hipolito Lerma lost the ball out of bounds.,Turnover,45,30,82,146
+STAN,Scott Larimer 2-point jumper...Missed!       Rebounded by STAN George Gilliam.,Missed,45,30,83,146
+STAN,Jeffrey Lawson 2-point jumper...Score!,Score,47,30,84,146
+UTAH,UTAH Timothy Plungis lost the ball out of bounds.,Turnover,47,30,85,146
+STAN,Scott Larimer Inside shot...Score!,Score,49,30,86,146
+UTAH,Hipolito Lerma 2-point jumper...Missed!       Rebounded by UTAH Martin Cintron.,Score,49,30,87,146
+UTAH,UTAH Martin Cintron lost the ball out of bounds.,Turnover,49,30,88,146
+STAN,George Gilliam Inside shot...BLOCKED by UTAH Brian Portnoy.       Rebounded by UTAH Hipolito Lerma.,Turnover,49,30,89,146
+UTAH,Timothy Plungis 2-point jumper...Missed!       Rebounded by UTAH William Butman.,Score,49,30,90,146
+UTAH,Hipolito Lerma 2-point jumper...Missed!       Rebounded by STAN John Anderson.,Score,49,30,91,146
+STAN,Randall Moore 2-point jumper...Score!,Score,51,30,92,146
+UTAH,William Butman Inside shot...Score!       Assisted by: Timothy Plungis,Score,51,32,93,146
+UTAH,Hipolito Lerma steals the ball for UTAH!,Turnover,51,32,94,146
+STAN,Nigel Hall steals the ball for STAN!,Turnover,51,32,95,146
+STAN,Nicholas Peetoom 3-point attempt...Missed!       Rebounded by STAN Robert Akter.,Missed,51,32,96,146
+STAN,Nigel Hall Inside shot... Missed with a foul on the play.,Fouled,51,32,97,146
+STAN,Free throw coming up... good!,FreeThrow,52,32,97,146
+STAN,Free throw coming up... good!,FreeThrow,53,32,97,146
+UTAH,Shawn Fuller Inside shot...Score!,Score,53,34,98,146
+STAN,Darryl Herd Inside shot...Score!       Assisted by: Scott Larimer,Score,55,34,99,146
+UTAH,Brian Portnoy 2-point jumper...Missed!       Rebounded by STAN Darryl Herd.,Score,55,34,100,146
+STAN,Manuel Villegas 3-point attempt...Missed!       Rebounded by STAN Manuel Villegas.,Missed,55,34,101,146
+STAN,STAN: Offensive foul on STAN Manuel Villegas.,Foul,55,34,102,146
+UTAH,Brian Portnoy Inside shot...Score!,Score,55,36,103,146
+STAN,Gregory Carter 2-point jumper...BLOCKED by UTAH Hipolito Lerma.       Rebounded by UTAH Kevin Hurst.,Turnover,55,36,104,146
+UTAH,Timothy Plungis 3-point attempt...Missed!Rebounded by STAN Robert Akter.,Score,55,36,105,146
+STAN,John Anderson Inside shot...Missed!       Rebounded by UTAH Hipolito Lerma.,Score,55,36,106,146
+UTAH,Martin Cintron 2-point jumper...Missed!       Rebounded by STAN Nigel Hall.,Score,55,36,107,146
+STAN,STAN: Offensive foul on STAN Manuel Villegas.,Foul,55,36,108,146
+UTAH,James Nyman 3-point attempt...Score!       Assisted by: Brian Portnoy,Score,55,39,109,146
+STAN,Darryl Herd Inside shot...Score!       Assisted by: Nigel Hall,Score,57,39,110,146
+UTAH,Timothy Plungis Inside shot... Missed but with a foul on the play.,Fouled,57,39,111,146
+UTAH,Free throw coming up... good!,FreeThrow,57,40,111,146
+UTAH,Free throw coming up... good!,FreeThrow,57,41,111,146
+STAN,Nicholas Peetoom Inside shot...Score! Foul on the play and one!,Score,59,41,112,146
+STAN,Free throw coming up... rattled out.       Rebounded by UTAH Timothy Plungis.,FreeThrow,59,41,112,146
+STAN,Manuel Villegas steals the ball for STAN!,Turnover,59,41,113,146
+STAN,Scott Larimer 2-point jumper...Missed!       Rebounded by STAN Manuel Villegas.,Missed,59,41,114,146
+STAN,Darryl Herd 2-point jumper...Missed!       Rebounded by UTAH Martin Cintron.,Missed,59,41,115,146
+UTAH,Damon Collins 2-point jumper...Missed!       Rebounded by STAN Nigel Hall.,Score,59,41,116,146
+STAN,Jeffrey Lawson Inside shot...Score!       Assisted by: Darryl Herd,Score,61,41,117,146
+UTAH,Hipolito Lerma Inside shot...Score!,Score,61,43,118,146
+STAN,Robert Akter Inside shot...Score!       Assisted by: Darryl Herd,Score,63,43,119,146
+UTAH,UTAH: Shot clock violation on UTAH Hipolito Lerma.,Turnover,63,43,120,146
+STAN,Manuel Villegas Inside shot...Score!       Assisted by: Jeffrey Lawson,Score,65,43,121,146
+UTAH,UTAH Martin Cintron lost the ball out of bounds.,Turnover,65,43,122,146
+STAN,Robert Akter 2-point jumper...Missed!       Rebounded by UTAH James Nyman.,Missed,65,43,123,146
+UTAH,Martin Cintron 2-point jumper...Missed!       Rebounded by STAN Robert Akter.,Score,65,43,124,146
+STAN,Nigel Hall Inside shot...Score!,Score,67,43,125,146
+STAN,Darryl Herd steals the ball for STAN!,Turnover,67,43,126,146
+STAN,Scott Larimer Inside shot...Score!       Assisted by: Randall Moore,Score,69,43,127,146
+UTAH,James Nyman 2-point jumper...Missed!       Rebounded by STAN John Anderson.,Score,69,43,128,146
+STAN,Jeffrey Lawson Inside shot...Score!       Assisted by: Darryl Herd,Score,71,43,129,146
+UTAH,Hipolito Lerma 2-point jumper...BLOCKED by Nigel Hall.       Rebounded by UTAH Hipolito Lerma.,Turnover,71,43,130,146
+UTAH,Howard Wen 2-point jumper...Missed!       Rebounded by STAN Manuel Villegas.,Score,71,43,131,146
+STAN,Robert Akter 3-point attempt...Score!       Assisted by: Jeffrey Lawson,Score,74,43,132,146
+UTAH,Damon Collins Inside shot...Score!,Score,74,45,133,146
+UTAH,Hipolito Lerma steals the ball for UTAH!,Turnover,74,45,134,146
+UTAH,Martin Cintron 2-point jumper...BLOCKED by Nigel Hall.       Rebounded by UTAH Martin Cintron.,Turnover,74,45,135,146
+UTAH,Martin Cintron 2-point jumper...BLOCKED by Nicholas Peetoom.       Rebounded by STAN Jeffrey Lawson.,Turnover,74,45,136,146
+STAN,Manuel Villegas 2-point jumper...BLOCKED by UTAH Martin Cintron.       Rebounded by UTAH Howard Wen.,Turnover,74,45,137,146
+UTAH,Shawn Fuller Inside shot...Score!,Score,74,47,138,146
+UTAH,Timothy Plungis steals the ball for UTAH!,Turnover,74,47,139,146
+UTAH,Martin Cintron 2-point jumper...Missed!       Rebounded by STAN Manuel Villegas.,Score,74,47,140,146
+STAN,Manuel Villegas Inside shot... Missed with a foul on the play.,Fouled,74,47,141,146
+STAN,Free throw coming up... good!,FreeThrow,75,47,141,146
+STAN,Free throw coming up... rattled out.       Rebounded by STAN Robert Akter.,FreeThrow,75,47,141,146
+UTAH,Hipolito Lerma steals the ball for UTAH!,Turnover,75,47,142,146
+UTAH,Damon Collins Inside shot...Missed!       Rebounded by STAN Manuel Villegas.,Score,75,47,143,146
+STAN,John Anderson 2-point jumper...Missed!       Rebounded by UTAH James Nyman.,Missed,75,47,144,146
+UTAH,Damon Collins Inside shot...Score!,Score,75,49,145,146
+STAN,John Anderson 2-point jumper...Missed!       Rebounded by UTAH Martin Cintron.,Missed,75,49,146,146
+UTAH,Brian Portnoy 2-point jumper...Missed!       Rebounded by UTAH Shawn Fuller.,Score,75,49,147,146
+,Match Complete,FinalScore,75,49,147,146

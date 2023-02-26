@@ -1,0 +1,192 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+SMC,USD,74,75,164
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+SMC,SMC wins the tipoff!,Tipoff,0,0,0,146
+USD,Keneth Pettit steals the ball for USD!,Turnover,0,0,1,146
+USD,Keneth Pettit Inside shot...Missed!       Rebounded by SMC Philip Dirksen.,Score,0,0,2,146
+SMC,Nicholas Garcia 3-point attempt...Missed!       Rebounded by USD Ralph Barnes.,Miss,0,0,3,146
+USD,Keneth Pettit 2-point jumper...Score!,Score,0,2,5,146
+SMC,Milind Hussain Inside shot...BLOCKED by USD John Hagerty.       Rebounded by USD Leopoldo Zuniga.,Turnover,0,2,6,146
+USD,Kiet Soon Inside shot...Score!,Score,0,4,7,146
+SMC,Michael Speed Inside shot...Score!,Score,2,4,8,146
+USD,Ralph Barnes 2-point jumper...Missed!       Rebounded by USD Mario Spencer.,Score,2,4,10,146
+USD,John Hagerty Inside shot...Score! Fouled and we have a free throw folks!,Score,2,6,11,146
+USD,Free throw coming up... good!,FreeThrow,2,7,11,146
+SMC,Michael Speed 3-point attempt...Missed!       Rebounded by USD Kiet Soon.,Miss,2,7,12,146
+USD,John Hagerty Inside shot...BLOCKED by Nicholas Garcia.       Rebounded by SMC Abraham Lawson.,Turnover,2,7,13,146
+SMC,Philip Dirksen 2-point jumper...Missed!       Rebounded by USD Ralph Barnes.,Missed,2,7,14,146
+USD,John Hagerty Inside shot...Score! Fouled and we have a free throw folks!,Score,2,9,15,146
+USD,       Free throw coming up... rattled out.       Rebounded by USD Ralph Barnes.,FreeThrow,2,9,15,146
+USD,Keneth Pettit Inside shot...BLOCKED by Michael Speed.       Rebounded by SMC Nicholas Garcia.,Turnover,2,9,16,146
+SMC,Reyes Partridge Inside shot...Score!,Score,4,9,17,146
+USD,John Hagerty 2-point jumper...Missed!       Rebounded by USD Ralph Barnes.,Score,4,9,18,146
+USD,Kiet Soon Inside shot...Score!       Assisted by: Mario Spencer,Score,4,11,19,146
+SMC,Michael Speed Inside shot...BLOCKED by USD John Hagerty.       Rebounded by USD Leopoldo Zuniga.,Turnover,4,11,20,146
+SMC,Milind Hussain steals the ball for SMC!,Turnover,4,11,21,146
+SMC,Nicholas Garcia Inside shot...Score!       Assisted by: Philip Dirksen,Score,6,11,22,146
+USD,USD: Offensive foul on USD Ralph Barnes.,Turnover,6,11,23,146
+SMC,Philip Dirksen Inside shot...Score!       Assisted by: Michael Speed,Score,8,11,24,146
+USD,Keneth Pettit 2-point jumper...Missed!       Rebounded by SMC Michael Speed.,Score,8,11,25,146
+SMC,Michael Speed Inside shot...Score!       Assisted by: Abraham Lawson,Score,10,11,26,146
+USD,Ralph Barnes 3-point attempt...Score!       Assisted by: Mario Spencer,Score,10,14,27,146
+SMC,Milind Hussain Inside shot...BLOCKED by USD John Hagerty.       Rebounded by USD Kiet Soon.,Turnover,10,14,28,146
+USD,Dennis Harris 2-point jumper...Missed!       Rebounded by USD Ralph Barnes.,Score,10,14,29,146
+USD,Kiet Soon 3-point attempt...Missed!Rebounded by SMC Nicholas Garcia.,Score,10,14,30,146
+SMC,Philip Dirksen Inside shot...BLOCKED by USD Keneth Pettit.       Rebounded by USD Kiet Soon.,Turnover,10,14,31,146
+USD,Mario Spencer 3-point attempt...Missed!Rebounded by SMC Philip Dirksen.,Score,10,14,32,146
+SMC,SMC: Offensive foul on SMC Milind Hussain.,Foul,10,14,33,146
+USD,Leopoldo Zuniga 3-point attempt...Missed!Rebounded by SMC Philip Dirksen.,Score,10,14,34,146
+SMC,Booker Lewandowski 3-point attempt...Missed!       Rebounded by USD Mack Flowers.,Miss,10,14,35,146
+USD,Merrill Lowery 3-point attempt...Missed!Rebounded by SMC Nicholas Garcia.,Score,10,14,36,146
+SMC,SMC Milind Hussain lost the ball out of bounds.,Out of Bounds,10,14,37,146
+USD,Ralph Barnes Inside shot...Missed!       Rebounded by SMC Michael Speed.,Score,10,14,38,146
+SMC,Abraham Lawson 3-point attempt...Missed!       Rebounded by USD Kiet Soon.,Miss,10,14,39,146
+USD,John Hagerty Inside shot...Missed!       Rebounded by USD John Hagerty.,Score,10,14,40,146
+USD,Merrill Lowery 2-point jumper...BLOCKED by Abraham Lawson.       Rebounded by SMC Reyes Partridge.,Turnover,10,14,41,146
+SMC,SMC Abraham Lawson lost the ball out of bounds.,Out of Bounds,10,14,42,146
+USD,Ralph Barnes Inside shot...BLOCKED by Philip Dirksen.       Rebounded by SMC Booker Lewandowski.,Turnover,10,14,43,146
+SMC,Michael Speed Inside shot...Score!       Assisted by: Philip Dirksen,Score,12,14,44,146
+USD,Kiet Soon 2-point jumper...Missed!       Rebounded by SMC Nicholas Garcia.,Score,12,14,45,146
+SMC,Nicholas Garcia Inside shot...Score!,Score,14,14,46,146
+USD,Keneth Pettit 2-point jumper...Missed!       Rebounded by USD Kiet Soon.,Score,14,14,47,146
+USD,Dennis Harris 3-point attempt...Missed!       Rebounded by USD John Hagerty.,Score,14,14,48,146
+USD,Walter Cooper 3-point attempt...Missed!       Rebounded by USD Kiet Soon.,Score,14,14,49,146
+USD,Mack Flowers 3-point attempt...Score!       Assisted by: Merrill Lowery,Score,14,17,50,146
+SMC,Nicholas Garcia 3-point attempt...Missed!       Rebounded by USD Mack Flowers.,Miss,14,17,51,146
+USD,Keneth Pettit Inside shot...Score!,Score,14,19,52,146
+SMC,Michael Speed 3-point attempt...Missed!       Rebounded by USD Kiet Soon.,Miss,14,19,53,146
+USD,Dennis Harris 2-point jumper...Missed!       Rebounded by SMC Booker Lewandowski.,Score,14,19,54,146
+USD,Merrill Lowery steals the ball for USD!,Turnover,14,19,55,146
+USD,Kiet Soon 2-point jumper...Score!,Score,14,21,56,146
+SMC,Booker Lewandowski Inside shot...Score!,Score,16,21,57,146
+USD,Keneth Pettit Inside shot...Score!       Assisted by: Walter Cooper,Score,16,23,58,146
+SMC,Philip Dirksen Inside shot...Score!       Assisted by: Nicholas Garcia,Score,18,23,59,146
+USD,Walter Cooper 2-point jumper...Missed!       Rebounded by USD Ralph Barnes.,Score,18,23,60,146
+SMC,Abraham Lawson steals the ball for SMC!,Turnover,18,23,61,146
+SMC,Philip Dirksen Inside shot...Score!,Score,20,23,62,146
+USD,Mack Flowers 3-point attempt...Score!       Assisted by: Merrill Lowery,Score,20,26,63,146
+USD,Kiet Soon steals the ball for USD!,Turnover,20,26,64,146
+USD,Kiet Soon Inside shot...Score!,Score,20,28,65,146
+SMC,Booker Lewandowski 2-point jumper...Missed!       Rebounded by USD Ralph Barnes.,Missed,20,28,66,146
+USD,Merrill Lowery Inside shot...Score! Fouled and we have a free throw folks!,Score,20,30,67,146
+USD,Free throw coming up... good!,FreeThrow,20,31,67,146
+SMC,Booker Lewandowski 3-point attempt...Score!       Assisted by: Abraham Lawson,Score,23,31,68,146
+USD,Walter Cooper Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: John Hagerty,Score,23,33,69,146
+USD,Free throw coming up... good!,FreeThrow,23,34,69,146
+SMC,Michael Speed 2-point jumper...Missed!       Rebounded by SMC Nicholas Garcia.,Missed,23,34,70,146
+SMC,Michael Speed 2-point jumper...Missed!       Rebounded by USD Merrill Lowery.,Missed,23,34,71,146
+USD,Keneth Pettit 2-point jumper...Missed!       Rebounded by USD Ralph Barnes.,Score,23,34,72,146
+USD,Keneth Pettit 2-point jumper...Score!       Assisted by: Merrill Lowery,Score,23,36,73,146
+,,HALFTIME,23,36,73,146
+SMC,Philip Dirksen Inside shot...Score!       Assisted by: Nicholas Garcia,Score,25,36,74,146
+USD,Keneth Pettit 2-point jumper...Missed!       Rebounded by SMC Philip Dirksen.,Score,25,36,75,146
+SMC,Michael Speed 3-point attempt...Missed!       Rebounded by USD Mario Spencer.,Miss,25,36,76,146
+USD,Sylvester Wagner 3-point attempt...Score!,Score,25,39,77,146
+SMC,Booker Lewandowski 2-point jumper...Missed!       Rebounded by USD Keneth Pettit.,Missed,25,39,78,146
+USD,USD John Hagerty lost the ball out of bounds.,Turnover,25,39,79,146
+SMC,Reyes Partridge Inside shot...BLOCKED by USD Ralph Barnes.       Rebounded by SMC Philip Dirksen.,Turnover,25,39,80,146
+SMC,Booker Lewandowski 3-point attempt...Missed!       Rebounded by USD Mack Flowers.,Miss,25,39,81,146
+USD,USD Mario Spencer lost the ball out of bounds.,Turnover,25,39,82,146
+SMC,Nicholas Garcia 3-point attempt...Score!       Assisted by: Booker Lewandowski,Score,28,39,83,146
+USD,Mack Flowers Inside shot...Score! Fouled and we have a free throw folks!,Score,28,41,84,146
+USD,Free throw coming up... good!,FreeThrow,28,42,84,146
+SMC,Booker Lewandowski Inside shot...Score! Foul on the play and one!,Score,30,42,85,146
+SMC,Free throw coming up... good!,FreeThrow,31,42,85,146
+USD,Mario Spencer 2-point jumper...Missed!       Rebounded by SMC Philip Dirksen.,Score,31,42,86,146
+SMC,Philip Dirksen Inside shot...BLOCKED by USD John Hagerty.       Rebounded by USD Jeffrey Degrandchamp.,Turnover,31,42,87,146
+USD,Mack Flowers 2-point jumper...Missed!       Rebounded by SMC Philip Dirksen.,Score,31,42,88,146
+SMC,Philip Dirksen Inside shot...Score!,Score,33,42,89,146
+USD,Ralph Barnes Inside shot...Score!       Assisted by: Mack Flowers,Score,33,44,90,146
+SMC,SMC Nicholas Garcia lost the ball out of bounds.,Out of Bounds,33,44,91,146
+USD,John Hagerty 2-point jumper...Score! Foul on the play and we go to a free throw!       Assisted by: Keneth Pettit,Score,33,46,92,146
+USD,Free throw coming up... rattled out.       Rebounded by SMC Philip Dirksen.,FreeThrow,33,46,92,146
+SMC,Reyes Partridge Inside shot...Score!,Score,35,46,93,146
+USD,John Hagerty 2-point jumper...BLOCKED by Reyes Partridge.       Rebounded by SMC Philip Dirksen.,Turnover,35,46,94,146
+SMC,Philip Dirksen Inside shot... Missed with a foul on the play.,Fouled,35,46,95,146
+SMC,Free throw coming up... good!,FreeThrow,36,46,95,146
+SMC,Free throw coming up... good!,FreeThrow,37,46,95,146
+USD,Keneth Pettit 2-point jumper...Missed!       Rebounded by SMC Booker Lewandowski.,Score,37,46,96,146
+SMC,Abraham Lawson 3-point attempt...Score!,Score,40,46,97,146
+USD,Ralph Barnes Inside shot...BLOCKED by Reyes Partridge.       Rebounded by USD Ralph Barnes.,Turnover,40,46,98,146
+USD,Kiet Soon 2-point jumper...Missed!       Rebounded by SMC Abraham Lawson.,Score,40,46,99,146
+SMC,Reyes Partridge Inside shot...Score!       Assisted by: Michael Speed,Score,42,46,100,146
+USD,Merrill Lowery 3-point attempt...Score!       Assisted by: John Hagerty,Score,42,49,101,146
+SMC,Philip Dirksen 3-point attempt...Missed!       Rebounded by USD Mack Flowers.,Miss,42,49,102,146
+USD,Merrill Lowery Inside shot...Score!,Score,42,51,103,146
+SMC,Nicholas Garcia Inside shot...Score!,Score,44,51,104,146
+USD,Keneth Pettit 2-point jumper...Missed!       Rebounded by SMC Philip Dirksen.,Score,44,51,105,146
+SMC,Reyes Partridge Inside shot...Score!,Score,46,51,106,146
+USD,Ralph Barnes 2-point jumper...BLOCKED by Reyes Partridge.       Rebounded by USD Leopoldo Zuniga.,Turnover,46,51,107,146
+USD,Keneth Pettit 2-point jumper...Missed!       Rebounded by USD Walter Cooper.,Score,46,51,108,146
+USD,John Hagerty Inside shot...Missed!       Rebounded by SMC Nicholas Garcia.,Score,46,51,109,146
+SMC,Milind Hussain 3-point attempt...Missed!       Rebounded by USD Ralph Barnes.,Miss,46,51,110,146
+USD,Mario Spencer 2-point jumper...Missed!       Rebounded by SMC Abraham Lawson.,Score,46,51,111,146
+SMC,Nicholas Garcia 3-point attempt...Missed!       Rebounded by USD Walter Cooper.,Miss,46,51,112,146
+USD,Mario Spencer 3-point attempt...BLOCKED by SMC Milind Hussain.       Rebounded by SMC Michael Speed.,Turnover,46,51,113,146
+SMC,Reyes Partridge Inside shot...Score!,Score,48,51,114,146
+USD,John Hagerty 3-point attempt...Missed!       Rebounded by USD Kiet Soon.,Score,48,51,115,146
+USD,USD Dennis Harris lost the ball out of bounds.,Turnover,48,51,116,146
+SMC,Philip Dirksen 3-point attempt...Missed!       Rebounded by USD Kiet Soon.,Miss,48,51,117,146
+USD,John Hagerty 3-point attempt...Missed!       Rebounded by USD Keneth Pettit.,Score,48,51,118,146
+USD,Ralph Barnes Inside shot...BLOCKED by Philip Dirksen.       Rebounded by USD John Hagerty.,Turnover,48,51,119,146
+USD,Mario Spencer Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: Mack Flowers,Score,48,53,120,146
+USD,       Free throw coming up... rattled out.       Rebounded by SMC Philip Dirksen.,FreeThrow,48,53,120,146
+SMC,Michael Speed Inside shot...Score!,Score,50,53,121,146
+USD,Keneth Pettit 2-point jumper...Score!,Score,50,55,122,146
+SMC,Abraham Lawson 3-point attempt...Missed!       Rebounded by SMC Reyes Partridge.,Missed,50,55,123,146
+SMC,Abraham Lawson 3-point attempt...Score!       Assisted by: Booker Lewandowski,Score,53,55,124,146
+USD,Jeffrey Degrandchamp 3-point attempt...Missed!Rebounded by SMC Abraham Lawson.,Score,53,55,125,146
+SMC,Nicholas Garcia Inside shot... Missed with a foul on the play.,Fouled,53,55,126,146
+SMC,Free throw coming up... good!,FreeThrow,54,55,126,146
+SMC,Free throw coming up... good!,FreeThrow,55,55,126,146
+USD,George Hoff 3-point attempt...Score!       Assisted by: Walter Cooper,Score,55,58,127,146
+SMC,Reyes Partridge 3-point attempt...Missed!       Rebounded by SMC Philip Dirksen.,Missed,55,58,128,146
+SMC,Michael Speed 3-point attempt...Missed!       Rebounded by SMC Booker Lewandowski.,Missed,55,58,129,146
+USD,Merrill Lowery steals the ball for USD!,Turnover,55,58,130,146
+USD,John Hagerty 3-point attempt...Missed!Rebounded by SMC Abraham Lawson.,Score,55,58,131,146
+SMC,Reyes Partridge Inside shot...Score! Foul on the play and one!,Score,57,58,132,146
+SMC,Free throw coming up... rattled out.       Rebounded by USD Merrill Lowery.,FreeThrow,57,58,132,146
+USD,Leopoldo Zuniga 2-point jumper...Missed!       Rebounded by SMC Michael Speed.,Score,57,58,133,146
+SMC,Michael Speed 3-point attempt...Score!       Assisted by: Abraham Lawson,Score,60,58,134,146
+USD,Merrill Lowery 2-point jumper...Missed!       Rebounded by SMC Abraham Lawson.,Score,60,58,135,146
+SMC,Philip Dirksen Inside shot...Score!       Assisted by: Abraham Lawson,Score,62,58,136,146
+USD,Keneth Pettit 2-point jumper...Missed!       Rebounded by SMC Nicholas Garcia.,Score,62,58,137,146
+SMC,Philip Dirksen Inside shot... Missed with a foul on the play.,Fouled,62,58,138,146
+SMC,Free throw coming up... good!,FreeThrow,63,58,138,146
+SMC,Free throw coming up... good!,FreeThrow,64,58,138,146
+USD,Merrill Lowery 3-point attempt... Missed with a foul on the play.,Fouled,64,58,139,146
+USD,       Free throw coming up... good!,FreeThrow,64,59,139,146
+USD,       Free throw coming up... good!,FreeThrow,64,60,139,146
+USD,       Free throw coming up... good!,FreeThrow,64,61,139,146
+SMC,SMC: Shot clock violation on SMC Milind Hussain.,Shot Clock Violation,64,61,140,146
+USD,Merrill Lowery Inside shot... Missed but with a foul on the play.,Fouled,64,61,141,146
+USD,Free throw coming up... rattled out.,FreeThrow,64,61,141,146
+USD,Free throw coming up... good!,FreeThrow,64,62,141,146
+SMC,Milind Hussain Inside shot...BLOCKED by USD Jeffrey Degrandchamp.       Rebounded by SMC Milind Hussain.,Turnover,64,62,142,146
+SMC,Nicholas Garcia 3-point attempt...Missed!       Rebounded by USD John Hagerty.,Miss,64,62,143,146
+USD,Mario Spencer 2-point jumper...Score!       Assisted by: Merrill Lowery,Score,64,64,144,146
+SMC,Michael Speed 2-point jumper...Missed!       Rebounded by USD Mario Spencer.,Missed,64,64,145,146
+SMC,Abraham Lawson steals the ball for SMC!,Turnover,64,64,146,146
+,...and we're going to Overtime!,OVERTIME,64,64,146,164
+SMC,Philip Dirksen 2-point jumper...BLOCKED by USD George Hoff.       Rebounded by USD Mack Flowers.,Turnover,64,64,147,164
+USD,Keneth Pettit Inside shot...BLOCKED by Booker Lewandowski.       Rebounded by SMC Philip Dirksen.,Turnover,64,64,148,164
+USD,John Hagerty steals the ball for USD!,Turnover,64,64,149,164
+USD,Sylvester Wagner Inside shot...Score!,Score,64,66,150,164
+SMC,Philip Dirksen Inside shot...BLOCKED by USD John Hagerty.       Rebounded by USD Leopoldo Zuniga.,Turnover,64,66,151,164
+USD,Kiet Soon 3-point attempt...Missed!Rebounded by SMC Philip Dirksen.,Score,64,66,152,164
+SMC,Michael Speed 3-point attempt...Score!       Assisted by: Abraham Lawson,Score,67,66,153,164
+USD,Mack Flowers 2-point jumper...Score!,Score,67,68,154,164
+SMC,SMC: Offensive foul on SMC Philip Dirksen.,Foul,67,68,155,164
+USD,Kiet Soon 2-point jumper...Score!       Assisted by: George Hoff,Score,67,70,157,164
+SMC,Reyes Partridge 3-point attempt...Score!       Assisted by: Booker Lewandowski,Score,70,70,158,164
+USD,Merrill Lowery 2-point jumper...Missed!       Rebounded by SMC Abraham Lawson.,Score,70,70,159,164
+SMC,Reyes Partridge Inside shot...Score!       Assisted by: Nicholas Garcia,Score,72,70,160,164
+USD,Walter Cooper 2-point jumper...Missed!       Rebounded by USD John Hagerty.,Score,72,70,161,164
+USD,Sylvester Wagner 3-point attempt...Score!       Assisted by: Keneth Pettit,Score,72,73,162,164
+SMC,Abraham Lawson Inside shot...BLOCKED by USD Mario Spencer.       Rebounded by USD Kiet Soon.,Turnover,72,73,163,164
+USD,George Hoff Inside shot...Score!,Score,72,75,164,164
+SMC,Reyes Partridge Inside shot... Missed with a foul on the play.,Fouled,72,75,165,164
+SMC,Free throw coming up... good!,FreeThrow,73,75,165,164
+SMC,Free throw coming up... good!,FreeThrow,74,75,165,164
+,Match Complete,FinalScore,74,75,165,164

@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+West Virginia,Mountaineers,30,31,0,61
+Oklahoma State,Cowboys,34,38,0,72
+""
+""
+=====West Virginia Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Lucas Rowe,35,29,7,13,0.5384615384615384,3,5,0.6,2,2,1.0,19,9,1,2,0,0,0
+Michael Palmer,36,13,1,5,0.2,0,1,0.0,0,0,0,2,3,3,0,0,1,0
+David Jackson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Huey Jett,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chris Taylor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leland Larson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Charles Brown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clarence Murphy,32,22,2,9,0.2222222222222222,1,4,0.25,0,0,0,5,3,2,1,2,1,0
+Clair Delossantos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francis Bowie,35,21,4,9,0.4444444444444444,1,4,0.25,0,0,0,9,5,4,0,1,0,0
+Donald Pannell,14,8,2,3,0.6666666666666666,1,2,0.5,0,0,0,5,4,0,1,0,0,0
+Rufus Fletcher,13,9,3,4,0.75,2,3,0.6666666666666666,0,0,0,8,2,2,0,1,0,0
+Mark Tomaskovic,35,27,4,13,0.3076923076923077,1,6,0.16666666666666666,4,4,1.0,13,0,1,0,1,0,0
+""
+=====Oklahoma State Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+John Liu,25,19,6,8,0.75,1,3,0.3333333333333333,0,0,0,13,1,0,0,0,2,0
+Paulo Quiroga,20,17,5,7,0.7142857142857143,0,0,0,0,0,0,10,3,2,1,0,2,0
+Jan Schrum,25,18,3,9,0.3333333333333333,0,1,0.0,0,0,0,6,5,2,0,0,0,0
+Jesse Tarr,25,12,3,5,0.6,0,1,0.0,0,0,0,6,3,1,1,1,1,0
+John Catron,8,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+James Brown,25,13,3,6,0.5,0,1,0.0,3,3,1.0,9,10,2,0,1,1,0
+Jamie Parker,25,21,3,5,0.6,2,3,0.6666666666666666,2,2,1.0,10,5,0,4,1,6,1
+Richard Ruiz,20,15,3,7,0.42857142857142855,0,2,0.0,0,0,0,6,2,1,1,0,0,0
+Charles Mccarty,7,3,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,1,0
+Christopher Railey,5,5,1,2,0.5,0,0,0,2,2,1.0,4,0,0,0,0,1,0
+Adrian Koch,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Michael Wilks,5,4,1,2,0.5,0,0,0,2,2,1.0,4,1,0,0,0,0,0
+Ke Laxa,5,4,1,2,0.5,0,1,0.0,0,0,0,2,0,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,West Virginia,Oklahoma State
+Points,61,72
+Possessions,76,76
+FGM,14,27
+FGA,31,42
+FGPercent,0.45161290322580644,0.6428571428571429
+3PM,9,3
+3PA,25,12
+3P%,0.36,0.25
+FTM,6,9
+FTA,6,9
+FT%,1.0,1.0
+Rebounds,26,31
+OffRebounds,9,8
+DefRebounds,17,23
+Assists,13,8
+Steals,4,0
+Blocks,5,1
+Total Turnovers,18,15
+Largest Lead,2,12

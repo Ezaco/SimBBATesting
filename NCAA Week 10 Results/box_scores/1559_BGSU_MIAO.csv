@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Bowling Green,Falcons,45,43,0,88
+Miami (OH),RedHawks,25,28,0,53
+""
+""
+=====Bowling Green Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Jason Harvey,25,21,7,10,0.7,1,2,0.5,3,3,1.0,18,10,2,1,1,0,0
+Daryl Aman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warren Simpson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+James Goettler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+John Roby,37,16,5,6,0.8333333333333334,1,1,1.0,0,0,0,11,2,3,2,0,0,0
+William Edgemon,28,12,4,5,0.8,1,1,1.0,0,0,0,9,4,4,1,0,0,1
+Christopher Nettnin,33,27,6,10,0.6,1,3,0.3333333333333333,0,0,0,13,8,1,3,0,0,2
+Donald Deel,19,21,5,10,0.5,0,0,0,2,4,0.5,12,4,1,1,1,0,0
+Victor Ramirez,32,29,6,14,0.42857142857142855,1,1,1.0,1,1,1.0,14,3,1,1,0,2,0
+Curtis Boccella,12,6,2,3,0.6666666666666666,1,1,1.0,1,2,0.5,6,1,2,0,1,0,0
+Carl Dauffenbach,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gregory Lowe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+James Gray,14,11,2,5,0.4,0,1,0.0,1,2,0.5,5,2,1,0,0,0,0
+""
+=====Miami (OH) Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Brian Hilf,25,19,1,8,0.125,0,4,0.0,0,0,0,2,1,4,0,0,3,0
+Steven Cox,25,12,0,5,0.0,0,2,0.0,2,2,1.0,2,0,2,0,2,2,1
+Frank Villegas,25,18,3,7,0.42857142857142855,0,0,0,2,2,1.0,8,6,1,2,2,2,1
+Roger Kimbro,25,22,6,10,0.6,1,1,1.0,2,2,1.0,15,7,1,0,0,2,0
+Kirk Fortenberry,20,9,2,3,0.6666666666666666,0,0,0,1,2,0.5,5,1,0,0,0,2,0
+James Weir,25,11,3,5,0.6,0,1,0.0,0,0,0,6,0,2,1,0,0,0
+Thomas Bowers,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Herman Navarro,20,10,3,5,0.6,0,0,0,0,0,0,6,4,0,0,1,0,0
+James Merry,7,10,2,5,0.4,1,1,1.0,2,2,1.0,7,4,0,0,0,0,0
+Hasmik Jones,5,4,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,1,0,0
+Gonzalo Bonilla,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Rosenfeld,5,4,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0
+David Belleau,8,4,1,2,0.5,0,1,0.0,0,0,0,2,1,1,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Bowling Green,Miami (OH)
+Points,88,53
+Possessions,74,75
+FGM,31,19
+FGA,53,42
+FGPercent,0.5849056603773585,0.4523809523809524
+3PM,6,2
+3PA,10,12
+3P%,0.6,0.16666666666666666
+FTM,8,9
+FTA,12,10
+FT%,0.6666666666666666,0.9
+Rebounds,34,24
+OffRebounds,11,10
+DefRebounds,23,14
+Assists,15,12
+Steals,9,0
+Blocks,3,5
+Total Turnovers,12,17
+Largest Lead,38,4

@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+North Texas,Mean Green,34,21,0,55
+Jacksonville,Dolphins,37,36,0,73
+""
+""
+=====North Texas Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Danny Kan,25,15,2,7,0.2857142857142857,1,4,0.25,0,0,0,5,13,0,1,0,0,0
+Kurt Fields,7,3,1,1,1.0,0,0,0,0,0,0,2,1,0,0,0,1,0
+Samir Yokoyama,25,19,3,9,0.3333333333333333,1,1,1.0,0,0,0,7,0,1,0,0,0,0
+Andrew Bennett,25,11,2,4,0.5,1,1,1.0,0,0,0,5,4,2,1,1,2,0
+Brian Baarda,25,20,5,10,0.5,1,4,0.25,0,0,0,11,4,5,0,2,0,0
+Peter Garber,25,15,5,7,0.7142857142857143,0,1,0.0,0,0,0,10,3,0,0,2,0,0
+Steven Sessler,20,15,3,7,0.42857142857142855,1,3,0.3333333333333333,0,0,0,7,2,3,0,0,2,0
+James Mcclone,20,7,1,3,0.3333333333333333,0,1,0.0,0,0,0,2,2,0,0,1,0,0
+Pierre Harris,5,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Michael Palmer,5,2,1,1,1.0,0,0,0,0,0,0,2,0,1,0,0,0,0
+Jae Opena,8,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Jordan Gibbons,5,3,1,1,1.0,0,0,0,0,0,0,2,1,0,0,0,0,0
+Curtis Jackson,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+""
+=====Jacksonville Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Dylan Conrad,34,33,9,15,0.6,1,3,0.3333333333333333,0,0,0,19,8,2,3,0,1,0
+Alden Jarrett,33,31,6,14,0.42857142857142855,0,2,0.0,4,6,0.6666666666666666,16,7,4,1,3,2,0
+Ferdinand Burt,40,21,5,8,0.625,1,1,1.0,0,0,0,11,9,4,3,2,2,0
+Stanton Chadwick,31,13,2,6,0.3333333333333333,0,1,0.0,1,1,1.0,5,5,4,0,0,1,0
+Eli Gresham,34,41,7,18,0.3888888888888889,2,6,0.3333333333333333,1,2,0.5,17,3,3,2,1,3,0
+Alec Place,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cordell Mcleod,26,16,1,6,0.16666666666666666,0,1,0.0,0,0,0,2,6,4,2,0,2,1
+Sang Mattingly,2,2,1,1,1.0,1,1,1.0,0,0,0,3,0,0,0,0,0,0
+Mauricio Welsh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trinidad Hynes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jeffrey Pockat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+James Levin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gary Cosby,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,North Texas,Jacksonville
+Points,55,73
+Possessions,72,81
+FGM,20,26
+FGA,36,53
+FGPercent,0.5555555555555556,0.49056603773584906
+3PM,5,5
+3PA,15,15
+3P%,0.3333333333333333,0.3333333333333333
+FTM,0,6
+FTA,0,9
+FT%,0,0.6666666666666666
+Rebounds,31,38
+OffRebounds,7,15
+DefRebounds,24,23
+Assists,12,21
+Steals,3,0
+Blocks,6,2
+Total Turnovers,22,8
+Largest Lead,2,20

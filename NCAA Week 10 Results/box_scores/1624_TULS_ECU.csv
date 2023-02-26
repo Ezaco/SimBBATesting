@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Tulsa,Golden Hurricane,40,34,0,74
+East Carolina,Pirates,37,31,0,68
+""
+""
+=====Tulsa Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Henry Pickett,7,5,1,2,0.5,0,0,0,0,0,0,2,0,0,0,0,0,0
+Harvey Bridgewater,25,13,4,5,0.8,0,0,0,1,1,1.0,9,7,0,0,1,0,1
+Joseph Horn,25,21,4,10,0.4,0,2,0.0,4,4,1.0,12,2,1,0,1,0,0
+David Martinez,20,9,2,4,0.5,0,0,0,1,1,1.0,5,1,1,0,0,0,0
+Michael Lamb,20,7,2,3,0.6666666666666666,0,0,0,2,3,0.6666666666666666,6,3,2,1,0,0,0
+Bipin Kang,25,13,3,4,0.75,0,0,0,0,0,0,6,3,3,3,1,1,0
+Peter Cannady,25,21,4,10,0.4,1,2,0.5,4,4,1.0,13,2,1,1,2,0,0
+Jon Wood,25,19,5,7,0.7142857142857143,2,3,0.6666666666666666,0,0,0,12,5,1,1,0,0,3
+Jay Handley,5,6,1,2,0.5,0,0,0,1,1,1.0,3,0,0,1,0,0,0
+Zachary John,5,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Daniel Thompson,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+William Saunders,5,4,1,2,0.5,0,0,0,1,2,0.5,3,1,0,0,0,0,0
+Li Thach,8,7,1,3,0.3333333333333333,1,1,1.0,0,0,0,3,0,2,1,0,0,0
+""
+=====East Carolina Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+James Green,34,29,8,13,0.6153846153846154,3,5,0.6,3,3,1.0,22,6,3,0,0,3,2
+Willie Ford,10,7,0,3,0.0,0,1,0.0,2,2,1.0,2,3,1,0,0,1,0
+Ryan Dudley,25,18,5,8,0.625,0,2,0.0,0,0,0,10,3,1,0,1,2,1
+Brian Bruce,25,9,3,3,1.0,0,0,0,0,0,0,6,2,4,2,1,1,0
+Mark Wenzel,17,5,0,1,0.0,0,0,0,0,0,0,0,1,0,3,0,0,0
+Charles Miller,20,11,3,4,0.75,1,2,0.5,0,1,0.0,7,2,0,1,0,1,0
+Patrick Carter,5,2,0,1,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Oliver Steadman,15,13,3,5,0.6,1,2,0.5,0,0,0,7,3,1,0,0,3,1
+Ruben Rocha,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Albert Tierney,25,15,1,7,0.14285714285714285,0,2,0.0,0,0,0,2,2,6,0,0,1,0
+John Haug,24,11,5,5,1.0,0,0,0,2,2,1.0,12,1,0,0,1,1,0
+Mark Stephens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Freddie Brooks,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Tulsa,East Carolina
+Points,74,68
+Possessions,73,73
+FGM,24,23
+FGA,44,36
+FGPercent,0.5454545454545454,0.6388888888888888
+3PM,4,5
+3PA,8,14
+3P%,0.5,0.35714285714285715
+FTM,14,7
+FTA,16,8
+FT%,0.875,0.875
+Rebounds,24,24
+OffRebounds,9,11
+DefRebounds,15,13
+Assists,11,16
+Steals,9,0
+Blocks,5,0
+Total Turnovers,17,17
+Largest Lead,14,5

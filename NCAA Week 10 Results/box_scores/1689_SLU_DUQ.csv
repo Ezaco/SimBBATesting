@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Saint Louis,Billikens,29,39,0,68
+Duquesne,Dukes,33,24,0,57
+""
+""
+=====Saint Louis Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Genaro Arreola,25,20,1,8,0.125,0,2,0.0,3,4,0.75,5,7,0,0,1,0,2
+Anil Shah,25,17,2,8,0.25,1,1,1.0,0,0,0,5,8,0,0,2,1,1
+Christian Babcock,25,14,3,7,0.42857142857142855,0,3,0.0,0,0,0,6,4,1,0,0,1,0
+Darren Wu,25,22,5,10,0.5,0,0,0,2,2,1.0,12,1,4,2,0,0,0
+Jung Vellanki,25,7,2,2,1.0,0,0,0,0,0,0,4,7,0,2,0,0,0
+Hector Pena,5,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Jose Lee,20,24,8,11,0.7272727272727273,1,2,0.5,0,2,0.0,17,4,0,0,0,0,2
+Kevin Abraham,20,11,2,5,0.4,0,1,0.0,2,2,1.0,6,5,2,0,1,0,0
+Horace Colvin,8,11,2,5,0.4,1,2,0.5,0,0,0,5,0,1,1,0,0,0
+Stephen Manton,5,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,1,0,0
+Leopoldo Guifarro,7,9,2,4,0.5,0,1,0.0,0,0,0,4,1,0,0,0,0,0
+Mike Sistek,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+James Bibi,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+=====Duquesne Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Ronnie Mclaine,25,6,2,2,1.0,1,1,1.0,0,0,0,5,1,0,1,1,1,0
+George Dohr,25,17,4,8,0.5,2,2,1.0,1,2,0.5,11,0,1,1,1,0,0
+Matthew Gale,25,16,2,7,0.2857142857142857,0,2,0.0,0,2,0.0,4,1,1,1,1,1,0
+Matthew Rossitto,25,19,2,8,0.25,0,1,0.0,4,4,1.0,8,6,1,0,1,3,0
+Ivan Yang,7,9,1,4,0.25,1,2,0.5,0,0,0,3,2,1,0,0,1,0
+Paul Rodrigue,25,15,3,7,0.42857142857142855,1,3,0.3333333333333333,0,0,0,7,8,0,0,0,1,0
+Robert Dekker,20,12,2,6,0.3333333333333333,1,3,0.3333333333333333,4,4,1.0,9,1,3,0,0,1,0
+Jason Fang,5,5,1,2,0.5,0,0,0,0,0,0,2,0,0,1,0,0,0
+Gregory Jones,8,3,1,1,1.0,0,0,0,0,0,0,2,1,0,0,0,1,0
+James Hermann,20,10,2,4,0.5,0,1,0.0,0,0,0,4,2,3,0,0,2,0
+Clifton Mixon,5,3,0,1,0.0,0,0,0,0,0,0,0,1,0,0,0,1,0
+Howard Bernard,5,4,0,2,0.0,0,1,0.0,0,0,0,0,0,1,0,0,0,0
+Charles Sheppard,5,2,1,1,1.0,0,0,0,0,0,0,2,2,0,0,1,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Saint Louis,Duquesne
+Points,68,57
+Possessions,77,69
+FGM,26,15
+FGA,50,37
+FGPercent,0.52,0.40540540540540543
+3PM,3,6
+3PA,12,16
+3P%,0.25,0.375
+FTM,7,9
+FTA,10,12
+FT%,0.7,0.75
+Rebounds,37,25
+OffRebounds,14,7
+DefRebounds,23,18
+Assists,9,11
+Steals,5,0
+Blocks,5,2
+Total Turnovers,14,12
+Largest Lead,15,9

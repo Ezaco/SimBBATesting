@@ -1,0 +1,166 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+NEV,SJSU,55,57,146
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+NEV,NEV wins the tipoff!,Tipoff,0,0,0,146
+NEV,NEV Justin Samuel lost the ball out of bounds.,Out of Bounds,0,0,1,146
+SJSU,Michael Fennell Inside shot... Missed but with a foul on the play.,Fouled,0,0,2,146
+SJSU,Free throw coming up... good!,FreeThrow,0,1,2,146
+SJSU,Free throw coming up... good!,FreeThrow,0,2,2,146
+NEV,Donald Worrell Inside shot...Missed!       Rebounded by SJSU Ling Wood.,Score,0,2,3,146
+SJSU,James Sanders 3-point attempt...Missed!       Rebounded by SJSU Christopher Winter.,Score,0,2,4,146
+SJSU,Michael Fennell Inside shot...Score!,Score,0,4,5,146
+NEV,NEV: Shot clock violation on NEV Jess Soto.,Shot Clock Violation,0,4,6,146
+SJSU,Christopher Winter Inside shot...Missed!       Rebounded by NEV Edward Dionizio.,Score,0,4,7,146
+NEV,Edward Dionizio 3-point attempt...Score!       Assisted by: Darren George,Score,3,4,8,146
+SJSU,Peter Oneal Inside shot...Score!,Score,3,6,9,146
+NEV,NEV Richard Brazee lost the ball out of bounds.,Out of Bounds,3,6,10,146
+SJSU,Michael Fennell 2-point jumper...Missed!       Rebounded by SJSU Michael Fennell.,Score,3,6,11,146
+SJSU,Peter Oneal 3-point attempt...Score!       Assisted by: Ling Wood,Score,3,9,12,146
+NEV,Justin Samuel 2-point jumper...Score!,Score,5,9,13,146
+SJSU,Michael Fennell 2-point jumper...Score!       Assisted by: Peter Oneal,Score,5,11,14,146
+NEV,Edward Dionizio 2-point jumper...Missed!       Rebounded by SJSU Christopher Winter.,Missed,5,11,15,146
+SJSU,SJSU Jay Hovey lost the ball out of bounds.,Turnover,5,11,16,146
+NEV,Todd Sigmund Inside shot...Score!,Score,7,11,17,146
+SJSU,James Sanders Inside shot...Score!       Assisted by: Peter Oneal,Score,7,13,18,146
+NEV,NEV Justin Samuel lost the ball out of bounds.,Out of Bounds,7,13,19,146
+SJSU,Jamie Heuer Inside shot...Missed!       Rebounded by NEV Edward Dionizio.,Score,7,13,21,146
+SJSU,James Sanders steals the ball for SJSU!,Turnover,7,13,22,146
+SJSU,Peter Oneal Inside shot... Missed but with a foul on the play.,Fouled,7,13,23,146
+SJSU,Free throw coming up... rattled out.,FreeThrow,7,13,23,146
+SJSU,Free throw coming up... good!,FreeThrow,7,14,23,146
+NEV,Leon Mcdonald Inside shot...Score!       Assisted by: Darren George,Score,9,14,24,146
+SJSU,Joseph Kasparek 2-point jumper...BLOCKED by Richard Brazee.       Rebounded by SJSU Peter Oneal.,Turnover,9,14,25,146
+SJSU,Jamie Heuer Inside shot...Score!,Score,9,16,26,146
+NEV,Michael Novacek Inside shot...BLOCKED by SJSU Michael Fennell.       Rebounded by SJSU Robert Campbell.,Turnover,9,16,27,146
+SJSU,Robert Campbell 2-point jumper...Missed!       Rebounded by NEV Richard Brazee.,Score,9,16,28,146
+NEV,Richard Brazee Inside shot...Score!       Assisted by: Samuel Hill,Score,11,16,29,146
+SJSU,Ling Wood Inside shot...Score!       Assisted by: Jamie Heuer,Score,11,18,30,146
+NEV,Justin Samuel 2-point jumper...Score!,Score,13,18,31,146
+SJSU,Christopher Winter Inside shot...Score!       Assisted by: Ling Wood,Score,13,20,32,146
+NEV,Justin Samuel 3-point attempt...Missed!       Rebounded by SJSU Edward Maze.,Miss,13,20,33,146
+NEV,Richard Brazee steals the ball for NEV!,Turnover,13,20,34,146
+SJSU,James Sanders steals the ball for SJSU!,Turnover,13,20,35,146
+SJSU,SJSU Michael Fennell lost the ball out of bounds.,Turnover,13,20,36,146
+SJSU,Michael Fennell steals the ball for SJSU!,Turnover,13,20,37,146
+SJSU,SJSU James Sanders lost the ball out of bounds.,Turnover,13,20,38,146
+SJSU,Robert Campbell steals the ball for SJSU!,Turnover,13,20,39,146
+SJSU,SJSU: Offensive foul on SJSU Eugene Caver.,Turnover,13,20,40,146
+SJSU,Ling Wood steals the ball for SJSU!,Turnover,13,20,41,146
+SJSU,Michael Fennell 2-point jumper...Score!,Score,13,22,42,146
+NEV,Darren George 3-point attempt...Missed!       Rebounded by NEV Todd Sigmund.,Missed,13,22,43,146
+NEV,Darren George Inside shot...Score!,Score,15,22,44,146
+SJSU,Ling Wood 2-point jumper...Missed!       Rebounded by NEV Darren George.,Score,15,22,45,146
+NEV,Justin Samuel 2-point jumper...Missed!       Rebounded by NEV Richard Brazee.,Missed,15,22,46,146
+NEV,Donald Worrell 2-point jumper...Score!       Assisted by: Leon Mcdonald,Score,17,22,47,146
+SJSU,Michael Fennell 2-point jumper...Missed!       Rebounded by NEV Richard Brazee.,Score,17,22,48,146
+NEV,Darren George Inside shot...Score!,Score,19,22,49,146
+SJSU,Robert Campbell Inside shot...Score!,Score,19,24,50,146
+NEV,NEV: Offensive foul on NEV Michael Novacek.,Foul,19,24,51,146
+SJSU,James Sanders Inside shot... Missed but with a foul on the play.,Fouled,19,24,52,146
+SJSU,Free throw coming up... good!,FreeThrow,19,25,52,146
+SJSU,Free throw coming up... good!,FreeThrow,19,26,52,146
+NEV,Michael Novacek 2-point jumper...Missed!       Rebounded by SJSU Robert Campbell.,Missed,19,26,53,146
+SJSU,Michael Fennell 3-point attempt...Missed!Rebounded by NEV Leon Mcdonald.,Score,19,26,54,146
+NEV,Darren George 3-point attempt...BLOCKED by SJSU Ling Wood.       Rebounded by SJSU Peter Oneal.,Score,19,26,55,146
+SJSU,SJSU: Offensive foul on SJSU Michael Fennell.,Turnover,19,26,56,146
+NEV,Leon Mcdonald 2-point jumper...Score!,Score,21,26,57,146
+SJSU,James Sanders 2-point jumper...Missed!       Rebounded by SJSU Michael Fennell.,Score,21,26,58,146
+SJSU,Eugene Caver Inside shot...Score!,Score,21,28,59,146
+SJSU,James Sanders steals the ball for SJSU!,Turnover,21,28,60,146
+SJSU,Robert Campbell 2-point jumper...Missed!       Rebounded by NEV Samuel Hill.,Score,21,28,61,146
+NEV,Edward Dionizio 2-point jumper...Missed!       Rebounded by SJSU Jamie Heuer.,Missed,21,28,62,146
+SJSU,Robert Campbell 2-point jumper...Missed!       Rebounded by SJSU James Sanders.,Score,21,28,63,146
+SJSU,SJSU Michael Fennell lost the ball out of bounds.,Turnover,21,28,64,146
+NEV,Donald Worrell 2-point jumper...Missed!       Rebounded by SJSU Christopher Winter.,Missed,21,28,65,146
+SJSU,Ling Wood 2-point jumper...Score!       Assisted by: James Sanders,Score,21,30,66,146
+NEV,Leon Mcdonald Inside shot...Score!,Score,23,30,67,146
+SJSU,Robert Campbell Inside shot...Score!,Score,23,32,68,146
+NEV,Richard Brazee 2-point jumper...Missed!       Rebounded by NEV Edward Dionizio.,Missed,23,32,69,146
+NEV,NEV Richard Brazee lost the ball out of bounds.,Out of Bounds,23,32,70,146
+SJSU,Jamie Heuer 3-point attempt...Missed!       Rebounded by SJSU Robert Campbell.,Score,23,32,71,146
+SJSU,Peter Oneal 2-point jumper...Missed!       Rebounded by NEV Michael Novacek.,Score,23,32,72,146
+NEV,Edward Dionizio 3-point attempt...Missed!       Rebounded by SJSU Peter Oneal.,Miss,23,32,73,146
+,,HALFTIME,23,32,73,146
+SJSU,Michael Fennell Inside shot...Missed!       Rebounded by NEV Richard Brazee.,Score,23,32,74,146
+NEV,Leon Mcdonald 2-point jumper...BLOCKED by SJSU Christopher Winter.       Rebounded by SJSU Christopher Winter.,Turnover,23,32,75,146
+NEV,Michael Novacek steals the ball for NEV!,Turnover,23,32,76,146
+NEV,Edward Dionizio 2-point jumper...Missed!       Rebounded by SJSU Michael Fennell.,Missed,23,32,77,146
+SJSU,James Sanders 2-point jumper...Missed!       Rebounded by NEV Darren George.,Score,23,32,78,146
+NEV,Michael Novacek 2-point jumper...Score!       Assisted by: Leon Mcdonald,Score,25,32,79,146
+SJSU,SJSU: Offensive foul on SJSU Christopher Winter.,Turnover,25,32,80,146
+NEV,Edward Dionizio 2-point jumper...Missed!       Rebounded by SJSU Christopher Winter.,Missed,25,32,81,146
+SJSU,Michael Fennell Inside shot...Score!       Assisted by: Christopher Winter,Score,25,34,82,146
+NEV,Edward Dionizio 2-point jumper...Score!,Score,27,34,83,146
+SJSU,Robert Campbell 2-point jumper...Missed!       Rebounded by NEV Edward Dionizio.,Score,27,34,84,146
+SJSU,Peter Oneal steals the ball for SJSU!,Turnover,27,34,85,146
+NEV,Edward Dionizio steals the ball for NEV!,Turnover,27,34,86,146
+NEV,Justin Samuel Inside shot...Score!,Score,29,34,87,146
+SJSU,SJSU: Offensive foul on SJSU Michael Fennell.,Turnover,29,34,88,146
+NEV,Samuel Hill Inside shot...Score!       Assisted by: Kevin Davis,Score,31,34,89,146
+SJSU,William Teller Inside shot...Score!       Assisted by: Michael Fennell,Score,31,36,90,146
+NEV,Edward Dionizio 2-point jumper...Missed!       Rebounded by SJSU Ling Wood.,Missed,31,36,91,146
+SJSU,Jamie Heuer 2-point jumper...Missed!       Rebounded by NEV Michael Novacek.,Score,31,36,92,146
+SJSU,Jamie Heuer steals the ball for SJSU!,Turnover,31,36,93,146
+SJSU,Christopher Winter Inside shot... Missed but with a foul on the play.,Fouled,31,36,94,146
+SJSU,Free throw coming up... rattled out.,FreeThrow,31,36,94,146
+SJSU,Free throw coming up... rattled out.       Rebounded by NEV Leon Mcdonald.,FreeThrow,31,36,94,146
+NEV,Samuel Hill 3-point attempt...Missed!       Rebounded by NEV Richard Brazee.,Missed,31,36,95,146
+NEV,NEV Leon Mcdonald lost the ball out of bounds.,Out of Bounds,31,36,96,146
+SJSU,Christopher Winter Inside shot...Missed!       Rebounded by NEV Darren George.,Score,31,36,97,146
+NEV,Edward Dionizio 2-point jumper...Score!       Assisted by: Leon Mcdonald,Score,33,36,98,146
+SJSU,SJSU Robert Campbell lost the ball out of bounds.,Turnover,33,36,99,146
+NEV,Edward Dionizio Inside shot...Score!       Assisted by: Richard Brazee,Score,35,36,100,146
+SJSU,SJSU Christopher Winter lost the ball out of bounds.,Turnover,35,36,101,146
+NEV,Leon Mcdonald 2-point jumper...BLOCKED by SJSU Christopher Winter.       Rebounded by SJSU Jamie Heuer.,Turnover,35,36,102,146
+SJSU,Christopher Winter Inside shot...Score!,Score,35,38,103,146
+NEV,NEV Justin Samuel lost the ball out of bounds.,Out of Bounds,35,38,104,146
+SJSU,SJSU: Offensive foul on SJSU James Sanders.,Turnover,35,38,105,146
+NEV,Edward Dionizio 2-point jumper...Missed!       Rebounded by SJSU Christopher Winter.,Missed,35,38,106,146
+SJSU,Christopher Winter 2-point jumper...Missed!       Rebounded by SJSU Christopher Winter.,Score,35,38,107,146
+SJSU,James Sanders Inside shot...Score!       Assisted by: Edward Maze,Score,35,40,108,146
+NEV,NEV Michael Novacek lost the ball out of bounds.,Out of Bounds,35,40,109,146
+SJSU,Michael Fennell 2-point jumper...Missed!       Rebounded by NEV Darren George.,Score,35,40,110,146
+NEV,Justin Samuel 2-point jumper...Score!,Score,37,40,111,146
+SJSU,Christopher Winter 2-point jumper...Missed!       Rebounded by NEV Darren George.,Score,37,40,112,146
+SJSU,Joseph Kasparek steals the ball for SJSU!,Turnover,37,40,113,146
+SJSU,William Teller Inside shot...Score!       Assisted by: Ling Wood,Score,37,42,114,146
+SJSU,Christopher Winter steals the ball for SJSU!,Turnover,37,42,115,146
+SJSU,SJSU Michael Fennell lost the ball out of bounds.,Turnover,37,42,116,146
+NEV,Donald Worrell Inside shot...Score!,Score,39,42,117,146
+SJSU,Michael Fennell Inside shot...Missed!       Rebounded by SJSU Christopher Winter.,Score,39,42,118,146
+SJSU,Eugene Caver 3-point attempt...Missed!Rebounded by NEV Edward Dionizio.,Score,39,42,119,146
+NEV,NEV: Offensive foul on NEV Richard Brazee.,Foul,39,42,120,146
+SJSU,James Sanders 3-point attempt...Missed!       Rebounded by SJSU James Sanders.,Score,39,42,121,146
+SJSU,Robert Campbell Inside shot... Missed but with a foul on the play.,Fouled,39,42,122,146
+SJSU,Free throw coming up... good!,FreeThrow,39,43,122,146
+SJSU,Free throw coming up... good!,FreeThrow,39,44,122,146
+NEV,Darren George 3-point attempt...Score!       Assisted by: Jess Soto,Score,42,44,123,146
+SJSU,Peter Oneal Inside shot...BLOCKED by Darren George.       Rebounded by NEV Leon Mcdonald.,Turnover,42,44,124,146
+NEV,Richard Brazee 3-point attempt...Missed!       Rebounded by SJSU Robert Campbell.,Miss,42,44,125,146
+SJSU,SJSU: Offensive foul on SJSU Eugene Caver.,Turnover,42,44,126,146
+NEV,Leon Mcdonald Inside shot...Score!       Assisted by: Kevin Davis,Score,44,44,127,146
+SJSU,Peter Oneal Inside shot... Missed but with a foul on the play.,Fouled,44,44,128,146
+SJSU,Free throw coming up... good!,FreeThrow,44,45,128,146
+SJSU,Free throw coming up... good!,FreeThrow,44,46,128,146
+SJSU,Jamie Heuer steals the ball for SJSU!,Turnover,44,46,129,146
+SJSU,Ling Wood 3-point attempt...Missed!Rebounded by NEV Michael Novacek.,Score,44,46,130,146
+NEV,Justin Samuel 2-point jumper...Missed!       Rebounded by SJSU Joseph Kasparek.,Missed,44,46,131,146
+SJSU,Michael Fennell 2-point jumper...Score!,Score,44,48,132,146
+NEV,Sergio Ayala Inside shot...Score!       Assisted by: Leon Mcdonald,Score,46,48,133,146
+NEV,Richard Brazee steals the ball for NEV!,Turnover,46,48,134,146
+NEV,Richard Brazee 3-point attempt...Missed!       Rebounded by SJSU Peter Oneal.,Miss,46,48,135,146
+SJSU,Robert Campbell 3-point attempt...Score!       Assisted by: Michael Fennell,Score,46,51,136,146
+NEV,Darren George Inside shot...Score! Foul on the play and one!,Score,48,51,137,146
+NEV,Free throw coming up... rattled out.       Rebounded by SJSU Christopher Winter.,FreeThrow,48,51,137,146
+NEV,Richard Brazee steals the ball for NEV!,Turnover,48,51,138,146
+NEV,Kevin Davis 3-point attempt...Score!       Assisted by: Leon Mcdonald,Score,51,51,139,146
+SJSU,Jay Hovey Inside shot...Score!,Score,51,53,140,146
+SJSU,Peter Oneal steals the ball for SJSU!,Turnover,51,53,141,146
+SJSU,Robert Campbell Inside shot...Score!       Assisted by: Ling Wood,Score,51,55,142,146
+NEV,Richard Brazee 2-point jumper...Missed!       Rebounded by SJSU Ling Wood.,Missed,51,55,143,146
+SJSU,SJSU Ling Wood lost the ball out of bounds.,Turnover,51,55,144,146
+NEV,Michael Novacek Inside shot...Score!       Assisted by: Mariusz Henke,Score,53,55,145,146
+SJSU,Michael Fennell Inside shot...Score!       Assisted by: Jamie Heuer,Score,53,57,146,146
+NEV,Sergio Ayala 2-point jumper...Score!,Score,55,57,147,146
+,Match Complete,FinalScore,55,57,147,146

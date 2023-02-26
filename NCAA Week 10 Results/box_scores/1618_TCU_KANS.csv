@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+TCU,Horned Frogs,38,40,0,78
+Kansas,Jayhawks,40,42,0,82
+""
+""
+=====TCU Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Ba Daniel,18,8,2,4,0.5,0,0,0,0,0,0,4,4,2,0,1,0,0
+James Melton,28,20,5,8,0.625,1,1,1.0,0,0,0,11,3,3,2,0,0,0
+Edward Furr,28,33,4,13,0.3076923076923077,1,5,0.2,2,2,1.0,11,2,4,3,0,0,2
+Soren Manger,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rob Oconnor,25,17,4,8,0.5,0,1,0.0,0,0,0,8,1,5,0,0,0,0
+Man Lee,28,17,5,8,0.625,0,1,0.0,0,0,0,10,9,2,1,0,0,0
+Sean Anderson,20,20,7,9,0.7777777777777778,1,2,0.5,0,0,0,15,3,4,0,0,0,0
+Paul Cottrell,25,13,3,6,0.5,1,3,0.3333333333333333,0,0,0,7,1,0,0,0,0,0
+George Stricklen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joseph Mulqueen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Frank Gavrilyuk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lawrence Munoz,28,20,5,10,0.5,2,3,0.6666666666666666,0,2,0.0,12,4,2,0,0,0,0
+Theodore Frye,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+=====Kansas Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Jason Flores,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ashley Larose,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ramon Duncan,34,26,7,12,0.5833333333333334,2,4,0.5,1,1,1.0,17,6,5,1,0,1,0
+Jimmie Coleman,35,25,7,11,0.6363636363636364,3,5,0.6,0,0,0,17,2,0,0,0,3,1
+Donald Perez,30,21,4,10,0.4,1,3,0.3333333333333333,2,2,1.0,11,0,3,0,1,1,0
+Jack Edwards,2,3,1,1,1.0,0,0,0,0,0,0,2,1,0,0,0,1,1
+Louis Carter,25,9,1,3,0.3333333333333333,1,1,1.0,0,0,0,3,7,2,1,0,2,0
+Joe Allen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Simon Woods,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Earnest Gordon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joseph Wingard,36,21,5,8,0.625,1,1,1.0,4,4,1.0,15,6,6,1,0,4,1
+Kevin Johnson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kevin Lukacs,34,21,6,10,0.6,3,6,0.5,2,2,1.0,17,3,2,0,0,1,0
+""
+""
+=====TEAM STATS=====
+Stat,TCU,Kansas
+Points,78,82
+Possessions,79,74
+FGM,29,20
+FGA,50,35
+FGPercent,0.58,0.5714285714285714
+3PM,6,11
+3PA,16,20
+3P%,0.375,0.55
+FTM,2,9
+FTA,4,9
+FT%,0.5,1.0
+Rebounds,27,25
+OffRebounds,9,3
+DefRebounds,18,22
+Assists,22,18
+Steals,6,0
+Blocks,1,0
+Total Turnovers,12,18
+Largest Lead,3,13

@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Arizona State,Sun Devils,24,33,0,57
+Colorado,Buffaloes,27,29,0,56
+""
+""
+=====Arizona State Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+David Daly,25,10,3,4,0.75,0,1,0.0,0,0,0,6,3,0,0,0,0,1
+John Chambers,25,16,3,8,0.375,1,2,0.5,0,0,0,7,3,0,0,0,1,0
+Robert Collins,25,13,4,6,0.6666666666666666,1,1,1.0,0,0,0,9,1,1,0,0,0,0
+George Turbeville,25,17,3,6,0.5,1,2,0.5,0,0,0,7,8,1,3,3,0,0
+Owen Dillon,8,7,0,3,0.0,0,1,0.0,0,0,0,0,2,0,1,0,0,0
+David Bland,25,10,0,4,0.0,0,1,0.0,1,2,0.5,1,1,2,0,2,0,0
+Kevin Irvin,7,16,5,7,0.7142857142857143,0,0,0,0,2,0.0,10,3,0,1,0,0,0
+Emmanuel Yancy,20,12,2,5,0.4,0,0,0,2,2,1.0,6,2,4,1,1,1,0
+Ernesto Johnson,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Berrier,5,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Scott Myers,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Thomas Stevens,20,15,4,7,0.5714285714285714,1,2,0.5,0,0,0,9,1,2,0,0,0,0
+Chau Khan,5,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+""
+=====Colorado Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Randy Parker,35,17,4,8,0.5,2,4,0.5,0,0,0,10,9,2,0,1,1,0
+Neville Isom,34,21,4,9,0.4444444444444444,0,3,0.0,2,2,1.0,10,2,1,0,1,2,0
+Nathan Soto,15,7,1,3,0.3333333333333333,0,0,0,0,0,0,2,1,2,1,0,0,0
+Jonathan Hughes,31,17,4,7,0.5714285714285714,0,1,0.0,1,2,0.5,9,7,1,1,1,2,0
+Olin Ring,31,23,4,9,0.4444444444444444,1,1,1.0,1,3,0.3333333333333333,10,5,5,2,0,3,1
+John Williams,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arthur Carter,4,2,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mark Morris,15,13,3,5,0.6,0,1,0.0,0,0,0,6,5,0,1,0,2,0
+Isaac Jones,5,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+William Clark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sangeeta Khalil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jason Ku,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ling Meza,30,19,4,7,0.5714285714285714,0,1,0.0,1,2,0.5,9,1,0,1,2,4,1
+""
+""
+=====TEAM STATS=====
+Stat,Arizona State,Colorado
+Points,57,56
+Possessions,70,71
+FGM,21,21
+FGA,41,38
+FGPercent,0.5121951219512195,0.5526315789473685
+3PM,4,3
+3PA,10,11
+3P%,0.4,0.2727272727272727
+FTM,3,5
+FTA,6,9
+FT%,0.5,0.5555555555555556
+Rebounds,26,30
+OffRebounds,10,11
+DefRebounds,16,19
+Assists,11,11
+Steals,6,0
+Blocks,6,1
+Total Turnovers,16,15
+Largest Lead,11,5

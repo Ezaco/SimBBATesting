@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Appalachian State,Mountaineers,34,35,0,69
+Georgia State,Panthers,32,29,0,61
+""
+""
+=====Appalachian State Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Young Ling,20,16,3,6,0.5,0,1,0.0,1,1,1.0,7,1,3,0,0,1,0
+Randall Howard,25,18,7,9,0.7777777777777778,0,2,0.0,1,1,1.0,15,1,1,0,0,0,0
+Federico Walker,25,14,1,4,0.25,0,1,0.0,1,2,0.5,3,5,0,3,0,0,1
+William Mclean,25,21,5,9,0.5555555555555556,0,2,0.0,1,1,1.0,11,3,1,0,1,2,0
+David Boulay,25,9,3,4,0.75,0,0,0,0,0,0,6,2,3,0,1,1,0
+Mohamed Stacy,25,20,2,7,0.2857142857142857,0,0,0,0,0,0,4,6,0,6,2,0,0
+Alberto Mendoza,20,17,6,8,0.75,0,2,0.0,1,1,1.0,13,1,3,1,0,0,0
+Charles Prager,8,2,0,1,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Brian Shay,7,4,1,2,0.5,0,1,0.0,0,0,0,2,0,1,0,0,0,0
+Daniel Eldridge,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+James Stanley,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Mark Dotson,5,6,1,3,0.3333333333333333,0,1,0.0,0,0,0,2,0,0,0,0,0,0
+Lee Wallace,5,7,3,3,1.0,0,0,0,0,0,0,6,0,1,1,0,0,0
+""
+=====Georgia State Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Jerry Ferguson,25,20,8,9,0.8888888888888888,3,3,1.0,0,0,0,19,2,0,1,0,0,0
+John White,25,5,0,1,0.0,0,1,0.0,0,0,0,0,2,2,0,0,3,2
+David Peter,25,19,4,7,0.5714285714285714,1,2,0.5,2,2,1.0,11,8,0,3,1,2,0
+Kevin Gardner,20,3,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Michael Valerio,25,13,4,6,0.6666666666666666,0,0,0,0,0,0,8,4,2,1,2,0,0
+Curtis Biard,7,2,0,1,0.0,0,0,0,0,0,0,0,0,3,0,0,0,0
+Jose Galvan,25,16,2,6,0.3333333333333333,0,0,0,0,0,0,4,4,1,0,2,4,1
+William Westerberg,8,10,3,4,0.75,0,1,0.0,0,0,0,6,1,0,0,0,2,1
+Nguyen Kim,5,5,1,2,0.5,1,1,1.0,0,0,0,3,1,0,0,0,1,1
+Joseph Smith,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+John Bona,20,12,2,6,0.3333333333333333,0,0,0,1,1,1.0,5,1,4,0,0,0,0
+Carlos Barragan,5,2,0,0,0,0,0,0,0,0,0,0,3,1,0,0,2,0
+Matthew Cannon,5,4,2,2,1.0,1,1,1.0,0,0,0,5,2,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Appalachian State,Georgia State
+Points,69,61
+Possessions,72,72
+FGM,32,20
+FGA,46,36
+FGPercent,0.6956521739130435,0.5555555555555556
+3PM,0,6
+3PA,10,9
+3P%,0.0,0.6666666666666666
+FTM,5,3
+FTA,6,3
+FT%,0.8333333333333334,1.0
+Rebounds,21,28
+OffRebounds,9,10
+DefRebounds,12,18
+Assists,14,13
+Steals,11,0
+Blocks,4,2
+Total Turnovers,16,22
+Largest Lead,10,2

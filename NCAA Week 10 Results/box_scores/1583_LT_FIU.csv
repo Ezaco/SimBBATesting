@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Louisiana Tech,Bulldogs,26,42,0,68
+FIU,Panthers,50,41,0,91
+""
+""
+=====Louisiana Tech Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Jason Quinones,25,13,5,6,0.8333333333333334,1,1,1.0,2,2,1.0,13,1,3,0,0,0,0
+Manuel Soria,20,13,2,5,0.4,0,0,0,0,0,0,4,3,1,1,1,1,1
+Gerard Stulken,25,18,3,8,0.375,0,3,0.0,0,2,0.0,6,4,2,1,0,1,0
+Martin Castaneda,20,13,3,6,0.5,1,2,0.5,0,2,0.0,7,2,3,0,0,0,1
+Matthew Griffin,8,8,1,3,0.3333333333333333,1,2,0.5,0,0,0,3,0,0,1,0,0,0
+Kevin Berglund,25,20,3,8,0.375,0,0,0,1,1,1.0,7,2,0,2,0,0,1
+Warren Jones,25,11,3,5,0.6,1,2,0.5,0,0,0,7,4,2,1,0,0,0
+Brian White,25,14,2,6,0.3333333333333333,0,1,0.0,1,1,1.0,5,3,0,1,1,0,0
+Aaron Riddle,5,2,1,1,1.0,0,0,0,0,0,0,2,1,0,0,0,0,0
+Freddy Shivers,5,8,2,4,0.5,0,0,0,0,0,0,4,1,0,0,0,0,0
+Manuel Pearson,5,10,2,5,0.4,1,1,1.0,2,2,1.0,7,0,0,0,0,0,0
+Michael Childress,5,3,1,1,1.0,0,0,0,0,0,0,2,0,1,1,0,0,0
+John Madigan,7,2,0,1,0.0,0,0,0,1,2,0.5,1,1,0,0,0,0,0
+""
+=====FIU Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Thomas Smith,25,20,6,9,0.6666666666666666,2,4,0.5,2,2,1.0,16,8,3,0,1,2,0
+Joshua Marsh,25,19,7,9,0.7777777777777778,3,3,1.0,2,2,1.0,19,1,2,1,1,0,0
+Michael Hart,25,14,2,5,0.4,1,3,0.3333333333333333,2,2,1.0,7,9,3,2,0,2,1
+Michael Robertson,25,9,2,3,0.6666666666666666,1,2,0.5,0,0,0,5,2,0,1,2,2,0
+George Sullivan,20,13,3,6,0.5,1,1,1.0,0,0,0,7,3,4,1,0,0,0
+Wei Tan,20,16,4,7,0.5714285714285714,1,4,0.25,0,0,0,9,2,4,1,1,1,0
+Curtis Kovacic,25,14,4,7,0.5714285714285714,1,2,0.5,2,2,1.0,11,1,2,0,0,0,0
+Wayne Johnson,8,5,2,2,1.0,0,0,0,0,0,0,4,0,0,0,0,1,1
+James Fulgham,5,6,1,3,0.3333333333333333,1,3,0.3333333333333333,2,2,1.0,5,1,1,0,0,0,0
+Allen Devaughn,7,6,1,3,0.3333333333333333,0,0,0,0,0,0,2,1,1,0,0,0,0
+Dennis Brunsvold,5,10,3,4,0.75,0,0,0,0,0,0,6,0,0,1,0,0,0
+Christopher Desmet,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Kam Lowe,5,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Louisiana Tech,FIU
+Points,68,91
+Possessions,75,75
+FGM,23,24
+FGA,47,36
+FGPercent,0.48936170212765956,0.6666666666666666
+3PM,5,11
+3PA,12,22
+3P%,0.4166666666666667,0.5
+FTM,7,10
+FTA,12,10
+FT%,0.5833333333333334,1.0
+Rebounds,22,30
+OffRebounds,8,6
+DefRebounds,14,24
+Assists,12,21
+Steals,8,0
+Blocks,2,3
+Total Turnovers,15,14
+Largest Lead,0,31

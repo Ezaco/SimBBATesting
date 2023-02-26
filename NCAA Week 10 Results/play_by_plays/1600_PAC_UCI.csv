@@ -1,0 +1,164 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+PAC,UCI,68,75,149
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+UCI,UCI wins the tipoff!,Tipoff,0,0,0,149
+UCI,Raymon Frasier 3-point attempt...Score!,Score,0,3,1,149
+PAC,Reginald Parson Inside shot...Score!,Score,2,3,2,149
+UCI,Chris Cook 3-point attempt...Score!       Assisted by: Moises Rowley,Score,2,6,3,149
+PAC,Ismail Nichols 2-point jumper...Missed!       Rebounded by UCI Larry Reed.,Missed,2,6,4,149
+UCI,Jeffrey Reber Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: Moises Rowley,Score,2,8,5,149
+UCI,       Free throw coming up... rattled out.       Rebounded by UCI Jeffrey Reber.,FreeThrow,2,8,5,149
+UCI,James Taylor 3-point attempt...Missed!       Rebounded by UCI Moises Rowley.,Score,2,8,6,149
+UCI,UCI Moises Rowley lost the ball out of bounds.,Turnover,2,8,7,149
+PAC,Reginald Parson 3-point attempt...Missed!       Rebounded by UCI Henry Gonzales.,Miss,2,8,8,149
+UCI,James Taylor 3-point attempt...Score!       Assisted by: Larry Reed,Score,2,11,9,149
+PAC,Frederick Voss 2-point jumper...Score!,Score,4,11,10,149
+UCI,Moises Rowley 3-point attempt...Score!       Assisted by: Chris Cook,Score,4,14,11,149
+PAC,Jerry Lawson 2-point jumper...Missed!       Rebounded by UCI Jerry Bell.,Missed,4,14,12,149
+PAC,Justin Austin steals the ball for PAC!,Turnover,4,14,13,149
+PAC,PAC Daniel Ida lost the ball out of bounds.,Out of Bounds,4,14,14,149
+UCI,Larry Reed 3-point attempt...Missed!Rebounded by PAC Justin Austin.,Score,4,14,15,149
+PAC,Justin Austin 2-point jumper...Missed!       Rebounded by PAC Justin Austin.,Missed,4,14,17,149
+PAC,Reginald Parson 2-point jumper...Missed!       Rebounded by PAC Jerry Lawson.,Missed,4,14,18,149
+PAC,Kenneth Nito 2-point jumper...Missed!       Rebounded by PAC Jerry Lawson.,Missed,4,14,19,149
+PAC,PAC: Offensive foul on PAC Christopher Jirjis.,Foul,4,14,20,149
+UCI,Henry Gonzales 3-point attempt...Score!       Assisted by: Moises Rowley,Score,4,17,21,149
+PAC,PAC Daniel Ida lost the ball out of bounds.,Out of Bounds,4,17,22,149
+UCI,Larry Reed 2-point jumper...BLOCKED by Ismail Nichols.       Rebounded by PAC Reginald Parson.,Turnover,4,17,23,149
+PAC,Daniel Ida 2-point jumper...Missed!       Rebounded by UCI Moises Rowley.,Missed,4,17,24,149
+UCI,David Brooks 2-point jumper...Missed!       Rebounded by PAC Ismail Nichols.,Score,4,17,25,149
+PAC,Reginald Parson Inside shot...Score! Foul on the play and one!       Assisted by: Jerry Lawson,Score,6,17,26,149
+PAC,Free throw coming up... good!,FreeThrow,7,17,26,149
+PAC,Christopher Jirjis steals the ball for PAC!,Turnover,7,17,27,149
+PAC,Jerry Lawson 3-point attempt...Score!       Assisted by: Justin Austin,Score,10,17,28,149
+PAC,Ismail Nichols steals the ball for PAC!,Turnover,10,17,29,149
+PAC,Reginald Parson Inside shot...Score!,Score,12,17,30,149
+UCI,UCI Moises Rowley lost the ball out of bounds.,Turnover,12,17,31,149
+PAC,William Payne 2-point jumper...Score!       Assisted by: Christopher Jirjis,Score,14,17,32,149
+UCI,Raymon Frasier 3-point attempt...Score!       Assisted by: Jerry Bell,Score,14,20,33,149
+UCI,Jeffrey Reber steals the ball for UCI!,Turnover,14,20,34,149
+UCI,Henry Gonzales 2-point jumper...Score!,Score,14,22,35,149
+PAC,Christopher Jirjis Inside shot...Score! Foul on the play and one!,Score,16,22,36,149
+PAC,Free throw coming up... rattled out.       Rebounded by UCI Henry Gonzales.,FreeThrow,16,22,36,149
+UCI,UCI Henry Gonzales lost the ball out of bounds.,Turnover,16,22,37,149
+PAC,Frederick Voss 3-point attempt...Missed!       Rebounded by UCI Larry Reed.,Miss,16,22,38,149
+UCI,UCI: Offensive foul on UCI Larry Reed.,Turnover,16,22,39,149
+PAC,PAC: Offensive foul on PAC Justin Austin.,Foul,16,22,40,149
+UCI,James Taylor 3-point attempt...BLOCKED by PAC Reginald Parson.       Rebounded by UCI Moises Rowley.,Turnover,16,22,41,149
+UCI,Larry Reed Inside shot...Score!,Score,16,24,42,149
+PAC,Daniel Ida 3-point attempt...Missed!       Rebounded by UCI James Taylor.,Miss,16,24,43,149
+UCI,Henry Gonzales 3-point attempt...Missed!Rebounded by PAC Ismail Nichols.,Score,16,24,44,149
+PAC,Jerry Lawson Inside shot...Score! Foul on the play and one!,Score,18,24,45,149
+PAC,Free throw coming up... good!,FreeThrow,19,24,45,149
+UCI,Henry Gonzales Inside shot...Score!       Assisted by: Moises Rowley,Score,19,26,46,149
+PAC,Reginald Parson Inside shot...Missed!       Rebounded by PAC Reginald Parson.,Score,19,26,47,149
+PAC,Justin Austin Inside shot...Score!       Assisted by: Jerry Lawson,Score,21,26,48,149
+UCI,Jerry Bell 3-point attempt...Score!       Assisted by: James Taylor,Score,21,29,49,149
+PAC,Jerry Lawson Inside shot...Score!       Assisted by: Kenneth Nito,Score,23,29,50,149
+UCI,Larry Reed 3-point attempt...Score!       Assisted by: James Taylor,Score,23,32,51,149
+PAC,Daniel Ida Inside shot...Score! Foul on the play and one!,Score,25,32,52,149
+PAC,Free throw coming up... good!,FreeThrow,26,32,52,149
+UCI,UCI: Offensive foul on UCI Jeffrey Reber.,Turnover,26,32,53,149
+UCI,Henry Gonzales steals the ball for UCI!,Turnover,26,32,54,149
+UCI,Henry Gonzales Inside shot...Score!,Score,26,34,55,149
+PAC,Andre Harper 3-point attempt...Missed!       Rebounded by UCI Jerry Bell.,Miss,26,34,56,149
+UCI,Moises Rowley 3-point attempt...Missed!       Rebounded by UCI Jerry Bell.,Score,26,34,57,149
+UCI,James Taylor 2-point jumper...Score!,Score,26,36,58,149
+PAC,Ismail Nichols Inside shot...Score!,Score,28,36,59,149
+UCI,UCI: Shot clock violation on UCI James Taylor.,Turnover,28,36,60,149
+PAC,Ismail Nichols Inside shot...Missed!       Rebounded by PAC Justin Austin.,Score,28,36,61,149
+PAC,Ismail Nichols Inside shot...Score! Foul on the play and one!       Assisted by: Christopher Jirjis,Score,30,36,62,149
+PAC,Free throw coming up... good!,FreeThrow,31,36,62,149
+UCI,Larry Reed 2-point jumper...Missed!       Rebounded by PAC Kenneth Nito.,Score,31,36,63,149
+PAC,Jerry Lawson 3-point attempt...Score!       Assisted by: Daniel Ida,Score,34,36,64,149
+UCI,Moises Rowley Inside shot...Score!       Assisted by: James Taylor,Score,34,38,65,149
+PAC,Reginald Parson 2-point jumper...Missed!       Rebounded by UCI Jeffrey Reber.,Missed,34,38,66,149
+UCI,James Taylor 3-point attempt...Score!       Assisted by: Jerry Bell,Score,34,41,67,149
+PAC,Jerry Lawson 3-point attempt...Score!       Assisted by: Christopher Jirjis,Score,37,41,68,149
+UCI,James Taylor Inside shot...Score!       Assisted by: Moises Rowley,Score,37,43,69,149
+PAC,Justin Austin Inside shot...Score!       Assisted by: Ismail Nichols,Score,39,43,70,149
+PAC,Andre Harper steals the ball for PAC!,Turnover,39,43,71,149
+PAC,Kenneth Nito Inside shot...Score!       Assisted by: Ismail Nichols,Score,41,43,73,149
+UCI,Jerry Bell 3-point attempt...Missed!Rebounded by PAC William Payne.,Score,41,43,74,149
+,,HALFTIME,41,43,74,149
+PAC,Eric Yamauchi 2-point jumper...Missed!       Rebounded by PAC Christopher Jirjis.,Missed,41,43,75,149
+PAC,Ismail Nichols 2-point jumper...Missed!       Rebounded by UCI Jerry Bell.,Missed,41,43,76,149
+UCI,Jerry Bell 3-point attempt...Score!       Assisted by: James Taylor,Score,41,46,77,149
+PAC,Justin Austin 3-point attempt...Missed!       Rebounded by PAC Jerry Lawson.,Missed,41,46,79,149
+PAC,Reginald Parson 2-point jumper...Missed!       Rebounded by UCI Henry Gonzales.,Missed,41,46,81,149
+UCI,James Taylor 2-point jumper...Missed!       Rebounded by PAC Christopher Jirjis.,Score,41,46,82,149
+PAC,Jerry Lawson Inside shot...Missed!       Rebounded by UCI Larry Reed.,Score,41,46,83,149
+PAC,Aaron Tindal steals the ball for PAC!,Turnover,41,46,84,149
+PAC,Reginald Parson 2-point jumper...Score!,Score,43,46,85,149
+UCI,UCI: Offensive foul on UCI James Taylor.,Turnover,43,46,86,149
+PAC,Jerry Lawson 3-point attempt...Missed!       Rebounded by PAC Justin Austin.,Missed,43,46,87,149
+PAC,Ismail Nichols 2-point jumper...BLOCKED by UCI Larry Reed.       Rebounded by UCI Larry Reed.,Turnover,43,46,88,149
+UCI,Henry Gonzales 3-point attempt...Score!       Assisted by: Moises Rowley,Score,43,49,89,149
+PAC,PAC Jerry Lawson lost the ball out of bounds.,Out of Bounds,43,49,90,149
+UCI,Henry Gonzales 3-point attempt...Score!       Assisted by: James Taylor,Score,43,52,91,149
+PAC,Jerry Lawson 2-point jumper...Score!,Score,45,52,92,149
+UCI,Jerry Bell Inside shot...Missed!       Rebounded by UCI Moises Rowley.,Score,45,52,93,149
+UCI,UCI Moises Rowley lost the ball out of bounds.,Turnover,45,52,94,149
+PAC,Kenneth Nito 2-point jumper...Score!,Score,47,52,95,149
+UCI,UCI: Offensive foul on UCI Jerry Bell.,Turnover,47,52,96,149
+PAC,Justin Austin 3-point attempt...Missed!       Rebounded by UCI Jeffrey Reber.,Miss,47,52,97,149
+UCI,Raymon Frasier 2-point jumper...Score!       Assisted by: James Taylor,Score,47,54,98,149
+PAC,Andre Harper 3-point attempt...Missed!       Rebounded by UCI Jerry Bell.,Miss,47,54,99,149
+UCI,Henry Gonzales 3-point attempt...Score!       Assisted by: Raymon Frasier,Score,47,57,100,149
+PAC,PAC Ismail Nichols lost the ball out of bounds.,Out of Bounds,47,57,101,149
+UCI,Henry Gonzales 3-point attempt...Missed!       Rebounded by UCI Henry Gonzales.,Score,47,57,102,149
+UCI,UCI Larry Reed lost the ball out of bounds.,Turnover,47,57,103,149
+PAC,Reginald Parson Inside shot...Score!,Score,49,57,104,149
+UCI,Larry Reed 3-point attempt...Score!       Assisted by: James Taylor,Score,49,60,105,149
+PAC,Jerry Lawson 2-point jumper...Missed!       Rebounded by UCI Raymon Frasier.,Missed,49,60,106,149
+UCI,Henry Gonzales 3-point attempt...Missed!Rebounded by PAC Reginald Parson.,Score,49,60,107,149
+PAC,Chance Gibb 3-point attempt...Missed!       Rebounded by UCI Henry Gonzales.,Miss,49,60,108,149
+UCI,Moises Rowley 3-point attempt...Missed!Rebounded by PAC Eric Yamauchi.,Score,49,60,109,149
+UCI,Henry Gonzales steals the ball for UCI!,Turnover,49,60,110,149
+UCI,Moises Rowley 3-point attempt...Missed!Rebounded by PAC Eric Yamauchi.,Score,49,60,111,149
+PAC,Christopher Jirjis 2-point jumper...Missed!       Rebounded by UCI Larry Reed.,Missed,49,60,112,149
+UCI,Henry Gonzales 2-point jumper... Missed but there is a foul on the play.,Foul,49,60,113,149
+UCI,Free throw coming up... good!,FreeThrow,49,61,113,149
+UCI,Free throw coming up... good!,FreeThrow,49,62,113,149
+PAC,William Payne 2-point jumper...Score!,Score,51,62,114,149
+UCI,Moises Rowley Inside shot...Score!,Score,51,64,115,149
+PAC,Justin Austin Inside shot...Score!       Assisted by: Christopher Jirjis,Score,53,64,116,149
+UCI,Moises Rowley 3-point attempt...Score!       Assisted by: James Taylor,Score,53,67,117,149
+PAC,Christopher Jirjis 2-point jumper...Missed!       Rebounded by UCI Larry Reed.,Missed,53,67,118,149
+UCI,UCI: Offensive foul on UCI Larry Reed.,Turnover,53,67,119,149
+PAC,Daniel Ida Inside shot...Missed!       Rebounded by PAC Christopher Jirjis.,Score,53,67,120,149
+PAC,Free throw coming up... good!,FreeThrow,54,67,121,149
+PAC,Free throw coming up... good!,FreeThrow,55,67,121,149
+PAC,Free throw coming up... good!,FreeThrow,56,67,121,149
+UCI,Henry Gonzales Inside shot...Score! Fouled and we have a free throw folks!,Score,56,69,122,149
+UCI,Free throw coming up... good!,FreeThrow,56,70,122,149
+UCI,Henry Gonzales steals the ball for UCI!,Turnover,56,70,123,149
+UCI,Moises Rowley Inside shot...Score!,Score,56,72,124,149
+PAC,Christopher Jirjis Inside shot...Score!,Score,58,72,125,149
+UCI,Jerry Bell 2-point jumper...Missed!       Rebounded by PAC Eric Yamauchi.,Score,58,72,126,149
+UCI,Moises Rowley steals the ball for UCI!,Turnover,58,72,127,149
+UCI,Jerry Bell 2-point jumper...Missed!       Rebounded by PAC Andre Harper.,Score,58,72,128,149
+PAC,Daniel Ida 2-point jumper...BLOCKED by UCI Henry Gonzales.       Rebounded by UCI Jerry Bell.,Turnover,58,72,129,149
+UCI,Larry Reed 2-point jumper...Missed!       Rebounded by PAC Andre Harper.,Score,58,72,130,149
+PAC,Chance Gibb 2-point jumper...Missed!       Rebounded by PAC Aaron Tindal.,Missed,58,72,131,149
+PAC,Jerry Lawson 2-point jumper...Score!       Assisted by: Daniel Ida,Score,60,72,132,149
+UCI,Jeffrey Reber 3-point attempt...Missed!Rebounded by PAC Ismail Nichols.,Score,60,72,133,149
+PAC,PAC Kenneth Nito lost the ball out of bounds.,Out of Bounds,60,72,134,149
+PAC,Daniel Ida steals the ball for PAC!,Turnover,60,72,135,149
+PAC,Reginald Parson Inside shot...Score!,Score,62,72,136,149
+UCI,Raymon Frasier 3-point attempt...Missed!Rebounded by PAC Andre Harper.,Score,62,72,137,149
+UCI,Henry Gonzales steals the ball for UCI!,Turnover,62,72,138,149
+UCI,Moises Rowley 3-point attempt...Missed!Rebounded by PAC Christopher Jirjis.,Score,62,72,139,149
+PAC,Ismail Nichols Inside shot...Score!       Assisted by: Justin Austin,Score,64,72,140,149
+UCI,Jerry Bell 2-point jumper...Missed!       Rebounded by PAC Justin Austin.,Score,64,72,141,149
+PAC,Daniel Ida 3-point attempt...BLOCKED by UCI Henry Gonzales.       Rebounded by UCI Jerry Bell.,Score,64,72,142,149
+PAC,Kenneth Nito steals the ball for PAC!,Turnover,64,72,143,149
+PAC,PAC: Offensive foul on PAC Christopher Jirjis.,Foul,64,72,144,149
+UCI,James Taylor 3-point attempt...Score!       Assisted by: Moises Rowley,Score,64,75,145,149
+PAC,Reginald Parson 2-point jumper...Missed!       Rebounded by UCI Henry Gonzales.,Missed,64,75,146,149
+UCI,UCI Moises Rowley lost the ball out of bounds.,Turnover,64,75,147,149
+PAC,Kenneth Nito 2-point jumper...Score!,Score,66,75,148,149
+UCI,Jerry Bell 3-point attempt...Missed!Rebounded by PAC Kenneth Nito.,Score,66,75,149,149
+PAC,Reginald Parson Inside shot...Score!       Assisted by: Daniel Ida,Score,68,75,150,149
+,Match Complete,FinalScore,68,75,150,149

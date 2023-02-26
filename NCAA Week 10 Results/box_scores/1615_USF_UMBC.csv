@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+South Florida,Bulls,33,28,0,61
+UMBC,Retrievers,39,19,0,58
+""
+""
+=====South Florida Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+John Lacaze,25,13,5,5,1.0,0,0,0,2,2,1.0,12,7,0,0,2,0,1
+Wai Sun,25,10,3,4,0.75,1,1,1.0,0,0,0,7,4,1,0,0,2,0
+Jesse Powell,25,14,2,5,0.4,0,1,0.0,1,2,0.5,5,3,0,3,1,0,1
+Rodney Smith,7,2,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0
+Brian Horvath,20,11,2,4,0.5,1,2,0.5,0,0,0,5,4,2,3,0,1,0
+Minh Zhu,25,21,2,7,0.2857142857142857,1,3,0.3333333333333333,4,6,0.6666666666666666,9,3,0,1,0,0,0
+Charles Eisner,25,20,4,9,0.4444444444444444,1,3,0.3333333333333333,2,2,1.0,11,4,0,1,0,1,0
+John Carey,5,4,1,2,0.5,0,0,0,0,0,0,2,0,0,0,0,0,0
+Philip Onuska,20,9,1,4,0.25,0,1,0.0,4,5,0.8,6,1,3,0,0,0,0
+Ellis Taylor,5,3,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kevin Colbert,5,6,0,3,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0
+James Taber,8,8,0,3,0.0,0,0,0,2,2,1.0,2,1,0,0,0,0,1
+Alexander Stefanich,5,2,1,1,1.0,0,0,0,0,0,0,2,0,0,0,0,0,0
+""
+=====UMBC Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Chang Berger,10,5,2,2,1.0,0,0,0,0,0,0,4,2,0,1,0,0,0
+Carl Jenkins,30,8,2,4,0.5,0,1,0.0,0,0,0,4,2,1,0,0,0,0
+Jack Long,32,19,5,9,0.5555555555555556,0,1,0.0,0,0,0,10,7,0,0,0,1,0
+Paul Martinez,24,19,4,8,0.5,0,0,0,3,4,0.75,11,3,1,1,1,2,0
+Blair Stiles,17,4,0,1,0.0,0,0,0,0,0,0,0,1,4,1,0,1,0
+Leonardo Fredrickson,6,7,2,3,0.6666666666666666,1,1,1.0,0,0,0,5,0,0,1,0,0,0
+Theo Rinehart,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Caleb Burton,5,5,1,2,0.5,0,0,0,0,0,0,2,1,0,0,0,1,0
+Ellsworth Houle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Humberto Martinez,15,15,2,6,0.3333333333333333,0,1,0.0,3,3,1.0,7,0,0,1,1,2,0
+Derek Ignacio,36,25,4,11,0.36363636363636365,0,2,0.0,1,1,1.0,9,5,0,0,1,3,1
+Robert Lampe,25,18,1,8,0.125,1,1,1.0,3,4,0.75,6,4,2,1,1,1,0
+Eric Ankeney,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,South Florida,UMBC
+Points,61,58
+Possessions,72,73
+FGM,17,21
+FGA,35,47
+FGPercent,0.4857142857142857,0.44680851063829785
+3PM,4,2
+3PA,14,7
+3P%,0.2857142857142857,0.2857142857142857
+FTM,15,10
+FTA,19,12
+FT%,0.7894736842105263,0.8333333333333334
+Rebounds,27,25
+OffRebounds,6,8
+DefRebounds,21,17
+Assists,6,8
+Steals,8,0
+Blocks,3,2
+Total Turnovers,24,16
+Largest Lead,3,8

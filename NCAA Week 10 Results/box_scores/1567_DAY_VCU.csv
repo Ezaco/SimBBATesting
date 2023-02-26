@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Dayton,Flyers,30,29,0,59
+Virginia Commonwealth,Rams,16,25,0,41
+""
+""
+=====Dayton Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Aaron Sally,25,17,3,7,0.42857142857142855,1,1,1.0,0,0,0,7,7,0,1,0,1,0
+Gilbert Reasoner,20,16,1,7,0.14285714285714285,0,1,0.0,0,0,0,2,3,5,1,1,0,1
+Brandon Proudfit,25,17,3,7,0.42857142857142855,0,0,0,2,2,1.0,8,8,0,2,2,0,0
+Rosalio Rivas,20,12,2,6,0.3333333333333333,0,1,0.0,0,0,0,4,5,0,0,1,0,0
+Jelena Weems,25,16,4,7,0.5714285714285714,0,0,0,0,0,0,8,0,4,0,2,1,1
+Brian Hartmann,25,12,2,4,0.5,0,2,0.0,0,0,0,4,9,1,2,1,0,0
+James Mcclusky,25,8,4,4,1.0,0,0,0,0,0,0,8,5,0,0,1,0,0
+Jamie Webb,8,12,2,6,0.3333333333333333,0,1,0.0,2,2,1.0,6,0,0,0,0,0,0
+Stephen Linton,7,9,3,4,0.75,1,2,0.5,0,0,0,7,0,0,1,0,0,0
+Monty Crossman,5,5,1,2,0.5,0,1,0.0,1,1,1.0,3,1,0,0,0,0,0
+Frank Rivera,5,3,0,1,0.0,0,1,0.0,0,0,0,0,1,0,0,0,0,0
+Samuel Graham,5,5,1,2,0.5,0,0,0,0,0,0,2,0,1,0,0,0,0
+David Ruocco,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+=====Virginia Commonwealth Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Sean Roberts,25,18,2,8,0.25,0,1,0.0,1,2,0.5,5,4,2,0,0,2,0
+Philip Washington,20,14,3,6,0.5,0,1,0.0,0,0,0,6,4,0,1,0,1,0
+Paul Martinez,20,11,2,4,0.5,0,1,0.0,0,0,0,4,3,0,1,1,1,0
+Matthew Scott,25,24,4,11,0.36363636363636365,0,1,0.0,1,1,1.0,9,6,1,0,1,2,1
+Cletus Silver,5,2,0,1,0.0,0,0,0,1,2,0.5,1,1,0,0,0,0,0
+Samuel Evans,25,13,2,6,0.3333333333333333,0,1,0.0,1,2,0.5,5,4,3,0,0,1,0
+Claud Harden,5,6,0,3,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0
+George Felkins,25,14,2,5,0.4,0,2,0.0,0,0,0,4,6,1,1,0,3,0
+Mark Sacco,8,5,0,2,0.0,0,0,0,0,0,0,0,1,0,1,1,0,0
+Charles Liva,7,2,0,1,0.0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Roy Delay,25,16,3,6,0.5,1,2,0.5,0,1,0.0,7,4,1,1,0,3,0
+John Chen,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Alex Tejada,5,2,0,1,0.0,0,1,0.0,0,0,0,0,2,0,0,1,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Dayton,Virginia Commonwealth
+Points,59,41
+Possessions,73,75
+FGM,24,17
+FGA,47,44
+FGPercent,0.5106382978723404,0.38636363636363635
+3PM,2,1
+3PA,10,10
+3P%,0.2,0.1
+FTM,5,4
+FTA,5,8
+FT%,1.0,0.5
+Rebounds,40,36
+OffRebounds,9,12
+DefRebounds,31,24
+Assists,11,9
+Steals,7,0
+Blocks,8,2
+Total Turnovers,13,12
+Largest Lead,20,0

@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Georgia Tech,Yellow Jackets,39,31,0,70
+NC State,Wolfpack,17,41,0,58
+""
+""
+=====Georgia Tech Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Ming Sebastian,25,17,5,8,0.625,0,1,0.0,1,3,0.3333333333333333,11,4,3,1,0,0,0
+Chun Wan,25,15,2,6,0.3333333333333333,1,2,0.5,0,0,0,5,3,1,1,1,1,1
+Richard Almeida,25,12,4,5,0.8,0,1,0.0,0,0,0,8,4,1,1,1,1,0
+David Schroeder,25,26,4,11,0.36363636363636365,1,4,0.25,0,0,0,9,5,2,1,0,0,1
+Ronald Morgans,20,6,0,2,0.0,0,0,0,0,0,0,0,3,1,0,0,1,0
+Billy Richardson,25,26,4,10,0.4,2,3,0.6666666666666666,2,3,0.6666666666666666,12,8,2,1,0,1,2
+Matthew Copley,7,8,1,4,0.25,0,0,0,4,4,1.0,6,2,0,0,1,0,0
+John Larock,20,14,5,6,0.8333333333333334,2,2,1.0,0,0,0,12,3,1,1,2,0,1
+Aaron Felix,5,4,1,2,0.5,0,0,0,0,0,0,2,0,1,0,0,1,0
+Robert Corbin,5,2,1,1,1.0,1,1,1.0,0,0,0,3,0,0,0,0,0,0
+Jacob Wright,8,2,1,1,1.0,0,0,0,0,0,0,2,2,0,0,1,0,0
+Andrew Alster,5,2,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Johnny Tomas,5,3,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1
+""
+=====NC State Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Robert Dixon,25,8,3,3,1.0,0,0,0,0,0,0,6,5,0,0,2,2,1
+Brian Kane,25,16,2,6,0.3333333333333333,2,4,0.5,0,0,0,6,2,1,0,0,4,2
+Tommy Chen,25,16,3,7,0.42857142857142855,0,1,0.0,0,0,0,6,3,3,2,0,0,0
+Marc Ohara,25,20,5,9,0.5555555555555556,3,4,0.75,3,3,1.0,16,4,0,0,1,2,0
+Aurelio Merino,25,6,0,2,0.0,0,1,0.0,0,0,0,0,2,3,0,1,2,0
+Phillip Smith,20,8,2,4,0.5,1,2,0.5,0,0,0,5,3,1,0,1,0,0
+Loc Roy,20,20,5,9,0.5555555555555556,0,3,0.0,1,1,1.0,11,4,0,0,1,2,0
+Robert Jackson,8,4,0,2,0.0,0,0,0,0,0,0,0,3,1,0,1,0,0
+Yang Flores,5,6,3,3,1.0,0,0,0,0,0,0,6,0,1,0,0,0,0
+Darius Roussell,5,6,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,2,0
+Randall Shanks,5,2,0,1,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Daniel Eide,5,3,0,1,0.0,0,1,0.0,0,0,0,0,1,0,0,0,1,0
+Lucio Cardoza,7,2,1,1,1.0,0,0,0,0,0,0,2,1,1,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Georgia Tech,NC State
+Points,70,58
+Possessions,75,71
+FGM,21,18
+FGA,44,34
+FGPercent,0.4772727272727273,0.5294117647058824
+3PM,7,6
+3PA,14,16
+3P%,0.5,0.375
+FTM,7,4
+FTA,10,4
+FT%,0.7,1.0
+Rebounds,34,29
+OffRebounds,10,7
+DefRebounds,24,22
+Assists,12,11
+Steals,6,0
+Blocks,6,3
+Total Turnovers,17,15
+Largest Lead,22,0

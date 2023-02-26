@@ -1,0 +1,189 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+SMU,CINC,87,61,157
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+CINC,CINC wins the tipoff!,Tipoff,0,0,0,157
+CINC,Robert Lee 2-point jumper...Missed!       Rebounded by CINC James Phillips.,Score,0,0,1,157
+CINC,Ronald Johnson 2-point jumper...BLOCKED by Dustin Cook.       Rebounded by CINC Joseph Coleman.,Turnover,0,0,2,157
+CINC,James Phillips 2-point jumper...Missed!       Rebounded by CINC Ronald Johnson.,Score,0,0,3,157
+CINC,Stephen Sturgis 2-point jumper...Missed!       Rebounded by SMU Patrick Brooks.,Score,0,0,4,157
+SMU,Patrick Brooks Inside shot...Score!,Score,2,0,5,157
+CINC,Vipul Fritsche 3-point attempt...Score!       Assisted by: David Fidler,Score,2,3,6,157
+SMU,Anthony Nixon Inside shot...Score! Foul on the play and one!       Assisted by: Elton Peak,Score,4,3,7,157
+SMU,Free throw coming up... good!,FreeThrow,5,3,7,157
+CINC,Thomas Powell 2-point jumper...Missed!       Rebounded by SMU Jose Valle.,Score,5,3,8,157
+SMU,Anthony Nixon 3-point attempt...Score!       Assisted by: Allen Delgado,Score,8,3,9,157
+CINC,CINC Thomas Pew lost the ball out of bounds.,Turnover,8,3,10,157
+SMU,Dustin Cook 3-point attempt...Missed!       Rebounded by CINC David Fidler.,Miss,8,3,11,157
+CINC,CINC Jerome Hairston lost the ball out of bounds.,Turnover,8,3,12,157
+SMU,Jose Valle 2-point jumper...Missed!       Rebounded by CINC David Fidler.,Missed,8,3,13,157
+CINC,David Fidler Inside shot...Score!,Score,8,5,14,157
+CINC,David Fidler steals the ball for CINC!,Turnover,8,5,15,157
+CINC,Jerome Hairston Inside shot... Missed but with a foul on the play.,Fouled,8,5,16,157
+CINC,Free throw coming up... good!,FreeThrow,8,6,16,157
+CINC,Free throw coming up... good!,FreeThrow,8,7,16,157
+SMU,Patrick Brooks 2-point jumper...Score!,Score,10,7,17,157
+CINC,Vipul Fritsche Inside shot...Missed!       Rebounded by SMU Elton Peak.,Score,10,7,18,157
+SMU,Elton Peak Inside shot...Score!,Score,12,7,19,157
+CINC,David Fidler Inside shot...Score!,Score,12,9,20,157
+SMU,Allen Delgado Inside shot...Score!,Score,14,9,21,157
+CINC,Robert Lee 3-point attempt...Missed!Rebounded by SMU Anthony Nixon.,Score,14,9,22,157
+SMU,Anthony Nixon 2-point jumper...Missed!       Rebounded by CINC David Fidler.,Missed,14,9,23,157
+CINC,James Phillips 2-point jumper...Score!,Score,14,11,24,157
+SMU,Patrick Brooks Inside shot...Score!       Assisted by: Allen Delgado,Score,16,11,25,157
+CINC,Thomas Powell 2-point jumper...Missed!       Rebounded by SMU Patrick Brooks.,Score,16,11,26,157
+SMU,Jose Valle 3-point attempt...Score!       Assisted by: Patrick Brooks,Score,19,11,27,157
+CINC,Stephen Sturgis 3-point attempt...Score!,Score,19,14,28,157
+SMU,Jose Valle Inside shot...BLOCKED by CINC Thomas Powell.       Rebounded by CINC David Fidler.,Turnover,19,14,29,157
+CINC,James Phillips Inside shot...Score!,Score,19,16,30,157
+SMU,Anthony Nixon Inside shot...Score!,Score,21,16,31,157
+SMU,Dustin Cook steals the ball for SMU!,Turnover,21,16,32,157
+SMU,Patrick Brooks 3-point attempt...Missed!       Rebounded by CINC Vipul Fritsche.,Miss,21,16,33,157
+CINC,James Phillips Inside shot... Missed but with a foul on the play.,Fouled,21,16,34,157
+CINC,Free throw coming up... rattled out.,FreeThrow,21,16,34,157
+CINC,Free throw coming up... good!,FreeThrow,21,17,34,157
+SMU,SMU: Shot clock violation on SMU Jose Valle.,Shot Clock Violation,21,17,35,157
+CINC,James Phillips 2-point jumper...Missed!       Rebounded by SMU Anthony Nixon.,Score,21,17,36,157
+SMU,Patrick Brooks Inside shot...Score!,Score,23,17,37,157
+CINC,Thomas Powell 2-point jumper...Missed!       Rebounded by SMU Anthony Nixon.,Score,23,17,38,157
+SMU,Allen Delgado Inside shot...Score!,Score,25,17,39,157
+SMU,Allen Delgado steals the ball for SMU!,Turnover,25,17,40,157
+SMU,Patrick Brooks 2-point jumper...Score!,Score,27,17,41,157
+SMU,Dustin Cook steals the ball for SMU!,Turnover,27,17,42,157
+SMU,Jose Valle Inside shot...Missed!       Rebounded by CINC Joseph Coleman.,Score,27,17,43,157
+CINC,Vipul Fritsche 2-point jumper...Missed!       Rebounded by SMU Anthony Nixon.,Score,27,17,44,157
+SMU,Patrick Brooks 3-point attempt...Score!       Assisted by: Allen Delgado,Score,30,17,45,157
+CINC,Ronald Johnson 2-point jumper...BLOCKED by Jose Valle.       Rebounded by SMU Patrick Brooks.,Turnover,30,17,46,157
+SMU,Allen Delgado Inside shot...Score!       Assisted by: Elton Peak,Score,32,17,47,157
+CINC,James Phillips Inside shot... Missed but with a foul on the play.,Fouled,32,17,48,157
+CINC,Free throw coming up... good!,FreeThrow,32,18,48,157
+CINC,Free throw coming up... rattled out.       Rebounded by SMU Anthony Nixon.,FreeThrow,32,18,48,157
+SMU,Allen Delgado 2-point jumper...Missed!       Rebounded by CINC Ronald Johnson.,Missed,32,18,49,157
+CINC,Stephen Johnson 2-point jumper...Score!,Score,32,20,50,157
+SMU,Dustin Cook Inside shot... Missed with a foul on the play.,Fouled,32,20,51,157
+SMU,Free throw coming up... good!,FreeThrow,33,20,51,157
+SMU,Free throw coming up... good!,FreeThrow,34,20,51,157
+CINC,David Fidler Inside shot...Score!       Assisted by: Stephen Sturgis,Score,34,22,52,157
+SMU,Patrick Brooks 2-point jumper...Score!       Assisted by: Jose Valle,Score,36,22,53,157
+CINC,James Phillips Inside shot...Score!,Score,36,24,54,157
+SMU,Elton Peak Inside shot...Score!       Assisted by: Dustin Cook,Score,38,24,55,157
+CINC,James Phillips 2-point jumper... Missed but there is a foul on the play.,Foul,38,24,56,157
+CINC,Free throw coming up... good!,FreeThrow,38,25,56,157
+CINC,Free throw coming up... rattled out.       Rebounded by SMU Allen Delgado.,Score,38,25,56,157
+SMU,Allen Delgado 3-point attempt...Missed!       Rebounded by CINC Stephen Johnson.,Miss,38,25,57,157
+CINC,CINC Stephen Sturgis lost the ball out of bounds.,Turnover,38,25,58,157
+SMU,Jose Valle 3-point attempt...Missed!       Rebounded by CINC David Fidler.,Miss,38,25,59,157
+CINC,CINC James Phillips lost the ball out of bounds.,Turnover,38,25,60,157
+SMU,Anthony Nixon Inside shot... Missed with a foul on the play.,Fouled,38,25,61,157
+SMU,Free throw coming up... good!,FreeThrow,39,25,61,157
+SMU,Free throw coming up... rattled out.       Rebounded by CINC Steven Bernay.,FreeThrow,39,25,61,157
+CINC,Jerome Hairston Inside shot...Missed!       Rebounded by SMU Anthony Nixon.,Score,39,25,62,157
+SMU,Allen Delgado 3-point attempt...Missed!       Rebounded by SMU William Ferraro.,Missed,39,25,63,157
+SMU,Dustin Cook Inside shot...Score!       Assisted by: Jose Valle,Score,41,25,64,157
+CINC,Robert Lee Inside shot... Missed but with a foul on the play.,Fouled,41,25,65,157
+CINC,Free throw coming up... good!,FreeThrow,41,26,65,157
+CINC,Free throw coming up... good!,FreeThrow,41,27,65,157
+SMU,Elton Peak 3-point attempt...Score!       Assisted by: Anthony Nixon,Score,44,27,67,157
+CINC,Jerome Hairston 3-point attempt...Missed!Rebounded by SMU Anthony Nixon.,Score,44,27,68,157
+CINC,Stephen Johnson steals the ball for CINC!,Turnover,44,27,69,157
+CINC,Ronald Johnson 2-point jumper...Score!,Score,44,29,70,157
+SMU,Dustin Cook 3-point attempt...Missed!       Rebounded by CINC James Phillips.,Miss,44,29,71,157
+CINC,Stephen Johnson 2-point jumper...Missed!       Rebounded by CINC Thomas Pew.,Score,44,29,72,157
+CINC,Jerome Hairston 3-point attempt...Missed!Rebounded by SMU Elton Peak.,Score,44,29,73,157
+SMU,Jose Valle Inside shot...Score!,Score,46,29,74,157
+CINC,CINC Jerome Hairston lost the ball out of bounds.,Turnover,46,29,76,157
+SMU,Jose Valle Inside shot...Score!,Score,48,29,77,157
+CINC,Jerome Hairston 3-point attempt...Score!       Assisted by: Vipul Fritsche,Score,48,32,78,157
+,,HALFTIME,48,32,78,157
+SMU,Elton Peak 2-point jumper...BLOCKED by CINC James Phillips.       Rebounded by CINC David Fidler.,Turnover,48,32,79,157
+CINC,Vipul Fritsche Inside shot...BLOCKED by Anthony Nixon.       Rebounded by SMU Allen Delgado.,Turnover,48,32,80,157
+SMU,Elton Peak 2-point jumper...Missed!       Rebounded by CINC David Fidler.,Missed,48,32,81,157
+CINC,CINC David Fidler lost the ball out of bounds.,Turnover,48,32,82,157
+SMU,Anthony Nixon 3-point attempt...Score!,Score,51,32,83,157
+CINC,James Phillips Inside shot...Score!       Assisted by: Stephen Sturgis,Score,51,34,84,157
+SMU,Dustin Cook Inside shot...Score!       Assisted by: Allen Delgado,Score,53,34,85,157
+CINC,CINC Vipul Fritsche lost the ball out of bounds.,Turnover,53,34,86,157
+SMU,Anthony Nixon 3-point attempt...Missed!       Rebounded by CINC Thomas Powell.,Miss,53,34,87,157
+CINC,Thomas Powell Inside shot...Score!       Assisted by: David Fidler,Score,53,36,88,157
+SMU,Anthony Nixon Inside shot... Missed with a foul on the play.,Fouled,53,36,89,157
+SMU,Free throw coming up... rattled out.       Rebounded by CINC David Fidler.,FreeThrow,53,36,89,157
+CINC,CINC James Phillips lost the ball out of bounds.,Turnover,53,36,90,157
+SMU,Patrick Brooks Inside shot...BLOCKED by CINC Stephen Sturgis.       Rebounded by CINC Jerome Hairston.,Turnover,53,36,91,157
+CINC,Ronald Johnson Inside shot...Score!,Score,53,38,92,157
+SMU,Patrick Brooks Inside shot... Missed with a foul on the play.,Fouled,53,38,93,157
+SMU,Free throw coming up... good!,FreeThrow,54,38,93,157
+CINC,David Fidler Inside shot...Missed!       Rebounded by SMU Patrick Brooks.,Score,54,38,94,157
+SMU,SMU Patrick Brooks lost the ball out of bounds.,Out of Bounds,54,38,95,157
+CINC,Thomas Powell 3-point attempt...Missed!Rebounded by SMU Elton Peak.,Score,54,38,96,157
+SMU,Allen Delgado 3-point attempt...Score!       Assisted by: Anthony Nixon,Score,57,38,97,157
+CINC,James Phillips 2-point jumper... Missed but there is a foul on the play.,Foul,57,38,98,157
+CINC,Free throw coming up... good!,FreeThrow,57,39,98,157
+CINC,Free throw coming up... rattled out.       Rebounded by CINC Robert Lee.,Score,57,39,98,157
+CINC,Ronald Johnson 2-point jumper...Score!       Assisted by: Stephen Sturgis,Score,57,41,99,157
+SMU,Jose Valle Inside shot... Missed with a foul on the play.,Fouled,57,41,100,157
+SMU,Free throw coming up... rattled out.       Rebounded by CINC James Phillips.,FreeThrow,57,41,100,157
+CINC,Thomas Powell 2-point jumper...BLOCKED by Jose Valle.       Rebounded by CINC Stephen Johnson.,Turnover,57,41,101,157
+CINC,Ronald Johnson 2-point jumper...Missed!       Rebounded by CINC James Phillips.,Score,57,41,102,157
+CINC,James Phillips 2-point jumper...Score!,Score,57,43,103,157
+SMU,Jose Valle Inside shot...BLOCKED by CINC Jerome Hairston.       Rebounded by SMU Allen Delgado.,Turnover,57,43,104,157
+SMU,Elton Peak 2-point jumper...Score!,Score,59,43,105,157
+CINC,Stephen Johnson 2-point jumper...Missed!       Rebounded by CINC Thomas Powell.,Score,59,43,106,157
+CINC,Jerome Hairston Inside shot... Missed but with a foul on the play.,Fouled,59,43,107,157
+CINC,Free throw coming up... good!,FreeThrow,59,44,107,157
+CINC,Free throw coming up... rattled out.       Rebounded by SMU Allen Delgado.,FreeThrow,59,44,107,157
+SMU,Patrick Brooks Inside shot...Score! Foul on the play and one!       Assisted by: Anthony Nixon,Score,61,44,108,157
+SMU,Free throw coming up... good!,FreeThrow,62,44,108,157
+CINC,Robert Lee 3-point attempt...Score!       Assisted by: Thomas Powell,Score,62,47,110,157
+SMU,Dustin Cook 3-point attempt...Missed!       Rebounded by CINC James Phillips.,Miss,62,47,111,157
+CINC,Thomas Pew 2-point jumper...Score!       Assisted by: Stephen Sturgis,Score,62,49,113,157
+SMU,Elton Peak 2-point jumper...Missed!       Rebounded by CINC Steven Bernay.,Missed,62,49,114,157
+CINC,Stephen Johnson Inside shot...Score!       Assisted by: Jerome Hairston,Score,62,51,115,157
+CINC,Thomas Powell steals the ball for CINC!,Turnover,62,51,116,157
+CINC,Thomas Powell 2-point jumper...Missed!       Rebounded by SMU Jose Valle.,Score,62,51,117,157
+SMU,Anthony Nixon 3-point attempt...Score!       Assisted by: Dustin Cook,Score,65,51,118,157
+CINC,James Phillips 2-point jumper...Score!,Score,65,53,119,157
+SMU,Anthony Nixon Inside shot...Score!,Score,67,53,120,157
+CINC,Joseph Coleman Inside shot...Score!       Assisted by: Vipul Fritsche,Score,67,55,121,157
+SMU,Anthony Nixon Inside shot...BLOCKED by CINC David Fidler.       Rebounded by CINC Jerome Hairston.,Turnover,67,55,122,157
+CINC,CINC: Offensive foul on CINC Stephen Johnson.,Turnover,67,55,123,157
+SMU,Jose Valle Inside shot...Missed!       Rebounded by CINC Jerome Hairston.,Score,67,55,124,157
+CINC,James Phillips 3-point attempt...Missed!Rebounded by SMU Jose Valle.,Score,67,55,125,157
+SMU,Jose Valle 2-point jumper...Missed!       Rebounded by SMU Allen Delgado.,Missed,67,55,126,157
+SMU,Jose Valle 3-point attempt...Score! Fouled on the play... and one!       Assisted by: Patrick Brooks,Score,70,55,127,157
+SMU,Free throw coming up... good!,FreeThrow,71,55,127,157
+CINC,Robert Lee 2-point jumper...BLOCKED by Elton Peak.       Rebounded by CINC Jerome Hairston.,Turnover,71,55,128,157
+SMU,Anthony Nixon steals the ball for SMU!,Turnover,71,55,129,157
+SMU,Patrick Brooks Inside shot...Score!,Score,73,55,130,157
+SMU,Jose Valle steals the ball for SMU!,Turnover,73,55,131,157
+SMU,SMU: Offensive foul on SMU Allen Delgado.,Foul,73,55,132,157
+CINC,Vipul Fritsche 2-point jumper...Missed!       Rebounded by SMU Jose Valle.,Score,73,55,133,157
+SMU,SMU Jose Valle lost the ball out of bounds.,Out of Bounds,73,55,134,157
+SMU,Elton Peak steals the ball for SMU!,Turnover,73,55,135,157
+SMU,Patrick Brooks Inside shot...Score!,Score,75,55,136,157
+CINC,Stephen Johnson Inside shot... Missed but with a foul on the play.,Fouled,75,55,137,157
+CINC,Free throw coming up... rattled out.,FreeThrow,75,55,137,157
+CINC,Free throw coming up... rattled out.       Rebounded by CINC Thomas Powell.,FreeThrow,75,55,137,157
+CINC,Thomas Powell Inside shot...Score!,Score,75,57,138,157
+SMU,Patrick Brooks Inside shot...Score!       Assisted by: Anthony Nixon,Score,77,57,139,157
+CINC,Thomas Powell 2-point jumper...Missed!       Rebounded by SMU Jose Valle.,Score,77,57,140,157
+SMU,Elton Peak 3-point attempt...Missed!       Rebounded by CINC Thomas Powell.,Miss,77,57,141,157
+CINC,Steven Bernay Inside shot...Score!,Score,77,59,142,157
+SMU,Anthony Nixon Inside shot... Missed with a foul on the play.,Fouled,77,59,143,157
+SMU,Free throw coming up... rattled out.       Rebounded by SMU Allen Delgado.,FreeThrow,77,59,143,157
+SMU,Anthony Nixon Inside shot...Score! Foul on the play and one!,Score,79,59,144,157
+SMU,Free throw coming up... good!,FreeThrow,80,59,144,157
+CINC,David Fidler 3-point attempt...Missed!Rebounded by SMU Jose Valle.,Score,80,59,145,157
+SMU,SMU Anthony Nixon lost the ball out of bounds.,Out of Bounds,80,59,146,157
+CINC,CINC Stephen Sturgis lost the ball out of bounds.,Turnover,80,59,147,157
+CINC,David Fidler steals the ball for CINC!,Turnover,80,59,148,157
+SMU,William Ferraro steals the ball for SMU!,Turnover,80,59,149,157
+SMU,Patrick Brooks Inside shot...Score!       Assisted by: Elton Peak,Score,82,59,150,157
+CINC,Steven Bernay 2-point jumper...Missed!       Rebounded by CINC Joshua Collins.,Score,82,59,151,157
+CINC,James Phillips Inside shot...Score!,Score,82,61,152,157
+SMU,Dustin Cook 3-point attempt...Score!       Assisted by: Elton Peak,Score,85,61,153,157
+SMU,Jose Valle steals the ball for SMU!,Turnover,85,61,154,157
+SMU,SMU Jose Valle lost the ball out of bounds.,Out of Bounds,85,61,155,157
+CINC,Thomas Powell 3-point attempt...Missed!Rebounded by SMU Elton Peak.,Score,85,61,156,157
+SMU,Jose Valle Inside shot...Missed!       Rebounded by SMU Jose Valle.,Score,85,61,157,157
+SMU,Elton Peak Inside shot...Score!       Assisted by: Patrick Brooks,Score,87,61,158,157
+,Match Complete,FinalScore,87,61,158,157

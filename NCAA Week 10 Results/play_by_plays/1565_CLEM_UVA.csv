@@ -1,0 +1,163 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+CLEM,UVA,42,61,142
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+CLEM,CLEM wins the tipoff!,Tipoff,0,0,0,142
+CLEM,William Miles Inside shot...Score!,Score,2,0,1,142
+UVA,Nelson Arias 3-point attempt...Missed!       Rebounded by UVA Nelson Arias.,Score,2,0,2,142
+UVA,James Franzone 2-point jumper...Score!,Score,2,2,3,142
+UVA,Michael Cruz steals the ball for UVA!,Turnover,2,2,4,142
+UVA,Christopher Lacy Inside shot...Score!,Score,2,4,5,142
+CLEM,Daljit Nguyen Inside shot...Score!       Assisted by: William Sosa,Score,4,4,6,142
+UVA,Mark Courtney Inside shot...Score!       Assisted by: Brian Banken,Score,4,6,7,142
+CLEM,Jose Olivares 2-point jumper...Missed!       Rebounded by UVA Brian Banken.,Missed,4,6,8,142
+UVA,Brian Banken 2-point jumper...Missed!       Rebounded by UVA Derrick Morehead.,Score,4,6,9,142
+UVA,UVA: Offensive foul on UVA Nelson Arias.,Turnover,4,6,10,142
+CLEM,Jose Olivares Inside shot...BLOCKED by UVA Aaron Mccrae.       Rebounded by UVA Aaron Mccrae.,Turnover,4,6,11,142
+UVA,Mark Courtney 2-point jumper...Missed!       Rebounded by CLEM William Kassahn.,Score,4,6,12,142
+CLEM,Michael Moody Inside shot...Score!,Score,6,6,13,142
+UVA,Mark Courtney 2-point jumper...Missed!       Rebounded by CLEM William Kassahn.,Score,6,6,14,142
+CLEM,Thomas Day 2-point jumper...BLOCKED by UVA Mark Courtney.       Rebounded by CLEM Michael Moody.,Turnover,6,6,15,142
+CLEM,CLEM Ted Burri lost the ball out of bounds.,Out of Bounds,6,6,16,142
+UVA,Brian Banken 3-point attempt...Score!       Assisted by: Derrick Morehead,Score,6,9,17,142
+CLEM,Jose Olivares Inside shot...Score!,Score,8,9,18,142
+UVA,Brian Banken Inside shot...Score!       Assisted by: Derrick Morehead,Score,8,11,19,142
+CLEM,Ted Burri 2-point jumper...Missed!       Rebounded by UVA Derrick Morehead.,Missed,8,11,20,142
+UVA,Brian Banken Inside shot... Missed but with a foul on the play.,Fouled,8,11,21,142
+UVA,Free throw coming up... good!,FreeThrow,8,12,21,142
+UVA,Free throw coming up... good!,FreeThrow,8,13,21,142
+CLEM,Kenneth Grover Inside shot... Missed with a foul on the play.,Fouled,8,13,22,142
+CLEM,Free throw coming up... good!,FreeThrow,9,13,22,142
+UVA,UVA Michael Stokes lost the ball out of bounds.,Turnover,9,13,23,142
+CLEM,Michael Sims 3-point attempt...Missed!       Rebounded by UVA Michael Stokes.,Miss,9,13,24,142
+UVA,Derrick Morehead 3-point attempt...Score!,Score,9,16,25,142
+CLEM,Michael Sims 2-point jumper...Missed!       Rebounded by UVA Derrick Morehead.,Missed,9,16,26,142
+UVA,Derrick Morehead 2-point jumper...Missed!       Rebounded by UVA Alvaro Pineda.,Score,9,16,27,142
+UVA,Charles Casey Inside shot...Score!,Score,9,18,28,142
+CLEM,CLEM Kenneth Grover lost the ball out of bounds.,Out of Bounds,9,18,29,142
+UVA,Steven Adams 2-point jumper...Missed!       Rebounded by CLEM William Kassahn.,Score,9,18,30,142
+CLEM,Michael Moody 3-point attempt...Missed!       Rebounded by UVA Nelson Arias.,Miss,9,18,32,142
+UVA,Nelson Arias 2-point jumper...Score!,Score,9,20,33,142
+UVA,Mark Courtney steals the ball for UVA!,Turnover,9,20,34,142
+UVA,Mark Courtney Inside shot...Missed!       Rebounded by UVA Steven Adams.,Score,9,20,35,142
+UVA,Alvaro Pineda 2-point jumper...Score!,Score,9,22,36,142
+CLEM,Jose Olivares 2-point jumper...Missed!       Rebounded by UVA Derrick Morehead.,Missed,9,22,37,142
+UVA,Nelson Arias Inside shot...BLOCKED by Alejandro Reyes.       Rebounded by UVA Alvaro Pineda.,Turnover,9,22,38,142
+UVA,Nelson Arias 3-point attempt...Score!       Assisted by: Derrick Morehead,Score,9,25,39,142
+CLEM,CLEM: Offensive foul on CLEM Jose Olivares.,Foul,9,25,40,142
+UVA,Derrick Morehead 2-point jumper...Missed!       Rebounded by CLEM Thomas Day.,Score,9,25,41,142
+CLEM,Michael Sims 3-point attempt...Score!,Score,12,25,42,142
+UVA,Aaron Mccrae 3-point attempt...Missed!Rebounded by CLEM Glenn Moore.,Score,12,25,43,142
+CLEM,CLEM: Offensive foul on CLEM Michael Moody.,Foul,12,25,44,142
+UVA,Michael Stokes Inside shot...Score!,Score,12,27,45,142
+CLEM,Kenneth Grover 3-point attempt...Missed!       Rebounded by UVA Derrick Morehead.,Miss,12,27,46,142
+UVA,Aaron Mccrae 2-point jumper...Missed!       Rebounded by UVA Christopher Lacy.,Score,12,27,47,142
+UVA,Aaron Mccrae Inside shot... Missed but with a foul on the play.,Fouled,12,27,48,142
+UVA,Free throw coming up... good!,FreeThrow,12,28,48,142
+UVA,Free throw coming up... good!,FreeThrow,12,29,48,142
+CLEM,Alejandro Reyes 2-point jumper...Missed!       Rebounded by UVA Aaron Mccrae.,Missed,12,29,49,142
+UVA,James Franzone 2-point jumper...Missed!       Rebounded by CLEM Alejandro Reyes.,Score,12,29,50,142
+CLEM,Thomas Day 2-point jumper...BLOCKED by UVA Aaron Mccrae.       Rebounded by CLEM Kenneth Grover.,Turnover,12,29,51,142
+CLEM,CLEM: Offensive foul on CLEM Ted Burri.,Foul,12,29,52,142
+UVA,Nelson Arias 2-point jumper...Score!,Score,12,31,53,142
+CLEM,Kenneth Grover 2-point jumper...Missed!       Rebounded by CLEM Thomas Day.,Missed,12,31,54,142
+CLEM,William Sosa 3-point attempt...Missed!       Rebounded by UVA Mark Courtney.,Miss,12,31,55,142
+CLEM,Jose Olivares steals the ball for CLEM!,Turnover,12,31,56,142
+CLEM,Glenn Moore 2-point jumper...Missed!       Rebounded by CLEM Michael Moody.,Missed,12,31,57,142
+UVA,Mark Courtney steals the ball for UVA!,Turnover,12,31,58,142
+UVA,Aaron Mccrae 2-point jumper...Missed!       Rebounded by CLEM Michael Sims.,Score,12,31,59,142
+CLEM,Michael Sims 2-point jumper...Score! Foul on the play and one!,Score,14,31,60,142
+CLEM,Free throw coming up... good!,FreeThrow,15,31,60,142
+UVA,Michael Stokes Inside shot...Score!       Assisted by: Brian Banken,Score,15,33,61,142
+UVA,Nelson Arias steals the ball for UVA!,Turnover,15,33,62,142
+UVA,Steven Adams Inside shot... Missed but with a foul on the play.,Fouled,15,33,64,142
+UVA,Free throw coming up... rattled out.,FreeThrow,15,33,64,142
+UVA,Free throw coming up... rattled out.       Rebounded by UVA Alvaro Pineda.,FreeThrow,15,33,64,142
+UVA,Mark Courtney Inside shot...Score!,Score,15,35,65,142
+CLEM,Jose Olivares 2-point jumper...Missed!       Rebounded by CLEM William Kassahn.,Missed,15,35,66,142
+CLEM,Arthur Reed Inside shot...Score!       Assisted by: William Sosa,Score,17,35,67,142
+UVA,Aaron Mccrae Inside shot...Score!,Score,17,37,68,142
+CLEM,William Sosa Inside shot...Score!       Assisted by: Kenneth Grover,Score,19,37,69,142
+UVA,Brian Banken Inside shot...Score! Fouled and we have a free throw folks!,Score,19,39,70,142
+UVA,       Free throw coming up... rattled out.       Rebounded by CLEM William Sosa.,FreeThrow,19,39,70,142
+CLEM,William Kassahn 2-point jumper...Missed!       Rebounded by CLEM Ted Burri.,Missed,19,39,71,142
+,,HALFTIME,19,39,71,142
+CLEM,Alejandro Reyes 3-point attempt...Missed!       Rebounded by UVA Alvaro Pineda.,Miss,19,39,72,142
+CLEM,Ted Burri steals the ball for CLEM!,Turnover,19,39,73,142
+UVA,Christopher Lacy steals the ball for UVA!,Turnover,19,39,74,142
+UVA,Mark Courtney 2-point jumper...Missed!       Rebounded by CLEM William Sosa.,Score,19,39,75,142
+CLEM,Jose Olivares Inside shot... Missed with a foul on the play.,Fouled,19,39,76,142
+CLEM,Free throw coming up... good!,FreeThrow,20,39,76,142
+UVA,Michael Stokes Inside shot...Score!       Assisted by: Derrick Morehead,Score,20,41,77,142
+CLEM,Michael Moody 3-point attempt...Missed!       Rebounded by UVA Derrick Morehead.,Miss,20,41,78,142
+UVA,Alvaro Pineda Inside shot...Score!       Assisted by: James Franzone,Score,20,43,79,142
+UVA,Mark Courtney steals the ball for UVA!,Turnover,20,43,80,142
+UVA,Derrick Morehead 2-point jumper...Missed!       Rebounded by CLEM William Kassahn.,Score,20,43,81,142
+CLEM,Michael Sims 3-point attempt...Missed!       Rebounded by UVA Derrick Morehead.,Miss,20,43,82,142
+UVA,Steven Adams 2-point jumper...Score!,Score,20,45,83,142
+CLEM,William Sosa 2-point jumper...Missed!       Rebounded by UVA Nelson Arias.,Missed,20,45,84,142
+CLEM,Alejandro Reyes steals the ball for CLEM!,Turnover,20,45,85,142
+CLEM,Alejandro Reyes 2-point jumper...Missed!       Rebounded by UVA Mark Courtney.,Missed,20,45,86,142
+UVA,Charles Casey 2-point jumper...Missed!       Rebounded by CLEM Thomas Day.,Score,20,45,87,142
+CLEM,Michael Sims Inside shot...Score!       Assisted by: William Sosa,Score,22,45,88,142
+UVA,UVA Aaron Mccrae lost the ball out of bounds.,Turnover,22,45,89,142
+CLEM,Michael Sims 3-point attempt...Missed!       Rebounded by UVA Mark Courtney.,Miss,22,45,90,142
+UVA,Alvaro Pineda 3-point attempt...Missed!Rebounded by CLEM Glenn Moore.,Score,22,45,91,142
+CLEM,William Kassahn 2-point jumper...Missed!       Rebounded by UVA Derrick Morehead.,Missed,22,45,92,142
+UVA,Derrick Morehead 3-point attempt...Missed!Rebounded by CLEM William Kassahn.,Score,22,45,93,142
+CLEM,Arthur Reed 2-point jumper...Score!,Score,24,45,94,142
+UVA,UVA Nelson Arias lost the ball out of bounds.,Turnover,24,45,95,142
+CLEM,William Sosa 2-point jumper...Missed!       Rebounded by UVA Alvaro Pineda.,Missed,24,45,96,142
+UVA,Brian Banken Inside shot...Score!       Assisted by: Derrick Morehead,Score,24,47,97,142
+CLEM,Ted Burri Inside shot...Score!,Score,26,47,98,142
+UVA,Alvaro Pineda 3-point attempt...Missed!       Rebounded by UVA Michael Stokes.,Score,26,47,99,142
+CLEM,Michael Sims steals the ball for CLEM!,Turnover,26,47,100,142
+CLEM,William Kassahn 2-point jumper...Missed!       Rebounded by UVA Nelson Arias.,Missed,26,47,101,142
+UVA,Charles Casey 3-point attempt...Missed!       Rebounded by UVA Mark Courtney.,Score,26,47,102,142
+UVA,Michael Stokes 2-point jumper...Missed!       Rebounded by CLEM Michael Moody.,Score,26,47,103,142
+CLEM,William Kassahn Inside shot...Score!       Assisted by: Michael Sims,Score,28,47,104,142
+UVA,Nelson Arias 2-point jumper...Missed!       Rebounded by CLEM Michael Moody.,Score,28,47,105,142
+CLEM,Daljit Nguyen 3-point attempt...Missed!       Rebounded by CLEM William Sosa.,Missed,28,47,106,142
+CLEM,Arthur Reed Inside shot...Score! Foul on the play and one!,Score,30,47,107,142
+CLEM,Free throw coming up... good!,FreeThrow,31,47,107,142
+UVA,Aaron Mccrae Inside shot...Score!       Assisted by: James Franzone,Score,31,49,108,142
+CLEM,Ted Burri Inside shot... Missed with a foul on the play.,Fouled,31,49,109,142
+CLEM,Free throw coming up... good!,FreeThrow,32,49,109,142
+CLEM,Free throw coming up... good!,FreeThrow,33,49,109,142
+CLEM,Jose Olivares steals the ball for CLEM!,Turnover,33,49,110,142
+CLEM,CLEM William Miles lost the ball out of bounds.,Out of Bounds,33,49,111,142
+UVA,Derrick Morehead 2-point jumper...Missed!       Rebounded by CLEM Jose Olivares.,Score,33,49,112,142
+CLEM,Michael Moody 2-point jumper...Missed!       Rebounded by UVA Nelson Arias.,Missed,33,49,113,142
+UVA,Nelson Arias Inside shot...Score!,Score,33,51,114,142
+CLEM,Thomas Day 2-point jumper...Score!,Score,35,51,115,142
+UVA,Derrick Morehead Inside shot...Score!       Assisted by: Mark Courtney,Score,35,53,116,142
+CLEM,William Kassahn 2-point jumper...Missed!       Rebounded by UVA Mark Courtney.,Missed,35,53,117,142
+UVA,Nelson Arias 3-point attempt...Missed!Rebounded by CLEM Michael Moody.,Score,35,53,118,142
+CLEM,William Kassahn 2-point jumper...Missed!       Rebounded by UVA Michael Stokes.,Missed,35,53,119,142
+UVA,Charles Casey 2-point jumper...Missed!       Rebounded by CLEM Jose Olivares.,Score,35,53,120,142
+CLEM,Jose Olivares 2-point jumper...Missed!       Rebounded by CLEM Kenneth Grover.,Missed,35,53,121,142
+UVA,Derrick Morehead steals the ball for UVA!,Turnover,35,53,122,142
+UVA,Michael Cruz 2-point jumper...Score!,Score,35,55,123,142
+CLEM,Michael Sims 2-point jumper...Missed!       Rebounded by UVA Derrick Morehead.,Missed,35,55,124,142
+UVA,Charles Casey 2-point jumper...Missed!       Rebounded by UVA Mark Courtney.,Score,35,55,125,142
+UVA,Aaron Mccrae Inside shot...BLOCKED by William Kassahn.       Rebounded by UVA Alvaro Pineda.,Turnover,35,55,126,142
+UVA,Nelson Arias Inside shot...Score!,Score,35,57,127,142
+CLEM,Daljit Nguyen 2-point jumper...Score!       Assisted by: Kenneth Grover,Score,37,57,128,142
+CLEM,William Kassahn steals the ball for CLEM!,Turnover,37,57,129,142
+UVA,Michael Stokes steals the ball for UVA!,Turnover,37,57,130,142
+UVA,Aaron Mccrae Inside shot...Score!,Score,37,59,131,142
+CLEM,Daljit Nguyen 2-point jumper...Score!,Score,39,59,132,142
+UVA,UVA: Offensive foul on UVA Aaron Mccrae.,Turnover,39,59,133,142
+CLEM,Jose Olivares Inside shot...Score!,Score,41,59,134,142
+UVA,Aaron Mccrae Inside shot...Score!,Score,41,61,135,142
+UVA,Aaron Mccrae steals the ball for UVA!,Turnover,41,61,136,142
+CLEM,Michael Moody steals the ball for CLEM!,Turnover,41,61,137,142
+CLEM,CLEM: Offensive foul on CLEM William Sosa.,Foul,41,61,138,142
+UVA,Brian Banken Inside shot...BLOCKED by William Kassahn.       Rebounded by UVA Mark Courtney.,Turnover,41,61,139,142
+UVA,Brian Banken 2-point jumper...Missed!       Rebounded by CLEM Michael Moody.,Score,41,61,140,142
+CLEM,Jose Olivares Inside shot... Missed with a foul on the play.,Fouled,41,61,141,142
+CLEM,Free throw coming up... good!,FreeThrow,42,61,141,142
+CLEM,Free throw coming up... rattled out.       Rebounded by UVA Aaron Mccrae.,FreeThrow,42,61,141,142
+UVA,Mark Courtney 3-point attempt...Missed!Rebounded by CLEM William Sosa.,Score,42,61,142,142
+CLEM,Jose Olivares 2-point jumper...Missed!       Rebounded by CLEM Michael Sims.,Missed,42,61,143,142
+,Match Complete,FinalScore,42,61,143,142

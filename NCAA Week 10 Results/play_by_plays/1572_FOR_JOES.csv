@@ -1,0 +1,168 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+FOR,JOES,81,61,146
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+FOR,FOR wins the tipoff!,Tipoff,0,0,0,146
+FOR,Gary Romage Inside shot...Missed!       Rebounded by FOR Edward Selvage.,Score,0,0,1,146
+FOR,Douglas Claussen 2-point jumper...Missed!       Rebounded by FOR Frederick Penley.,Missed,0,0,2,146
+FOR,FOR Robert Spiegel lost the ball out of bounds.,Out of Bounds,0,0,3,146
+JOES,Nigel Piper 2-point jumper...Missed!       Rebounded by FOR Nicholas Mitchell.,Score,0,0,4,146
+FOR,FOR: Offensive foul on FOR Ryan Palumbo.,Foul,0,0,5,146
+JOES,JOES Jose Molina lost the ball out of bounds.,Turnover,0,0,6,146
+FOR,FOR: Offensive foul on FOR Frederick Penley.,Foul,0,0,7,146
+JOES,Nigel Piper Inside shot... Missed but with a foul on the play.,Fouled,0,0,8,146
+JOES,Free throw coming up... good!,FreeThrow,0,1,8,146
+JOES,Free throw coming up... good!,FreeThrow,0,2,8,146
+FOR,FOR Frederick Penley lost the ball out of bounds.,Out of Bounds,0,2,9,146
+JOES,Harold Lehtinen Inside shot...BLOCKED by Nicholas Mitchell.       Rebounded by FOR Xian Rosato.,Turnover,0,2,10,146
+FOR,Nicholas Mitchell 2-point jumper...BLOCKED by JOES Kent Zimmermann.       Rebounded by JOES Benjamin Morris.,Turnover,0,2,11,146
+JOES,Kent Zimmermann 3-point attempt...Missed!Rebounded by FOR Robert Spiegel.,Score,0,2,12,146
+FOR,Robert Spiegel 2-point jumper...Score!,Score,2,2,13,146
+JOES,Benjamin Morris 3-point attempt...Score!       Assisted by: Eric Sterling,Score,2,5,14,146
+FOR,Ryan Palumbo 2-point jumper...Score!,Score,4,5,15,146
+JOES,Joseph Hataway 2-point jumper...Missed!       Rebounded by FOR Gary Romage.,Score,4,5,16,146
+FOR,Xian Rosato Inside shot...Missed!       Rebounded by JOES Kent Zimmermann.,Score,4,5,17,146
+JOES,Jeffrey Force 2-point jumper...Score!,Score,4,7,18,146
+JOES,Benjamin Morris steals the ball for JOES!,Turnover,4,7,19,146
+JOES,JOES Nigel Piper lost the ball out of bounds.,Turnover,4,7,20,146
+FOR,Frederick Penley Inside shot...Score! Foul on the play and one!,Score,6,7,21,146
+FOR,Free throw coming up... good!,FreeThrow,7,7,21,146
+JOES,Harold Lehtinen 3-point attempt...Missed!       Rebounded by JOES Jose Molina.,Score,7,7,22,146
+JOES,Harold Lehtinen Inside shot...Score!       Assisted by: Jose Molina,Score,7,9,23,146
+FOR,FOR Xian Rosato lost the ball out of bounds.,Out of Bounds,7,9,24,146
+JOES,Kent Zimmermann Inside shot...Score!,Score,7,11,25,146
+JOES,Harold Lehtinen steals the ball for JOES!,Turnover,7,11,26,146
+JOES,Joseph Hataway 3-point attempt...Missed!Rebounded by FOR Edward Selvage.,Score,7,11,27,146
+JOES,Kent Zimmermann steals the ball for JOES!,Turnover,7,11,28,146
+JOES,Vijay Zhou 2-point jumper...Missed!       Rebounded by JOES Joseph Hataway.,Score,7,11,29,146
+JOES,Jose Molina 3-point attempt...Missed!       Rebounded by JOES Vijay Zhou.,Score,7,11,30,146
+JOES,Jose Molina Inside shot...Score!,Score,7,13,31,146
+FOR,Carlos Guerrero 3-point attempt...Missed!       Rebounded by JOES Joseph Hataway.,Miss,7,13,32,146
+JOES,Eric Sterling Inside shot... Missed but with a foul on the play.,Fouled,7,13,33,146
+JOES,Free throw coming up... good!,FreeThrow,7,14,33,146
+JOES,Free throw coming up... good!,FreeThrow,7,15,33,146
+FOR,Douglas Claussen Inside shot...Score!,Score,9,15,34,146
+JOES,Eric Sterling 2-point jumper...Missed!       Rebounded by FOR Vivek Oh.,Score,9,15,35,146
+FOR,Douglas Claussen 3-point attempt...Missed!       Rebounded by JOES Vijay Zhou.,Miss,9,15,36,146
+JOES,Benjamin Morris Inside shot...Score!       Assisted by: Eric Sterling,Score,9,17,37,146
+JOES,Benjamin Morris steals the ball for JOES!,Turnover,9,17,38,146
+JOES,Jose Molina Inside shot...Score!,Score,9,19,39,146
+FOR,Gary Romage Inside shot...Score!       Assisted by: Ryan Palumbo,Score,11,19,40,146
+FOR,Frederick Penley steals the ball for FOR!,Turnover,11,19,41,146
+FOR,FOR Nicholas Mitchell lost the ball out of bounds.,Out of Bounds,11,19,42,146
+JOES,Vijay Zhou 2-point jumper...Missed!       Rebounded by JOES Vijay Zhou.,Score,11,19,43,146
+JOES,Clark Attar 3-point attempt...Missed!Rebounded by FOR Xian Rosato.,Score,11,19,44,146
+JOES,Vijay Zhou steals the ball for JOES!,Turnover,11,19,45,146
+JOES,Jose Molina Inside shot...Score!       Assisted by: Benjamin Morris,Score,11,21,46,146
+FOR,Xian Rosato Inside shot...Score!,Score,13,21,47,146
+JOES,Kent Zimmermann 2-point jumper...Missed!       Rebounded by FOR Xian Rosato.,Score,13,21,48,146
+FOR,Peter Gibbs Inside shot...Score!,Score,15,21,49,146
+JOES,Brian Russell 2-point jumper...Missed!       Rebounded by FOR Xian Rosato.,Score,15,21,50,146
+FOR,Douglas Claussen Inside shot...Score!,Score,17,21,51,146
+JOES,James Allen 2-point jumper...Missed!       Rebounded by JOES Vijay Zhou.,Score,17,21,52,146
+JOES,Jose Molina 2-point jumper...Missed!       Rebounded by FOR Xian Rosato.,Score,17,21,53,146
+FOR,FOR: Offensive foul on FOR Nicholas Mitchell.,Foul,17,21,54,146
+JOES,JOES Kent Zimmermann lost the ball out of bounds.,Turnover,17,21,55,146
+FOR,Vivek Oh 2-point jumper...BLOCKED by JOES Jose Molina.       Rebounded by FOR Xian Rosato.,Turnover,17,21,56,146
+FOR,Edward Selvage 3-point attempt...Missed!       Rebounded by JOES Harold Lehtinen.,Miss,17,21,57,146
+JOES,Benjamin Morris Inside shot...Score!       Assisted by: Jose Molina,Score,17,23,58,146
+FOR,Xian Rosato 2-point jumper...Missed!       Rebounded by FOR Nicholas Mitchell.,Missed,17,23,59,146
+FOR,Ryan Palumbo Inside shot...Score!       Assisted by: Nicholas Mitchell,Score,19,23,60,146
+JOES,Nigel Piper 3-point attempt...Score!       Assisted by: Vijay Zhou,Score,19,26,61,146
+FOR,Xian Rosato Inside shot...Score!       Assisted by: Robert Spiegel,Score,21,26,62,146
+JOES,Nigel Piper 3-point attempt...Missed!Rebounded by FOR Douglas Claussen.,Score,21,26,63,146
+FOR,Gary Romage Inside shot...Score!,Score,23,26,64,146
+JOES,Benjamin Morris Inside shot...Score! Fouled and we have a free throw folks!,Score,23,28,65,146
+JOES,Free throw coming up... good!,FreeThrow,23,29,65,146
+FOR,Xian Rosato 2-point jumper...BLOCKED by JOES Nigel Piper.       Rebounded by JOES Jose Molina.,Turnover,23,29,66,146
+JOES,Nigel Piper 2-point jumper...Missed!       Rebounded by FOR Edward Selvage.,Score,23,29,67,146
+FOR,Carlos Guerrero 2-point jumper...Score!,Score,25,29,68,146
+JOES,Nigel Piper 2-point jumper...Score!,Score,25,31,69,146
+FOR,Edward Selvage 3-point attempt...Missed!       Rebounded by JOES Clark Attar.,Miss,25,31,70,146
+JOES,Brian Russell 2-point jumper...Missed!       Rebounded by FOR Frederick Penley.,Score,25,31,71,146
+FOR,Edward Selvage Inside shot...Score!,Score,27,31,72,146
+JOES,Nigel Piper Inside shot...Missed!       Rebounded by FOR Nicholas Mitchell.,Score,27,31,73,146
+,,HALFTIME,27,31,73,146
+FOR,Robert Spiegel Inside shot...Score!,Score,29,31,74,146
+FOR,Ryan Palumbo steals the ball for FOR!,Turnover,29,31,75,146
+FOR,Peter Gibbs Inside shot...BLOCKED by JOES Clark Attar.       Rebounded by FOR Frederick Penley.,Turnover,29,31,76,146
+FOR,Nicholas Mitchell 2-point jumper...Score!       Assisted by: Douglas Claussen,Score,31,31,77,146
+JOES,Jeffrey Force 2-point jumper...BLOCKED by Xian Rosato.       Rebounded by FOR Frederick Penley.,Turnover,31,31,78,146
+FOR,Ryan Palumbo Inside shot...Score! Foul on the play and one!,Score,33,31,79,146
+FOR,Free throw coming up... good!,FreeThrow,34,31,79,146
+JOES,Brian Russell Inside shot...Score!,Score,34,33,81,146
+FOR,Gary Romage Inside shot...Score!,Score,36,33,82,146
+JOES,Nigel Piper Inside shot...Missed!       Rebounded by FOR Xian Rosato.,Score,36,33,83,146
+FOR,Robert Spiegel Inside shot... Missed with a foul on the play.,Fouled,36,33,84,146
+FOR,Free throw coming up... good!,FreeThrow,37,33,84,146
+FOR,Free throw coming up... good!,FreeThrow,38,33,84,146
+JOES,Harold Lehtinen 3-point attempt...Missed!Rebounded by FOR Douglas Claussen.,Score,38,33,85,146
+FOR,Douglas Claussen 2-point jumper...BLOCKED by JOES Nigel Piper.       Rebounded by JOES Brian Russell.,Turnover,38,33,86,146
+JOES,Joseph Hataway Inside shot...BLOCKED by Robert Spiegel.       Rebounded by FOR Frederick Penley.,Turnover,38,33,87,146
+FOR,Carlos Guerrero Inside shot...Score!,Score,40,33,88,146
+JOES,Harold Lehtinen 2-point jumper... Missed but there is a foul on the play.,Foul,40,33,89,146
+JOES,Free throw coming up... good!,FreeThrow,40,34,89,146
+JOES,Free throw coming up... good!,FreeThrow,40,35,89,146
+FOR,Xian Rosato Inside shot...Score!       Assisted by: Ryan Palumbo,Score,42,35,90,146
+JOES,Vijay Zhou Inside shot...Missed!       Rebounded by FOR Xian Rosato.,Score,42,35,91,146
+FOR,Gary Romage Inside shot... Missed with a foul on the play.,Fouled,42,35,92,146
+FOR,Free throw coming up... good!,FreeThrow,43,35,92,146
+JOES,Benjamin Morris Inside shot...Score!,Score,43,37,93,146
+FOR,Frederick Penley Inside shot...Score!       Assisted by: Robert Spiegel,Score,45,37,94,146
+FOR,Nicholas Mitchell steals the ball for FOR!,Turnover,45,37,95,146
+FOR,Robert Spiegel Inside shot...Score!       Assisted by: Douglas Claussen,Score,47,37,96,146
+JOES,Jeffrey Force 2-point jumper...Missed!       Rebounded by FOR Gary Romage.,Score,47,37,97,146
+FOR,Nicholas Mitchell 3-point attempt...Missed!       Rebounded by JOES Vijay Zhou.,Miss,47,37,98,146
+JOES,Benjamin Morris 2-point jumper...Score!,Score,47,39,99,146
+FOR,Robert Spiegel 3-point attempt...Score!       Assisted by: Frederick Penley,Score,50,39,100,146
+JOES,Joseph Hataway 2-point jumper... Missed but there is a foul on the play.,Foul,50,39,101,146
+JOES,Free throw coming up... good!,FreeThrow,50,40,101,146
+JOES,Free throw coming up... good!,FreeThrow,50,41,101,146
+FOR,Nicholas Mitchell 3-point attempt...Missed!       Rebounded by JOES Vijay Zhou.,Miss,50,41,102,146
+JOES,Joseph Hataway 3-point attempt...Missed!       Rebounded by JOES Vijay Zhou.,Score,50,41,103,146
+JOES,Jose Molina 3-point attempt...Score!       Assisted by: Nigel Piper,Score,50,44,104,146
+FOR,Xian Rosato Inside shot...Score!       Assisted by: Douglas Claussen,Score,52,44,105,146
+JOES,Jose Molina 2-point jumper...Missed!       Rebounded by FOR Frederick Penley.,Score,52,44,106,146
+FOR,Gary Romage Inside shot...Score!       Assisted by: Douglas Claussen,Score,54,44,107,146
+JOES,Kent Zimmermann Inside shot... Missed but with a foul on the play.,Fouled,54,44,108,146
+JOES,Free throw coming up... good!,FreeThrow,54,45,108,146
+JOES,Free throw coming up... good!,FreeThrow,54,46,108,146
+FOR,Douglas Claussen 2-point jumper...Missed!       Rebounded by FOR Xian Rosato.,Missed,54,46,109,146
+FOR,Frederick Penley Inside shot...Score!,Score,56,46,110,146
+FOR,Xian Rosato steals the ball for FOR!,Turnover,56,46,111,146
+FOR,Thomas Worthington Inside shot...Score!,Score,58,46,112,146
+JOES,Clark Attar 2-point jumper...Score!,Score,58,48,113,146
+FOR,Gary Romage 3-point attempt...Missed!       Rebounded by FOR Xian Rosato.,Missed,58,48,114,146
+FOR,Robert Spiegel 3-point attempt...Score!,Score,61,48,115,146
+FOR,Frederick Penley steals the ball for FOR!,Turnover,61,48,116,146
+FOR,Nicholas Mitchell Inside shot...Score!       Assisted by: Gary Romage,Score,63,48,117,146
+JOES,Kent Zimmermann 2-point jumper...Missed!       Rebounded by FOR Robert Spiegel.,Score,63,48,118,146
+FOR,Xian Rosato 2-point jumper...Score!,Score,65,48,119,146
+JOES,JOES Vijay Zhou lost the ball out of bounds.,Turnover,65,48,120,146
+FOR,Douglas Claussen Inside shot...Score!,Score,67,48,121,146
+JOES,Vijay Zhou 3-point attempt...Missed!       Rebounded by JOES Nigel Piper.,Score,67,48,122,146
+JOES,James Allen Inside shot...Score!       Assisted by: Harold Lehtinen,Score,67,50,124,146
+FOR,Douglas Claussen Inside shot...Score!       Assisted by: Edward Selvage,Score,69,50,125,146
+JOES,Nigel Piper 3-point attempt...Missed!       Rebounded by JOES Vijay Zhou.,Score,69,50,126,146
+JOES,Jose Molina 2-point jumper...Score!,Score,69,52,127,146
+FOR,FOR: Offensive foul on FOR Douglas Claussen.,Foul,69,52,128,146
+JOES,Nigel Piper 3-point attempt...Missed!Rebounded by FOR Christopher Joseph.,Score,69,52,129,146
+FOR,Frederick Penley Inside shot...Missed!       Rebounded by JOES Vijay Zhou.,Score,69,52,130,146
+JOES,Vijay Zhou Inside shot...Score!,Score,69,54,131,146
+FOR,Douglas Claussen Inside shot...Score!       Assisted by: Ryan Palumbo,Score,71,54,132,146
+JOES,Harold Lehtinen 3-point attempt...Missed!Rebounded by FOR Robert Spiegel.,Score,71,54,133,146
+FOR,Gary Romage 2-point jumper...BLOCKED by JOES Harold Lehtinen.       Rebounded by FOR Frederick Penley.,Turnover,71,54,134,146
+FOR,Xian Rosato Inside shot...Score!       Assisted by: Carlos Guerrero,Score,73,54,135,146
+JOES,Joseph Hataway 3-point attempt...Score!,Score,73,57,136,146
+FOR,Xian Rosato 3-point attempt...Missed!       Rebounded by JOES Joseph Hataway.,Miss,73,57,137,146
+JOES,Harold Lehtinen 2-point jumper...Missed!       Rebounded by FOR Frederick Penley.,Score,73,57,138,146
+FOR,Douglas Claussen Inside shot...Score!,Score,75,57,139,146
+JOES,Han Haniff 3-point attempt...Missed!Rebounded by FOR Edward Selvage.,Score,75,57,140,146
+FOR,Frederick Penley Inside shot...Score!       Assisted by: Gary Romage,Score,77,57,141,146
+JOES,Nigel Piper Inside shot...Score!,Score,77,59,142,146
+FOR,Gary Romage Inside shot...Score!       Assisted by: Robert Spiegel,Score,79,59,143,146
+JOES,Benjamin Morris Inside shot...Score!       Assisted by: Joseph Hataway,Score,79,61,144,146
+FOR,Frederick Penley 2-point jumper...Score!,Score,81,61,145,146
+JOES,Nigel Piper Inside shot...Missed!       Rebounded by FOR Robert Spiegel.,Score,81,61,146,146
+FOR,FOR Ryan Palumbo lost the ball out of bounds.,Out of Bounds,81,61,147,146
+,Match Complete,FinalScore,81,61,147,146

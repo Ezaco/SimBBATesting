@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+LSU,Tigers,33,33,0,66
+Tennessee,Volunteers,43,31,0,74
+""
+""
+=====LSU Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Christopher Herrera,25,21,3,9,0.3333333333333333,2,3,0.6666666666666666,3,5,0.6,11,5,2,1,0,0,0
+William Woodard,25,14,4,5,0.8,1,1,1.0,0,0,0,9,3,4,1,0,0,0
+Hugo Eakins,20,9,1,3,0.3333333333333333,0,0,0,0,2,0.0,2,3,1,1,1,0,0
+Kevin Thomas,25,11,3,5,0.6,0,1,0.0,0,0,0,6,4,2,0,2,0,0
+Christopher Brock,7,5,1,2,0.5,0,0,0,0,0,0,2,0,0,0,0,0,1
+Bryan Brown,8,12,3,6,0.5,0,1,0.0,0,0,0,6,0,0,0,0,0,0
+Matthew Gullett,25,6,2,2,1.0,1,1,1.0,0,0,0,5,2,2,2,1,0,0
+Blake Pennington,20,9,2,4,0.5,0,1,0.0,0,1,0.0,4,3,1,0,0,1,0
+Jules Basham,5,4,0,2,0.0,0,0,0,0,0,0,0,3,1,0,0,0,0
+Robert Kerr,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jeffrey Gannon,25,21,6,9,0.6666666666666666,1,1,1.0,0,0,0,13,3,1,1,0,0,2
+Stuart Dougherty,5,8,1,3,0.3333333333333333,1,2,0.5,3,3,1.0,6,0,1,0,0,0,0
+Andrew Carson,5,6,1,3,0.3333333333333333,0,0,0,0,0,0,2,1,1,0,0,0,0
+""
+=====Tennessee Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Terry Baker,39,10,3,5,0.6,0,1,0.0,2,2,1.0,8,3,7,0,0,0,0
+Benjamin Price,31,11,2,5,0.4,0,1,0.0,1,2,0.5,5,4,1,0,0,1,1
+Refugio Dent,25,14,2,6,0.3333333333333333,0,4,0.0,0,0,0,4,0,3,0,1,2,0
+Harris Blount,34,24,8,11,0.7272727272727273,6,8,0.75,0,0,0,22,7,4,0,2,2,0
+Greg Neal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fred Lewis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phillip Rodriguez,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dion Whitlock,7,10,2,5,0.4,2,2,1.0,0,0,0,6,0,0,0,0,0,0
+Warren Tran,37,15,4,6,0.6666666666666666,4,6,0.6666666666666666,0,0,0,12,4,2,2,0,1,1
+Fred Corts,7,4,1,2,0.5,1,2,0.5,0,0,0,3,3,2,0,0,0,0
+Robert Jeffery,20,19,6,8,0.75,2,3,0.6666666666666666,0,0,0,14,2,1,0,0,3,0
+Fernando Caballero,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+William Rudi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,LSU,Tennessee
+Points,66,74
+Possessions,69,63
+FGM,21,13
+FGA,42,21
+FGPercent,0.5,0.6190476190476191
+3PM,6,15
+3PA,11,27
+3P%,0.5454545454545454,0.5555555555555556
+FTM,6,3
+FTA,11,4
+FT%,0.5454545454545454,0.75
+Rebounds,27,23
+OffRebounds,11,6
+DefRebounds,16,17
+Assists,16,20
+Steals,6,0
+Blocks,4,0
+Total Turnovers,13,11
+Largest Lead,0,14

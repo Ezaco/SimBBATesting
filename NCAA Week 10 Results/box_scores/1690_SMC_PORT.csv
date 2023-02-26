@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Saint Mary's,Gaels,41,39,0,80
+Portland,Pilots,26,36,0,62
+""
+""
+=====Saint Mary's Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Jesse Martin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Booker Lewandowski,31,18,5,8,0.625,1,2,0.5,2,2,1.0,13,3,2,0,0,0,2
+Reyes Partridge,25,12,3,5,0.6,2,4,0.5,0,0,0,8,4,3,1,0,0,0
+Abraham Lawson,32,20,3,10,0.3,0,3,0.0,4,4,1.0,10,4,0,0,1,0,0
+Wm Mccarthy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nicholas Garcia,32,13,4,5,0.8,2,3,0.6666666666666666,0,0,0,10,3,1,2,0,0,0
+Martin Richardson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenneth Lee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Philip Dirksen,35,31,8,14,0.5714285714285714,0,2,0.0,0,0,0,16,10,4,0,0,0,0
+Milind Hussain,15,10,3,5,0.6,1,3,0.3333333333333333,0,0,0,7,2,0,0,0,0,0
+Shawn Patterson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Speed,30,23,7,10,0.7,0,1,0.0,2,3,0.6666666666666666,16,3,3,0,1,0,1
+Tyrone Mcdaniel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+=====Portland Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Maxwell Wills,25,21,5,8,0.625,1,1,1.0,0,0,0,11,2,3,2,1,3,2
+Napoleon Conklin,8,8,3,4,0.75,0,0,0,0,0,0,6,0,0,0,1,0,0
+Del Queen,25,25,7,10,0.7,2,4,0.5,0,0,0,16,7,1,1,0,4,0
+Nickolas Stubblefield,20,18,2,9,0.2222222222222222,0,3,0.0,2,3,0.6666666666666666,6,2,2,0,0,0,0
+Dillon Lefebvre,20,22,4,10,0.4,1,1,1.0,1,1,1.0,10,2,3,0,0,2,0
+Quinn Legg,25,14,1,6,0.16666666666666666,0,3,0.0,1,2,0.5,3,3,2,1,0,1,1
+Dalton Scanlon,5,2,1,1,1.0,0,0,0,0,0,0,2,1,0,0,0,0,0
+Russ Sell,5,2,0,1,0.0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Freddy Kimble,5,2,0,1,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0
+Harley Harden,25,8,1,2,0.5,0,1,0.0,0,0,0,2,1,0,1,0,3,0
+Chuan To,7,4,0,1,0.0,0,1,0.0,0,0,0,0,1,0,1,0,0,0
+William Cooper,5,5,2,2,1.0,0,0,0,0,0,0,4,0,0,0,0,1,1
+Erik Jacobs,25,6,1,2,0.5,0,0,0,0,0,0,2,7,0,0,1,2,0
+""
+""
+=====TEAM STATS=====
+Stat,Saint Mary's,Portland
+Points,80,62
+Possessions,73,77
+FGM,27,23
+FGA,39,43
+FGPercent,0.6923076923076923,0.5348837209302325
+3PM,6,4
+3PA,18,14
+3P%,0.3333333333333333,0.2857142857142857
+FTM,8,4
+FTA,9,6
+FT%,0.8888888888888888,0.6666666666666666
+Rebounds,29,26
+OffRebounds,7,9
+DefRebounds,22,17
+Assists,13,14
+Steals,3,0
+Blocks,2,2
+Total Turnovers,13,17
+Largest Lead,25,2

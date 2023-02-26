@@ -1,0 +1,181 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+DUQ,DAV,60,80,150
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+DAV,DAV wins the tipoff!,Tipoff,0,0,0,150
+DAV,James Hail 2-point jumper...Score!       Assisted by: John Robson,Score,0,2,1,150
+DUQ,George Dohr 2-point jumper...Missed!       Rebounded by DAV James Hail.,Missed,0,2,2,150
+DAV,Rakesh Caceres Inside shot...Score!,Score,0,4,3,150
+DUQ,Matthew Gale Inside shot... Missed with a foul on the play.,Fouled,0,4,4,150
+DUQ,Free throw coming up... good!,FreeThrow,1,4,4,150
+DUQ,Free throw coming up... rattled out.       Rebounded by DAV William Evans.,FreeThrow,1,4,4,150
+DAV,Robert Hill Inside shot...Score! Fouled and we have a free throw folks!,Score,1,6,5,150
+DAV,Free throw coming up... good!,FreeThrow,1,7,5,150
+DUQ,Robert Dekker 2-point jumper...Missed!       Rebounded by DUQ Matthew Gale.,Missed,1,7,6,150
+DUQ,Ronnie Mclaine 2-point jumper...Missed!       Rebounded by DAV Richard Keen.,Missed,1,7,7,150
+DAV,DAV: Offensive foul on DAV David Frank.,Turnover,1,7,8,150
+DAV,Todd Struble steals the ball for DAV!,Turnover,1,7,9,150
+DAV,Richard Keen Inside shot...BLOCKED by Matthew Rossitto.       Rebounded by DUQ Robert Dekker.,Turnover,1,7,10,150
+DUQ,Paul Rodrigue Inside shot...Score!,Score,3,7,11,150
+DUQ,George Dohr steals the ball for DUQ!,Turnover,3,7,12,150
+DUQ,DUQ Jason Fang lost the ball out of bounds.,Out of Bounds,3,7,13,150
+DAV,Todd Struble 2-point jumper...Missed!       Rebounded by DAV Joseph Stewart.,Score,3,7,14,150
+DAV,DAV Elvis Grandison lost the ball out of bounds.,Turnover,3,7,15,150
+DUQ,Clifton Mixon 2-point jumper...Missed!       Rebounded by DAV Robert Hill.,Missed,3,7,16,150
+DUQ,Ronnie Mclaine steals the ball for DUQ!,Turnover,3,7,17,150
+DUQ,Free throw coming up... good!,FreeThrow,4,7,18,150
+DUQ,Free throw coming up... good!,FreeThrow,5,7,18,150
+DUQ,Free throw coming up... rattled out.       Rebounded by DAV Jason Breaux.,FreeThrow,5,7,18,150
+DAV,Todd Struble Inside shot...Missed!       Rebounded by DUQ Matthew Rossitto.,Score,5,7,19,150
+DUQ,George Dohr 2-point jumper...Missed!       Rebounded by DUQ George Dohr.,Missed,5,7,20,150
+DUQ,George Dohr Inside shot...Score!,Score,7,7,21,150
+DAV,DAV Ricardo Uribe lost the ball out of bounds.,Turnover,7,7,22,150
+DUQ,DUQ James Hermann lost the ball out of bounds.,Out of Bounds,7,7,23,150
+DAV,David Frank 3-point attempt...Missed!Rebounded by DUQ Matthew Rossitto.,Score,7,7,24,150
+DUQ,DUQ Matthew Gale lost the ball out of bounds.,Out of Bounds,7,7,25,150
+DAV,William Evans 2-point jumper...Missed!       Rebounded by DUQ James Hermann.,Score,7,7,26,150
+DUQ,Robert Dekker Inside shot... Missed with a foul on the play.,Fouled,7,7,27,150
+DUQ,Free throw coming up... good!,FreeThrow,8,7,27,150
+DUQ,Free throw coming up... good!,FreeThrow,9,7,27,150
+DAV,Todd Struble 2-point jumper...Score!       Assisted by: John Robson,Score,9,9,28,150
+DUQ,Robert Dekker 2-point jumper...Missed!       Rebounded by DUQ Clifton Mixon.,Missed,9,9,29,150
+DUQ,Ronnie Mclaine Inside shot...Score!,Score,11,9,30,150
+DAV,Joseph Stewart Inside shot...Missed!       Rebounded by DAV James Hail.,Score,11,9,31,150
+DAV,Richard Keen 2-point jumper...Missed!       Rebounded by DAV Elvis Grandison.,Score,11,9,32,150
+DAV,James Hail 3-point attempt...Missed!       Rebounded by DAV John Robson.,Score,11,9,33,150
+DAV,Elvis Grandison Inside shot...Score!       Assisted by: James Hail,Score,11,11,34,150
+DAV,John Robson steals the ball for DAV!,Turnover,11,11,35,150
+DAV,DAV: Offensive foul on DAV Todd Struble.,Turnover,11,11,36,150
+DUQ,Paul Rodrigue 2-point jumper...Score!,Score,13,11,37,150
+DAV,Todd Struble Inside shot...Score! Fouled and we have a free throw folks!,Score,13,13,38,150
+DAV,Free throw coming up... good!,FreeThrow,13,14,38,150
+DAV,Joseph Stewart steals the ball for DAV!,Turnover,13,14,39,150
+DAV,John Robson 2-point jumper...Score!       Assisted by: Todd Struble,Score,13,16,40,150
+DUQ,Robert Dekker 2-point jumper...BLOCKED by DAV Rakesh Caceres.       Rebounded by DUQ Matthew Rossitto.,Turnover,13,16,41,150
+DUQ,DUQ Ronnie Mclaine lost the ball out of bounds.,Out of Bounds,13,16,42,150
+DAV,Todd Struble 3-point attempt...Score!       Assisted by: Richard Keen,Score,13,19,43,150
+DUQ,Matthew Rossitto 2-point jumper...Score!,Score,15,19,44,150
+DAV,Jason Breaux 2-point jumper...Missed!       Rebounded by DUQ Paul Rodrigue.,Score,15,19,45,150
+DUQ,Matthew Gale 2-point jumper...Missed!       Rebounded by DUQ Paul Rodrigue.,Missed,15,19,46,150
+DAV,James Hail steals the ball for DAV!,Turnover,15,19,47,150
+DUQ,Matthew Gale steals the ball for DUQ!,Turnover,15,19,48,150
+DUQ,Ronnie Mclaine 2-point jumper...Score!,Score,17,19,49,150
+DAV,DAV Joseph Stewart lost the ball out of bounds.,Turnover,17,19,50,150
+DUQ,Paul Rodrigue 2-point jumper...Score!,Score,19,19,51,150
+DAV,Joseph Stewart Inside shot...Score! Fouled and we have a free throw folks!,Score,19,21,52,150
+DAV,Free throw coming up... good!,FreeThrow,19,22,52,150
+DUQ,Ivan Yang 3-point attempt...Missed!       Rebounded by DAV Todd Struble.,Miss,19,22,53,150
+DAV,James Hail 3-point attempt...Missed!Rebounded by DUQ Ivan Yang.,Score,19,22,54,150
+DUQ,Matthew Gale Inside shot...BLOCKED by DAV William Evans.       Rebounded by DAV Richard Keen.,Turnover,19,22,55,150
+DAV,Todd Struble 3-point attempt...Score!,Score,19,25,56,150
+DUQ,Charles Sheppard 2-point jumper...Missed!       Rebounded by DUQ Ronnie Mclaine.,Missed,19,25,57,150
+DUQ,George Dohr 3-point attempt...Missed!       Rebounded by DAV James Hail.,Miss,19,25,58,150
+DUQ,Ronnie Mclaine steals the ball for DUQ!,Turnover,19,25,59,150
+DAV,Jason Breaux steals the ball for DAV!,Turnover,19,25,60,150
+DAV,Elvis Grandison Inside shot...BLOCKED by Robert Dekker.       Rebounded by DUQ Matthew Gale.,Turnover,19,25,61,150
+DUQ,James Hermann 2-point jumper...Score!       Assisted by: Ronnie Mclaine,Score,21,25,62,150
+DAV,Robert Hill 2-point jumper...Missed!       Rebounded by DUQ George Dohr.,Score,21,25,63,150
+DUQ,Paul Rodrigue Inside shot...Score!,Score,23,25,64,150
+DAV,Elvis Grandison 2-point jumper...Missed!       Rebounded by DUQ Matthew Rossitto.,Score,23,25,65,150
+DUQ,Robert Dekker 3-point attempt...Score!,Score,26,25,66,150
+DAV,Elvis Grandison 2-point jumper... Missed but there is a foul on the play.,Foul,26,25,67,150
+DAV,Free throw coming up... good!,FreeThrow,26,26,67,150
+DAV,Free throw coming up... good!,FreeThrow,26,27,67,150
+DUQ,Matthew Gale Inside shot...BLOCKED by DAV Robert Hill.       Rebounded by DUQ George Dohr.,Turnover,26,27,68,150
+DUQ,Robert Dekker 2-point jumper...Missed!       Rebounded by DAV Elvis Grandison.,Missed,26,27,69,150
+DUQ,Matthew Rossitto steals the ball for DUQ!,Turnover,26,27,70,150
+DUQ,Matthew Rossitto 2-point jumper...BLOCKED by DAV Elvis Grandison.       Rebounded by DAV John Robson.,Turnover,26,27,71,150
+DAV,DAV Elvis Grandison lost the ball out of bounds.,Turnover,26,27,72,150
+DUQ,Matthew Rossitto Inside shot... Missed with a foul on the play.,Fouled,26,27,73,150
+DUQ,Free throw coming up... good!,FreeThrow,27,27,73,150
+DUQ,Free throw coming up... good!,FreeThrow,28,27,73,150
+DAV,John Robson Inside shot...BLOCKED by James Hermann.       Rebounded by DUQ James Hermann.,Turnover,28,27,74,150
+DUQ,Paul Rodrigue 3-point attempt...Missed!       Rebounded by DUQ Matthew Gale.,Missed,28,27,75,150
+,,HALFTIME,28,27,75,150
+DUQ,Robert Dekker Inside shot...Score!       Assisted by: Ivan Yang,Score,30,27,76,150
+DAV,Jason Breaux 3-point attempt...Score!       Assisted by: Robert Hill,Score,30,30,77,150
+DUQ,Robert Dekker Inside shot...Score! Foul on the play and one!       Assisted by: Gregory Jones,Score,32,30,78,150
+DUQ,Free throw coming up... good!,FreeThrow,33,30,78,150
+DAV,Richard Keen 2-point jumper...Missed!       Rebounded by DUQ Matthew Gale.,Score,33,30,79,150
+DUQ,Robert Dekker 2-point jumper...BLOCKED by DAV Todd Struble.       Rebounded by DAV John Robson.,Turnover,33,30,80,150
+DAV,Robert Hill 2-point jumper...Missed!       Rebounded by DAV John Robson.,Score,33,30,81,150
+DAV,John Robson 2-point jumper...Score!,Score,33,32,82,150
+DUQ,Charles Sheppard Inside shot...Score!,Score,35,32,83,150
+DAV,DAV Elvis Grandison lost the ball out of bounds.,Turnover,35,32,84,150
+DUQ,Matthew Rossitto 3-point attempt...Missed!       Rebounded by DAV John Robson.,Miss,35,32,85,150
+DAV,Elvis Grandison Inside shot...Score!,Score,35,34,86,150
+DUQ,Gregory Jones 3-point attempt...Missed!       Rebounded by DUQ Matthew Gale.,Missed,35,34,87,150
+DUQ,Charles Sheppard 3-point attempt...Missed!       Rebounded by DAV James Hail.,Miss,35,34,88,150
+DAV,Elvis Grandison 3-point attempt...Score!       Assisted by: William Evans,Score,35,37,89,150
+DUQ,George Dohr 2-point jumper...Score!,Score,37,37,90,150
+DAV,John Robson Inside shot...Score!       Assisted by: Joseph Stewart,Score,37,39,91,150
+DUQ,DUQ James Hermann lost the ball out of bounds.,Out of Bounds,37,39,92,150
+DUQ,Matthew Rossitto steals the ball for DUQ!,Turnover,37,39,93,150
+DUQ,George Dohr Inside shot...Score!       Assisted by: Matthew Gale,Score,39,39,94,150
+DAV,Jason Breaux Inside shot...Score!       Assisted by: James Hail,Score,39,41,95,150
+DUQ,Charles Sheppard Inside shot...Missed!       Rebounded by DUQ Ivan Yang.,Score,39,41,96,150
+DUQ,James Hermann Inside shot...Score!,Score,41,41,97,150
+DAV,Jason Breaux 2-point jumper...Score!,Score,41,43,98,150
+DUQ,Robert Dekker 2-point jumper...Missed!       Rebounded by DAV James Hail.,Missed,41,43,99,150
+DAV,Rakesh Caceres Inside shot...Score!,Score,41,45,100,150
+DUQ,Charles Sheppard Inside shot...Score!,Score,43,45,101,150
+DAV,James Hail Inside shot...Score!       Assisted by: Robert Hill,Score,43,47,102,150
+DUQ,Matthew Rossitto 3-point attempt...Missed!       Rebounded by DAV John Robson.,Miss,43,47,103,150
+DAV,Rakesh Caceres 2-point jumper...Missed!       Rebounded by DUQ George Dohr.,Score,43,47,104,150
+DUQ,James Hermann Inside shot...Score!,Score,45,47,105,150
+DAV,Robert Hill Inside shot...Score!,Score,45,49,106,150
+DUQ,Ronnie Mclaine Inside shot... Missed with a foul on the play.,Fouled,45,49,107,150
+DUQ,Free throw coming up... good!,FreeThrow,46,49,107,150
+DUQ,Free throw coming up... good!,FreeThrow,47,49,107,150
+DAV,John Robson Inside shot...Score!,Score,47,51,108,150
+DUQ,DUQ Robert Dekker lost the ball out of bounds.,Out of Bounds,47,51,109,150
+DAV,James Hail 3-point attempt...Missed!Rebounded by DUQ Matthew Rossitto.,Score,47,51,110,150
+DAV,Jason Breaux steals the ball for DAV!,Turnover,47,51,111,150
+DAV,Todd Struble Inside shot...Score!,Score,47,53,112,150
+DUQ,Ronnie Mclaine 2-point jumper...Missed!       Rebounded by DAV Richard Keen.,Missed,47,53,113,150
+DAV,Robert Hill 2-point jumper...Score!       Assisted by: Todd Struble,Score,47,55,114,150
+DUQ,George Dohr Inside shot...Score!,Score,49,55,115,150
+DAV,Todd Struble 2-point jumper...Score!       Assisted by: Joseph Stewart,Score,49,57,116,150
+DUQ,James Hermann 2-point jumper...Missed!       Rebounded by DAV Elvis Grandison.,Missed,49,57,117,150
+DAV,Richard Keen Inside shot...Score!       Assisted by: John Robson,Score,49,59,118,150
+DUQ,Ronnie Mclaine 3-point attempt...Missed!       Rebounded by DAV Robert Hill.,Miss,49,59,119,150
+DAV,DAV John Robson lost the ball out of bounds.,Turnover,49,59,120,150
+DUQ,Ronnie Mclaine Inside shot...Score!,Score,51,59,121,150
+DAV,DAV Joseph Stewart lost the ball out of bounds.,Turnover,51,59,122,150
+DUQ,Robert Dekker 2-point jumper...Score!,Score,53,59,123,150
+DAV,DAV: Offensive foul on DAV Richard Moore.,Turnover,53,59,124,150
+DUQ,Matthew Rossitto 2-point jumper...Missed!       Rebounded by DUQ Paul Rodrigue.,Missed,53,59,125,150
+DUQ,Robert Dekker 2-point jumper...Missed!       Rebounded by DAV John Robson.,Missed,53,59,126,150
+DAV,Elvis Grandison 3-point attempt...Score!       Assisted by: Jason Breaux,Score,53,62,127,150
+DUQ,Matthew Rossitto 2-point jumper...Missed!       Rebounded by DAV Richard Keen.,Missed,53,62,128,150
+DAV,John Robson Inside shot... Missed but with a foul on the play.,Fouled,53,62,129,150
+DAV,Free throw coming up... good!,FreeThrow,53,63,129,150
+DAV,Free throw coming up... good!,FreeThrow,53,64,129,150
+DUQ,Matthew Gale Inside shot...Score!,Score,55,64,130,150
+DAV,Todd Struble 3-point attempt...Score!       Assisted by: John Robson,Score,55,67,131,150
+DUQ,Paul Rodrigue Inside shot... Missed with a foul on the play.,Fouled,55,67,132,150
+DUQ,Free throw coming up... good!,FreeThrow,56,67,132,150
+DUQ,Free throw coming up... good!,FreeThrow,57,67,132,150
+DAV,William Evans Inside shot...Score! Fouled and we have a free throw folks!,Score,57,69,134,150
+DAV,Free throw coming up... good!,FreeThrow,57,70,134,150
+DUQ,Ivan Yang 2-point jumper...Missed!       Rebounded by DUQ George Dohr.,Missed,57,70,135,150
+DAV,Todd Struble steals the ball for DAV!,Turnover,57,70,136,150
+DAV,Robert Hill Inside shot...Score! Fouled and we have a free throw folks!,Score,57,72,137,150
+DAV,Free throw coming up... good!,FreeThrow,57,73,137,150
+DUQ,Ronnie Mclaine 2-point jumper...Missed!       Rebounded by DAV Todd Struble.,Missed,57,73,138,150
+DAV,Ricardo Uribe 3-point attempt...Score!       Assisted by: Jason Breaux,Score,57,76,139,150
+DUQ,Ronnie Mclaine Inside shot... Missed with a foul on the play.,Fouled,57,76,140,150
+DUQ,Free throw coming up... rattled out.       Rebounded by DAV John Robson.,FreeThrow,57,76,140,150
+DAV,Richard Keen 2-point jumper...Missed!       Rebounded by DUQ George Dohr.,Score,57,76,141,150
+DUQ,DUQ Matthew Rossitto lost the ball out of bounds.,Out of Bounds,57,76,142,150
+DAV,David Frank Inside shot...Missed!       Rebounded by DUQ Ronnie Mclaine.,Score,57,76,143,150
+DUQ,James Hermann 2-point jumper...Missed!       Rebounded by DAV Joseph Stewart.,Missed,57,76,144,150
+DAV,James Hail Inside shot...Score!,Score,57,78,145,150
+DUQ,Ivan Yang 3-point attempt...Missed!       Rebounded by DAV Jason Breaux.,Miss,57,78,146,150
+DAV,Jason Breaux 2-point jumper...Score!,Score,57,80,147,150
+DUQ,Robert Dekker 2-point jumper...Score! Foul on the play and one!       Assisted by: James Hermann,Score,59,80,148,150
+DUQ,Free throw coming up... good!,FreeThrow,60,80,148,150
+DAV,Elvis Grandison Inside shot...BLOCKED by Ronnie Mclaine.       Rebounded by DUQ James Hermann.,Turnover,60,80,149,150
+DUQ,Robert Dekker 2-point jumper...Missed!       Rebounded by DUQ Paul Rodrigue.,Missed,60,80,150,150
+DUQ,DUQ Robert Dekker lost the ball out of bounds.,Out of Bounds,60,80,151,150
+,Match Complete,FinalScore,60,80,151,150

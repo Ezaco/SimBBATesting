@@ -1,0 +1,187 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+PNST,PURD,66,74,154
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+PURD,PURD wins the tipoff!,Tipoff,0,0,0,154
+PURD,Pedro Rodriguez Inside shot...Score!,Score,0,2,1,154
+PNST,James Outlaw Inside shot...Score!,Score,2,2,2,154
+PURD,Neil Maldonado Inside shot...Score!,Score,2,4,3,154
+PNST,Dennis Ray 2-point jumper...Missed!       Rebounded by PURD Jarrod Causey.,Missed,2,4,4,154
+PURD,Pedro Rodriguez 3-point attempt...Missed!Rebounded by PNST Donald Edwards.,Score,2,4,5,154
+PNST,Barry Mcmahan Inside shot...Missed!       Rebounded by PURD Berry Hutson.,Score,2,4,6,154
+PNST,Donald Edwards steals the ball for PNST!,Turnover,2,4,7,154
+PNST,Gregory Odusanya Inside shot...Score!       Assisted by: Donald Edwards,Score,4,4,8,154
+PURD,Jarrod Causey Inside shot... Missed but with a foul on the play.,Fouled,4,4,9,154
+PURD,Free throw coming up... good!,FreeThrow,4,5,9,154
+PURD,Free throw coming up... rattled out.       Rebounded by PNST Barry Mcmahan.,FreeThrow,4,5,9,154
+PNST,Luis Teran 2-point jumper...Missed!       Rebounded by PNST James Outlaw.,Missed,4,5,10,154
+PNST,Luis Teran 2-point jumper...Missed!       Rebounded by PURD Richard Griffin.,Missed,4,5,11,154
+PNST,Donald Edwards steals the ball for PNST!,Turnover,4,5,12,154
+PNST,Orlando Esquivel 2-point jumper...Score!       Assisted by: Barry Mcmahan,Score,6,5,13,154
+PURD,PURD Gabriel Glover lost the ball out of bounds.,Turnover,6,5,14,154
+PNST,Hector Cruz 2-point jumper...Score!,Score,8,5,15,154
+PURD,Jarrod Causey Inside shot... Missed but with a foul on the play.,Fouled,8,5,16,154
+PURD,Free throw coming up... good!,FreeThrow,8,6,16,154
+PURD,Free throw coming up... good!,FreeThrow,8,7,16,154
+PNST,Hector Cruz 2-point jumper...BLOCKED by PURD Richard Griffin.       Rebounded by PNST Richard Lescarbeau.,Turnover,8,7,17,154
+PNST,Dennis Ray Inside shot...Score!       Assisted by: Hector Cruz,Score,10,7,18,154
+PNST,Gregory Odusanya steals the ball for PNST!,Turnover,10,7,19,154
+PNST,James Outlaw Inside shot...Score!       Assisted by: Luis Teran,Score,12,7,20,154
+PURD,Neil Maldonado Inside shot...Score!,Score,12,9,21,154
+PNST,Donald Edwards 2-point jumper...Missed!       Rebounded by PNST Donald Edwards.,Missed,12,9,22,154
+PNST,Donald Edwards Inside shot...Missed!       Rebounded by PURD Berry Hutson.,Score,12,9,23,154
+PURD,Jarrod Causey Inside shot... Missed but with a foul on the play.,Fouled,12,9,24,154
+PURD,Free throw coming up... good!,FreeThrow,12,10,24,154
+PURD,Free throw coming up... rattled out.       Rebounded by PNST James Outlaw.,FreeThrow,12,10,24,154
+PNST,James Outlaw Inside shot... Missed with a foul on the play.,Fouled,12,10,25,154
+PNST,Free throw coming up... good!,FreeThrow,13,10,25,154
+PNST,Free throw coming up... good!,FreeThrow,14,10,25,154
+PURD,Richard Griffin Inside shot...Score!,Score,14,12,26,154
+PNST,Luis Teran 3-point attempt...Score!       Assisted by: Richard Lescarbeau,Score,17,12,27,154
+PURD,Jarrod Causey 3-point attempt...Missed!Rebounded by PNST Barry Mcmahan.,Score,17,12,28,154
+PURD,Jarrod Causey steals the ball for PURD!,Turnover,17,12,29,154
+PURD,Berry Hutson 3-point attempt...Missed!Rebounded by PNST Donald Edwards.,Score,17,12,30,154
+PNST,PNST: Offensive foul on PNST James Outlaw.,Foul,17,12,31,154
+PNST,Barry Mcmahan steals the ball for PNST!,Turnover,17,12,32,154
+PNST,PNST: Offensive foul on PNST Dennis Ray.,Foul,17,12,33,154
+PURD,Jarrod Causey 3-point attempt...Missed!Rebounded by PNST Barry Mcmahan.,Score,17,12,34,154
+PNST,Barry Mcmahan Inside shot...Score!       Assisted by: Hector Cruz,Score,19,12,35,154
+PURD,Richard Griffin 3-point attempt...Missed!Rebounded by PNST Phillip Shepperd.,Score,19,12,36,154
+PNST,PNST Luis Teran lost the ball out of bounds.,Out of Bounds,19,12,37,154
+PURD,Berry Hutson Inside shot...Score!       Assisted by: Jarrod Causey,Score,19,14,38,154
+PNST,Gregory Odusanya 2-point jumper... Missed with a foul on the play.,Turnover,19,14,39,154
+PNST,Gregory Odusanya 2-point jumper... Missed with a foul on the play.,FreeThrow,20,14,39,154
+PNST,Gregory Odusanya 2-point jumper... Missed with a foul on the play.,FreeThrow,21,14,39,154
+PURD,Gabriel Glover Inside shot...BLOCKED by Barry Mcmahan.       Rebounded by PURD Gabriel Glover.,Turnover,21,14,40,154
+PNST,Luis Teran steals the ball for PNST!,Turnover,21,14,41,154
+PNST,Luis Teran Inside shot... Missed with a foul on the play.,Fouled,21,14,42,154
+PNST,Free throw coming up... rattled out.       Rebounded by PURD Jarrod Causey.,FreeThrow,21,14,42,154
+PURD,Neil Maldonado Inside shot...Score!,Score,21,16,43,154
+PNST,Gregory Odusanya 2-point jumper...Missed!       Rebounded by PURD Jarrod Causey.,Missed,21,16,44,154
+PURD,Richard Griffin 2-point jumper...Score!,Score,21,18,45,154
+PNST,Hector Cruz Inside shot...BLOCKED by PURD Gabriel Glover.       Rebounded by PURD Richard Griffin.,Turnover,21,18,46,154
+PURD,Gabriel Glover 3-point attempt...Missed!Rebounded by PNST Barry Mcmahan.,Score,21,18,47,154
+PNST,PNST James Outlaw lost the ball out of bounds.,Out of Bounds,21,18,48,154
+PURD,Berry Hutson 2-point jumper...Score!       Assisted by: Neil Maldonado,Score,21,20,49,154
+PNST,Gregory Odusanya 2-point jumper...Missed!       Rebounded by PURD Jarrod Causey.,Missed,21,20,50,154
+PURD,PURD Gabriel Glover lost the ball out of bounds.,Turnover,21,20,51,154
+PNST,James Bunting Inside shot...BLOCKED by PURD Berry Hutson.       Rebounded by PNST Barry Mcmahan.,Turnover,21,20,52,154
+PNST,Donald Edwards 2-point jumper...BLOCKED by PURD Berry Hutson.       Rebounded by PURD Gabriel Glover.,Turnover,21,20,53,154
+PURD,Pedro Rodriguez 3-point attempt...Missed!Rebounded by PNST Donald Edwards.,Score,21,20,54,154
+PNST,Dennis Ray 3-point attempt...Missed!       Rebounded by PURD Richard Griffin.,Miss,21,20,55,154
+PNST,Barry Mcmahan steals the ball for PNST!,Turnover,21,20,56,154
+PNST,Dennis Ray Inside shot...Missed!       Rebounded by PURD Gabriel Glover.,Score,21,20,57,154
+PURD,Neil Maldonado 3-point attempt...Missed!       Rebounded by PURD Richard Griffin.,Score,21,20,58,154
+PURD,Neil Maldonado 3-point attempt...Missed!Rebounded by PNST Dennis Ray.,Score,21,20,59,154
+PNST,James Outlaw 3-point attempt...Missed!       Rebounded by PURD Neil Maldonado.,Miss,21,20,60,154
+PNST,Gregory Odusanya steals the ball for PNST!,Turnover,21,20,61,154
+PNST,Hector Cruz 3-point attempt...Missed!       Rebounded by PURD Pedro Rodriguez.,Miss,21,20,62,154
+PURD,Neil Maldonado Inside shot...Score!,Score,21,22,63,154
+PNST,Donald Edwards 2-point jumper...Score!,Score,23,22,64,154
+PURD,Berry Hutson Inside shot... Missed but with a foul on the play.,Fouled,23,22,65,154
+PURD,Free throw coming up... good!,FreeThrow,23,23,65,154
+PURD,Free throw coming up... good!,FreeThrow,23,24,65,154
+PNST,PNST Alfonso Alejandro lost the ball out of bounds.,Out of Bounds,23,24,66,154
+PURD,Richard Griffin Inside shot...BLOCKED by Dennis Ray.       Rebounded by PNST Hector Cruz.,Turnover,23,24,67,154
+PNST,PNST Donald Edwards lost the ball out of bounds.,Out of Bounds,23,24,68,154
+PNST,Gregory Odusanya steals the ball for PNST!,Turnover,23,24,69,154
+PNST,Luis Teran 2-point jumper...Missed!       Rebounded by PURD Richard Griffin.,Missed,23,24,70,154
+PURD,Jarrod Causey 3-point attempt...Score!       Assisted by: Gabriel Glover,Score,23,27,71,154
+PNST,Barry Mcmahan Inside shot...Score! Foul on the play and one!       Assisted by: James Outlaw,Score,25,27,72,154
+PNST,Free throw coming up... good!,FreeThrow,26,27,72,154
+PURD,Pablo Warner 2-point jumper...Missed!       Rebounded by PNST Luis Teran.,Score,26,27,73,154
+PURD,Jarrod Causey steals the ball for PURD!,Turnover,26,27,74,154
+PNST,Dennis Ray steals the ball for PNST!,Turnover,26,27,75,154
+PNST,Barry Mcmahan Inside shot...Missed!       Rebounded by PURD Srinivasan Dionisio.,Score,26,27,76,154
+PURD,Gabriel Glover Inside shot...Score!       Assisted by: Jarrod Causey,Score,26,29,77,154
+,,HALFTIME,26,29,77,154
+PNST,Donald Edwards 2-point jumper...Missed!       Rebounded by PNST James Outlaw.,Missed,26,29,78,154
+PNST,Dennis Ray 2-point jumper...Score!,Score,28,29,79,154
+PNST,Barry Mcmahan steals the ball for PNST!,Turnover,28,29,80,154
+PNST,Barry Mcmahan Inside shot...Score!,Score,30,29,81,154
+PURD,Richard Griffin 3-point attempt...Missed!       Rebounded by PURD Jarrod Causey.,Score,30,29,82,154
+PURD,Srinivasan Dionisio 2-point jumper...Score!,Score,30,31,83,154
+PNST,Dennis Ray Inside shot...Missed!       Rebounded by PURD Jarrod Causey.,Score,30,31,84,154
+PURD,Jarrod Causey 2-point jumper...Score!,Score,30,33,85,154
+PNST,James Outlaw 2-point jumper...Score!,Score,32,33,86,154
+PURD,PURD: Offensive foul on PURD Neil Maldonado.,Turnover,32,33,87,154
+PNST,PNST James Outlaw lost the ball out of bounds.,Out of Bounds,32,33,88,154
+PURD,PURD Gabriel Glover lost the ball out of bounds.,Turnover,32,33,89,154
+PNST,Luis Teran 2-point jumper...Missed!       Rebounded by PNST Luis Teran.,Missed,32,33,90,154
+PNST,Gregory Odusanya 3-point attempt...Score!       Assisted by: Luis Teran,Score,35,33,91,154
+PURD,Berry Hutson Inside shot...Score!       Assisted by: Pedro Rodriguez,Score,35,35,92,154
+PNST,Donald Edwards 2-point jumper...Score!       Assisted by: Hector Cruz,Score,37,35,93,154
+PURD,Pedro Rodriguez Inside shot...Score!       Assisted by: Neil Maldonado,Score,37,37,94,154
+PNST,Donald Edwards Inside shot...Score!,Score,39,37,95,154
+PNST,Gregory Odusanya steals the ball for PNST!,Turnover,39,37,96,154
+PNST,Dennis Ray 2-point jumper...Missed!       Rebounded by PURD Jarrod Causey.,Missed,39,37,97,154
+PURD,Richard Griffin Inside shot...Score!,Score,39,39,98,154
+PNST,Gregory Odusanya Inside shot...Score!,Score,41,39,99,154
+PURD,Berry Hutson 2-point jumper...Missed!       Rebounded by PURD Jarrod Causey.,Score,41,39,100,154
+PURD,Neil Maldonado 2-point jumper...Score!,Score,41,41,101,154
+PNST,Gregory Odusanya Inside shot...Score!,Score,43,41,102,154
+PURD,Neil Maldonado Inside shot...BLOCKED by Dennis Ray.       Rebounded by PURD Gabriel Glover.,Turnover,43,41,103,154
+PURD,Pedro Rodriguez Inside shot...Score!,Score,43,43,104,154
+PNST,Dennis Ray 2-point jumper...Score!,Score,45,43,106,154
+PURD,Richard Griffin Inside shot...Score!,Score,45,45,107,154
+PNST,Donald Edwards 2-point jumper...Missed!       Rebounded by PURD Gabriel Glover.,Missed,45,45,108,154
+PURD,Edward Mosakowski 2-point jumper...Missed!       Rebounded by PNST James Outlaw.,Score,45,45,109,154
+PNST,PNST: Shot clock violation on PNST Dennis Ray.,Shot Clock Violation,45,45,110,154
+PURD,Jarrod Causey 3-point attempt...Score!,Score,45,48,111,154
+PNST,James Outlaw Inside shot...Score!       Assisted by: Orlando Esquivel,Score,47,48,112,154
+PURD,Gabriel Glover Inside shot...Score!,Score,47,50,113,154
+PNST,Hector Cruz Inside shot...Missed!       Rebounded by PNST Luis Teran.,Score,47,50,114,154
+PURD,Pedro Rodriguez steals the ball for PURD!,Turnover,47,50,115,154
+PURD,Richard Griffin 3-point attempt...Score!,Score,47,53,116,154
+PNST,Gregory Odusanya 2-point jumper...Missed!       Rebounded by PURD Berry Hutson.,Missed,47,53,117,154
+PURD,Edward Mosakowski 3-point attempt...Missed!Rebounded by PNST Gregory Odusanya.,Score,47,53,118,154
+PNST,Dennis Ray 2-point jumper...Missed!       Rebounded by PURD Gabriel Glover.,Missed,47,53,119,154
+PNST,Alfonso Alejandro steals the ball for PNST!,Turnover,47,53,120,154
+PNST,Dennis Ray Inside shot...Score!,Score,49,53,121,154
+PURD,Gabriel Glover 3-point attempt...Score!       Assisted by: Richard Griffin,Score,49,56,122,154
+PNST,Luis Teran Inside shot... Missed with a foul on the play.,Fouled,49,56,123,154
+PNST,Free throw coming up... good!,FreeThrow,50,56,123,154
+PNST,Free throw coming up... good!,FreeThrow,51,56,123,154
+PURD,Berry Hutson 3-point attempt...Missed!Rebounded by PNST Donald Edwards.,Score,51,56,124,154
+PNST,Hector Cruz Inside shot...Missed!       Rebounded by PURD Edward Mosakowski.,Score,51,56,125,154
+PURD,Richard Griffin 3-point attempt... Missed with a foul on the play.,Fouled,51,56,126,154
+PURD,       Free throw coming up... good!,FreeThrow,51,57,126,154
+PURD,       Free throw coming up... good!,FreeThrow,51,58,126,154
+PURD,       Free throw coming up... good!,FreeThrow,51,59,126,154
+PNST,Luis Teran Inside shot...Missed!       Rebounded by PNST Donald Edwards.,Score,51,59,127,154
+PNST,Hector Cruz 2-point jumper...BLOCKED by PURD Berry Hutson.       Rebounded by PURD Berry Hutson.,Turnover,51,59,128,154
+PURD,Jarrod Causey 2-point jumper...Missed!       Rebounded by PURD Gabriel Glover.,Score,51,59,129,154
+PURD,Jarrod Causey Inside shot... Missed but with a foul on the play.,Fouled,51,59,130,154
+PURD,Free throw coming up... good!,FreeThrow,51,60,130,154
+PURD,Free throw coming up... rattled out.       Rebounded by PNST Donald Edwards.,FreeThrow,51,60,130,154
+PNST,Donald Edwards 2-point jumper...Missed!       Rebounded by PURD Berry Hutson.,Missed,51,60,131,154
+PURD,Gabriel Glover Inside shot...Score!       Assisted by: Neil Maldonado,Score,51,62,132,154
+PNST,Orlando Esquivel Inside shot... Missed with a foul on the play.,Fouled,51,62,133,154
+PNST,Free throw coming up... good!,FreeThrow,52,62,133,154
+PNST,Free throw coming up... good!,FreeThrow,53,62,133,154
+PURD,Pablo Warner Inside shot...Score!       Assisted by: Srinivasan Dionisio,Score,53,64,134,154
+PNST,Donald Edwards 2-point jumper...Missed!       Rebounded by PURD Srinivasan Dionisio.,Missed,53,64,135,154
+PURD,Richard Griffin 2-point jumper...Missed!       Rebounded by PURD Neil Maldonado.,Score,53,64,136,154
+PURD,Jarrod Causey 2-point jumper...Missed!       Rebounded by PNST Luis Teran.,Score,53,64,137,154
+PNST,Phillip Shepperd 3-point attempt...Score!       Assisted by: Hector Cruz,Score,56,64,138,154
+PURD,Richard Griffin Inside shot... Missed but with a foul on the play.,Fouled,56,64,139,154
+PURD,Free throw coming up... good!,FreeThrow,56,65,139,154
+PURD,Free throw coming up... rattled out.       Rebounded by PNST Barry Mcmahan.,FreeThrow,56,65,139,154
+PNST,Luis Teran 2-point jumper...Missed!       Rebounded by PNST Gregory Odusanya.,Missed,56,65,140,154
+PNST,PNST James Outlaw lost the ball out of bounds.,Out of Bounds,56,65,141,154
+PURD,Jarrod Causey Inside shot...Missed!       Rebounded by PURD Pedro Rodriguez.,Score,56,65,142,154
+PURD,Gabriel Glover Inside shot...Score!,Score,56,67,143,154
+PNST,Donald Edwards 2-point jumper...Missed!       Rebounded by PNST James Outlaw.,Missed,56,67,144,154
+PNST,Dennis Ray 3-point attempt...Score!       Assisted by: Hector Cruz,Score,59,67,145,154
+PURD,Gabriel Glover Inside shot...Score!       Assisted by: Richard Griffin,Score,59,69,146,154
+PURD,Pedro Rodriguez steals the ball for PURD!,Turnover,59,69,147,154
+PURD,PURD: Shot clock violation on PURD Richard Griffin.,Turnover,59,69,148,154
+PNST,Dennis Ray 3-point attempt...Score!       Assisted by: Hector Cruz,Score,62,69,149,154
+PURD,Neil Maldonado 2-point jumper...Missed!       Rebounded by PNST Luis Teran.,Score,62,69,150,154
+PNST,Donald Edwards Inside shot... Missed with a foul on the play.,Fouled,62,69,151,154
+PNST,Free throw coming up... good!,FreeThrow,63,69,151,154
+PURD,Gabriel Glover 3-point attempt...Score!       Assisted by: Jarrod Causey,Score,63,72,152,154
+PNST,Dennis Ray 3-point attempt...Score!       Assisted by: James Outlaw,Score,66,72,153,154
+PURD,Gabriel Glover Inside shot...BLOCKED by Donald Edwards.       Rebounded by PURD Edward Mosakowski.,Turnover,66,72,154,154
+PURD,Richard Griffin Inside shot...Score!       Assisted by: Edward Mosakowski,Score,66,74,155,154
+,Match Complete,FinalScore,66,74,155,154

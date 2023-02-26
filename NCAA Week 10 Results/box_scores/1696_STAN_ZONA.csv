@@ -1,0 +1,60 @@
+=====BOX SCORE=====
+,,1st,2nd,OT,Total
+Stanford,Cardinal,31,34,0,65
+Arizona,Wildcats,34,41,0,75
+""
+""
+=====Stanford Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Nigel Hall,25,9,1,4,0.25,0,1,0.0,2,2,1.0,4,7,2,0,0,0,0
+Manuel Villegas,25,22,3,9,0.3333333333333333,1,1,1.0,2,2,1.0,9,4,0,0,0,1,0
+Robert Akter,25,13,0,6,0.0,0,1,0.0,0,0,0,0,9,1,0,1,0,0
+John Anderson,25,14,3,5,0.6,0,1,0.0,1,1,1.0,7,3,2,1,0,1,0
+Gregory Howard,7,4,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scott Larimer,20,19,3,8,0.375,1,3,0.3333333333333333,1,2,0.5,8,1,0,1,0,0,0
+Darryl Herd,25,19,6,9,0.6666666666666666,3,5,0.6,2,2,1.0,17,2,4,0,0,0,0
+Jeffrey Lawson,20,11,2,5,0.4,0,0,0,1,1,1.0,5,0,4,1,1,0,0
+Nicholas Peetoom,8,6,0,2,0.0,0,1,0.0,0,0,0,0,2,1,2,0,0,0
+Gregory Carter,5,6,2,3,0.6666666666666666,0,1,0.0,0,0,0,4,0,1,0,0,0,0
+George Gilliam,5,4,2,2,1.0,0,0,0,0,0,0,4,1,1,0,0,0,0
+Darian Constant,5,8,3,4,0.75,0,0,0,1,2,0.5,7,0,0,0,0,0,0
+Randall Moore,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+""
+=====Arizona Players=====
+Player,Minutes,Possessions,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,Points,Rebounds,Assists,Steals,Blocks,TOs,Fouls
+Kevin Carr,20,10,0,5,0.0,0,2,0.0,0,0,0,0,4,1,0,0,0,0
+Alex Maranon,25,14,2,5,0.4,0,3,0.0,0,0,0,4,2,2,1,1,2,0
+Craig Clark,25,16,5,8,0.625,0,1,0.0,0,0,0,10,5,1,0,2,0,0
+Parul Patel,5,8,3,4,0.75,0,0,0,1,1,1.0,7,0,1,0,0,0,0
+William Salem,5,10,3,4,0.75,3,4,0.75,0,0,0,9,0,0,0,0,2,2
+Jeff Thomas,25,17,4,7,0.5714285714285714,1,2,0.5,0,0,0,9,3,2,1,0,2,0
+Kristofer Sadler,25,12,4,6,0.6666666666666666,1,1,1.0,2,2,1.0,11,7,2,0,1,0,0
+Jaroslaw Oster,20,8,2,4,0.5,0,0,0,0,0,0,4,2,2,0,1,0,0
+Ravi Tan,25,16,6,8,0.75,1,2,0.5,0,0,0,13,5,0,0,1,0,0
+Robert Kylander,5,5,2,2,1.0,0,0,0,0,1,0.0,4,0,0,0,0,1,0
+Terence Wilson,8,3,0,1,0.0,0,0,0,2,2,1.0,2,1,0,0,0,1,0
+Tony Payne,5,3,0,1,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Lloyd Tumlinson,7,4,1,1,1.0,0,0,0,0,0,0,2,1,0,2,0,0,0
+""
+""
+=====TEAM STATS=====
+Stat,Stanford,Arizona
+Points,65,75
+Possessions,75,71
+FGM,20,26
+FGA,45,41
+FGPercent,0.4444444444444444,0.6341463414634146
+3PM,5,6
+3PA,14,15
+3P%,0.35714285714285715,0.4
+FTM,10,5
+FTA,12,6
+FT%,0.8333333333333334,0.8333333333333334
+Rebounds,29,30
+OffRebounds,13,8
+DefRebounds,16,22
+Assists,16,12
+Steals,5,0
+Blocks,2,2
+Total Turnovers,13,11
+Largest Lead,7,11

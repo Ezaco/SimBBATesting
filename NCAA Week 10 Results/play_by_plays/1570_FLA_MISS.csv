@@ -1,0 +1,162 @@
+HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,Total Possessions
+FLA,MISS,61,60,144
+""
+Team,Result,PlayType,TeamOneScore,TeamTwoScore,Possession,Total Possessions
+FLA,FLA wins the tipoff!,Tipoff,0,0,0,144
+FLA,Vernon Walloch 3-point attempt...Missed!       Rebounded by MISS Frank Brown.,Miss,0,0,1,144
+MISS,Jonathan Mikols 2-point jumper...Score!,Score,0,2,2,144
+FLA,Daniel Garcia Inside shot...BLOCKED by MISS David Gillis.       Rebounded by FLA Curtis Johnson.,Turnover,0,2,3,144
+FLA,Darryl Mcnett Inside shot...BLOCKED by MISS Robert Philby.       Rebounded by FLA Vernon Walloch.,Turnover,0,2,4,144
+FLA,Emmanuel Ramos Inside shot...Score! Foul on the play and one!,Score,2,2,5,144
+FLA,Free throw coming up... good!,FreeThrow,3,2,5,144
+MISS,Garry Cates 2-point jumper...Missed!       Rebounded by FLA Adam Muskus.,Score,3,2,6,144
+FLA,Michael Maloney 3-point attempt...Missed!       Rebounded by MISS Robert Philby.,Miss,3,2,7,144
+MISS,Jonathan Mikols 3-point attempt...Score!       Assisted by: Jeffrey Williams,Score,3,5,8,144
+FLA,Adam Muskus 3-point attempt...Score!       Assisted by: Hung Hang,Score,6,5,9,144
+MISS,Richard Morgan Inside shot...BLOCKED by John Farias.       Rebounded by FLA Vernon Walloch.,Turnover,6,5,10,144
+FLA,FLA: Shot clock violation on FLA Emmanuel Ramos.,Shot Clock Violation,6,5,11,144
+MISS,William Bland 2-point jumper...Missed!       Rebounded by FLA Vernon Walloch.,Score,6,5,12,144
+FLA,Adam Muskus 2-point jumper...Missed!       Rebounded by FLA Curtis Johnson.,Missed,6,5,13,144
+FLA,Curtis Johnson Inside shot...Score!,Score,8,5,14,144
+MISS,Richard Morgan Inside shot...Score! Fouled and we have a free throw folks!       Assisted by: William Bland,Score,8,7,15,144
+MISS,Free throw coming up... good!,FreeThrow,8,8,15,144
+FLA,FLA: Offensive foul on FLA Curtis Johnson.,Foul,8,8,16,144
+MISS,William Bland Inside shot...Score!,Score,8,10,17,144
+FLA,Curtis Johnson Inside shot...Score!,Score,10,10,18,144
+MISS,Edward Lopez Inside shot...Score!,Score,10,12,19,144
+FLA,Curtis Johnson Inside shot...Score!       Assisted by: Hung Hang,Score,12,12,20,144
+MISS,Jeffrey Williams 3-point attempt...Score!       Assisted by: William Bland,Score,12,15,21,144
+FLA,Darryl Mcnett 2-point jumper...Missed!       Rebounded by FLA Darryl Mcnett.,Missed,12,15,22,144
+FLA,John Farias Inside shot...BLOCKED by MISS John Shah.       Rebounded by MISS Jeffrey Williams.,Turnover,12,15,23,144
+MISS,Jeffrey Williams 2-point jumper...Missed!       Rebounded by FLA Vernon Walloch.,Score,12,15,25,144
+FLA,Daniel Garcia 2-point jumper...Missed!       Rebounded by FLA Curtis Johnson.,Missed,12,15,26,144
+FLA,Salvador Herrera Inside shot...Score!,Score,14,15,27,144
+MISS,Jeffrey Williams Inside shot...Score!,Score,14,17,28,144
+FLA,Vernon Walloch 2-point jumper...Score!       Assisted by: Michael Maloney,Score,16,17,29,144
+MISS,Richard Morgan Inside shot...Score!,Score,16,19,30,144
+MISS,Larry Derose steals the ball for MISS!,Turnover,16,19,31,144
+FLA,Jorge Martinez steals the ball for FLA!,Turnover,16,19,32,144
+MISS,Jeffrey Williams steals the ball for MISS!,Turnover,16,19,33,144
+FLA,Darryl Mcnett steals the ball for FLA!,Turnover,16,19,34,144
+MISS,Richard Morgan steals the ball for MISS!,Turnover,16,19,35,144
+MISS,Richard Morgan 2-point jumper...Missed!       Rebounded by FLA Curtis Johnson.,Score,16,19,36,144
+FLA,Adam Muskus 3-point attempt...Score!       Assisted by: Michael Maloney,Score,19,19,37,144
+MISS,Robert Philby Inside shot...Score!,Score,19,21,38,144
+FLA,Darryl Mcnett Inside shot...Missed!       Rebounded by MISS Jeffrey Williams.,Score,19,21,39,144
+MISS,Frank Brown 2-point jumper...Missed!       Rebounded by FLA Hung Hang.,Score,19,21,40,144
+FLA,Curtis Johnson 2-point jumper...Missed!       Rebounded by MISS John Shah.,Missed,19,21,41,144
+MISS,John Shah Inside shot...BLOCKED by Vernon Walloch.       Rebounded by FLA Hung Hang.,Turnover,19,21,43,144
+FLA,Daniel Garcia 2-point jumper...Missed!       Rebounded by FLA Hung Hang.,Missed,19,21,44,144
+FLA,Jose Meza 2-point jumper...Missed!       Rebounded by FLA Michael Maloney.,Missed,19,21,45,144
+FLA,Michael Maloney 2-point jumper...Missed!       Rebounded by FLA Jorge Martinez.,Missed,19,21,46,144
+FLA,FLA: Offensive foul on FLA Adam Muskus.,Foul,19,21,47,144
+MISS,Frank Brown Inside shot...Score!,Score,19,23,48,144
+FLA,Daniel Garcia 2-point jumper...BLOCKED by MISS Robert Philby.       Rebounded by MISS Jeffrey Williams.,Turnover,19,23,49,144
+MISS,Jonathan Mikols 2-point jumper...Missed!       Rebounded by MISS Jonathan Mikols.,Score,19,23,50,144
+MISS,William Bland 3-point attempt...Score!       Assisted by: Jeffrey Williams,Score,19,26,51,144
+FLA,Vernon Walloch 3-point attempt...Missed!       Rebounded by MISS Robert Philby.,Miss,19,26,52,144
+MISS,Robert Philby 3-point attempt...Missed!       Rebounded by MISS Jonathan Mikols.,Score,19,26,53,144
+MISS,Robert Philby Inside shot... Missed but with a foul on the play.,Fouled,19,26,54,144
+MISS,Free throw coming up... good!,FreeThrow,19,27,54,144
+MISS,Free throw coming up... rattled out.       Rebounded by MISS Jeffrey Williams.,FreeThrow,19,27,54,144
+MISS,Jonathan Mikols 2-point jumper...Missed!       Rebounded by FLA Vernon Walloch.,Score,19,27,55,144
+FLA,Vernon Walloch Inside shot...Score!       Assisted by: Adam Muskus,Score,21,27,56,144
+MISS,Anibal Schroen 2-point jumper...Score!,Score,21,29,57,144
+FLA,Vernon Walloch Inside shot...Score!,Score,23,29,58,144
+FLA,Jorge Martinez steals the ball for FLA!,Turnover,23,29,59,144
+MISS,Jonathan Mikols steals the ball for MISS!,Turnover,23,29,60,144
+MISS,Frank Brown Inside shot...Score!       Assisted by: Robert Philby,Score,23,31,61,144
+FLA,FLA: Shot clock violation on FLA Adam Muskus.,Shot Clock Violation,23,31,62,144
+MISS,Richard Morgan Inside shot... Missed but with a foul on the play.,Fouled,23,31,63,144
+MISS,Free throw coming up... good!,FreeThrow,23,32,63,144
+MISS,Free throw coming up... good!,FreeThrow,23,33,63,144
+FLA,FLA: Offensive foul on FLA Michael Maloney.,Foul,23,33,64,144
+MISS,Garry Cates 3-point attempt...Missed!Rebounded by FLA Jorge Martinez.,Score,23,33,65,144
+FLA,Daniel Garcia 2-point jumper...Missed!       Rebounded by MISS Frank Brown.,Missed,23,33,66,144
+MISS,Jeffrey Williams 2-point jumper...Missed!       Rebounded by FLA Salvador Herrera.,Score,23,33,67,144
+FLA,Daniel Garcia 3-point attempt...Score!       Assisted by: Hung Hang,Score,26,33,68,144
+MISS,Jonathan Mikols 2-point jumper...Score!,Score,26,35,69,144
+FLA,FLA Vernon Walloch lost the ball out of bounds.,Out of Bounds,26,35,70,144
+MISS,MISS John Shah lost the ball out of bounds.,Turnover,26,35,71,144
+FLA,Darryl Mcnett Inside shot...Missed!       Rebounded by MISS Richard Morgan.,Score,26,35,72,144
+,,HALFTIME,26,35,72,144
+MISS,MISS Richard Morgan lost the ball out of bounds.,Turnover,26,35,73,144
+FLA,Jose Meza 2-point jumper...Score! Foul on the play and one!,Score,28,35,74,144
+FLA,       Free throw coming up... rattled out.       Rebounded by MISS Frank Brown.,FreeThrow,28,35,74,144
+MISS,William Bland 2-point jumper...Missed!       Rebounded by FLA Darryl Mcnett.,Score,28,35,75,144
+FLA,Curtis Johnson 3-point attempt...Missed!       Rebounded by MISS Robert Philby.,Miss,28,35,76,144
+MISS,Frank Brown Inside shot...Missed!       Rebounded by FLA Hung Hang.,Score,28,35,77,144
+FLA,Michael Maloney Inside shot...BLOCKED by MISS William Bland.       Rebounded by FLA Darryl Mcnett.,Turnover,28,35,78,144
+FLA,Vernon Walloch 2-point jumper...Score!,Score,30,35,79,144
+MISS,William Bland 2-point jumper...Score!,Score,30,37,80,144
+FLA,Daniel Landry Inside shot...Missed!       Rebounded by MISS Frank Brown.,Score,30,37,81,144
+MISS,John Shah 2-point jumper...Score!       Assisted by: David Gillis,Score,30,39,82,144
+FLA,Adam Muskus 3-point attempt...Missed!       Rebounded by MISS Robert Philby.,Miss,30,39,83,144
+MISS,Robert Philby 3-point attempt...Score!,Score,30,42,84,144
+FLA,Daniel Garcia Inside shot...Score!,Score,32,42,85,144
+MISS,Richard Morgan 2-point jumper...Score!       Assisted by: Jonathan Mikols,Score,32,44,86,144
+FLA,FLA Adam Muskus lost the ball out of bounds.,Out of Bounds,32,44,87,144
+MISS,Robert Philby Inside shot...Missed!       Rebounded by FLA Curtis Johnson.,Score,32,44,88,144
+FLA,FLA Michael Maloney lost the ball out of bounds.,Out of Bounds,32,44,89,144
+MISS,Jeffrey Williams 3-point attempt...Missed!Rebounded by FLA Daniel Garcia.,Score,32,44,90,144
+FLA,Daniel Landry 3-point attempt...Missed!       Rebounded by MISS Robert Philby.,Miss,32,44,91,144
+MISS,MISS David Gillis lost the ball out of bounds.,Turnover,32,44,92,144
+FLA,FLA: Shot clock violation on FLA Hung Hang.,Shot Clock Violation,32,44,93,144
+MISS,MISS Jonathan Mikols lost the ball out of bounds.,Turnover,32,44,94,144
+FLA,Hung Hang Inside shot...Score!,Score,34,44,95,144
+MISS,Jeffrey Williams 2-point jumper...Missed!       Rebounded by FLA Darryl Mcnett.,Score,34,44,96,144
+FLA,Curtis Johnson 3-point attempt...Score!       Assisted by: Hung Hang,Score,37,44,97,144
+MISS,Jeffrey Williams 2-point jumper...Missed!       Rebounded by FLA Curtis Johnson.,Score,37,44,98,144
+FLA,Hung Hang Inside shot...Score!       Assisted by: Daniel Garcia,Score,39,44,99,144
+MISS,Robert Philby 2-point jumper...Missed!       Rebounded by FLA Michael Maloney.,Score,39,44,100,144
+FLA,Curtis Johnson 3-point attempt...Score!       Assisted by: Daniel Garcia,Score,42,44,101,144
+MISS,Jeffrey Williams Inside shot...Missed!       Rebounded by FLA Vernon Walloch.,Score,42,44,103,144
+FLA,Hung Hang 2-point jumper...Missed!       Rebounded by MISS Jeffrey Williams.,Missed,42,44,104,144
+MISS,Frank Brown Inside shot...Score!,Score,42,46,105,144
+FLA,Vernon Walloch 3-point attempt...Score!       Assisted by: Salvador Herrera,Score,45,46,106,144
+MISS,Robert Philby 2-point jumper...Score!,Score,45,48,107,144
+FLA,Adam Muskus Inside shot...Missed!       Rebounded by MISS Jonathan Mikols.,Score,45,48,108,144
+MISS,Jonathan Mikols Inside shot... Missed but with a foul on the play.,Fouled,45,48,109,144
+MISS,Free throw coming up... rattled out.,FreeThrow,45,48,109,144
+MISS,Free throw coming up... good!,FreeThrow,45,49,109,144
+FLA,Emmanuel Ramos 3-point attempt...Missed!       Rebounded by FLA Michael Maloney.,Missed,45,49,110,144
+FLA,Daniel Garcia 2-point jumper...Missed!       Rebounded by FLA Vernon Walloch.,Missed,45,49,111,144
+FLA,Daniel Garcia 3-point attempt...Score!       Assisted by: Vernon Walloch,Score,48,49,112,144
+MISS,Larry Derose 2-point jumper...Missed!       Rebounded by FLA Jorge Martinez.,Score,48,49,113,144
+FLA,Michael Maloney Inside shot...BLOCKED by MISS Jeffrey Williams.       Rebounded by FLA Daniel Garcia.,Turnover,48,49,114,144
+FLA,Vernon Walloch Inside shot...Score!       Assisted by: Hung Hang,Score,50,49,115,144
+MISS,Jeffrey Williams 3-point attempt...Score!       Assisted by: Richard Morgan,Score,50,52,116,144
+FLA,Vernon Walloch Inside shot...Score!,Score,52,52,117,144
+MISS,Larry Derose 2-point jumper...Score!,Score,52,54,118,144
+FLA,Curtis Johnson 2-point jumper...Missed!       Rebounded by FLA Curtis Johnson.,Missed,52,54,119,144
+FLA,Darryl Mcnett 2-point jumper...BLOCKED by MISS Robert Philby.       Rebounded by FLA Michael Maloney.,Turnover,52,54,120,144
+FLA,Michael Maloney Inside shot... Missed with a foul on the play.,Fouled,52,54,121,144
+FLA,Free throw coming up... good!,FreeThrow,53,54,121,144
+FLA,Free throw coming up... rattled out.       Rebounded by MISS David Shultz.,FreeThrow,53,54,121,144
+MISS,Frank Brown Inside shot...BLOCKED by Michael Maloney.       Rebounded by FLA Curtis Johnson.,Turnover,53,54,122,144
+FLA,FLA Adam Muskus lost the ball out of bounds.,Out of Bounds,53,54,123,144
+MISS,Robert Philby 2-point jumper...Score!,Score,53,56,124,144
+FLA,Hung Hang 2-point jumper...Score!,Score,55,56,125,144
+MISS,Jonathan Mikols 3-point attempt...Missed!Rebounded by FLA Jose Meza.,Score,55,56,126,144
+FLA,Daniel Garcia 2-point jumper...Missed!       Rebounded by FLA Hung Hang.,Missed,55,56,127,144
+FLA,Daniel Garcia 2-point jumper...Score!,Score,57,56,128,144
+MISS,Jonathan Mikols 2-point jumper...Missed!       Rebounded by FLA Curtis Johnson.,Score,57,56,129,144
+FLA,Adam Muskus Inside shot...Score!,Score,59,56,130,144
+MISS,Jeffrey Williams 2-point jumper...Missed!       Rebounded by MISS Richard Morgan.,Score,59,56,131,144
+MISS,Garry Cates 3-point attempt...Missed!       Rebounded by MISS Anibal Schroen.,Score,59,56,132,144
+FLA,Michael Maloney steals the ball for FLA!,Turnover,59,56,133,144
+FLA,Michael Maloney 3-point attempt...Missed!       Rebounded by FLA Curtis Johnson.,Missed,59,56,134,144
+FLA,Vernon Walloch Inside shot...Score!,Score,61,56,135,144
+MISS,William Bland Inside shot...Score!,Score,61,58,136,144
+FLA,Michael Maloney 2-point jumper...Missed!       Rebounded by FLA Emmanuel Ramos.,Missed,61,58,137,144
+FLA,Michael Maloney 2-point jumper...Missed!       Rebounded by MISS Frank Brown.,Missed,61,58,138,144
+MISS,John Shah Inside shot... Missed but with a foul on the play.,Fouled,61,58,139,144
+MISS,Free throw coming up... good!,FreeThrow,61,59,139,144
+MISS,Free throw coming up... good!,FreeThrow,61,60,139,144
+FLA,Hung Hang 2-point jumper...BLOCKED by MISS Robert Philby.       Rebounded by MISS Jonathan Mikols.,Turnover,61,60,140,144
+MISS,William Bland Inside shot...Missed!       Rebounded by FLA John Farias.,Score,61,60,141,144
+FLA,Curtis Johnson Inside shot...Missed!       Rebounded by MISS William Bland.,Score,61,60,142,144
+MISS,John Shah 2-point jumper...Missed!       Rebounded by FLA Curtis Johnson.,Score,61,60,143,144
+MISS,Robert Philby steals the ball for MISS!,Turnover,61,60,144,144
+MISS,MISS David Shultz lost the ball out of bounds.,Turnover,61,60,145,144
+,Match Complete,FinalScore,61,60,145,144
